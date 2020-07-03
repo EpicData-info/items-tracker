@@ -55,7 +55,7 @@ class Main {
     this.trackingStats.lastUpdate = Date.now();
     this.trackingStats.lastUpdateString = (new Date(this.trackingStats.lastUpdate)).toISOString();
 
-    this.sync();
+    await this.sync();
     process.exit(0);
   }
   
