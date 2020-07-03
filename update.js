@@ -52,6 +52,8 @@ class Main {
     this.index();
     this.trackingStats.indexTime = Date.now() - checkpointTime;
 
+    this.trackingStats.lastUpdate = Date.now();
+    this.trackingStats.lastUpdateString = (new Date(this.trackingStats.lastUpdate)).toISOString();
     Fs.writeFileSync(`${this.databasePath}/tracking-stats.json`, JSON.stringify(this.trackingStats, null, 2));
 
     this.sync();
