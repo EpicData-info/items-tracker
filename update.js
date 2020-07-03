@@ -54,7 +54,6 @@ class Main {
 
     this.trackingStats.lastUpdate = Date.now();
     this.trackingStats.lastUpdateString = (new Date(this.trackingStats.lastUpdate)).toISOString();
-    Fs.writeFileSync(`${this.databasePath}/tracking-stats.json`, JSON.stringify(this.trackingStats, null, 2));
 
     this.sync();
     process.exit(0);
@@ -96,10 +95,12 @@ class Main {
     });
     await git.addConfig('hub.protocol', 'https');
     await git.checkoutBranch('master');
-    await git.add([`${__dirname}/database/.`]);
+    await git.add([`${this.databasePath}/.`]);
     const status = await git.status();
     const changesCount = status.created.length + status.modified.length + status.deleted.length + status.renamed.length;
     if (changesCount === 0) return;
+    Fs.writeFileSync(`${this.databasePath}/tracking-stats.json`, JSON.stringify(this.trackingStats, null, 2));
+    await git.add([`${this.databasePath}/.`]);
     const commitMessage = `Update - ${new Date().toISOString()}`;
     await git.commit(commitMessage);
     await git.removeRemote('origin');
