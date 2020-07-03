@@ -1,0 +1,99 @@
+{
+  "id": "bf4d9eca50eb4327aefa660ad6d9f40a",
+  "title": "Paranoia Pre-Purchase",
+  "description": "Paranoia Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/52613245bcd34a8eb99078f423620a4d/item/EGS_Bigben_Paranoia_Carousel-2560x1440-f7a40bb05f96207aac8a6d49dc498b94.jpg",
+      "md5": "f7a40bb05f96207aac8a6d49dc498b94",
+      "width": 2560,
+      "height": 1440,
+      "size": 390122,
+      "uploadedDate": "2019-09-19T22:25:55.689Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/52613245bcd34a8eb99078f423620a4d/item/EGS_Bigben_Paranoia_IC1_LogoColor-1850x550-7b17afaebf6fcddbe1b1ed9a7d8ae7f8.png",
+      "md5": "7b17afaebf6fcddbe1b1ed9a7d8ae7f8",
+      "width": 1850,
+      "height": 550,
+      "size": 289900,
+      "uploadedDate": "2019-09-19T22:26:11.021Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/52613245bcd34a8eb99078f423620a4d/item/EGS_Bigben_Paranoia_S3-1084x1356-931b0c534dc68a9df8160626655116cf.jpg",
+      "md5": "931b0c534dc68a9df8160626655116cf",
+      "width": 1084,
+      "height": 1356,
+      "size": 305189,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "52613245bcd34a8eb99078f423620a4d",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-20T18:34:22.854Z",
+  "lastModifiedDate": "2019-12-05T13:57:39.017Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "52613245bcd34a8eb99078f423620a4d"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1573743600"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "bf4d9eca50eb4327aefa660ad6d9f40a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7387fa3e778044b0878368ce98741bb1",
+      "appId": "FlamingoDummy",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

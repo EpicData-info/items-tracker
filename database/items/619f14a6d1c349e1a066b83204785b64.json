@@ -1,0 +1,52 @@
+{
+  "id": "619f14a6d1c349e1a066b83204785b64",
+  "title": "Phoenix Point Alien Living Gun",
+  "description": "Phoenix Point Alien Living Gun",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-04T19:07:41.743Z",
+  "lastModifiedDate": "2020-05-14T13:50:08.031Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "IrisGun"
+    }
+  },
+  "entitlementName": "619f14a6d1c349e1a066b83204785b64",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2a5ca37c092d4b3bb2e26ff8cc528c58",
+      "appId": "IrisGun",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-11-12T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "89ed0899bc924045973d141de20f59eb",
+  "title": "DLCSnapperMarketAudience",
+  "description": "DLCSnapperMarketAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-17T21:48:41.840Z",
+  "lastModifiedDate": "2020-04-07T16:49:02.117Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "89ed0899bc924045973d141de20f59eb",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

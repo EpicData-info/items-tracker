@@ -1,0 +1,87 @@
+{
+  "id": "cc4e45b9161f407a9a8dfb46c1ecac06",
+  "title": "Shenmue 3 Pre-Purchase",
+  "description": "Shenmue 3 Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/item/SIII_Store_Primary_Promo-2580x1450-013a64fa8981e712fab77bd6ebb7c17a.jpg",
+      "md5": "013a64fa8981e712fab77bd6ebb7c17a",
+      "width": 2580,
+      "height": 1450,
+      "size": 518985,
+      "uploadedDate": "2019-06-03T21:27:54.737Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/item/Game-Logo_ShenmueIII-3168x692-ebf5c465607e0836a16f99c8f0c3fc8d.png",
+      "md5": "ebf5c465607e0836a16f99c8f0c3fc8d",
+      "width": 3168,
+      "height": 692,
+      "size": 356115,
+      "uploadedDate": "2019-06-03T21:28:07.128Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/item/Shenmue3_portraitpromo-1280x1420-1e524e5b26f65dfb4dcd44d3a7821419.jpg",
+      "md5": "1e524e5b26f65dfb4dcd44d3a7821419",
+      "width": 1280,
+      "height": 1420,
+      "size": 315411,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-03T21:29:28.324Z",
+  "lastModifiedDate": "2019-11-19T17:03:41.699Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PepperDummy"
+    }
+  },
+  "entitlementName": "cc4e45b9161f407a9a8dfb46c1ecac06",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3d0ecc7976df40fa9f81e930d64086f0",
+      "appId": "PepperDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-03T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

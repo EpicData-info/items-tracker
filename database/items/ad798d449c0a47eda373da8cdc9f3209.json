@@ -1,0 +1,24 @@
+{
+  "id": "ad798d449c0a47eda373da8cdc9f3209",
+  "title": "WEX External - Localization Team",
+  "description": "WEX External - Localization Team",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-03T17:17:58.384Z",
+  "lastModifiedDate": "2019-10-03T17:17:58.384Z",
+  "entitlementName": "ad798d449c0a47eda373da8cdc9f3209",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

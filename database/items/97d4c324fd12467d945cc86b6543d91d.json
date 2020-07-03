@@ -1,0 +1,34 @@
+{
+  "id": "97d4c324fd12467d945cc86b6543d91d",
+  "title": "Call_To_Action_03",
+  "description": "VISIT US ON THE WEB\n<inverted-tiny-body>VIEW NOW</>",
+  "technicalDetails": "https://www.epicgames.com/spyjinx/",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ocn/item/ocn2-600x400-ab5db0e61a7e77927a4f9b27f9c7932a.png",
+      "md5": "ab5db0e61a7e77927a4f9b27f9c7932a",
+      "width": 600,
+      "height": 400,
+      "size": 21338,
+      "uploadedDate": "2017-03-16T15:17:31.032Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layout"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2017-03-16T13:54:31.192Z",
+  "lastModifiedDate": "2017-06-20T17:56:02.788Z",
+  "entitlementName": "97d4c324fd12467d945cc86b6543d91d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

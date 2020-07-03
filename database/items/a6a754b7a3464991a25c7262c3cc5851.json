@@ -1,0 +1,63 @@
+{
+  "id": "a6a754b7a3464991a25c7262c3cc5851",
+  "title": "Palila Soundtrack",
+  "description": "Palila Soundtrack",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8aa6e526d2864c108f219747ad7011e5",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-08T00:40:43.632Z",
+  "lastModifiedDate": "2020-01-09T15:26:22.355Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "8aa6e526d2864c108f219747ad7011e5"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PalilaSoundtrack"
+    }
+  },
+  "entitlementName": "a6a754b7a3464991a25c7262c3cc5851",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5f452fd982f84d0b8c14cf91354bf8e8",
+      "appId": "PalilaSoundtrack",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-03T00:00:00.000Z"
+    }
+  ],
+  "developer": "505 Games S.r.l.",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

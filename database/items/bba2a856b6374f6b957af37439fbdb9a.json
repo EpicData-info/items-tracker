@@ -1,0 +1,39 @@
+{
+  "id": "bba2a856b6374f6b957af37439fbdb9a",
+  "title": "Escape Team DLC",
+  "description": "Escape Team DLC\t3",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    },
+    {
+      "path": "dlc"
+    }
+  ],
+  "namespace": "61bc780f42f84fe29e6dfee957ab82de",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-21T13:48:18.014Z",
+  "lastModifiedDate": "2020-06-04T17:23:31.701Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "bba2a856b6374f6b957af37439fbdb9a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

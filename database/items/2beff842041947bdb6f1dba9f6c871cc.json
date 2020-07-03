@@ -1,0 +1,51 @@
+{
+  "id": "2beff842041947bdb6f1dba9f6c871cc",
+  "title": "Drawful2GeneralAudience",
+  "description": "Drawful2GeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/daisy/item/ESRB_Drawful2_T-842x485-9a1798830d86f15e2edeaece321c4b14.png",
+      "md5": "9a1798830d86f15e2edeaece321c4b14",
+      "width": 842,
+      "height": 485,
+      "size": 57455,
+      "uploadedDate": "2020-01-09T15:53:49.783Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "daisy",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-29T19:07:59.460Z",
+  "lastModifiedDate": "2020-01-09T15:53:55.908Z",
+  "customAttributes": {
+    "developerName": {
+      "type": "STRING",
+      "value": "Jackbox Games"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "2beff842041947bdb6f1dba9f6c871cc",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1740410901da40578aa96d5e856bc1c6",
+  "title": "Borderlands 3 Deluxe Edition Audience",
+  "description": "Borderlands 3 Deluxe Edition Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-842x485-275d74057f4825477e1f7f17f8cf0abc.jpg",
+      "md5": "275d74057f4825477e1f7f17f8cf0abc",
+      "width": 842,
+      "height": 485,
+      "size": 134137,
+      "uploadedDate": "2020-01-07T22:48:46.429Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "catnip",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-02T01:19:46.052Z",
+  "lastModifiedDate": "2020-01-07T22:48:58.886Z",
+  "entitlementName": "1740410901da40578aa96d5e856bc1c6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": false,
+  "unsearchable": false
+}

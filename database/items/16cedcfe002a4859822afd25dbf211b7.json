@@ -1,0 +1,117 @@
+{
+  "id": "16cedcfe002a4859822afd25dbf211b7",
+  "title": "The Walking Dead: A New Frontier",
+  "description": "The Walking Dead: A New Frontier",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/begonia/item/TWD3_GameIcon-400x400-6304e701fa33387d8487463c40c3f607.png",
+      "md5": "6304e701fa33387d8487463c40c3f607",
+      "width": 400,
+      "height": 400,
+      "size": 41952,
+      "uploadedDate": "2019-03-26T02:09:33.440Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/begonia/item/EGS_SKYBOUND_TWD3_1068x601-1068x601-f049413e8200bd6cffe66b1927df50f2.jpg",
+      "md5": "f049413e8200bd6cffe66b1927df50f2",
+      "width": 1068,
+      "height": 601,
+      "size": 121974,
+      "uploadedDate": "2019-03-26T02:09:41.569Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/begonia/item/WD3-Logo-600x425-d59ca44ca424e139ab104c4bfbacde84.png",
+      "md5": "d59ca44ca424e139ab104c4bfbacde84",
+      "width": 600,
+      "height": 425,
+      "size": 275514,
+      "uploadedDate": "2019-03-26T02:10:36.008Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/begonia/item/EGS_SKYBOUND_TWD3_1280x1440-1280x1440-735634f8d4978572669ddb3176e1e6ac.jpg",
+      "md5": "735634f8d4978572669ddb3176e1e6ac",
+      "width": 1280,
+      "height": 1440,
+      "size": 111292,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "begonia",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-08T18:23:23.927Z",
+  "lastModifiedDate": "2019-11-19T17:03:59.382Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "begonia"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Skybound Interactive"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TWDANewFrontier"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "16cedcfe002a4859822afd25dbf211b7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "79dc2e5492a041ce8aae3b05979fa577",
+      "appId": "Begonia",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-08T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

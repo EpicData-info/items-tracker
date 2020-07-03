@@ -1,0 +1,51 @@
+{
+  "id": "35f0f1402708437f971c45fdd8aaa4de",
+  "title": "KakopoBrawler",
+  "description": "KakopoBrawler",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-16T19:00:53.413Z",
+  "lastModifiedDate": "2020-04-09T14:22:00.647Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KakopoBrawler"
+    }
+  },
+  "entitlementName": "35f0f1402708437f971c45fdd8aaa4de",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8244b88bd73444c2ad8adb134fe7a372",
+      "appId": "KakopoBrawler",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix",
+  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

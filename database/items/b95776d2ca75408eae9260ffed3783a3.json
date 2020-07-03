@@ -1,0 +1,35 @@
+{
+  "id": "b95776d2ca75408eae9260ffed3783a3",
+  "title": "Darksiders III Layout",
+  "description": "Darksiders III",
+  "longDescription": "Return to an apocalyptic Earth in Darksiders III, a hack-n-slash Action Adventure where players assume the role of FURY in her quest to hunt down and dispose of the Seven Deadly Sins.  The most unpredictable and enigmatic of the Four Horsemen, FURY must succeed where many have failed – to bring balance to the forces that now ravage Earth.",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/springbok/item/d3_leglaunch-2580x1456-e8fad303b8f093a0dd41912f37a6fc52.png",
+      "md5": "e8fad303b8f093a0dd41912f37a6fc52",
+      "width": 2580,
+      "height": 1456,
+      "size": 6304815,
+      "uploadedDate": "2018-12-14T15:58:04.846Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layout"
+    }
+  ],
+  "namespace": "springbok",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-14T15:58:32.956Z",
+  "lastModifiedDate": "2019-07-16T16:56:47.035Z",
+  "entitlementName": "b95776d2ca75408eae9260ffed3783a3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

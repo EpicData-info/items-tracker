@@ -1,0 +1,29 @@
+{
+  "id": "835f76cf8c0d48b4b69f8e06262a2f74",
+  "title": "BadgerDevAudience",
+  "description": "BadgerDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "badger",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-12T17:31:38.703Z",
+  "lastModifiedDate": "2019-05-13T14:47:22.432Z",
+  "entitlementName": "835f76cf8c0d48b4b69f8e06262a2f74",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

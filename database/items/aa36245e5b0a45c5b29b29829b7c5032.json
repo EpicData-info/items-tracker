@@ -1,0 +1,36 @@
+{
+  "id": "aa36245e5b0a45c5b29b29829b7c5032",
+  "title": "CatnipRevealDemoAudience",
+  "description": "CatnipRevealDemoAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "catnip",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-29T21:57:35.744Z",
+  "lastModifiedDate": "2019-12-19T16:57:29.601Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "aa36245e5b0a45c5b29b29829b7c5032",
+  "entitlementType": "AUDIENCE",
+  "entitlementEndDate": "2019-05-03T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

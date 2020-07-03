@@ -1,0 +1,27 @@
+{
+  "id": "24870f55b13a4244a092b7f4b4aaecb2",
+  "title": "Push Notification Tool Access",
+  "description": "Push Notification Tool Access",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    },
+    {
+      "path": "games"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-04T17:39:30.191Z",
+  "lastModifiedDate": "2019-05-29T17:41:56.969Z",
+  "entitlementName": "Push_Notification_Access",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

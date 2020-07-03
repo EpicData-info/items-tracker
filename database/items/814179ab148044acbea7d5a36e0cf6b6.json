@@ -1,0 +1,35 @@
+{
+  "id": "814179ab148044acbea7d5a36e0cf6b6",
+  "title": "SeasonPassAudience",
+  "description": "SeasonPassAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "8b8fd2fe87a04bbab2eca292e71b5e2c",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-08T13:24:30.542Z",
+  "lastModifiedDate": "2020-06-16T16:47:39.050Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "814179ab148044acbea7d5a36e0cf6b6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": "41152625466f4722817d41e0981755ab",
+  "title": "Shakedown Hawaii General Audience",
+  "description": "Shakedown Hawaii General Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "plumeria",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-29T20:12:09.060Z",
+  "lastModifiedDate": "2020-01-06T15:42:47.187Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Win32"
+    }
+  },
+  "entitlementName": "41152625466f4722817d41e0981755ab",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Vblank Entertainment",
+  "developerId": "o-xyhkq3r6skdr6tbhalgcbp3264asl3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

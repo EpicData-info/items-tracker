@@ -1,0 +1,27 @@
+{
+  "id": "59e7687983f445cbaa4331096ec9a813",
+  "title": "20000 V-Bucks (Comp)",
+  "description": "20000 V-Bucks (Comp)",
+  "longDescription": "Spend V-bucks in the loot store for heroes, schematics, upgrades and more!",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "points"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-09-19T16:32:53.253Z",
+  "lastModifiedDate": "2018-10-04T17:18:37.949Z",
+  "entitlementName": "FN_20000_POINTS_COMP",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2018-09-19T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

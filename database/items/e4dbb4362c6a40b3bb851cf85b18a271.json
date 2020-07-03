@@ -1,0 +1,29 @@
+{
+  "id": "e4dbb4362c6a40b3bb851cf85b18a271",
+  "title": "Hawk_Marker",
+  "description": "Hawk_Marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "0a84818055e740a7be21a2e5b6162703",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-05T21:00:52.307Z",
+  "lastModifiedDate": "2019-06-14T21:04:35.526Z",
+  "entitlementName": "e4dbb4362c6a40b3bb851cf85b18a271",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": "242da6f063f544a08bda2a540c7d1710",
+  "title": "Assassin's Creed Odyssey - Season Pass",
+  "description": "Assassin's Creed Odyssey - Season Pass",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "clary",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-08T19:58:27.104Z",
+  "lastModifiedDate": "2019-10-22T14:44:03.066Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "50db96ebcaea4fbbac705da4f6d8e8dd"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "0de5fe6d383e41a2b1962252cc6581fe"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "242da6f063f544a08bda2a540c7d1710",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "07d6d55ad2ea4f3987fad1aa52f7c9e9",
+      "appId": "ClarySeasonPassTest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-08T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,46 @@
+{
+  "id": "3cc732b7e5014e35847f568fcc5f0829",
+  "title": "Phoenix Point Backer Audience",
+  "description": "Phoenix Point Backer Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/iris/item/ESRB_UnrealTournament_RP-842x404-728bf175b519ada5e5a4400e8f1df7cf.png",
+      "md5": "728bf175b519ada5e5a4400e8f1df7cf",
+      "width": 842,
+      "height": 404,
+      "size": 66425,
+      "uploadedDate": "2019-04-23T20:19:50.954Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-25T21:04:31.743Z",
+  "lastModifiedDate": "2019-12-03T17:59:26.384Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "3cc732b7e5014e35847f568fcc5f0829",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "RATING_PENDING",
+  "unsearchable": false
+}

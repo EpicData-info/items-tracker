@@ -1,0 +1,36 @@
+{
+  "id": "eb577099b8954053992ff40c176f3436",
+  "title": "400 Crystals Audience",
+  "description": "400 Crystals Audience",
+  "longDescription": "400 Crystals Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-17T19:50:21.429Z",
+  "lastModifiedDate": "2020-03-20T14:41:47.162Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "eb577099b8954053992ff40c176f3436",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

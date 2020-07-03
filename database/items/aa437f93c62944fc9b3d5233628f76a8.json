@@ -1,0 +1,111 @@
+{
+  "id": "aa437f93c62944fc9b3d5233628f76a8",
+  "title": "Anno 2205",
+  "description": "Anno 2205",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/item/ATTZF_Edition_Capsule_1920X1080-1920x1080-674b207081b22977440cc3dab2f21098.jpg",
+      "md5": "674b207081b22977440cc3dab2f21098",
+      "width": 1920,
+      "height": 1080,
+      "size": 549009,
+      "uploadedDate": "2020-02-10T17:28:46.361Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/item/Anno_2205_Portrait-1280x1420-1fdbd4d9b00e5bd8d76c4e41f443314a.png",
+      "md5": "1fdbd4d9b00e5bd8d76c4e41f443314a",
+      "width": 1280,
+      "height": 1420,
+      "size": 2882805,
+      "uploadedDate": "2020-02-10T17:29:29.534Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/item/ATTZF_Store_Landscape_2580x1450-2580x1450-d472d10770bdc1e444beffb2a8a6e7a7.jpg",
+      "md5": "d472d10770bdc1e444beffb2a8a6e7a7",
+      "width": 2580,
+      "height": 1450,
+      "size": 888759,
+      "uploadedDate": "2020-03-09T15:29:52.570Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-13T15:48:51.366Z",
+  "lastModifiedDate": "2020-03-09T15:30:00.744Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "cbbb7e8728a3476f97e44f3856c3cb13"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "5911ba0c4b9d4a258df2130d56e18573"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Anno2205"
+    }
+  },
+  "entitlementName": "aa437f93c62944fc9b3d5233628f76a8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a90d6bfbf39b421d9fbe8acf20c1a66a",
+      "appId": "Gulper",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,79 @@
+{
+  "id": "70b42c25982b4b6cbd88b898c4576b31",
+  "title": "CardinalStaging",
+  "description": "CardinalStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/item/EGS_11bitstudios_TWOM_L1-2560x1440-d08b1d2f6ebc1963f159db8debf35990.jpg",
+      "md5": "d08b1d2f6ebc1963f159db8debf35990",
+      "width": 2560,
+      "height": 1440,
+      "size": 350058,
+      "uploadedDate": "2019-07-17T17:56:43.420Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/item/EGS_11bitstudios_TWOM_IC2-400x400-bd7b04915cccc18df7d5a81c8716fbb0.png",
+      "md5": "bd7b04915cccc18df7d5a81c8716fbb0",
+      "width": 400,
+      "height": 400,
+      "size": 84805,
+      "uploadedDate": "2019-07-17T17:56:51.326Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "91189432bbad4478afd611edff7f0339",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-10T17:36:07.074Z",
+  "lastModifiedDate": "2019-10-09T14:14:43.827Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../Roaming/11BitStudios/This War Of Mine/iPhoneDefUser/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CardinalStaging"
+    }
+  },
+  "entitlementName": "70b42c25982b4b6cbd88b898c4576b31",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9046d87e5e4547439aed3d2760970d16",
+      "appId": "CardinalStaging",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-07-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "11 Bit Studios",
+  "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

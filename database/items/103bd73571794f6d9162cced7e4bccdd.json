@@ -1,0 +1,45 @@
+{
+  "id": "103bd73571794f6d9162cced7e4bccdd",
+  "title": "SaltDevAudience",
+  "description": "SaltDevAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b671fbc7be424e888c9346a9a6d3d9db/item/ESRB_Celeste-842x404-498a983594b43bd22c3e4a90b758f055.jpg",
+      "md5": "498a983594b43bd22c3e4a90b758f055",
+      "width": 842,
+      "height": 404,
+      "size": 115264,
+      "uploadedDate": "2019-08-14T18:04:43.027Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "b671fbc7be424e888c9346a9a6d3d9db",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-05T14:11:02.403Z",
+  "lastModifiedDate": "2019-08-29T15:02:53.796Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "103bd73571794f6d9162cced7e4bccdd",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Matt Makes Games",
+  "developerId": "o-82l4kr2zqqhkqqa6mkut4pjx9lma3h",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "unsearchable": false
+}

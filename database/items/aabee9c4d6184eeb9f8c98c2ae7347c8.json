@@ -1,0 +1,98 @@
+{
+  "id": "aabee9c4d6184eeb9f8c98c2ae7347c8",
+  "title": "Among Trees",
+  "description": "Among Trees",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/1886704a76f94324ab964a4698db3e09/item/Portrait image - WISHLISTS EA-860x1148-ffcb9c0e54744d8ea344103dbdcf315e.jpg",
+      "md5": "ffcb9c0e54744d8ea344103dbdcf315e",
+      "width": 860,
+      "height": 1148,
+      "size": 345592,
+      "uploadedDate": "2020-06-02T02:37:16.642Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/1886704a76f94324ab964a4698db3e09/item/Landscape image - WISHLISTS EA-2560x1440-daa668802819c204b863cd87e0904717.jpg",
+      "md5": "daa668802819c204b863cd87e0904717",
+      "width": 2560,
+      "height": 1440,
+      "size": 477584,
+      "uploadedDate": "2020-06-02T02:48:06.200Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1886704a76f94324ab964a4698db3e09",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-05T14:05:09.867Z",
+  "lastModifiedDate": "2020-06-06T02:36:20.848Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "1886704a76f94324ab964a4698db3e09"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/FJRD Interactive/Among Trees/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Save_AmongTrees.txt"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AmongTrees"
+    }
+  },
+  "entitlementName": "aabee9c4d6184eeb9f8c98c2ae7347c8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5c3aaa1935eb4f6fb16cd78243eb9dcd",
+      "appId": "Dorado",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "FJRD Interactive",
+  "developerId": "o-6yyj9c6thav5wux5twnueant84zs3p",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": "789d3427e79e4a489f618a5768e95b65",
+  "title": "DLC2Audience_marker",
+  "description": "DLC2Audience_marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "clary",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-08T20:36:11.363Z",
+  "lastModifiedDate": "2019-10-22T14:44:10.489Z",
+  "entitlementName": "789d3427e79e4a489f618a5768e95b65",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

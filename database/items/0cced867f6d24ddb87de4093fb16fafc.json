@@ -1,0 +1,27 @@
+{
+  "id": "0cced867f6d24ddb87de4093fb16fafc",
+  "title": "SpellbreakBetaAudience",
+  "description": "SpellbreakBetaAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-02T15:31:33.679Z",
+  "lastModifiedDate": "2019-11-04T16:26:17.217Z",
+  "entitlementName": "0cced867f6d24ddb87de4093fb16fafc",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

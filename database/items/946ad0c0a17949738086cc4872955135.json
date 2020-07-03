@@ -1,0 +1,34 @@
+{
+  "id": "946ad0c0a17949738086cc4872955135",
+  "title": "HoneycreeperDev2Audience",
+  "description": "HoneycreeperDev2Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "36336ee97ec543bbae85abaca618182b",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-23T00:37:04.550Z",
+  "lastModifiedDate": "2020-01-23T00:37:44.796Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "946ad0c0a17949738086cc4872955135",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

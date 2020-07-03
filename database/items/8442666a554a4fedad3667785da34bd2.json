@@ -1,0 +1,75 @@
+{
+  "id": "8442666a554a4fedad3667785da34bd2",
+  "title": "Surgeon Simulator 1 & 2 - OST",
+  "description": "Surgeon Simulator 1 & 2 - OST",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7f1fa336313d48eca0a802170aa8dd8a/item/EGS_SurgeonSimulator2_Bossa_S1-2560x1440-0221e4d4a1df30014ac53b5f0b385e69.jpg",
+      "md5": "0221e4d4a1df30014ac53b5f0b385e69",
+      "width": 2560,
+      "height": 1440,
+      "size": 783824,
+      "uploadedDate": "2020-06-02T13:18:23.548Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7f1fa336313d48eca0a802170aa8dd8a/item/EGS_SurgeonSimulator2_Bossa_S2-1200x1600-99d66a022d13667e009dfa5aab59dbaf.jpg",
+      "md5": "99d66a022d13667e009dfa5aab59dbaf",
+      "width": 1200,
+      "height": 1600,
+      "size": 800919,
+      "uploadedDate": "2020-06-02T13:18:46.740Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-02T13:38:05.981Z",
+  "lastModifiedDate": "2020-06-13T19:33:54.321Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1598886000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SurgeonSim"
+    }
+  },
+  "entitlementName": "8442666a554a4fedad3667785da34bd2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e3516ff1d5df422fa291e672c217f835",
+      "appId": "Soundtrack Dummy",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Bossa Studios",
+  "developerId": "o-2xhhr8jdtcqt7uprgbpvf7g9k2vppu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

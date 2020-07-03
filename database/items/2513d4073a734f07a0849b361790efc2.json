@@ -1,0 +1,34 @@
+{
+  "id": "2513d4073a734f07a0849b361790efc2",
+  "title": "DLC14 Audience",
+  "description": "DLC14 (Cyberpunk Outfit Bundle)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T01:09:37.089Z",
+  "lastModifiedDate": "2020-06-18T01:06:58.704Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "2513d4073a734f07a0849b361790efc2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

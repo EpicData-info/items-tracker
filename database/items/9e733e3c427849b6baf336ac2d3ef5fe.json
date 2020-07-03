@@ -1,0 +1,70 @@
+{
+  "id": "9e733e3c427849b6baf336ac2d3ef5fe",
+  "title": "WeaverStaging",
+  "description": "WeaverStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/weaver/item/RebelGalaxy_PrimaryPromo-2580x1450-45040669e872f9911a6083934e07c822.jpg",
+      "md5": "45040669e872f9911a6083934e07c822",
+      "width": 2580,
+      "height": 1450,
+      "size": 274767,
+      "uploadedDate": "2019-06-12T23:43:22.885Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/weaver/item/RebelGalaxy_Logo_Color-1205x484-e4c0fcc9be3764dfb707ca93a1c4eba6.png",
+      "md5": "e4c0fcc9be3764dfb707ca93a1c4eba6",
+      "width": 1205,
+      "height": 484,
+      "size": 69577,
+      "uploadedDate": "2019-06-12T23:43:30.642Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "weaver",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-14T03:56:17.696Z",
+  "lastModifiedDate": "2019-06-20T14:56:58.494Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WeaverStaging"
+    }
+  },
+  "entitlementName": "9e733e3c427849b6baf336ac2d3ef5fe",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cbdb76291e5549a49da956526fafa4da",
+      "appId": "WeaverStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-14T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Double Damage Games, Inc",
+  "developerId": "o-7kk95dlwa9mep5kfkubrgmp9qkwbt4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,41 @@
+{
+  "id": "552f87ec7f474410a213c521ff9d3140",
+  "title": "Gearbox Cosmetic Pack Audience",
+  "description": "Gearbox Cosmetic Pack Audience",
+  "longDescription": "Content Pack 3",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-842x485-275d74057f4825477e1f7f17f8cf0abc.jpg",
+      "md5": "275d74057f4825477e1f7f17f8cf0abc",
+      "width": 842,
+      "height": 485,
+      "size": 134137,
+      "uploadedDate": "2020-01-07T22:50:42.720Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "catnip",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-02T22:30:33.024Z",
+  "lastModifiedDate": "2020-06-15T20:52:55.764Z",
+  "entitlementName": "552f87ec7f474410a213c521ff9d3140",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

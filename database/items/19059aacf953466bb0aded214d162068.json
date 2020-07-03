@@ -1,0 +1,98 @@
+{
+  "id": "19059aacf953466bb0aded214d162068",
+  "title": "KiwiStaging",
+  "description": "KiwiStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/item/04_EGS_enhance_tetriseffect_L1_librarypromo_2560x1440px-1850x1041-39433010ede56695f20157632cbc9baf.jpg",
+      "md5": "39433010ede56695f20157632cbc9baf",
+      "width": 1850,
+      "height": 1041,
+      "size": 362071,
+      "uploadedDate": "2019-07-12T18:42:13.972Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/item/01_EGS_enhance_TetrisEffect_IC1_logoWhite2-3344x2582-ae2e090eb92ccb1d86a111a68a6a96a3.png",
+      "md5": "ae2e090eb92ccb1d86a111a68a6a96a3",
+      "width": 3344,
+      "height": 2582,
+      "size": 214129,
+      "uploadedDate": "2019-07-12T18:42:30.376Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "76339caf9e8e4d24b62761c736e82b42",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-19T18:45:16.893Z",
+  "lastModifiedDate": "2019-08-05T12:56:33.350Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "defaultLaunchOption_Args": {
+      "type": "STRING",
+      "value": "-nohmd"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/TetrisEffect/Saved/SaveGames/"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-vr -hmd=SteamVR"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "CONF.json"
+    },
+    "extraLaunchOption_002_Args": {
+      "type": "STRING",
+      "value": "-vr -hmd=OculusHMD"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch in SteamVR"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KiwiStaging"
+    },
+    "extraLaunchOption_002_Name": {
+      "type": "STRING",
+      "value": "Launch in Oculus VR"
+    }
+  },
+  "entitlementName": "19059aacf953466bb0aded214d162068",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0b57bcf6809b4fcea05e40b568f212b5",
+      "appId": "KiwiStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Enhance, Inc.",
+  "developerId": "o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

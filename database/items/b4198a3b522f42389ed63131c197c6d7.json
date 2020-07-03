@@ -1,0 +1,36 @@
+{
+  "id": "b4198a3b522f42389ed63131c197c6d7",
+  "title": "1500 Gems Audience",
+  "description": "1500 Gems Audience",
+  "longDescription": "1500 Gems Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "076207fa2b5c4803a636af606c3c28b7",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-18T02:27:45.573Z",
+  "lastModifiedDate": "2020-04-28T14:44:28.426Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b4198a3b522f42389ed63131c197c6d7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

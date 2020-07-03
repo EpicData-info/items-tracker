@@ -1,0 +1,103 @@
+{
+  "id": "a810f6af8ad4460fb9b4112ca0f9db21",
+  "title": "Industries of Titan",
+  "description": "Industries of Titan",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/protea/item/IoT-Update1_OfferImage_2560x1440-2560x1440-b850a1d7c7d7e9cdfc643a8684a4b596.jpg",
+      "md5": "b850a1d7c7d7e9cdfc643a8684a4b596",
+      "width": 2560,
+      "height": 1440,
+      "size": 997007,
+      "uploadedDate": "2020-06-01T19:07:41.772Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/protea/item/IoT-Update1_CapsuleImage_1200x1600-1200x1600-6db2512e084b709b77cbd3bc61b6206b.jpg",
+      "md5": "6db2512e084b709b77cbd3bc61b6206b",
+      "width": 1200,
+      "height": 1600,
+      "size": 848743,
+      "uploadedDate": "2020-06-01T19:08:03.195Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "protea",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-18T05:15:08.763Z",
+  "lastModifiedDate": "2020-06-02T18:00:05.317Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "protea"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Titan/GameData/"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Brace Yourself Games"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "500"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "IndustriesOfTitan"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a810f6af8ad4460fb9b4112ca0f9db21",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "17824a28472d466ca6eae3b237a38f8e",
+      "appId": "Protea",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-18T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

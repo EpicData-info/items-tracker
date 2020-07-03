@@ -1,0 +1,82 @@
+{
+  "id": "bff3a70240c8464ab9045d402ebbe7e0",
+  "title": "Create_Tutorial_03",
+  "description": "Build Your Own Level",
+  "longDescription": "Aerial combat? More Guns? We'll show you how!",
+  "technicalDetails": "https://www.epicgames.com/unrealtournament/tutorials/map01-gameplay?utm_source=launcher&utm_medium=software&utm_campaign=utcreatetab",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ut/item/Icon_LevelTut02-64x64-609bcc98811021f7e2dbdb0577a72f6d.png",
+      "md5": "609bcc98811021f7e2dbdb0577a72f6d",
+      "width": 64,
+      "height": 64,
+      "size": 7258,
+      "uploadedDate": "2015-02-26T21:33:44.667Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/LevelTutorialPreview-450x380-29b24a0bdbdabfeee1bde3d97325b0fc.png",
+      "md5": "29b24a0bdbdabfeee1bde3d97325b0fc",
+      "width": 450,
+      "height": 380,
+      "size": 189396,
+      "uploadedDate": "2015-02-26T21:33:40.419Z"
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ut/item/Icon_LevelTut05-64x64-551d908200f17657a22d6d830aa36085.png",
+      "md5": "551d908200f17657a22d6d830aa36085",
+      "width": 64,
+      "height": 64,
+      "size": 5119,
+      "uploadedDate": "2015-02-26T21:33:49.055Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "projects/tutorials"
+    },
+    {
+      "path": "projects"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-02-03T00:09:11.254Z",
+  "lastModifiedDate": "2016-04-22T18:42:15.907Z",
+  "customAttributes": {
+    "TutorialDifficultly": {
+      "type": "STRING",
+      "value": "intermediate"
+    },
+    "FollowUpTutorial01": {
+      "type": "STRING",
+      "value": "Build Geometry"
+    },
+    "FollowUpTutorial02Link": {
+      "type": "STRING",
+      "value": "http://learn.unrealtournament.com/tutorials/map03-ctf?utm_source=launcher&utm_medium=software&utm_campaign=utcreatetab"
+    },
+    "FollowUpTutorial02": {
+      "type": "STRING",
+      "value": "Make a CTF Map"
+    },
+    "TutorialLength": {
+      "type": "STRING",
+      "value": "20 min"
+    },
+    "FollowUpTutorial01Link": {
+      "type": "STRING",
+      "value": "http://learn.unrealtournament.com/tutorials/map02-geometry?utm_source=launcher&utm_medium=software&utm_campaign=utcreatetab"
+    }
+  },
+  "entitlementName": "1749ec379ed14df0aac0df1c0efd41f2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

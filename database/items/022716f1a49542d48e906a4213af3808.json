@@ -1,0 +1,24 @@
+{
+  "id": "022716f1a49542d48e906a4213af3808",
+  "title": "Fortnite External Broadcast - NGE",
+  "description": "Fortnite External Broadcast - NGE",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-02T15:00:15.662Z",
+  "lastModifiedDate": "2019-05-03T15:01:27.225Z",
+  "entitlementName": "022716f1a49542d48e906a4213af3808",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

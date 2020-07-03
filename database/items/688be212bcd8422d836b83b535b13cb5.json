@@ -1,0 +1,25 @@
+{
+  "id": "688be212bcd8422d836b83b535b13cb5",
+  "title": "13500 Fortnite Points (POSA PS4)",
+  "description": "13500 Fortnite Points (PS4)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-06T19:17:55.392Z",
+  "lastModifiedDate": "2019-10-21T16:23:17.496Z",
+  "entitlementName": "FN_13500_POSA_PS4",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,55 @@
+{
+  "id": "2d32a47c7d76466db8e66e755a43d139",
+  "title": "Unreal Tournament Editor Public Test",
+  "description": "Unreal Tournament Editor Public Test",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "engines"
+    },
+    {
+      "path": "engines/ue4"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2016-02-04T21:03:33.657Z",
+  "lastModifiedDate": "2018-12-05T20:45:23.103Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "UTEditorPublicTest"
+    }
+  },
+  "entitlementName": "UnrealTournamentEditorPublicTest",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ab12356f0f57451ba3e4b3f609aacceb",
+      "appId": "UnrealTournamentEditorPublicTest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2016-02-04T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

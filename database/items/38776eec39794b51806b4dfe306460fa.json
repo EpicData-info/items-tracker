@@ -1,0 +1,87 @@
+{
+  "id": "38776eec39794b51806b4dfe306460fa",
+  "title": "Anno 1800 Open Beta Test",
+  "description": "Anno 1800 Open Beta Test",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "oregano",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-03T13:57:22.989Z",
+  "lastModifiedDate": "2019-12-10T16:48:35.367Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "oregano"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "useAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Anno1800.exe,UbisoftGameLauncher.exe"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Anno1800.exe"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "ada651db80674bbda3880b8399225416"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ANNO1800Beta"
+    }
+  },
+  "entitlementName": "38776eec39794b51806b4dfe306460fa",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c6daa241c2284fd2a55a145dc0422457",
+      "appId": "OreganoBetaTest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-05-06T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

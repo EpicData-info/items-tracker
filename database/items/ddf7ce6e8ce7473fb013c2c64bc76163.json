@@ -1,0 +1,35 @@
+{
+  "id": "ddf7ce6e8ce7473fb013c2c64bc76163",
+  "title": "SurgeonSimulator2 PrePurchase Audience",
+  "description": "SurgeonSimulator2 PrePurchase Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-01T18:19:22.891Z",
+  "lastModifiedDate": "2020-06-13T19:33:59.057Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ddf7ce6e8ce7473fb013c2c64bc76163",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bossa Studios",
+  "developerId": "o-2xhhr8jdtcqt7uprgbpvf7g9k2vppu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

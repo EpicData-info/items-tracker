@@ -1,0 +1,72 @@
+{
+  "id": "078cb41ac9134932853768dae96d0f7c",
+  "title": "Predator Hunters  Comic",
+  "description": "Predator Hunters  Comic",
+  "longDescription": "Predator Hunters  Comic",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Wide-1920x1080-d2921f9b50dad7960d2b9fad22ae8d84.png",
+      "md5": "d2921f9b50dad7960d2b9fad22ae8d84",
+      "width": 1920,
+      "height": 1080,
+      "size": 2488692,
+      "uploadedDate": "2020-04-23T22:51:14.928Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Tall-1280x1440-21060c43debce23ca17d694f67298b03.jpg",
+      "md5": "21060c43debce23ca17d694f67298b03",
+      "width": 1280,
+      "height": 1440,
+      "size": 483818,
+      "uploadedDate": "2020-04-23T22:52:25.279Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-06T19:58:49.849Z",
+  "lastModifiedDate": "2020-04-24T03:59:22.768Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PredatorHuntersComic"
+    }
+  },
+  "entitlementName": "078cb41ac9134932853768dae96d0f7c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a8669cb257b74d8ea691af56db2b3f87",
+      "appId": "e13a5418d240493ca0144f3c512a3279",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-02-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

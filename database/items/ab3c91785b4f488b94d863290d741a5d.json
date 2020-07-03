@@ -1,0 +1,23 @@
+{
+  "id": "ab3c91785b4f488b94d863290d741a5d",
+  "title": "Influencer Banner - JesseCox",
+  "description": "Influencer Banner - JesseCox",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-06-14T19:44:42.156Z",
+  "lastModifiedDate": "2017-06-14T22:44:11.546Z",
+  "entitlementName": "INFLUENCERBANNER_JesseCox",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

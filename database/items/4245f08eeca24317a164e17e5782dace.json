@@ -1,0 +1,24 @@
+{
+  "id": "4245f08eeca24317a164e17e5782dace",
+  "title": "Test Item1",
+  "description": "creating an item by making an api call",
+  "longDescription": "Calling AdminItemResource of Catalog Service and making a POST to create an item",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "engines"
+    },
+    {
+      "path": "engines/ue4"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-20T05:47:12.225Z",
+  "lastModifiedDate": "2017-02-16T08:46:56.733Z",
+  "entitlementName": "checkingTheEntitlement",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "SUBSCRIPTION",
+  "endOfSupport": false,
+  "unsearchable": false
+}

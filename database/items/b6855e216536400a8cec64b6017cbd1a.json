@@ -1,0 +1,98 @@
+{
+  "id": "b6855e216536400a8cec64b6017cbd1a",
+  "title": "Huntdown Pre-Purchase",
+  "description": "Huntdown Pre-Purchase",
+  "longDescription": "Huntdown Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/78de1f402ddf486ebcbf9ba3009d6198/item/EGS_Huntdown_EasyTriggerGames_S1-2560x1440-696d4718789f2c6814ba78cb53fa1e95.jpg",
+      "md5": "696d4718789f2c6814ba78cb53fa1e95",
+      "width": 2560,
+      "height": 1440,
+      "size": 493645,
+      "uploadedDate": "2020-04-29T18:45:41.025Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/78de1f402ddf486ebcbf9ba3009d6198/item/EGS_Huntdown_EasyTriggerGames_S2-860x1148-adbb33eba266dc67050f315162acd273.jpg",
+      "md5": "adbb33eba266dc67050f315162acd273",
+      "width": 860,
+      "height": 1148,
+      "size": 508219,
+      "uploadedDate": "2020-04-29T18:45:55.896Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "78de1f402ddf486ebcbf9ba3009d6198",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-29T18:46:35.456Z",
+  "lastModifiedDate": "2020-05-12T16:59:03.481Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "78de1f402ddf486ebcbf9ba3009d6198"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1589295600"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HuntdownPrePurchase"
+    }
+  },
+  "entitlementName": "b6855e216536400a8cec64b6017cbd1a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a91f3d3cbb05425a9729e579246a894c",
+      "appId": "AlbatrossDummy",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-09-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Coffee Stain Studios",
+  "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

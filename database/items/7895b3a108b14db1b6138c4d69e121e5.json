@@ -1,0 +1,52 @@
+{
+  "id": "7895b3a108b14db1b6138c4d69e121e5",
+  "title": "HelleboreStaging",
+  "description": "HelleboreStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "hellebore",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-28T14:29:50.545Z",
+  "lastModifiedDate": "2019-10-28T14:29:50.545Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HelleboreStaging"
+    }
+  },
+  "entitlementName": "7895b3a108b14db1b6138c4d69e121e5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "579ada3efadd4986802821e1fedbcb85",
+      "appId": "HelleboreStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-28T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bc10cbba4e454b918bbc4bfa846248e9",
+  "title": "Support a Creator Audience",
+  "description": "Support a Creator Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "cobra",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-14T20:23:20.054Z",
+  "lastModifiedDate": "2020-04-07T15:06:19.061Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "bc10cbba4e454b918bbc4bfa846248e9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

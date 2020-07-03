@@ -1,0 +1,80 @@
+{
+  "id": "8bfb728059fc4c3cb23b816853d12637",
+  "title": "HollyStaging",
+  "description": "HollyStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/holly/item/7-Billion-Humans-Primary-&-Gameplay-Promo-v2-2580x1450-98efbc73514cc06e25a235861c6f9200.jpg",
+      "md5": "98efbc73514cc06e25a235861c6f9200",
+      "width": 2580,
+      "height": 1450,
+      "size": 423190,
+      "uploadedDate": "2019-05-14T13:26:22.221Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/holly/item/7-Billion-Humans-Logo-916x417-f5b12df5dd8eb402ebbcae215c0a9d84.png",
+      "md5": "f5b12df5dd8eb402ebbcae215c0a9d84",
+      "width": 916,
+      "height": 417,
+      "size": 46498,
+      "uploadedDate": "2019-05-14T13:26:35.065Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "holly",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-15T14:51:54.266Z",
+  "lastModifiedDate": "2019-08-30T17:16:16.550Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Containers/com.tomorrowcorporation.7billionhumansmac/Data/Library/Application Support/7 Billion Humans/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../roaming/7 Billion Humans/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HollyStaging"
+    }
+  },
+  "entitlementName": "8bfb728059fc4c3cb23b816853d12637",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4f9e35dacda241f4aa5c92cdacea8a73",
+      "appId": "HollyStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-02-15T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Tomorrow Corporation",
+  "developerId": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

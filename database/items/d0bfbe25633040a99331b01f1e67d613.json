@@ -1,0 +1,52 @@
+{
+  "id": "d0bfbe25633040a99331b01f1e67d613",
+  "title": "PantanalStaging",
+  "description": "PantanalStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9b31326adff64c7fa7bbac6e8d4a9e6e",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-23T19:03:05.959Z",
+  "lastModifiedDate": "2020-05-28T16:49:11.319Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PantanalStaging"
+    }
+  },
+  "entitlementName": "d0bfbe25633040a99331b01f1e67d613",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "58e688e6b3ce46b7917b6cf9e833bcec",
+      "appId": "3dda7beaf018470dbe9dc45657ad23ba",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-04-23T00:00:00.000Z"
+    }
+  ],
+  "developer": "Dry Cactus",
+  "developerId": "o-h3tscjk3a6qqrftdkrtl8w352rxceg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

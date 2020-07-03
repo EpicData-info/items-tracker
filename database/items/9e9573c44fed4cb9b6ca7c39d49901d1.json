@@ -1,0 +1,48 @@
+{
+  "id": "9e9573c44fed4cb9b6ca7c39d49901d1",
+  "title": "CatnipStable1DLC3",
+  "description": "CatnipStable1DLC3",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "catnip",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-19T22:25:22.980Z",
+  "lastModifiedDate": "2020-06-15T20:52:55.765Z",
+  "customAttributes": {
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "9e9573c44fed4cb9b6ca7c39d49901d1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d585137abff44c18a77856d47a330015",
+      "appId": "CatnipStable1DLC3",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-12-03T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

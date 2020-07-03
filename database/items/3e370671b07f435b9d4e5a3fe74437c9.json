@@ -1,0 +1,35 @@
+{
+  "id": "3e370671b07f435b9d4e5a3fe74437c9",
+  "title": "SileneDevAudience",
+  "description": "SileneDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "silene",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-14T21:34:29.980Z",
+  "lastModifiedDate": "2019-05-13T14:19:40.479Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3e370671b07f435b9d4e5a3fe74437c9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Wired Productions",
+  "developerId": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

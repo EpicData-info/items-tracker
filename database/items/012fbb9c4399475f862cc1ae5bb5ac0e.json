@@ -1,0 +1,23 @@
+{
+  "id": "012fbb9c4399475f862cc1ae5bb5ac0e",
+  "title": "Chest of Gems",
+  "description": "Chest of Gems",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "mtx packages"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2016-03-29T02:12:24.710Z",
+  "lastModifiedDate": "2016-12-07T22:39:15.920Z",
+  "entitlementName": "012fbb9c4399475f862cc1ae5bb5ac0e",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

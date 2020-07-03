@@ -1,0 +1,25 @@
+{
+  "id": "5fccda5ae2674f2c964d5c237c7ff414",
+  "title": "Lazer Blast",
+  "description": "Major moves.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-23T14:34:14.433Z",
+  "lastModifiedDate": "2019-08-23T14:34:14.433Z",
+  "entitlementName": "AthenaDance:eid_lasagnadance",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

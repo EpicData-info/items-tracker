@@ -1,0 +1,35 @@
+{
+  "id": "9f132621250b4718a3adbb81ea8b478a",
+  "title": "doveGeneralAudience",
+  "description": "doveGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ed355406eacb4633a648f682ddb492b8",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-03T18:28:26.731Z",
+  "lastModifiedDate": "2020-01-07T15:12:14.466Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9f132621250b4718a3adbb81ea8b478a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

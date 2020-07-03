@@ -1,0 +1,35 @@
+{
+  "id": "c12bec93fccb4d4f8086556e777242bf",
+  "title": "Call_To_Action_03",
+  "description": "COMMUNITY OFFICIAL WEBSITE\n<inverted-tiny-body>JOIN NOW</>",
+  "technicalDetails": "https://www.bussimulator-game.de/index-de.php",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/bussim18/item/bus4-600x337-ef6cd0a812f9e20bff348ad304c6ea81.png",
+      "md5": "ef6cd0a812f9e20bff348ad304c6ea81",
+      "width": 600,
+      "height": 337,
+      "size": 242273,
+      "uploadedDate": "2018-05-17T20:37:25.852Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "bussim18",
+  "status": "ACTIVE",
+  "creationDate": "2018-05-17T19:14:42.661Z",
+  "lastModifiedDate": "2018-12-14T20:08:11.581Z",
+  "entitlementName": "c12bec93fccb4d4f8086556e777242bf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

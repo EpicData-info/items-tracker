@@ -1,0 +1,51 @@
+{
+  "id": "e32e89fd101d4e97849aa897910570ab",
+  "title": "OberonStaging",
+  "description": "OberonStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3e7e7c2bc1644a25a99b3a4c4ef1ff33",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-02T15:12:41.063Z",
+  "lastModifiedDate": "2020-07-03T12:40:04.003Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OberonStaging"
+    }
+  },
+  "entitlementName": "e32e89fd101d4e97849aa897910570ab",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "eac05ea591734872a167d54caa14cc84",
+      "appId": "572db5b081e14064ad28483a63635f3d",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-02T15:18:06.672Z"
+    }
+  ],
+  "developer": "Fabraz LLC",
+  "developerId": "o-458ql9emykk38kpq6fh5qhfb52efyx",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "4a208c9f8b334ee38a2b1e5bc9510295",
+  "title": "Batman Comic Book Outfit",
+  "description": "The World’s Greatest Detective.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-20T17:58:30.369Z",
+  "lastModifiedDate": "2019-09-21T13:38:17.767Z",
+  "entitlementName": "AthenaCharacter:cid_528_athena_commando_m_blackmondayhouston_7dgbt",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

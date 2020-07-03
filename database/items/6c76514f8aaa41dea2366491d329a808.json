@@ -1,0 +1,40 @@
+{
+  "id": "6c76514f8aaa41dea2366491d329a808",
+  "title": "ColumbineDevAudience",
+  "description": "ColumbineDevAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/columbine/item/ESRB_DetroitBecomeHuman-842x404-035ba6355044f32a11b90c3396b43a6a.jpg",
+      "md5": "035ba6355044f32a11b90c3396b43a6a",
+      "width": 842,
+      "height": 404,
+      "size": 119136,
+      "uploadedDate": "2019-07-29T16:07:52.470Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "columbine",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-14T14:44:07.648Z",
+  "lastModifiedDate": "2019-12-12T12:59:57.263Z",
+  "entitlementName": "6c76514f8aaa41dea2366491d329a808",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "7dcae0ddb53746fc840703b8f0047415",
+  "title": "VultureDevAudience",
+  "description": "VultureDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-14T18:16:34.752Z",
+  "lastModifiedDate": "2020-02-13T15:31:27.999Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7dcae0ddb53746fc840703b8f0047415",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Abrakam",
+  "developerId": "o-7e471071ca794f1abc81c7430b7e8f",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,78 @@
+{
+  "id": "ba1cac5090924db287ac631c6ed394c9",
+  "title": "FlamingoStaging2",
+  "description": "FlamingoStaging2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/52613245bcd34a8eb99078f423620a4d/item/EGS_Bigben_Paranoia_G1-2560x1440-f7a40bb05f96207aac8a6d49dc498b94.jpg",
+      "md5": "f7a40bb05f96207aac8a6d49dc498b94",
+      "width": 2560,
+      "height": 1440,
+      "size": 390122,
+      "uploadedDate": "2019-09-24T14:39:10.628Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/52613245bcd34a8eb99078f423620a4d/item/EGS_Bigben_Paranoia_IC1_LogoColor-1850x550-7b17afaebf6fcddbe1b1ed9a7d8ae7f8.png",
+      "md5": "7b17afaebf6fcddbe1b1ed9a7d8ae7f8",
+      "width": 1850,
+      "height": 550,
+      "size": 289900,
+      "uploadedDate": "2019-09-24T14:39:19.575Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "52613245bcd34a8eb99078f423620a4d",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-24T14:34:30.293Z",
+  "lastModifiedDate": "2019-12-05T13:57:39.017Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Black Shamrock/Paranoia_ Happiness Is Mandatory/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "consoleAliases,consoleArchive.txt,output_log.txt,PARANOIA_SETTINGS.ini,U9ans780lasalsnzxcp9asd"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FlamingoStaging2"
+    }
+  },
+  "entitlementName": "ba1cac5090924db287ac631c6ed394c9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2b5a36cdeb844765a36211133c75ab71",
+      "appId": "FlamingoStaging2",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

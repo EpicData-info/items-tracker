@@ -1,0 +1,76 @@
+{
+  "id": "dcbc7853b7ee45c98a906838eae2a991",
+  "title": "CatnipStable2",
+  "description": "CatnipStable2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/catnip/item/Oak_StandardEdition_S1-1920x1080-b2150080aa64b013ac8171622ddbcfd8.jpg",
+      "md5": "b2150080aa64b013ac8171622ddbcfd8",
+      "width": 1920,
+      "height": 1080,
+      "size": 219579,
+      "uploadedDate": "2019-05-17T19:33:26.565Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/catnip/item/Oak_Logo_Standard-720x209-8373e0df5612a9952fe79defb32e1322.png",
+      "md5": "8373e0df5612a9952fe79defb32e1322",
+      "width": 720,
+      "height": 209,
+      "size": 192732,
+      "uploadedDate": "2019-05-17T19:33:37.384Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "catnip",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-17T19:34:05.076Z",
+  "lastModifiedDate": "2020-06-24T16:56:29.557Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CatnipStable2"
+    }
+  },
+  "entitlementName": "dcbc7853b7ee45c98a906838eae2a991",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8c10df824c334c7fa0b3dbe8f50f9f4c",
+      "appId": "CatnipStable2",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-05-17T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

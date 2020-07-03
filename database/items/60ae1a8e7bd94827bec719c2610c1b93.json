@@ -1,0 +1,46 @@
+{
+  "id": "60ae1a8e7bd94827bec719c2610c1b93",
+  "title": "FalconAgePressAudience",
+  "description": "FalconAgePressAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/28dde12d84ef45b8b321dbc962c1b217/item/ESRB_FalconAge-842x404-002c16eaacdd5fe8078f9cd1c3cc3c65.jpg",
+      "md5": "002c16eaacdd5fe8078f9cd1c3cc3c65",
+      "width": 842,
+      "height": 404,
+      "size": 95971,
+      "uploadedDate": "2019-09-06T12:43:12.604Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "28dde12d84ef45b8b321dbc962c1b217",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-27T00:12:55.125Z",
+  "lastModifiedDate": "2019-09-06T12:56:53.700Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "60ae1a8e7bd94827bec719c2610c1b93",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Outerloop Games LLC",
+  "developerId": "o-jp8nn3fnwlecen2ew5l6fv8agjzaf7",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "unsearchable": false
+}

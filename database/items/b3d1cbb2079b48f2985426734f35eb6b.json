@@ -1,0 +1,46 @@
+{
+  "id": "b3d1cbb2079b48f2985426734f35eb6b",
+  "title": "MarigoldDevAudience",
+  "description": "MarigoldDevAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/item/Inside_ESRB-842x404-85dd30901b0baeb059331f43c235ce98.jpg",
+      "md5": "85dd30901b0baeb059331f43c235ce98",
+      "width": 842,
+      "height": 404,
+      "size": 90859,
+      "uploadedDate": "2019-07-23T15:52:54.769Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "13bb5776b9e1424d84ce42d9ba61c0ca",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-14T16:20:24.681Z",
+  "lastModifiedDate": "2019-08-29T15:02:50.002Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b3d1cbb2079b48f2985426734f35eb6b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Playdead",
+  "developerId": "o-t88sw9ly7ajm3wz7tll53xt3cmypx8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

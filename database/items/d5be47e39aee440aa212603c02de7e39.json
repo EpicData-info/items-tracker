@@ -1,0 +1,35 @@
+{
+  "id": "d5be47e39aee440aa212603c02de7e39",
+  "title": "Alien Living Gun Set Audience",
+  "description": "Alien Living Gun Set Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-01T19:44:45.451Z",
+  "lastModifiedDate": "2020-05-14T13:51:02.415Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "d5be47e39aee440aa212603c02de7e39",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b82003d7a38c49d695a24f52efe8fa30",
+  "title": "Fortnite Event - Twitch Rivals 2019-09 Participant",
+  "description": "Fortnite Event - Twitch Rivals 2019-09 Participant",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-24T13:47:23.836Z",
+  "lastModifiedDate": "2019-09-24T13:47:23.836Z",
+  "entitlementName": "b82003d7a38c49d695a24f52efe8fa30",
+  "entitlementType": "AUDIENCE",
+  "entitlementEndDate": "2019-10-08T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

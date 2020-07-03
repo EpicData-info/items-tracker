@@ -1,0 +1,108 @@
+{
+  "id": "9afb582e90b74bdd9e2146fb79c78589",
+  "title": "Control",
+  "description": "Control",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/calluna/item/CONTROL_logo_shadow-670x212-676c3d62788f269f00819451130394e3.png",
+      "md5": "676c3d62788f269f00819451130394e3",
+      "width": 670,
+      "height": 212,
+      "size": 28205,
+      "uploadedDate": "2019-03-21T15:32:41.157Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/calluna/item/control_game_page_promotion_2560x1440-2560x1440-0939cd986172378295469e23006d560e.jpg",
+      "md5": "0939cd986172378295469e23006d560e",
+      "width": 2560,
+      "height": 1440,
+      "size": 509361,
+      "uploadedDate": "2019-08-27T10:35:47.670Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/calluna/item/Control_Store_Portrait_Promo_1280x1420-1280x1420-5003d1e36d0508ab62bebfa676670369.jpg",
+      "md5": "5003d1e36d0508ab62bebfa676670369",
+      "width": 1280,
+      "height": 1420,
+      "size": 173692,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "calluna",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-09T16:35:36.400Z",
+  "lastModifiedDate": "2020-03-06T22:30:45.664Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "calluna"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Remedy/Control/Default-Epic-User/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Control"
+    },
+    "developerName": {
+      "type": "STRING",
+      "value": "Remedy Entertainment Plc"
+    }
+  },
+  "entitlementName": "9afb582e90b74bdd9e2146fb79c78589",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2c28695dc8e44c7b8716a5bc961b20be",
+      "appId": "Calluna",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-28T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

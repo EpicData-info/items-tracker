@@ -1,0 +1,45 @@
+{
+  "id": "1a122b344102441da986e905fa4a5f47",
+  "title": "SwanAlphaAudience",
+  "description": "SwanAlphaAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/item/ESRB_Atomicrops-842x404-83eda57bd64dc88d5bc5549d342adbfa.png",
+      "md5": "83eda57bd64dc88d5bc5549d342adbfa",
+      "width": 842,
+      "height": 404,
+      "size": 11793,
+      "uploadedDate": "2019-06-08T03:41:06.606Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-31T17:12:26.080Z",
+  "lastModifiedDate": "2019-07-31T17:12:52.300Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "1a122b344102441da986e905fa4a5f47",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "unsearchable": false
+}

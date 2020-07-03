@@ -1,0 +1,75 @@
+{
+  "id": "2846d250ebca4ec88b1450d949ac5bc0",
+  "title": "Vanilla Soundtrack Staging",
+  "description": "Vanilla Soundtrack Staging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a9cb15d3362d43d585b8a5b13b8a4513",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-24T16:28:18.153Z",
+  "lastModifiedDate": "2019-10-24T18:27:02.583Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "a9cb15d3362d43d585b8a5b13b8a4513"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "VanillaSoundtrackStaging"
+    }
+  },
+  "entitlementName": "2846d250ebca4ec88b1450d949ac5bc0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9a37e9c808c947d4b2f6c78d1a04a6bc",
+      "appId": "VanillaSoundtrackStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-24T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

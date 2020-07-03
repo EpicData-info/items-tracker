@@ -1,0 +1,23 @@
+{
+  "id": "313822deea29494fa6013d6ab63a1af1",
+  "title": "Bag of Gems",
+  "description": "Bag of Gems",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "mtx packages"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2016-03-29T02:11:04.793Z",
+  "lastModifiedDate": "2016-12-07T22:39:15.920Z",
+  "entitlementName": "313822deea29494fa6013d6ab63a1af1",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

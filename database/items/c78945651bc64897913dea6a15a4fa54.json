@@ -1,0 +1,51 @@
+{
+  "id": "c78945651bc64897913dea6a15a4fa54",
+  "title": "CuminStaging",
+  "description": "CuminStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cumin",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-02T20:50:52.881Z",
+  "lastModifiedDate": "2019-05-06T16:57:26.122Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CuminStaging"
+    }
+  },
+  "entitlementName": "c78945651bc64897913dea6a15a4fa54",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c36fe882a112432781bdfba6e1cfd741",
+      "appId": "CuminStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-02T20:49:19.010Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

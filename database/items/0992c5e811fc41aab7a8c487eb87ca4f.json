@@ -1,0 +1,33 @@
+{
+  "id": "0992c5e811fc41aab7a8c487eb87ca4f",
+  "title": "PeonyDevAudience",
+  "description": "PeonyDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "61bc780f42f84fe29e6dfee957ab82de",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-14T04:02:56.352Z",
+  "lastModifiedDate": "2020-03-04T16:02:02.402Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0992c5e811fc41aab7a8c487eb87ca4f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

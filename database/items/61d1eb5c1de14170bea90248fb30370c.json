@@ -1,0 +1,33 @@
+{
+  "id": "61d1eb5c1de14170bea90248fb30370c",
+  "title": "OpahDevAudience",
+  "description": "OpahDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "30bf97ae13f74c3d87c9f3fe04d507ba",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-27T15:04:37.798Z",
+  "lastModifiedDate": "2020-04-01T17:39:32.778Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "61d1eb5c1de14170bea90248fb30370c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

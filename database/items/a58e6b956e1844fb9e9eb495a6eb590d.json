@@ -1,0 +1,34 @@
+{
+  "id": "a58e6b956e1844fb9e9eb495a6eb590d",
+  "title": "Kakopo Stealth Audience",
+  "description": "Kakopo Stealth Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-16T19:43:54.606Z",
+  "lastModifiedDate": "2020-04-09T14:22:00.648Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a58e6b956e1844fb9e9eb495a6eb590d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Square Enix",
+  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

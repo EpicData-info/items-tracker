@@ -1,0 +1,56 @@
+{
+  "id": "e806b2c982684ea0ac61556a82a817f0",
+  "title": "Steep RTTO DLC",
+  "description": "Steep RTTO DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a646020cb93b4ea995cda70647bbe001",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-17T17:01:09.142Z",
+  "lastModifiedDate": "2020-01-01T15:32:27.377Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "e9c436b4e1474e6daa4a4ec5bd19fba2"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "e44ffdb5f4fc411481f7f9c430fa8d82"
+    }
+  },
+  "entitlementName": "e806b2c982684ea0ac61556a82a817f0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a8ea0913324b4a1fbefe6f82b1913987",
+      "appId": "BarracudaRTTODLCDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-12-09T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

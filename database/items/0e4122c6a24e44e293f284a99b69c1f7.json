@@ -1,0 +1,105 @@
+{
+  "id": "0e4122c6a24e44e293f284a99b69c1f7",
+  "title": "The Walking Dead The Final Season",
+  "description": "The Walking Dead The Final Season",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ocelot/item/WD4-PORTRAIT-PROMO-1280x1420-223b26a43ddb24d89ea04dd9fe7a65ca.jpg",
+      "md5": "223b26a43ddb24d89ea04dd9fe7a65ca",
+      "width": 1280,
+      "height": 1420,
+      "size": 221415,
+      "uploadedDate": "2019-01-12T16:51:47.738Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ocelot/item/WD4-GAME-PAGE-PROMOTION-1032x580-fc8d3354944365448c18712eaf5497c7.jpg",
+      "md5": "fc8d3354944365448c18712eaf5497c7",
+      "width": 1032,
+      "height": 580,
+      "size": 258526,
+      "uploadedDate": "2019-01-12T16:51:58.018Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/ocelot/item/WD4_GAME-LOGO_COLOR-604x431-a22d75c31995c89f405f8a1b7d7f84d5.png",
+      "md5": "a22d75c31995c89f405f8a1b7d7f84d5",
+      "width": 604,
+      "height": 431,
+      "size": 204380,
+      "uploadedDate": "2019-01-12T16:52:06.073Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ocelot/item/WD4-PORTRAIT-PROMO-1280x1420-51385e927614c853c2ab2b202ac33be9.jpg",
+      "md5": "51385e927614c853c2ab2b202ac33be9",
+      "width": 1280,
+      "height": 1420,
+      "size": 356982,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ocelot",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-13T22:18:02.607Z",
+  "lastModifiedDate": "2019-11-19T17:04:02.982Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "ocelot"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Skybound Interactive"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WalkingDeadFinalSeason"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0e4122c6a24e44e293f284a99b69c1f7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "23054095c85f4edd83f7948bc1fc5499",
+      "appId": "Ocelot",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2018-12-13T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

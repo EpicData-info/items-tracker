@@ -1,0 +1,31 @@
+{
+  "id": "7159f924f1a24405a3187cfed39af335",
+  "title": "6500 Credits Audience",
+  "description": "6500 Credits Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-30T17:44:25.349Z",
+  "lastModifiedDate": "2020-06-19T19:26:29.003Z",
+  "entitlementName": "7159f924f1a24405a3187cfed39af335",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Psyonix",
+  "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

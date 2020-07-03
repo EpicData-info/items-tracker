@@ -1,0 +1,72 @@
+{
+  "id": "cc5623889bf64ddc9cd32082ee813f22",
+  "title": "Iris2",
+  "description": "Iris2",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-04T17:14:10.473Z",
+  "lastModifiedDate": "2020-03-18T16:28:09.714Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "iris"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Snapshot Games"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Iris2"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "cc5623889bf64ddc9cd32082ee813f22",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d6eca5c0e354403fbfbcd8fac1abafc2",
+      "appId": "Iris2",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-02-04T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

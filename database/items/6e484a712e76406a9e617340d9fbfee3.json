@@ -1,0 +1,33 @@
+{
+  "id": "6e484a712e76406a9e617340d9fbfee3",
+  "title": "TrogonDevAudience",
+  "description": "TrogonDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "1093790870b043cdbae03d91d76d9ae6",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-19T18:20:55.315Z",
+  "lastModifiedDate": "2019-10-16T15:26:22.205Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6e484a712e76406a9e617340d9fbfee3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

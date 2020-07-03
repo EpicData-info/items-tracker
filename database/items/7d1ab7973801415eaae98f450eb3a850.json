@@ -1,0 +1,35 @@
+{
+  "id": "7d1ab7973801415eaae98f450eb3a850",
+  "title": "DLC78 Audience",
+  "description": "DLC78 (Premium Halloween Bronze Ticket Bundle)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T19:14:13.789Z",
+  "lastModifiedDate": "2019-11-27T20:13:49.847Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7d1ab7973801415eaae98f450eb3a850",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

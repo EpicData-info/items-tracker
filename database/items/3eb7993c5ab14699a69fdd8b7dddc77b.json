@@ -1,0 +1,26 @@
+{
+  "id": "3eb7993c5ab14699a69fdd8b7dddc77b",
+  "title": "Giftable BP S10",
+  "description": "Giftable BP S10",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-09T20:31:34.570Z",
+  "lastModifiedDate": "2019-07-31T17:37:57.418Z",
+  "entitlementName": "Giftable_BP_S10",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2019-07-09T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

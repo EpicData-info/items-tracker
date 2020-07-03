@@ -1,0 +1,69 @@
+{
+  "id": "b4f9d81746a84e6c8600610786078699",
+  "title": "Korat",
+  "description": "Korat",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6504cc61472e498796e0b4963a201438",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-13T17:06:58.414Z",
+  "lastModifiedDate": "2020-06-13T20:17:46.764Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "6504cc61472e498796e0b4963a201438"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Korat"
+    }
+  },
+  "entitlementName": "b4f9d81746a84e6c8600610786078699",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3c955a0f7b134aef87fc55e3180d9362",
+      "appId": "Korat",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Red Barrels",
+  "developerId": "o-43vl99bsbv9r5mtf76dv98b7um7kn4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

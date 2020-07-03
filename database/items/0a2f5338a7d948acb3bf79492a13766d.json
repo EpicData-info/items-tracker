@@ -1,0 +1,36 @@
+{
+  "id": "0a2f5338a7d948acb3bf79492a13766d",
+  "title": "Season Pass 2020 Marker Audience",
+  "description": "Season Pass 2020 Marker Audience",
+  "longDescription": "Season Pass 2020 Marker Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-11T23:16:04.046Z",
+  "lastModifiedDate": "2020-04-23T01:34:42.167Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0a2f5338a7d948acb3bf79492a13766d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

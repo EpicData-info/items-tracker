@@ -1,0 +1,43 @@
+{
+  "id": "b8027699678a42ca8d72ac18d9da3834",
+  "title": "MinSoundtrackAudience",
+  "description": "MinSoundtrackAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/min/item/ESRB_Hades_RP-842x404-6c15a1ebb42adae35a438a3c26f5d5d7.png",
+      "md5": "6c15a1ebb42adae35a438a3c26f5d5d7",
+      "width": 842,
+      "height": 404,
+      "size": 66566,
+      "uploadedDate": "2019-04-23T20:54:05.433Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "min",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-14T22:50:37.916Z",
+  "lastModifiedDate": "2020-06-23T16:58:05.147Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Win32,Mac"
+    }
+  },
+  "entitlementName": "b8027699678a42ca8d72ac18d9da3834",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Supergiant Games LLC",
+  "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "RATING_PENDING",
+  "unsearchable": false
+}

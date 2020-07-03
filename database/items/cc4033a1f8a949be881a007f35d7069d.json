@@ -1,0 +1,39 @@
+{
+  "id": "cc4033a1f8a949be881a007f35d7069d",
+  "title": "SmallLogo",
+  "description": "eom",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/vpr/item/StarLogosmall-400x432-c7d5a2b636c88020f9ab7aceff019aa0.png",
+      "md5": "c7d5a2b636c88020f9ab7aceff019aa0",
+      "width": 400,
+      "height": 432,
+      "size": 101568,
+      "uploadedDate": "2015-10-22T18:06:56.354Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "vpr",
+  "status": "ACTIVE",
+  "creationDate": "2015-10-19T18:35:37.038Z",
+  "lastModifiedDate": "2017-08-04T19:17:07.295Z",
+  "entitlementName": "cc4033a1f8a949be881a007f35d7069d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

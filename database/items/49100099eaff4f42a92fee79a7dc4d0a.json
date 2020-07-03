@@ -1,0 +1,24 @@
+{
+  "id": "49100099eaff4f42a92fee79a7dc4d0a",
+  "title": "WEX External - Apple Cert",
+  "description": "WEX External - Apple Cert",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-18T16:59:35.923Z",
+  "lastModifiedDate": "2019-09-18T16:59:35.923Z",
+  "entitlementName": "49100099eaff4f42a92fee79a7dc4d0a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

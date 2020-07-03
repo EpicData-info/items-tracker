@@ -1,0 +1,24 @@
+{
+  "id": "aa26af4cae3a41e284fa5c4fa4b4c50a",
+  "title": "JayTestAudience",
+  "description": "JayTestAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "impala",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-07T22:10:00.454Z",
+  "lastModifiedDate": "2019-03-07T22:26:54.613Z",
+  "entitlementName": "aa26af4cae3a41e284fa5c4fa4b4c50a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

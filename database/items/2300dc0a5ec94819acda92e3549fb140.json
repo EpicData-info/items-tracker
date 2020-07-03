@@ -1,0 +1,23 @@
+{
+  "id": "2300dc0a5ec94819acda92e3549fb140",
+  "title": "Small Pack",
+  "description": "Small Pack",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "mtx-packages"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2017-03-28T19:05:47.571Z",
+  "lastModifiedDate": "2017-06-20T17:56:02.788Z",
+  "entitlementName": "2300dc0a5ec94819acda92e3549fb140",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,74 @@
+{
+  "id": "d9ca2bfc6eab48659e22f0b895d33e08",
+  "title": "ParakeetStaging",
+  "description": "ParakeetStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/62d6f15b1bb345f6a42585b4c8c847a0/item/EGS_HeartMachine_HyperLightDrifter_Social_Landscape-1920x1080-311a8f7f974fdf4d1fb94284601abffc.jpg",
+      "md5": "311a8f7f974fdf4d1fb94284601abffc",
+      "width": 1920,
+      "height": 1080,
+      "size": 147394,
+      "uploadedDate": "2019-08-15T12:49:59.787Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/62d6f15b1bb345f6a42585b4c8c847a0/item/EGS_HeartMachine_HyperLightDrifter_IC1_Logo_White-1316x720-e8c1800fcc3481465e34432c0ce5ab6f.png",
+      "md5": "e8c1800fcc3481465e34432c0ce5ab6f",
+      "width": 1316,
+      "height": 720,
+      "size": 1575,
+      "uploadedDate": "2019-08-15T12:50:13.721Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "62d6f15b1bb345f6a42585b4c8c847a0",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-06T20:39:38.085Z",
+  "lastModifiedDate": "2019-08-15T14:58:12.657Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/HyperLightDrifter/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ParakeetStaging"
+    }
+  },
+  "entitlementName": "d9ca2bfc6eab48659e22f0b895d33e08",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d15dcedf971e45b3ad4db7f69c79b9ce",
+      "appId": "ParakeetStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-06T00:00:00.000Z"
+    }
+  ],
+  "developer": "Heart Machine",
+  "developerId": "o-sa7ewerl9ha4ddzrjkjac7rh8sjgyc",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

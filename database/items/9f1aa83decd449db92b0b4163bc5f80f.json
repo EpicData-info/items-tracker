@@ -1,0 +1,76 @@
+{
+  "id": "9f1aa83decd449db92b0b4163bc5f80f",
+  "title": "Vampire: The Masquerade – Bloodlines 2 Pre-Purchase",
+  "description": "Vampire: The Masquerade – Bloodlines 2 Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/nemesia/item/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S1-2560x1440-5ff32c5e44f21a30ecf2bd689f9e12da.jpg",
+      "md5": "5ff32c5e44f21a30ecf2bd689f9e12da",
+      "width": 2560,
+      "height": 1440,
+      "size": 626626,
+      "uploadedDate": "2020-05-13T18:56:58.681Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/nemesia/item/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S2-1200x1600-29b9f030725c7871fa0c379c269958a6.jpg",
+      "md5": "29b9f030725c7871fa0c379c269958a6",
+      "width": 1200,
+      "height": 1600,
+      "size": 299276,
+      "uploadedDate": "2020-05-13T18:57:15.962Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "nemesia",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-06T20:23:55.487Z",
+  "lastModifiedDate": "2020-05-13T18:57:21.622Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "[]"
+    }
+  },
+  "entitlementName": "9f1aa83decd449db92b0b4163bc5f80f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a5ebe0fb7d454e7b997a786755f8cb92",
+      "appId": "NemesiaDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-05-06T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

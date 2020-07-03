@@ -1,0 +1,26 @@
+{
+  "id": "852b6c7e23f940db88c5e3711031ab43",
+  "title": "item title",
+  "description": "description",
+  "longDescription": "long description",
+  "technicalDetails": "technical information",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-24T06:19:06.904Z",
+  "lastModifiedDate": "2014-10-24T06:19:06.904Z",
+  "entitlementName": "852b6c7e23f940db88c5e3711031ab43",
+  "entitlementType": "EXECUTABLE",
+  "entitlementEndDate": "2014-10-26T00:00:00.000Z",
+  "entitlementStartDate": "2014-10-23T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "developer": "AYI",
+  "useCount": 3,
+  "endOfSupport": false,
+  "unsearchable": false
+}

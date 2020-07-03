@@ -1,0 +1,35 @@
+{
+  "id": "a19530b2cc2c4b0ab46ae8d57aa09f50",
+  "title": "DLC 4 Audience",
+  "description": "Rear Echelon Cosmetic DLC Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-21T22:35:11.938Z",
+  "lastModifiedDate": "2020-06-24T19:00:16.322Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a19530b2cc2c4b0ab46ae8d57aa09f50",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

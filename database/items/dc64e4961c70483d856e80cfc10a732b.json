@@ -1,0 +1,40 @@
+{
+  "id": "dc64e4961c70483d856e80cfc10a732b",
+  "title": "ViolaDevAudience",
+  "description": "ViolaDevAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/viola/item/Outward-842x404-766e1685d1d3c093153c9e27b0550ede.png",
+      "md5": "766e1685d1d3c093153c9e27b0550ede",
+      "width": 842,
+      "height": 404,
+      "size": 54206,
+      "uploadedDate": "2019-04-23T21:19:26.831Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "viola",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-21T17:30:51.167Z",
+  "lastModifiedDate": "2020-02-20T15:08:06.955Z",
+  "entitlementName": "dc64e4961c70483d856e80cfc10a732b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

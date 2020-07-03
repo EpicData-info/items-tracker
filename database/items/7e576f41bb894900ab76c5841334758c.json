@@ -1,0 +1,70 @@
+{
+  "id": "7e576f41bb894900ab76c5841334758c",
+  "title": "AzaleaDev",
+  "description": "AzaleaDev",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/azalea/item/The_Cycle_logo_White-615x478-2fe411db4bd7325782a6b92733e52659.png",
+      "md5": "2fe411db4bd7325782a6b92733e52659",
+      "width": 615,
+      "height": 478,
+      "size": 20577,
+      "uploadedDate": "2019-03-19T22:51:04.157Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/azalea/item/The_Cycle_Post_Image-1080x607-1080x607-9ea841b6d6f9baebb75b6ac05a6be225.jpg",
+      "md5": "9ea841b6d6f9baebb75b6ac05a6be225",
+      "width": 1080,
+      "height": 607,
+      "size": 189615,
+      "uploadedDate": "2019-03-21T15:46:56.991Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "azalea",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-07T15:21:40.540Z",
+  "lastModifiedDate": "2019-07-31T19:12:59.819Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AzaleaDev"
+    }
+  },
+  "entitlementName": "7e576f41bb894900ab76c5841334758c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "44061d21a06c4fb9b8905ec4046e4663",
+      "appId": "AzaleaDev",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-07T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": "20b3b4e3b0dc4027afee4ba1ff44ccb0",
+  "title": "DLC2_FDTCB_DLCAudience_redeemable",
+  "description": "DLC2_FDTCB_DLCAudience_redeemable",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "764eb429792649e4a606413cd649de2c",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-19T23:44:37.741Z",
+  "lastModifiedDate": "2019-12-20T15:33:58.102Z",
+  "customAttributes": {},
+  "entitlementName": "20b3b4e3b0dc4027afee4ba1ff44ccb0",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

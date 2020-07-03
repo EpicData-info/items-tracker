@@ -1,0 +1,23 @@
+{
+  "id": "b72a0678598947f49376ee0c58ca743b",
+  "title": "Fortnite Play For OT1",
+  "description": "Fortnite Play For OT1",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-27T22:19:44.933Z",
+  "lastModifiedDate": "2014-10-27T22:19:44.933Z",
+  "entitlementName": "Fortnite_Play",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2014-11-20T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,100 @@
+{
+  "id": "1e4e727584484401ac62b2b513419a52",
+  "title": "ABZU",
+  "description": "ABZU",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/item/AbzuLogo-3366x1158-bb53cbd189bef0cebbc1eece00eaa96a.png",
+      "md5": "bb53cbd189bef0cebbc1eece00eaa96a",
+      "width": 3366,
+      "height": 1158,
+      "size": 62869,
+      "uploadedDate": "2019-08-20T17:16:57.763Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/item/Abzu_PRIMARYPROMO_2580x1450-2580x1450-1df5bc4d1ebbf73ff8e4e1fdb70011d0.jpg",
+      "md5": "1df5bc4d1ebbf73ff8e4e1fdb70011d0",
+      "width": 2580,
+      "height": 1450,
+      "size": 273765,
+      "uploadedDate": "2019-08-20T17:17:22.107Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/item/Abzu_PORTRAITPROMO_1280x1450-1280x1450-f4f02e4e83f889842dc7e47e9e662b58.jpg",
+      "md5": "f4f02e4e83f889842dc7e47e9e662b58",
+      "width": 1280,
+      "height": 1450,
+      "size": 176117,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7af7476ff9eb4a8d9cd9d6486224de76",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-03T20:59:05.267Z",
+  "lastModifiedDate": "2019-11-19T17:02:09.753Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "7af7476ff9eb4a8d9cd9d6486224de76"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ABZU"
+    }
+  },
+  "entitlementName": "1e4e727584484401ac62b2b513419a52",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c0400362097645f98534e5bf03ede07c",
+      "appId": "Curry",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-03T00:00:00.000Z"
+    }
+  ],
+  "developer": "505 Games S.r.l.",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

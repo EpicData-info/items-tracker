@@ -1,0 +1,84 @@
+{
+  "id": "1bdef82412ce4bb9a3cc9caa002e9934",
+  "title": "Tom Clancy's The Division 2 - Open Beta",
+  "description": "Tom Clancy's The Division 2 - Open Beta",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/impala/item/TCTD2_OpenBeta_Promo-2048x1151-cce9a8a830443aaf82f23ae88dcf6141.jpg",
+      "md5": "cce9a8a830443aaf82f23ae88dcf6141",
+      "width": 2048,
+      "height": 1151,
+      "size": 496655,
+      "uploadedDate": "2019-03-01T09:09:00.258Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/impala/item/TCTD2_OpenBeta_Logo-2048x847-142138e58ce76545a60c815a464a13b2.png",
+      "md5": "142138e58ce76545a60c815a464a13b2",
+      "width": 2048,
+      "height": 847,
+      "size": 109616,
+      "uploadedDate": "2019-03-01T09:09:35.262Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "impala",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-18T18:42:11.499Z",
+  "lastModifiedDate": "2019-06-14T15:17:38.011Z",
+  "customAttributes": {
+    "PresenceID": {
+      "type": "STRING",
+      "value": "impala"
+    },
+    "isUplay": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheDivision2OpenBeta"
+    }
+  },
+  "entitlementName": "1bdef82412ce4bb9a3cc9caa002e9934",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "67304a1b9dab45438e680a7a1694fc21",
+      "appId": "Dummyapp",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-14T15:17:33.249Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

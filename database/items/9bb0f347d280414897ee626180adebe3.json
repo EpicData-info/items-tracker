@@ -1,0 +1,59 @@
+{
+  "id": "9bb0f347d280414897ee626180adebe3",
+  "title": "Zombie Army 4 - Partner Build",
+  "description": "Zombie Army 4 - Partner Build",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "developer"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-22T15:33:48.694Z",
+  "lastModifiedDate": "2020-05-12T13:50:09.830Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ZA4_Partner"
+    }
+  },
+  "entitlementName": "9bb0f347d280414897ee626180adebe3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0e24f4cd7ec04241bb24743c113b03ba",
+      "appId": "SparrowPartner",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-07-22T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Rebellion",
+  "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

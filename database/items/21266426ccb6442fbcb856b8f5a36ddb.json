@@ -1,0 +1,75 @@
+{
+  "id": "21266426ccb6442fbcb856b8f5a36ddb",
+  "title": "CastleStorm 2 Demo",
+  "description": "CastleStorm 2 Demo",
+  "longDescription": "CastleStorm 2 Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/item/EGS_CastleStormII_ZenStudios_S1-2560x1440-d4f530905cc10785c1a6d2b459fe77c0.jpg",
+      "md5": "d4f530905cc10785c1a6d2b459fe77c0",
+      "width": 2560,
+      "height": 1440,
+      "size": 419520,
+      "uploadedDate": "2020-06-08T15:28:53.614Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/item/EGS_CastleStormII_ZenStudios_S2-860x1148-213900280aebee003c51430ec685c436.jpg",
+      "md5": "213900280aebee003c51430ec685c436",
+      "width": 860,
+      "height": 1148,
+      "size": 397706,
+      "uploadedDate": "2020-06-08T15:29:03.469Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed355406eacb4633a648f682ddb492b8",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-02T20:42:58.941Z",
+  "lastModifiedDate": "2020-06-12T21:30:04.008Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CastleStorm2Demo"
+    }
+  },
+  "entitlementName": "21266426ccb6442fbcb856b8f5a36ddb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1eed7cd93ca74027a4335fba6591f44b",
+      "appId": "eb952f0df7264dacbb5d4a0e35a867d2",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-04-02T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

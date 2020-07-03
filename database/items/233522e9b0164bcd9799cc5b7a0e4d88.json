@@ -1,0 +1,35 @@
+{
+  "id": "233522e9b0164bcd9799cc5b7a0e4d88",
+  "title": "PHG Alpha Predator Audience",
+  "description": "PHG Alpha Predator Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-07T00:40:17.422Z",
+  "lastModifiedDate": "2020-05-07T01:04:56.740Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "233522e9b0164bcd9799cc5b7a0e4d88",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

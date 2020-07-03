@@ -1,0 +1,55 @@
+{
+  "id": "e5d6b27f64ad428faab28b4750f6e708",
+  "title": "TowheeStaging",
+  "description": "TowheeStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b4d9169e1b8548f2babec33107253309",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-24T05:55:37.027Z",
+  "lastModifiedDate": "2020-02-06T15:02:35.197Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Days of Wonder/Ticket to Ride/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TowheeStaging"
+    }
+  },
+  "entitlementName": "e5d6b27f64ad428faab28b4750f6e708",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "343725c064dd4a38a7a9f046018e0548",
+      "appId": "TowheeStaging",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-08-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

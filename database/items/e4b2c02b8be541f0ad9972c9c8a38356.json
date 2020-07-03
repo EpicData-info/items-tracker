@@ -1,0 +1,73 @@
+{
+  "id": "e4b2c02b8be541f0ad9972c9c8a38356",
+  "title": "FortniteIOSCert",
+  "description": "IOS Cert app for Fortnite",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fn/item/Fortnite_llamacorn_bg-430x250-ba52f51868240271251851bc83010ec8.png",
+      "md5": "ba52f51868240271251851bc83010ec8",
+      "width": 430,
+      "height": 250,
+      "size": 90716,
+      "uploadedDate": "2018-11-06T21:32:52.069Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/fn/item/blank_logo-1x1-1b95550641d28d4e076bc9111ce9f533.png",
+      "md5": "1b95550641d28d4e076bc9111ce9f533",
+      "width": 1,
+      "height": 1,
+      "size": 928,
+      "uploadedDate": "2018-11-06T21:35:45.744Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-04-23T19:11:09.166Z",
+  "lastModifiedDate": "2019-05-06T16:57:33.404Z",
+  "customAttributes": {
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "HasGateKeeper": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "FortniteIOSCert",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0f3e891cf667418996fddbb4f5a6df33",
+      "appId": "FortniteIOSCert",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2018-04-23T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

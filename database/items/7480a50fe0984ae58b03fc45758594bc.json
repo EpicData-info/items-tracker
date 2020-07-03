@@ -1,0 +1,34 @@
+{
+  "id": "7480a50fe0984ae58b03fc45758594bc",
+  "title": "DLC17 Audience",
+  "description": "DLC17 (Dragon & Koi Tier 1 Weapon Skin Bundle)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T01:14:33.309Z",
+  "lastModifiedDate": "2019-12-09T18:28:18.789Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7480a50fe0984ae58b03fc45758594bc",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

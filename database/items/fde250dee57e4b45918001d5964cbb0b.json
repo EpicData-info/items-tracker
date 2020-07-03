@@ -1,0 +1,45 @@
+{
+  "id": "fde250dee57e4b45918001d5964cbb0b",
+  "title": "Fall of Everlife DLC",
+  "description": "Fall of Everlife DLC",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/item/ESRB_Faeria-842x485-5765e4d7960a6a3da59dfa970b6f5147.jpg",
+      "md5": "5765e4d7960a6a3da59dfa970b6f5147",
+      "width": 842,
+      "height": 485,
+      "size": 87036,
+      "uploadedDate": "2020-02-25T15:57:16.701Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-09T19:48:19.121Z",
+  "lastModifiedDate": "2020-02-25T15:57:19.948Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "fde250dee57e4b45918001d5964cbb0b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Versus Evil",
+  "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE",
+  "unsearchable": false
+}

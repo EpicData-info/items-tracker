@@ -1,0 +1,46 @@
+{
+  "id": "ff661588c8f540dbbfafc57e2ef5b884",
+  "title": "The Sinking City Standard Edition Test Audience",
+  "description": "The Sinking City Standard Edition Test Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/middlemist/item/ESRB_NOCOPYWRITTE_M_Long_1080-1-4905x2280-a8003b462a29137e7eb04750a3016905.png",
+      "md5": "a8003b462a29137e7eb04750a3016905",
+      "width": 4905,
+      "height": 2280,
+      "size": 232833,
+      "uploadedDate": "2019-04-29T19:41:41.289Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "middlemist",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-19T01:43:54.895Z",
+  "lastModifiedDate": "2019-06-27T07:53:49.799Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ff661588c8f540dbbfafc57e2ef5b884",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

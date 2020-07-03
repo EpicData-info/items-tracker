@@ -1,0 +1,35 @@
+{
+  "id": "1fe4071bc2ae4a2fa957af651d77720d",
+  "title": "RobinGeneralAudience",
+  "description": "RobinGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "bec57b5341ad4294b005a7dd18691419",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-14T18:13:11.165Z",
+  "lastModifiedDate": "2020-01-06T21:14:12.734Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1fe4071bc2ae4a2fa957af651d77720d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Versus Evil",
+  "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

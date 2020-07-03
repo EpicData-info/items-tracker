@@ -1,0 +1,90 @@
+{
+  "id": "eb3154726e8a4dd2ac1e120cc8a61e05",
+  "title": "Duck Soundtrack Staging",
+  "description": "Duck Soundtrack Staging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/item/Cardpocalypse_MainGame_EpicGamesStore_S2_Store_Secondary_ApprovedPublic-2560x1440-c7a8a5fb84bf3e2f93ea58997928f6f7.jpg",
+      "md5": "c7a8a5fb84bf3e2f93ea58997928f6f7",
+      "width": 2560,
+      "height": 1440,
+      "size": 573157,
+      "uploadedDate": "2019-09-03T17:57:37.198Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/item/Cardpocalypse_Logo-WithLight-1843x659-3386ddc5eb8023b982b17ff53fd56275.png",
+      "md5": "3386ddc5eb8023b982b17ff53fd56275",
+      "width": 1843,
+      "height": 659,
+      "size": 274502,
+      "uploadedDate": "2019-09-10T20:24:41.661Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2bfd5ca43ef443739ada168e017e1b78",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-10T20:30:46.447Z",
+  "lastModifiedDate": "2019-09-19T12:54:06.351Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "2bfd5ca43ef443739ada168e017e1b78"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DuckSoundStaging"
+    }
+  },
+  "entitlementName": "eb3154726e8a4dd2ac1e120cc8a61e05",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e10fb70eaed74f52a01824e08127d772",
+      "appId": "DuckSoundStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-14T00:00:00.000Z"
+    }
+  ],
+  "developer": "Versus Evil",
+  "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

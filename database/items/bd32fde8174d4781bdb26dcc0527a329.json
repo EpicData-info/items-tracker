@@ -1,0 +1,33 @@
+{
+  "id": "bd32fde8174d4781bdb26dcc0527a329",
+  "title": "ColeyDevAudience",
+  "description": "ColeyDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "6c77bc1b5faa4ac98441ec75cca0d320",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-05T16:10:38.997Z",
+  "lastModifiedDate": "2019-12-23T16:19:20.821Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "bd32fde8174d4781bdb26dcc0527a329",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

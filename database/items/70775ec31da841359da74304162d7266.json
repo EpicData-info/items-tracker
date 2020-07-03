@@ -1,0 +1,58 @@
+{
+  "id": "70775ec31da841359da74304162d7266",
+  "title": "SandpiperStaging",
+  "description": "SandpiperStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-24T05:01:52.282Z",
+  "lastModifiedDate": "2020-02-27T15:58:08.104Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Bigben Interactive/Overpass/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "output_log.txt"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SandpiperStaging"
+    }
+  },
+  "entitlementName": "70775ec31da841359da74304162d7266",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5d5e70d8e9934cddba79e05283ff349f",
+      "appId": "SandpiperStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

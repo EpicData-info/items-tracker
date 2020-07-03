@@ -1,0 +1,35 @@
+{
+  "id": "4d495d59eb424fc48d59d4d03f4ded6e",
+  "title": "CarpGeneralAudience",
+  "description": "CarpGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-13T21:35:13.984Z",
+  "lastModifiedDate": "2020-06-11T20:49:32.466Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4d495d59eb424fc48d59d4d03f4ded6e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Gearbox Publishing",
+  "developerId": "o-dcmk65hvycy3kndmqvfg3yn3up87jn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

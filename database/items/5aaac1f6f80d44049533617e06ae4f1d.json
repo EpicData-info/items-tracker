@@ -1,0 +1,34 @@
+{
+  "id": "5aaac1f6f80d44049533617e06ae4f1d",
+  "title": "Nordic Countries",
+  "description": "Nordic Countries",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "b4d9169e1b8548f2babec33107253309",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-11T13:30:26.391Z",
+  "lastModifiedDate": "2020-02-06T14:55:26.540Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "5aaac1f6f80d44049533617e06ae4f1d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

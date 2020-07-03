@@ -1,0 +1,35 @@
+{
+  "id": "340b1a551d5b4354b76320b63dc0bfa0",
+  "title": "MuscovyStreamingAudience",
+  "description": "MuscovyStreamingAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-15T14:31:09.467Z",
+  "lastModifiedDate": "2020-05-07T13:10:20.282Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "340b1a551d5b4354b76320b63dc0bfa0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

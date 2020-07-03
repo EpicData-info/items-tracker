@@ -1,0 +1,35 @@
+{
+  "id": "f98785c64058465fa1824caece9e58ec",
+  "title": "DLC61 Audience",
+  "description": "DLC61 (Horzine Supply Weapon Crate | Series #15 Bronze Bundle Pack)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T18:24:54.703Z",
+  "lastModifiedDate": "2019-11-27T20:11:15.310Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f98785c64058465fa1824caece9e58ec",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

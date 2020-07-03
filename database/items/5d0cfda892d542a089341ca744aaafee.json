@@ -1,0 +1,29 @@
+{
+  "id": "5d0cfda892d542a089341ca744aaafee",
+  "title": "BarracudaRTTODLCAudience_marker",
+  "description": "BarracudaRTTODLCAudience_marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "a646020cb93b4ea995cda70647bbe001",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-17T17:00:32.568Z",
+  "lastModifiedDate": "2020-01-01T15:30:24.656Z",
+  "customAttributes": {},
+  "entitlementName": "5d0cfda892d542a089341ca744aaafee",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": "686d731c8d394bf1adf906f5c4e880eb",
+  "title": "Special spray",
+  "description": "Special spray",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-08-03T20:04:40.674Z",
+  "lastModifiedDate": "2018-09-21T20:27:16.864Z",
+  "entitlementName": "Generic18_Spray",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2018-08-20T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

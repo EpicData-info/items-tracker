@@ -1,0 +1,89 @@
+{
+  "id": "a1f821e771d24d6bba719670728c7f2a",
+  "title": "Manifold Garden Pre-Purchase",
+  "description": "Manifold Garden Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/item/ManifoldGarden_IC1_GameLogo-2827x200-1f48759d0f4cd703122d0e38be48dce2-2827x200-1f48759d0f4cd703122d0e38be48dce2.png",
+      "md5": "1f48759d0f4cd703122d0e38be48dce2",
+      "width": 2827,
+      "height": 200,
+      "size": 12304,
+      "uploadedDate": "2019-10-16T23:11:25.590Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/item/ManifoldGarden_S1_PrimaryPromoImage-2560x1440-0f1b461b6649fe9334e6dcae2bff5ee5-2560x1440-0f1b461b6649fe9334e6dcae2bff5ee5.jpg",
+      "md5": "0f1b461b6649fe9334e6dcae2bff5ee5",
+      "width": 2560,
+      "height": 1440,
+      "size": 532212,
+      "uploadedDate": "2019-10-16T23:11:38.305Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "015763e579d4479cb1ef7780bf91804f",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-16T23:14:42.190Z",
+  "lastModifiedDate": "2019-10-18T12:58:41.288Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "015763e579d4479cb1ef7780bf91804f"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "a1f821e771d24d6bba719670728c7f2a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0032adb3159d42089734be34d72d1b4c",
+      "appId": "LorikeetDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-16T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "William Chyr Studio",
+  "developerId": "o-9j6lnh9adzvfntd9d8ypjc39wb9d3k",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

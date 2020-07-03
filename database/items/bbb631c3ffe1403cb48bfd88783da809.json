@@ -1,0 +1,46 @@
+{
+  "id": "bbb631c3ffe1403cb48bfd88783da809",
+  "title": "Heavy Rain Demo Audience",
+  "description": "Heavy Rain Demo Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/aster/item/ESRB_HeavyRain-842x404-652e87edc9f6928b3ea37b8479d85de3.jpg",
+      "md5": "652e87edc9f6928b3ea37b8479d85de3",
+      "width": 842,
+      "height": 404,
+      "size": 114631,
+      "uploadedDate": "2019-07-29T15:41:59.212Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "aster",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-10T12:06:40.677Z",
+  "lastModifiedDate": "2019-10-16T14:38:42.278Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "bbb631c3ffe1403cb48bfd88783da809",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

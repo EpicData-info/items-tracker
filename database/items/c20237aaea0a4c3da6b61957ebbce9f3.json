@@ -1,0 +1,35 @@
+{
+  "id": "c20237aaea0a4c3da6b61957ebbce9f3",
+  "title": "PeridotGeneralAudience",
+  "description": "PeridotGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "1b8a504ec52d4430b65cca2990ad6c7f",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-16T16:10:40.727Z",
+  "lastModifiedDate": "2020-05-15T01:24:41.046Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c20237aaea0a4c3da6b61957ebbce9f3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Butterscotch Shenanigans",
+  "developerId": "o-nl9ywem28pes9amuwp2jqrey4zxjpf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

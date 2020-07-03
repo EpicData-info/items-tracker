@@ -1,0 +1,33 @@
+{
+  "id": "0314003164044b918fdad9fee80529a7",
+  "title": "SalmonDevAudience",
+  "description": "SalmonDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "61449320f87347a8bf02159cbf8adb7f",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-17T05:19:15.283Z",
+  "lastModifiedDate": "2019-12-13T03:54:44.295Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": ""
+    }
+  },
+  "entitlementName": "0314003164044b918fdad9fee80529a7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Balancing Monkey Games",
+  "developerId": "o-4tx8h9e6ugw2546feb637euqzbmkpa",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

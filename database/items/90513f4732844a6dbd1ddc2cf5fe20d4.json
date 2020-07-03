@@ -1,0 +1,59 @@
+{
+  "id": "90513f4732844a6dbd1ddc2cf5fe20d4",
+  "title": "RobinStaging",
+  "description": "RobinStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bec57b5341ad4294b005a7dd18691419",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-14T18:13:11.298Z",
+  "lastModifiedDate": "2019-11-12T13:59:58.694Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Breadcrumbs/Yaga/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Breadcrumbs/Yaga/save_data/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RobinStaging"
+    }
+  },
+  "entitlementName": "90513f4732844a6dbd1ddc2cf5fe20d4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "adcf04e85c2c4fd79f08f4cc7ee2534c",
+      "appId": "RobinStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-14T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Test Organization",
+  "developerId": "o-jwuggxrvjq99seqnvcrzckgm6e8jtr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

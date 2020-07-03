@@ -1,0 +1,51 @@
+{
+  "id": "a9d19a0b5dc64835896e8b4c29f58fa0",
+  "title": "EelSoundTrack2Staging",
+  "description": "EelSoundTrack2Staging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-20T16:04:20.701Z",
+  "lastModifiedDate": "2020-02-11T14:11:47.793Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EelSoundTrack2Staging"
+    }
+  },
+  "entitlementName": "a9d19a0b5dc64835896e8b4c29f58fa0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "53ef4b2144a14a6aad4698c68d7add3d",
+      "appId": "EelSoundTrack2Staging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-01-20T16:07:53.008Z"
+    }
+  ],
+  "developer": "Warhorse Studios",
+  "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a01482d5718d42ad8eb51f868b02a555",
+  "title": "VIP Level 3",
+  "description": "VIP Account Level 3",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "account_upgrades"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2018-07-31T19:26:40.441Z",
+  "lastModifiedDate": "2019-11-12T22:33:21.779Z",
+  "entitlementName": "a01482d5718d42ad8eb51f868b02a555",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

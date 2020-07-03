@@ -1,0 +1,33 @@
+{
+  "id": "450a8cfb35ad49bf8ea8aba14e56a65f",
+  "title": "Ghostbusters Remastered Press Audience",
+  "description": "Ghostbusters Remastered Press Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "d0545b136bb042fb9014e72b6af748f6",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-23T23:28:44.170Z",
+  "lastModifiedDate": "2019-10-04T11:43:31.687Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "450a8cfb35ad49bf8ea8aba14e56a65f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

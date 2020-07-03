@@ -1,0 +1,26 @@
+{
+  "id": "2def63e0111c44d78272b35fc9dcb5b8",
+  "title": "DynamicItemTesting - Major Item",
+  "description": "DynamicItemTesting - Major Item",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-26T05:36:16.132Z",
+  "lastModifiedDate": "2020-05-26T05:37:46.971Z",
+  "entitlementName": "MajorItemChrisZ",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

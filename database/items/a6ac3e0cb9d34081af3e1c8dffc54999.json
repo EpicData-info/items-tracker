@@ -1,0 +1,23 @@
+{
+  "id": "a6ac3e0cb9d34081af3e1c8dffc54999",
+  "title": "Fortnite Invitation",
+  "description": "Fortnite invitation entitlement",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-20T23:52:43.172Z",
+  "lastModifiedDate": "2015-08-11T19:33:07.034Z",
+  "entitlementName": "Fortnite_Invite",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 2,
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,70 @@
+{
+  "id": "a1e8ca8fea6040b3916077a94bc9e5a4",
+  "title": "CurryStaging",
+  "description": "CurryStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/item/Abzu_PRIMARYPROMO_2580x1450-2580x1450-1df5bc4d1ebbf73ff8e4e1fdb70011d0.jpg",
+      "md5": "1df5bc4d1ebbf73ff8e4e1fdb70011d0",
+      "width": 2580,
+      "height": 1450,
+      "size": 273765,
+      "uploadedDate": "2019-08-20T17:18:00.019Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/item/AbzuLogo-3366x1158-bb53cbd189bef0cebbc1eece00eaa96a.png",
+      "md5": "bb53cbd189bef0cebbc1eece00eaa96a",
+      "width": 3366,
+      "height": 1158,
+      "size": 62869,
+      "uploadedDate": "2019-08-20T17:18:10.148Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7af7476ff9eb4a8d9cd9d6486224de76",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-03T20:59:05.338Z",
+  "lastModifiedDate": "2019-09-05T14:57:55.805Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CurryStaging"
+    }
+  },
+  "entitlementName": "a1e8ca8fea6040b3916077a94bc9e5a4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "33264f54dfbb4d1b943638aefbc23baa",
+      "appId": "CurryStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-03T00:00:00.000Z"
+    }
+  ],
+  "developer": "505 Games S.r.l.",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

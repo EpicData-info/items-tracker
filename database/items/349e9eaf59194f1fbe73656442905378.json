@@ -1,0 +1,33 @@
+{
+  "id": "349e9eaf59194f1fbe73656442905378",
+  "title": "SandpiperDevAudience",
+  "description": "SandpiperDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-24T05:01:52.138Z",
+  "lastModifiedDate": "2020-02-27T15:58:08.104Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "349e9eaf59194f1fbe73656442905378",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

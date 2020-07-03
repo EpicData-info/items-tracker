@@ -1,0 +1,58 @@
+{
+  "id": "5bca8169774f447b875824e1da3aeee3",
+  "title": "Frontiers DLC",
+  "description": "Frontiers DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-24T19:44:21.907Z",
+  "lastModifiedDate": "2020-02-19T15:39:46.930Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "5911ba0c4b9d4a258df2130d56e18573"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "cdd432758d1840c6a4f8576b0a0daf50"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "5bca8169774f447b875824e1da3aeee3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cdae9d1d526246188adb979f57e526ae",
+      "appId": "GulperDLC3",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-01-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

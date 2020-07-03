@@ -1,0 +1,24 @@
+{
+  "id": "a31b7712d0664e6588184aab3b73276d",
+  "title": "Batwing",
+  "description": "Dark Knight Deployed",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-20T18:18:47.631Z",
+  "lastModifiedDate": "2019-09-21T13:38:17.767Z",
+  "entitlementName": "AthenaGlider:glider_id_178_blackmondaymale_03m3e",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

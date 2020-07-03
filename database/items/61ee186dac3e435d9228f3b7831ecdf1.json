@@ -1,0 +1,69 @@
+{
+  "id": "61ee186dac3e435d9228f3b7831ecdf1",
+  "title": "Battle Breakers Dev Playtest G",
+  "description": "Battle Breakers Dev Playtest G",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wex/item/wex_bg-430x250-7ff217599bc08d57744a959ff00ec48c.png",
+      "md5": "dca0827cd41aa825572a9037d423461f",
+      "width": 430,
+      "height": 250,
+      "size": 224112,
+      "uploadedDate": "2020-01-16T23:27:34.153Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/wex/item/BBLogo-625x408-34f5e3a41a380a7dba705ba302b9ffd0.png",
+      "md5": "7fbc1b75ceca9710822f87edbaf57aa3",
+      "width": 625,
+      "height": 408,
+      "size": 58151,
+      "uploadedDate": "2020-01-16T23:28:14.199Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-16T23:30:17.531Z",
+  "lastModifiedDate": "2020-02-04T16:57:42.540Z",
+  "customAttributes": {
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BattleBreakersDPG"
+    }
+  },
+  "entitlementName": "WorldExplorersDevPlaytestG",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b5b987fd140740e6a200c532fd25b8d2",
+      "appId": "WorldExplorersDevPlaytestG",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-01-16T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

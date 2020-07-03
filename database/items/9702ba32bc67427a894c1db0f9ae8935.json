@@ -1,0 +1,29 @@
+{
+  "id": "9702ba32bc67427a894c1db0f9ae8935",
+  "title": "Founder's Pack 1 (Scout Pack) Marker",
+  "description": "Founder's Pack 1 (Scout Pack) Marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "azalea",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-07T19:53:02.614Z",
+  "lastModifiedDate": "2019-07-31T19:13:06.599Z",
+  "entitlementName": "9702ba32bc67427a894c1db0f9ae8935",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

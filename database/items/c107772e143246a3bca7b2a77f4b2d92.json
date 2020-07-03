@@ -1,0 +1,90 @@
+{
+  "id": "c107772e143246a3bca7b2a77f4b2d92",
+  "title": "Civilization VI : Khmer and Indonesia Civilization & Scenario Pack",
+  "description": "Civilization VI : Khmer and Indonesia Civilization & Scenario Pack",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/EGS_SidMeiersCivilizationVI_FiraxisGames_S5-1360x766-43ec615712394b3c4acbe77bce54975c.jpg",
+      "md5": "43ec615712394b3c4acbe77bce54975c",
+      "width": 1360,
+      "height": 766,
+      "size": 475027,
+      "uploadedDate": "2020-05-19T21:39:40.480Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/EGS_SidMeiersCivilizationVI_FiraxisGames_S6-510x680-7bca651712a1c939a86f767c65160461.jpg",
+      "md5": "7bca651712a1c939a86f767c65160461",
+      "width": 510,
+      "height": 680,
+      "size": 309610,
+      "uploadedDate": "2020-05-19T21:39:51.266Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "dlc"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-16T20:37:52.724Z",
+  "lastModifiedDate": "2020-05-27T23:45:14.293Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "cd14dcaa4f3443f19f7169a980559c62"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KhmerIndonesiaPack"
+    }
+  },
+  "entitlementName": "c107772e143246a3bca7b2a77f4b2d92",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "82bd0a6caf234cb6a2b2dc1746402474",
+      "appId": "KingletKhmerIndonesia",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

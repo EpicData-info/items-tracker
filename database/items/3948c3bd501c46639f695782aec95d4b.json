@@ -1,0 +1,35 @@
+{
+  "id": "3948c3bd501c46639f695782aec95d4b",
+  "title": "WigeonGeneralAudience",
+  "description": "WigeonGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "6cec00f8934146508b884b0f139d55d0",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-15T16:16:20.303Z",
+  "lastModifiedDate": "2020-01-07T18:37:15.771Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3948c3bd501c46639f695782aec95d4b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Pillow Castle",
+  "developerId": "o-jvpl9untxcrsellbhbwjb2ralrg9z9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

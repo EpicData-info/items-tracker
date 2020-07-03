@@ -1,0 +1,25 @@
+{
+  "id": "0b7991b5075e491abadd836b3155fb18",
+  "title": "Battle Pass",
+  "description": "Current season of the Battle Pass",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "recurring"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2018-06-11T20:04:59.204Z",
+  "lastModifiedDate": "2019-11-12T22:33:21.779Z",
+  "entitlementName": "0b7991b5075e491abadd836b3155fb18",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

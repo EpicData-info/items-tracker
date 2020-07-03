@@ -1,0 +1,33 @@
+{
+  "id": "598a979a601a4b41bcb8f34a670d3977",
+  "title": "AmberDevAudience",
+  "description": "AmberDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "fd0183d33a5a40ff8cd4a6ebb52f6ace",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-17T06:56:43.017Z",
+  "lastModifiedDate": "2020-03-12T14:33:43.571Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "598a979a601a4b41bcb8f34a670d3977",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Adam Robinson-Yu",
+  "developerId": "o-x6pmn2h8elkycylakfrdw79xp2hrpv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

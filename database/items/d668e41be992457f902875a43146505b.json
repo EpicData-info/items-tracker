@@ -1,0 +1,59 @@
+{
+  "id": "d668e41be992457f902875a43146505b",
+  "title": "SaffronStaging",
+  "description": "SaffronStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-02T01:23:21.185Z",
+  "lastModifiedDate": "2020-03-17T19:15:37.373Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-ExeId 1"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch Ghost Recon Breakpoint – Vulkan"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SaffronStaging"
+    }
+  },
+  "entitlementName": "d668e41be992457f902875a43146505b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "077a9153b2cf4d6b9b8612e2f0882c19",
+      "appId": "SaffronStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-02T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

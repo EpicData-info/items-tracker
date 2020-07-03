@@ -1,0 +1,30 @@
+{
+  "id": "0ecceca919614855acee329378100d4c",
+  "title": "CrocusGeneralAudience",
+  "description": "CrocusGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "crocus",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-16T14:20:20.686Z",
+  "lastModifiedDate": "2019-01-16T16:56:28.215Z",
+  "entitlementName": "0ecceca919614855acee329378100d4c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

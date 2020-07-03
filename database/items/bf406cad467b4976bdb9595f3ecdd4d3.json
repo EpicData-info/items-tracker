@@ -1,0 +1,41 @@
+{
+  "id": "bf406cad467b4976bdb9595f3ecdd4d3",
+  "title": "Detroit Become Human Pre-Purchase Audience",
+  "description": "Detroit Become Human Pre-Purchase Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/columbine/item/ESRB_DetroitBecomeHuman-842x404-035ba6355044f32a11b90c3396b43a6a.jpg",
+      "md5": "035ba6355044f32a11b90c3396b43a6a",
+      "width": 842,
+      "height": 404,
+      "size": 119136,
+      "uploadedDate": "2019-07-29T16:06:42.835Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "games"
+    }
+  ],
+  "namespace": "columbine",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-10T13:24:33.157Z",
+  "lastModifiedDate": "2019-12-12T12:59:57.263Z",
+  "entitlementName": "bf406cad467b4976bdb9595f3ecdd4d3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

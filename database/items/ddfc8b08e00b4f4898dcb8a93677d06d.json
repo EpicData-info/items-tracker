@@ -1,0 +1,30 @@
+{
+  "id": "ddfc8b08e00b4f4898dcb8a93677d06d",
+  "title": "PansyPrePurchaseEnt",
+  "description": "PansyPrePurchaseEnt",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "pansy",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-13T23:49:20.593Z",
+  "lastModifiedDate": "2019-05-13T14:20:25.347Z",
+  "entitlementName": "ddfc8b08e00b4f4898dcb8a93677d06d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Three Fields Entertainment",
+  "developerId": "o-f82s3dr485xfmhuuzc2ubtc2j2mdpj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

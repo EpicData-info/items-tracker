@@ -1,0 +1,35 @@
+{
+  "id": "57afb6c74b01466eb60e5fc198e2e76d",
+  "title": "SurfAudience",
+  "description": "SurfAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T18:28:03.346Z",
+  "lastModifiedDate": "2020-05-08T18:38:22.637Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "57afb6c74b01466eb60e5fc198e2e76d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Kalypso Media",
+  "developerId": "o-ntj9m7f2v76uksvjujurjfxtjkfawq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

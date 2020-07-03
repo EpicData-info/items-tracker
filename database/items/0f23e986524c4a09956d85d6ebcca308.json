@@ -1,0 +1,55 @@
+{
+  "id": "0f23e986524c4a09956d85d6ebcca308",
+  "title": "DreadNauticalWallpaperStaging",
+  "description": "DreadNauticalWallpaperStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "30bf97ae13f74c3d87c9f3fe04d507ba",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-31T17:52:44.166Z",
+  "lastModifiedDate": "2020-04-02T19:47:34.457Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DreadNauticalWallpaperStaging"
+    }
+  },
+  "entitlementName": "0f23e986524c4a09956d85d6ebcca308",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "603680aeda4c4d3db2fa408e2f8925cd",
+      "appId": "6b068586055f45d8a290eb09149df115",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-02-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

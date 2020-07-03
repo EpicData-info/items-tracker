@@ -1,0 +1,46 @@
+{
+  "id": "1d650716e516481aaafda0838d6cf594",
+  "title": "OwlStaging",
+  "description": "OwlStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fe5a2e3e842a4394938a81f3308df2ed",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-06T19:35:47.398Z",
+  "lastModifiedDate": "2019-06-10T18:55:20.382Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OwlStaging"
+    }
+  },
+  "entitlementName": "1d650716e516481aaafda0838d6cf594",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ba110675fab84fafbe91f5057cbf67e1",
+      "appId": "OwlStaging"
+    }
+  ],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

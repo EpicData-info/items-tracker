@@ -1,0 +1,81 @@
+{
+  "id": "03ba5ba16e8b42d1aedd43a475eb1ce5",
+  "title": "Thundercrash - High Poly character",
+  "description": "Download the the high poly Z-brush file of Unreal Tournament's Taye character.  Start creating today!",
+  "longDescription": "This download gives you the high poly Z-brush file of Unreal Tournament's Taye character. You can use this download to create custom skins and variant characters for use in Unreal Tournament.",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/1080pMalcolm-1920x1080-fd6e65594232773149c9243afb362ba3.png",
+      "md5": "fd6e65594232773149c9243afb362ba3",
+      "width": 1920,
+      "height": 1080,
+      "size": 686792,
+      "uploadedDate": "2015-06-30T21:12:59.997Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/1080pMalcolm2-1920x1080-d5af4b7293525c94f99dd8b654f17dbe.png",
+      "md5": "d5af4b7293525c94f99dd8b654f17dbe",
+      "width": 1920,
+      "height": 1080,
+      "size": 804029,
+      "uploadedDate": "2015-06-30T21:13:06.851Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ut/item/Malcolm_sm1-300x250-fe57543065de02ff27145e8527fa48b6.png",
+      "md5": "fe57543065de02ff27145e8527fa48b6",
+      "width": 300,
+      "height": 250,
+      "size": 47021,
+      "uploadedDate": "2015-06-30T21:12:41.524Z"
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ut/item/Malcolm_Header1-1400x300-ff56aada06b72b6019f0a85f5ca8c509.png",
+      "md5": "ff56aada06b72b6019f0a85f5ca8c509",
+      "width": 1400,
+      "height": 300,
+      "size": 251308,
+      "uploadedDate": "2015-06-30T21:12:49.405Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/devcontent"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-06-17T13:43:54.104Z",
+  "lastModifiedDate": "2019-05-13T14:32:30.584Z",
+  "customAttributes": {
+    "TechnicalType": {
+      "type": "STRING",
+      "value": "externalcontent"
+    }
+  },
+  "entitlementName": "MalcomHighPoly",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b72f133b1371497fa8c90caa80e71b8c",
+      "appId": "UT4Malcolm",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2015-06-16T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "unsearchable": false
+}

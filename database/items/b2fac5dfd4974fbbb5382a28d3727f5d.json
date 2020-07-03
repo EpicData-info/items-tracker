@@ -1,0 +1,96 @@
+{
+  "id": "b2fac5dfd4974fbbb5382a28d3727f5d",
+  "title": "Shenmue 3",
+  "description": "Shenmue 3",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/item/SIII_Store_Primary_Promo-2580x1450-013a64fa8981e712fab77bd6ebb7c17a.jpg",
+      "md5": "013a64fa8981e712fab77bd6ebb7c17a",
+      "width": 2580,
+      "height": 1450,
+      "size": 518985,
+      "uploadedDate": "2019-06-03T21:15:44.071Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/item/Game-Logo_ShenmueIII-3168x692-ebf5c465607e0836a16f99c8f0c3fc8d.png",
+      "md5": "ebf5c465607e0836a16f99c8f0c3fc8d",
+      "width": 3168,
+      "height": 692,
+      "size": 356115,
+      "uploadedDate": "2019-06-03T21:15:56.308Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/item/SIII_Store_Portrait_Promo-1280x1420-ecc18819dfe8a6bcec332a6ab787a9ba.jpg",
+      "md5": "ecc18819dfe8a6bcec332a6ab787a9ba",
+      "width": 1280,
+      "height": 1420,
+      "size": 392356,
+      "uploadedDate": "2019-12-03T16:06:28.243Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-19T17:26:21.940Z",
+  "lastModifiedDate": "2019-12-03T16:06:32.717Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "5d582c08e31a43128a61093a2c3ff7f0"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Shenmue3"
+    }
+  },
+  "entitlementName": "b2fac5dfd4974fbbb5382a28d3727f5d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d61afbff8cea472fba211bcce1eceacc",
+      "appId": "Pepper",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-19T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

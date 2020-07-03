@@ -1,0 +1,34 @@
+{
+  "id": "216ebbc155d84484b109b01125ab92a3",
+  "title": "DLCSnapperSoundtrackAudience",
+  "description": "DLCSnapperSoundtrackAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-17T22:04:14.866Z",
+  "lastModifiedDate": "2020-04-07T16:48:53.486Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "216ebbc155d84484b109b01125ab92a3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

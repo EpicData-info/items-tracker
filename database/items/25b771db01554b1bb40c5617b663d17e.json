@@ -1,0 +1,118 @@
+{
+  "id": "25b771db01554b1bb40c5617b663d17e",
+  "title": "Enter the Gungeon",
+  "description": "Enter the Gungeon",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/Gungeon_PrimaryPromo-2560x1440-a34ca96251763ff6deb8529a4a39d0a8.jpg",
+      "md5": "a34ca96251763ff6deb8529a4a39d0a8",
+      "width": 2560,
+      "height": 1440,
+      "size": 1003833,
+      "uploadedDate": "2019-06-05T17:39:02.593Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/EnterTheGungeon_GameLogo-1031x353-bedda5b87f979bea3218672710f766b3.png",
+      "md5": "bedda5b87f979bea3218672710f766b3",
+      "width": 1031,
+      "height": 353,
+      "size": 76525,
+      "uploadedDate": "2019-06-05T17:40:29.715Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/Gungeon_PortraitPromo-1280x1440-16a72d4e2592d6a8eb57fbc059d7a4d2.jpg",
+      "md5": "16a72d4e2592d6a8eb57fbc059d7a4d2",
+      "width": 1280,
+      "height": 1440,
+      "size": 335344,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "be13f6c4fb11427fbf3313ce93b97cc0",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-30T21:56:59.325Z",
+  "lastModifiedDate": "2019-11-19T17:02:38.908Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "be13f6c4fb11427fbf3313ce93b97cc0"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Dodge Roll/Enter the Gungeon/"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Dodge Roll/Enter the Gungeon/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.save,*.backup.*,*.game"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EnterTheGungeon"
+    }
+  },
+  "entitlementName": "25b771db01554b1bb40c5617b663d17e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cfda40e1431f4cd4a35cd0e1406e975b",
+      "appId": "Garlic",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-06-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

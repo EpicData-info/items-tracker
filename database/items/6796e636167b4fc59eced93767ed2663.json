@@ -1,0 +1,70 @@
+{
+  "id": "6796e636167b4fc59eced93767ed2663",
+  "title": "SpoonbillStaging",
+  "description": "SpoonbillStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b69961c88cb446a395ace83341dd94cc/item/EGS_Bigben_BeeSimulator_L1_Library_Promo-2560x1440-2eb98aa8b29f111801f44b1d2cc9e4a0.jpg",
+      "md5": "2eb98aa8b29f111801f44b1d2cc9e4a0",
+      "width": 2560,
+      "height": 1440,
+      "size": 288331,
+      "uploadedDate": "2019-10-08T17:16:59.139Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/b69961c88cb446a395ace83341dd94cc/item/EGS_Bigben_BeeSimulator_IC1_GameLogo-200x110-a8585fbe9746c4572d086f59fe3ff8bf.png",
+      "md5": "a8585fbe9746c4572d086f59fe3ff8bf",
+      "width": 200,
+      "height": 110,
+      "size": 10828,
+      "uploadedDate": "2019-10-08T17:17:09.145Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b69961c88cb446a395ace83341dd94cc",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-24T05:04:21.758Z",
+  "lastModifiedDate": "2019-11-14T10:58:47.490Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SpoonbillStaging"
+    }
+  },
+  "entitlementName": "6796e636167b4fc59eced93767ed2663",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a6c0d11375cc4e2593f415fbde4d1ea1",
+      "appId": "SpoonbillStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

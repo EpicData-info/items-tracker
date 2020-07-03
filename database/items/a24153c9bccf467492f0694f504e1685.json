@@ -1,0 +1,35 @@
+{
+  "id": "a24153c9bccf467492f0694f504e1685",
+  "title": "Cockatoo Pre-Purchase Audience",
+  "description": "Cockatoo Pre-Purchase Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c77e320376c14aa68121bffb108721c7",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-27T16:39:12.926Z",
+  "lastModifiedDate": "2020-01-06T16:05:31.068Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a24153c9bccf467492f0694f504e1685",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Curve Digital",
+  "developerId": "o-ws89bsbfb8trgdl3zmerugg4rsuvvt",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

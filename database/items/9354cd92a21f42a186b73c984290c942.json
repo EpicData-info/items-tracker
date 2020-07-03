@@ -1,0 +1,108 @@
+{
+  "id": "9354cd92a21f42a186b73c984290c942",
+  "title": "Limbo",
+  "description": "Limbo",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/92053006068e4aa9b1ad413f72090f5e/item/EGS_PLAYDEAD_LIMBO_LOGO_IC1_WHITE-2000x657-85b24057bcfbd6e070644f35e6db12ec.png",
+      "md5": "85b24057bcfbd6e070644f35e6db12ec",
+      "width": 2000,
+      "height": 657,
+      "size": 39129,
+      "uploadedDate": "2019-07-09T17:44:39.657Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/92053006068e4aa9b1ad413f72090f5e/item/LIMBO_LIBRARY_PROMO-2560x1440-2560x1440-6c93379907b03def09fcd60c6677a5d9.jpg",
+      "md5": "6c93379907b03def09fcd60c6677a5d9",
+      "width": 2560,
+      "height": 1440,
+      "size": 847815,
+      "uploadedDate": "2019-07-24T20:17:10.655Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/92053006068e4aa9b1ad413f72090f5e/item/EGS_PLAYDEAD_LIMBO_STORE PORTRAIT_S3-1280x1440-58450376b5462d7c9779aafa3886df19.jpg",
+      "md5": "58450376b5462d7c9779aafa3886df19",
+      "width": 1280,
+      "height": 1440,
+      "size": 542650,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "92053006068e4aa9b1ad413f72090f5e",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-14T15:50:45.335Z",
+  "lastModifiedDate": "2019-11-19T17:03:07.109Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "92053006068e4aa9b1ad413f72090f5e"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/save_game/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Limbo"
+    }
+  },
+  "entitlementName": "9354cd92a21f42a186b73c984290c942",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5a42dd707b0749419359e424ec0ae3fa",
+      "appId": "Hazelnut",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-07-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Playdead",
+  "developerId": "o-t88sw9ly7ajm3wz7tll53xt3cmypx8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

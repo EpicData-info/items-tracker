@@ -1,0 +1,79 @@
+{
+  "id": "16807a6a32e74816b1d32e6b95780370",
+  "title": "Old World (staging)",
+  "description": "Old World (staging)",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/item/EGS_OldWorld_MohawkGames_S2-860x1148-0e077ae9572c911683633fa9b19bd5c5.jpg",
+      "md5": "0e077ae9572c911683633fa9b19bd5c5",
+      "width": 860,
+      "height": 1148,
+      "size": 696045,
+      "uploadedDate": "2020-04-24T02:52:21.518Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/item/EGS_OldWorld_MohawkGames_S1-2560x1440-9f8de361a5835c8c32754f1e2d7c0084.jpg",
+      "md5": "9f8de361a5835c8c32754f1e2d7c0084",
+      "width": 2560,
+      "height": 1440,
+      "size": 2070193,
+      "uploadedDate": "2020-04-24T02:53:46.360Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "07f4a7dd3c884e5d87e9a209716962ca",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-04T02:18:13.616Z",
+  "lastModifiedDate": "2020-06-19T05:24:11.245Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/OldWorld/Dev/Saves/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OldWorldStaging"
+    }
+  },
+  "entitlementName": "16807a6a32e74816b1d32e6b95780370",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "df00581a1d0f49d19c13ea5a077338db",
+      "appId": "NightjarStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Mohawk Games",
+  "developerId": "o-uw2qbn4nh26vxscergml2f7du26bvk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45671BGmZYEEWY5S8odb5iPvIhoR",
+  "unsearchable": false
+}

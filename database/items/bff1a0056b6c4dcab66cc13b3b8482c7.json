@@ -1,0 +1,33 @@
+{
+  "id": "bff1a0056b6c4dcab66cc13b3b8482c7",
+  "title": "Stories - Father's Promise (ep.1) DLC",
+  "description": "Stories - Father's Promise (ep.1) DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "91189432bbad4478afd611edff7f0339",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-15T23:17:22.920Z",
+  "lastModifiedDate": "2019-08-06T13:01:15.312Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "bff1a0056b6c4dcab66cc13b3b8482c7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "11 Bit Studios",
+  "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

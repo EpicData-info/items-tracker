@@ -1,0 +1,24 @@
+{
+  "id": "4cf1aafec3af4a4b830176eb66d1b270",
+  "title": "Season 3 starter kit",
+  "description": "A legendary skin and 600 v-bucks!",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-02-10T00:00:50.909Z",
+  "lastModifiedDate": "2018-06-19T21:40:00.234Z",
+  "entitlementName": "S3_StarterPack",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2018-02-09T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

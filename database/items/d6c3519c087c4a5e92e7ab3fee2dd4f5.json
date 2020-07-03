@@ -1,0 +1,41 @@
+{
+  "id": "d6c3519c087c4a5e92e7ab3fee2dd4f5",
+  "title": "HadesGeneralAudienceNew",
+  "description": "HadesGeneralAudienceNew",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/min/item/ESRB_Hades_RP-842x404-6c15a1ebb42adae35a438a3c26f5d5d7-842x404-6c15a1ebb42adae35a438a3c26f5d5d7.png",
+      "md5": "6c15a1ebb42adae35a438a3c26f5d5d7",
+      "width": 842,
+      "height": 404,
+      "size": 66566,
+      "uploadedDate": "2019-12-09T14:01:29.079Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "min",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-09T14:02:11.538Z",
+  "lastModifiedDate": "2020-06-23T16:58:05.147Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Win32"
+    }
+  },
+  "entitlementName": "d6c3519c087c4a5e92e7ab3fee2dd4f5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Supergiant Games LLC",
+  "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "RATING_PENDING",
+  "unsearchable": false
+}

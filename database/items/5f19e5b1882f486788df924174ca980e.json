@@ -1,0 +1,35 @@
+{
+  "id": "5f19e5b1882f486788df924174ca980e",
+  "title": "Year End Gifts Audience",
+  "description": "Year End Gifts Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "37baf50c268d47779020d73143bb02b0",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-08T14:41:28.325Z",
+  "lastModifiedDate": "2020-01-08T17:26:06.624Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Win32"
+    }
+  },
+  "entitlementName": "5f19e5b1882f486788df924174ca980e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Dragonest Game",
+  "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

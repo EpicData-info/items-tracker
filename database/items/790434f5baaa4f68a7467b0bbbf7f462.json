@@ -1,0 +1,24 @@
+{
+  "id": "790434f5baaa4f68a7467b0bbbf7f462",
+  "title": "Friend Invite Quota Item 1",
+  "description": "Friend Invite Quota Item 1",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-04-17T02:30:37.717Z",
+  "lastModifiedDate": "2020-01-16T19:37:50.874Z",
+  "entitlementName": "Fortnite_Founders_Pack_Invite",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

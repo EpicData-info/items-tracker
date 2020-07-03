@@ -1,0 +1,23 @@
+{
+  "id": "262583d326d343f5aad3c9a510e3b8e9",
+  "title": "Influencer Banner - Tonioo25",
+  "description": "Influencer Banner - Tonioo25",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-06-14T20:16:16.956Z",
+  "lastModifiedDate": "2017-06-14T22:44:11.546Z",
+  "entitlementName": "INFLUENCERBANNER_Tonioo25",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

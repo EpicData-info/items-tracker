@@ -1,0 +1,23 @@
+{
+  "id": "4312667f0b5248cea3487005fdddf771",
+  "title": "Influencer Banner - ArekkzGaming",
+  "description": "Influencer Banner - ArekkzGaming",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-06-14T19:18:45.210Z",
+  "lastModifiedDate": "2017-06-14T22:44:11.546Z",
+  "entitlementName": "INFLUENCERBANNER_ArekkzGaming",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

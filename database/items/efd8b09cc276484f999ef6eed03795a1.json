@@ -1,0 +1,25 @@
+{
+  "id": "efd8b09cc276484f999ef6eed03795a1",
+  "title": "Deluxe Battle Pass Season 4",
+  "description": "Deluxe Battle Pass Season 4",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-04-18T20:54:04.717Z",
+  "lastModifiedDate": "2018-05-02T22:52:21.329Z",
+  "entitlementName": "BATTLEPASS_Season4_25tiers",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2018-04-18T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

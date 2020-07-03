@@ -1,0 +1,25 @@
+{
+  "id": "c7b2a10d9fba4871bbc0feb41c975c30",
+  "title": "Fortnite Playtest",
+  "description": "Fortnite Playtest",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T19:54:32.237Z",
+  "lastModifiedDate": "2019-11-27T19:55:59.183Z",
+  "entitlementName": "c7b2a10d9fba4871bbc0feb41c975c30",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

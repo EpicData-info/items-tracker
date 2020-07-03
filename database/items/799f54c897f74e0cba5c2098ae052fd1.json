@@ -1,0 +1,35 @@
+{
+  "id": "799f54c897f74e0cba5c2098ae052fd1",
+  "title": "20000 Gems",
+  "description": "20000 Gems",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5fdcc0dc67294af3be740f362bd976fd",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-05T22:51:45.865Z",
+  "lastModifiedDate": "2020-01-16T17:58:49.823Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "799f54c897f74e0cba5c2098ae052fd1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Wizards of the Coast",
+  "developerId": "o-xlb74ml56wsa5dcfcgrpvu4ywndlmm",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

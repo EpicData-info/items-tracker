@@ -1,0 +1,69 @@
+{
+  "id": "da6ff23308514a91831c06eb2f6a3485",
+  "title": "Battle Breakers Mobile Cert",
+  "description": "Battle Breakers Mobile Cert",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wex/item/wex_bg-430x250-7ff217599bc08d57744a959ff00ec48c.png",
+      "md5": "dca0827cd41aa825572a9037d423461f",
+      "width": 430,
+      "height": 250,
+      "size": 224112,
+      "uploadedDate": "2020-01-18T03:13:46.279Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/wex/item/BBLogo-625x408-34f5e3a41a380a7dba705ba302b9ffd0.png",
+      "md5": "7fbc1b75ceca9710822f87edbaf57aa3",
+      "width": 625,
+      "height": 408,
+      "size": 58151,
+      "uploadedDate": "2020-01-18T03:14:03.677Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-18T03:16:11.660Z",
+  "lastModifiedDate": "2020-01-27T17:09:37.150Z",
+  "customAttributes": {
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BattleBreakersMobileCert"
+    }
+  },
+  "entitlementName": "WorldExplorersMobileCert",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d238ca5b6a7841669b09e0286cc0877e",
+      "appId": "WorldExplorersMobileCert",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-01-18T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

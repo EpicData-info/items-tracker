@@ -1,0 +1,36 @@
+{
+  "id": "65fd740c468043f6a57c60b98beddbff",
+  "title": "7 Billion Humans General Audience",
+  "description": "7 Billion Humans General Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "holly",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-15T14:48:17.585Z",
+  "lastModifiedDate": "2020-01-09T18:31:08.796Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "65fd740c468043f6a57c60b98beddbff",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Tomorrow Corporation",
+  "developerId": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

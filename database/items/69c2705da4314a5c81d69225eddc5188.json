@@ -1,0 +1,33 @@
+{
+  "id": "69c2705da4314a5c81d69225eddc5188",
+  "title": "CarpDevAudience",
+  "description": "CarpDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-13T21:35:14.033Z",
+  "lastModifiedDate": "2020-06-11T20:49:32.466Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "69c2705da4314a5c81d69225eddc5188",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Gearbox Publishing",
+  "developerId": "o-dcmk65hvycy3kndmqvfg3yn3up87jn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

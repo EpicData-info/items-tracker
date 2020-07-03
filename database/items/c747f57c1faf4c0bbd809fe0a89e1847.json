@@ -1,0 +1,47 @@
+{
+  "id": "c747f57c1faf4c0bbd809fe0a89e1847",
+  "title": "CuskGeneralAudience",
+  "description": "CuskGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/23f3da2016b94461a7bd7e2eb46aa0f9/item/Diesel_productv2_sherlock-holmes-crimes-and-punishments_ESRB_M_SherlockHolmes_CrimesAndPunishment.jpg-398x190-9318a6bfecbbbd04de2d6b4b33a91d9c51bb8144-398x190-b135a917f564d1c69cefcd89fe960e25.png",
+      "md5": "b135a917f564d1c69cefcd89fe960e25",
+      "width": 398,
+      "height": 190,
+      "size": 4145,
+      "uploadedDate": "2020-04-09T15:08:28.682Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "23f3da2016b94461a7bd7e2eb46aa0f9",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-12T13:19:45.654Z",
+  "lastModifiedDate": "2020-05-15T01:50:40.314Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c747f57c1faf4c0bbd809fe0a89e1847",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

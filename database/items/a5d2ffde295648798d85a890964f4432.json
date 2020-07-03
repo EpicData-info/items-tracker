@@ -1,0 +1,74 @@
+{
+  "id": "a5d2ffde295648798d85a890964f4432",
+  "title": "AmaranthDebug",
+  "description": "AmaranthDebug",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/amaranth/item/EGS_PanacheDigitalGames_AncestorsTheHumankindOdyssey_IC1_GameLogoDarkbg-3000x1206-32a3a2c8b1036e5d757171bfc9c960ed.png",
+      "md5": "32a3a2c8b1036e5d757171bfc9c960ed",
+      "width": 3000,
+      "height": 1206,
+      "size": 55259,
+      "uploadedDate": "2019-05-23T18:35:19.648Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/amaranth/item/EGS_PanacheDigitalGames_Ancestors_N2_2560x1440-2560x1440-50339597c82243866cade177e5ed78cf.png",
+      "md5": "50339597c82243866cade177e5ed78cf",
+      "width": 2560,
+      "height": 1440,
+      "size": 1603409,
+      "uploadedDate": "2019-05-23T18:35:29.522Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "amaranth",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-09T19:44:14.970Z",
+  "lastModifiedDate": "2019-08-27T12:51:25.163Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AmaranthDebug"
+    }
+  },
+  "entitlementName": "a5d2ffde295648798d85a890964f4432",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8f4acab5b1e940049614e2f633b457de",
+      "appId": "AmaranthDebug",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-18T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Private Division",
+  "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

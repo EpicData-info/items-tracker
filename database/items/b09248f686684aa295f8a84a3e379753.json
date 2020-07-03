@@ -1,0 +1,24 @@
+{
+  "id": "b09248f686684aa295f8a84a3e379753",
+  "title": "Fortnite External QA - KWS",
+  "description": "Fortnite External QA - KWS",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-12T22:22:42.658Z",
+  "lastModifiedDate": "2019-04-12T22:22:42.658Z",
+  "entitlementName": "b09248f686684aa295f8a84a3e379753",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

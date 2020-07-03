@@ -1,0 +1,46 @@
+{
+  "id": "7ddc2fa026834316b646ba4c9c4c47f3",
+  "title": "AnchovyGeneralAudience",
+  "description": "AnchovyGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/fc8d1547232045f6a23257cfd04ef3e8/item/ESRB_RaymanLegends-842x404-3a5c2ceda54a3347d5861c0315f9f660.png",
+      "md5": "3a5c2ceda54a3347d5861c0315f9f660",
+      "width": 842,
+      "height": 404,
+      "size": 60365,
+      "uploadedDate": "2019-11-18T23:02:28.448Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "fc8d1547232045f6a23257cfd04ef3e8",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-23T17:43:37.380Z",
+  "lastModifiedDate": "2019-11-21T15:45:11.939Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7ddc2fa026834316b646ba4c9c4c47f3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "selfRefundable": true,
+  "unsearchable": false
+}

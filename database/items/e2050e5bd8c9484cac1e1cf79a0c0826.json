@@ -1,0 +1,24 @@
+{
+  "id": "e2050e5bd8c9484cac1e1cf79a0c0826",
+  "title": "Ocean External - Apple Cert",
+  "description": "Ocean External - Apple Cert",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-18T16:58:51.817Z",
+  "lastModifiedDate": "2019-09-18T16:58:51.817Z",
+  "entitlementName": "e2050e5bd8c9484cac1e1cf79a0c0826",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

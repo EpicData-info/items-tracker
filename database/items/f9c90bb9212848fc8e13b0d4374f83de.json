@@ -1,0 +1,51 @@
+{
+  "id": "f9c90bb9212848fc8e13b0d4374f83de",
+  "title": "Cosmos Playtest 3",
+  "description": "Cosmos Playtest 3",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cosmos",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-26T02:02:29.633Z",
+  "lastModifiedDate": "2019-11-12T17:58:47.654Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RuneIIPlaytest3"
+    }
+  },
+  "entitlementName": "f9c90bb9212848fc8e13b0d4374f83de",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "225e9f09058541b99a20130dfcff9cd7",
+      "appId": "CosmosPlaytest3",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-07-26T02:01:36.891Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Human Head Studios, Inc.",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

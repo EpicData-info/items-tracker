@@ -1,0 +1,88 @@
+{
+  "id": "c9e832ea9f92414b8eb78960b81c84b1",
+  "title": "TurtleCert",
+  "description": "TurtleCert",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/turtle/item/ManEater_Logo__White_Red-611x338-17e1f3827e4934a0da8b92e4c29561be.png",
+      "md5": "17e1f3827e4934a0da8b92e4c29561be",
+      "width": 611,
+      "height": 338,
+      "size": 19497,
+      "uploadedDate": "2019-05-01T16:50:03.013Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/turtle/item/maneaterWide-2580x1456-a66dd2422bbbb9feef9304933254bb78.jpg",
+      "md5": "a66dd2422bbbb9feef9304933254bb78",
+      "width": 2580,
+      "height": 1456,
+      "size": 414334,
+      "uploadedDate": "2019-10-24T22:23:58.321Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/turtle/item/Maneater_logoTall-1288x1450-3f3224ed80617513f63a140ee53a4aff.jpg",
+      "md5": "3f3224ed80617513f63a140ee53a4aff",
+      "width": 1288,
+      "height": 1450,
+      "size": 233776,
+      "uploadedDate": "2019-12-17T20:25:52.957Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "turtle",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-22T02:09:25.226Z",
+  "lastModifiedDate": "2020-05-22T12:50:13.773Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TurtleCert"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c9e832ea9f92414b8eb78960b81c84b1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "01fab4ed21bf4d0f9aeb2ec5fb4a46ad",
+      "appId": "TurtleCert",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-05-01T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

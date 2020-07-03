@@ -1,0 +1,59 @@
+{
+  "id": "602aa9a2ebcc4b5fabe84b4eeec8245a",
+  "title": "CarnationStaging",
+  "description": "CarnationStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "carnation",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-11T19:28:35.255Z",
+  "lastModifiedDate": "2019-08-27T16:14:32.002Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "c33fd01568d145a2854d34f0b0c19ec2"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CarnationStaging"
+    }
+  },
+  "entitlementName": "602aa9a2ebcc4b5fabe84b4eeec8245a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a591780dfefd4999a1c7843acb9610f8",
+      "appId": "CarnationStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-11T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,80 @@
+{
+  "id": "fbd90bc3d83e4b62b56deb900169d1ad",
+  "title": "Unreal Tournament Public Test",
+  "description": "Unreal Tournament Public Test",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ut/item/ut_dev_bg-2580x1456-3490b4df7c357df8b5a3d921a70e9144.png",
+      "md5": "3490b4df7c357df8b5a3d921a70e9144",
+      "width": 2580,
+      "height": 1456,
+      "size": 1444321,
+      "uploadedDate": "2018-11-07T00:59:20.459Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/ut/item/utlogo-1024x331-f384b1185cd1544a0a72eb1317cac11f.png",
+      "md5": "f384b1185cd1544a0a72eb1317cac11f",
+      "width": 1024,
+      "height": 331,
+      "size": 56011,
+      "uploadedDate": "2018-11-07T00:59:38.077Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ut/item/ut_dev_bg-2580x1456-3490b4df7c357df8b5a3d921a70e9144-2580x1456-3490b4df7c357df8b5a3d921a70e9144.png",
+      "md5": "3490b4df7c357df8b5a3d921a70e9144",
+      "width": 2580,
+      "height": 1456,
+      "size": 1444321,
+      "uploadedDate": "2019-11-20T21:19:41.991Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2016-02-04T20:56:56.370Z",
+  "lastModifiedDate": "2019-11-20T21:19:45.471Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "UTPublicTest"
+    }
+  },
+  "entitlementName": "UnrealTournamentPublicTest",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f601c0d0c5fb4c6689a7bce942231633",
+      "appId": "UnrealTournamentPublicTest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2016-02-03T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

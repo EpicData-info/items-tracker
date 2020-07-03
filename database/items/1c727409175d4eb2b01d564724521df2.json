@@ -1,0 +1,66 @@
+{
+  "id": "1c727409175d4eb2b01d564724521df2",
+  "title": "Metro Exodus DLC1 Staging",
+  "description": "Metro Exodus DLC1 Staging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/Metro_PrimaryPromo-2580x1450-0e5b7a55fb64f2b4ab1a46455a9293e0.jpg",
+      "md5": "0e5b7a55fb64f2b4ab1a46455a9293e0",
+      "width": 2580,
+      "height": 1450,
+      "size": 580337,
+      "uploadedDate": "2019-05-08T18:45:01.661Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/MetroExodus_GameLogo_White_Update-1920x977-f10c341ff6f51bcc2fa17c53a1ecd025.jpg",
+      "md5": "f10c341ff6f51bcc2fa17c53a1ecd025",
+      "width": 1920,
+      "height": 977,
+      "size": 163371,
+      "uploadedDate": "2019-05-08T18:45:11.545Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "snapdragon",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-30T02:50:14.529Z",
+  "lastModifiedDate": "2019-06-25T23:58:31.746Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "1c727409175d4eb2b01d564724521df2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "37f19bd0bf504676ad9deb2fb351d213",
+      "appId": "SnapdragonDLC1Staging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-05-08T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

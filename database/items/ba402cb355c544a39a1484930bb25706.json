@@ -1,0 +1,100 @@
+{
+  "id": "ba402cb355c544a39a1484930bb25706",
+  "title": "Dangerous Driving",
+  "description": "Dangerous Driving",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/pansy/item/Primary_Promo_Dangerous_Driving-2580x1450-8e12ec09cb117864cdfe66dcd0baed2e.jpg",
+      "md5": "8e12ec09cb117864cdfe66dcd0baed2e",
+      "width": 2580,
+      "height": 1450,
+      "size": 400830,
+      "uploadedDate": "2019-03-19T15:58:39.236Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/pansy/item/Game_Logo_Dangerous_Driving-1821x1036-8fabb0125bf1a5aa5c8e43a6ae402614.png",
+      "md5": "8fabb0125bf1a5aa5c8e43a6ae402614",
+      "width": 1821,
+      "height": 1036,
+      "size": 709368,
+      "uploadedDate": "2019-03-19T15:58:48.257Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/pansy/item/PortraitPromo_DangerousDriving-1280x1420-63d7f4a103455f2e42a2d1f83837210e.jpg",
+      "md5": "63d7f4a103455f2e42a2d1f83837210e",
+      "width": 1280,
+      "height": 1420,
+      "size": 228003,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "pansy",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-04T18:03:52.027Z",
+  "lastModifiedDate": "2020-03-10T15:43:30.577Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "pansy"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/DangerousDriving/Saved/SaveGames/"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DangerousDriving"
+    }
+  },
+  "entitlementName": "ba402cb355c544a39a1484930bb25706",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f26fa7fda616464c931b40ef2dde17d0",
+      "appId": "Pansy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-04T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Three Fields Entertainment",
+  "developerId": "o-f82s3dr485xfmhuuzc2ubtc2j2mdpj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,104 @@
+{
+  "id": "8c0bd96a32fb4e1e8955a62a414c84d5",
+  "title": "Torchlight",
+  "description": "Torchlight",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/d0230ef21b1f4ef29aec0d49946912fc/item/Torchlight_Promo-2560x1440-d6647c60a7e202abc7c89c7fb945a45b.jpg",
+      "md5": "d6647c60a7e202abc7c89c7fb945a45b",
+      "width": 2560,
+      "height": 1440,
+      "size": 340758,
+      "uploadedDate": "2019-06-24T18:02:48.886Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/d0230ef21b1f4ef29aec0d49946912fc/item/Torchlight_Logo-1800x900-b5aad2e378bed7eb1f4d880e352e1b47.png",
+      "md5": "b5aad2e378bed7eb1f4d880e352e1b47",
+      "width": 1800,
+      "height": 900,
+      "size": 247518,
+      "uploadedDate": "2019-06-24T18:02:59.381Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/d0230ef21b1f4ef29aec0d49946912fc/item/Torchlight_Portrait-1280x1440-fa2d9c01c3c43b5e3221b6cf1ff717bc.png",
+      "md5": "fa2d9c01c3c43b5e3221b6cf1ff717bc",
+      "width": 1280,
+      "height": 1440,
+      "size": 1632854,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d0230ef21b1f4ef29aec0d49946912fc",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-08T15:55:29.460Z",
+  "lastModifiedDate": "2020-02-24T21:53:38.494Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "d0230ef21b1f4ef29aec0d49946912fc"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../Roaming/runic games/torchlight/save/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Torchlight"
+    }
+  },
+  "entitlementName": "8c0bd96a32fb4e1e8955a62a414c84d5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "aaae4567b60a4cdba629039c72649cdf",
+      "appId": "Terragon",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Perfect World",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

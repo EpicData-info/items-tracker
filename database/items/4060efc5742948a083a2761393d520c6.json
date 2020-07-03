@@ -1,0 +1,35 @@
+{
+  "id": "4060efc5742948a083a2761393d520c6",
+  "title": "DLC6 Audience",
+  "description": "Premium Cyberpunk Ticket",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-13T21:50:09.820Z",
+  "lastModifiedDate": "2020-06-18T01:06:58.704Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4060efc5742948a083a2761393d520c6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

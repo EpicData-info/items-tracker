@@ -1,0 +1,46 @@
+{
+  "id": "6f497455242046ca86887eedfd8b62b6",
+  "title": "PumpkinGeneralAudience",
+  "description": "PumpkinGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/4fd85a772cd5471aa5e38efcaa0d6f24/item/esrb_last_day_june-842x404-81ad15ce2b1220c30c4b639938f45644.jpg",
+      "md5": "81ad15ce2b1220c30c4b639938f45644",
+      "width": 842,
+      "height": 404,
+      "size": 58983,
+      "uploadedDate": "2020-01-08T21:02:35.089Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "4fd85a772cd5471aa5e38efcaa0d6f24",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-03T21:00:17.771Z",
+  "lastModifiedDate": "2020-01-08T21:02:52.217Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6f497455242046ca86887eedfd8b62b6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "505 Games S.r.l.",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

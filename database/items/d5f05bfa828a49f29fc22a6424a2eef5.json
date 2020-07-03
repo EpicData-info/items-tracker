@@ -1,0 +1,25 @@
+{
+  "id": "d5f05bfa828a49f29fc22a6424a2eef5",
+  "title": "Fortnite External Competitive - Victory Pictures",
+  "description": "Fortnite External Competitive - Victory Pictures",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "SUNSET",
+  "creationDate": "2019-08-14T21:07:12.053Z",
+  "lastModifiedDate": "2020-02-13T18:35:45.482Z",
+  "entitlementName": "d5f05bfa828a49f29fc22a6424a2eef5",
+  "entitlementType": "AUDIENCE",
+  "entitlementEndDate": "2020-02-14T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

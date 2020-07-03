@@ -1,0 +1,24 @@
+{
+  "id": "680f3ec166754fe8adae239b141e191f",
+  "title": "ESPORTS_WINNER",
+  "description": "ESPORTS_WINNER",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-08-28T09:52:46.430Z",
+  "lastModifiedDate": "2018-08-29T20:57:13.438Z",
+  "entitlementName": "ESPORTS_WINNER",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

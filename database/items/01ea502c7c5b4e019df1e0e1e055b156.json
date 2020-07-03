@@ -1,0 +1,95 @@
+{
+  "id": "01ea502c7c5b4e019df1e0e1e055b156",
+  "title": "Omen of Sorrow Demo",
+  "description": "Omen of Sorrow Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/daffodil/item/background_epic_demogame-2560x1440-3f7f13f0b7bcbf6e24d3005c87fdf0e4.png",
+      "md5": "3f7f13f0b7bcbf6e24d3005c87fdf0e4",
+      "width": 2560,
+      "height": 1440,
+      "size": 5106493,
+      "uploadedDate": "2020-04-21T14:09:56.735Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/daffodil/item/portrait_epicgames_demo-860x1148-4a1f90c44dc87bab5470b7e7755ae3ce.png",
+      "md5": "4a1f90c44dc87bab5470b7e7755ae3ce",
+      "width": 860,
+      "height": 1148,
+      "size": 1900254,
+      "uploadedDate": "2020-04-21T14:10:12.166Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "daffodil",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-14T21:57:11.080Z",
+  "lastModifiedDate": "2020-04-21T14:11:20.116Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "daffodil"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OmenOfSorrowDemo"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "01ea502c7c5b4e019df1e0e1e055b156",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b41d7fb5a931480e8bd2e67c583306f1",
+      "appId": "DaffodilDemo",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-14T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "AOne Games",
+  "developerId": "o-ee2mpv5fbfg9j22arjrh7vjmypew5q",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

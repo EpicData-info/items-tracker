@@ -1,0 +1,53 @@
+{
+  "id": "bf8afcbc08fa4556a4c0c015b5d2991a",
+  "title": "stargazerdev",
+  "description": "stargazerdev",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5fdcc0dc67294af3be740f362bd976fd",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-07T13:13:19.885Z",
+  "lastModifiedDate": "2020-03-26T18:55:30.513Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "stargazerStaging"
+    }
+  },
+  "entitlementName": "bf8afcbc08fa4556a4c0c015b5d2991a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b726dbf1c5d6480dbd393c180c0c6583",
+      "appId": "stargazerdev",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-08-15T00:00:00.000Z"
+    }
+  ],
+  "developer": "Wizards of the Coast",
+  "developerId": "o-xlb74ml56wsa5dcfcgrpvu4ywndlmm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

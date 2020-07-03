@@ -1,0 +1,91 @@
+{
+  "id": "ce97a766781a4893a40f39b90fa41f7a",
+  "title": "Surgeon Simulator 2",
+  "description": "Surgeon Simulator 2",
+  "longDescription": "Surgeon Simulator 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7f1fa336313d48eca0a802170aa8dd8a/item/EGS_Bossa_SurgeonSimulator2_G1A_00-1920x1080-6f9f6254f55eb2213208bd39f6947463.jpg",
+      "md5": "6f9f6254f55eb2213208bd39f6947463",
+      "width": 1920,
+      "height": 1080,
+      "size": 656378,
+      "uploadedDate": "2020-02-11T16:23:04.167Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7f1fa336313d48eca0a802170aa8dd8a/item/EGS_Bossa_SurgeonSimulator2_S4-510x680-3df245d076432c9d3070798ce82bf102.jpg",
+      "md5": "3df245d076432c9d3070798ce82bf102",
+      "width": 510,
+      "height": 680,
+      "size": 189156,
+      "uploadedDate": "2020-02-11T16:23:17.029Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-11T16:25:02.997Z",
+  "lastModifiedDate": "2020-02-11T16:25:02.997Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "7f1fa336313d48eca0a802170aa8dd8a"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SurgeonSimulator2"
+    }
+  },
+  "entitlementName": "ce97a766781a4893a40f39b90fa41f7a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a6e32619427642a08daee651e063339e",
+      "appId": "Tanager",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Bossa Studios",
+  "developerId": "o-2xhhr8jdtcqt7uprgbpvf7g9k2vppu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

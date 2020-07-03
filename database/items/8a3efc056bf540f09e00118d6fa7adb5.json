@@ -1,0 +1,75 @@
+{
+  "id": "8a3efc056bf540f09e00118d6fa7adb5",
+  "title": "Dread Nautical Pre-Purchase DLC",
+  "description": "Dread Nautical Pre-Purchase DLC",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/item/EGS_DradNautical_ZenStudios_S1-2560x1440-541b2817a7acf4fb4c71dd31b6e3e340-2560x1440-541b2817a7acf4fb4c71dd31b6e3e340.jpg",
+      "md5": "541b2817a7acf4fb4c71dd31b6e3e340",
+      "width": 2560,
+      "height": 1440,
+      "size": 438638,
+      "uploadedDate": "2020-03-20T19:59:17.530Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/item/EGS_DradNautical_ZenStudios_S2-860x1148-c0f2aef20a80be1aa32f424bfe82810f-860x1148-c0f2aef20a80be1aa32f424bfe82810f.jpg",
+      "md5": "c0f2aef20a80be1aa32f424bfe82810f",
+      "width": 860,
+      "height": 1148,
+      "size": 359599,
+      "uploadedDate": "2020-03-20T19:59:36.825Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "30bf97ae13f74c3d87c9f3fe04d507ba",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-11T18:10:42.577Z",
+  "lastModifiedDate": "2020-04-29T14:47:37.197Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DNPrePurchaseDLC"
+    }
+  },
+  "entitlementName": "8a3efc056bf540f09e00118d6fa7adb5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c4cd6ec3d2c3483b8592e94ddacc612e",
+      "appId": "OpahPrePurchaseDLC",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-02-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

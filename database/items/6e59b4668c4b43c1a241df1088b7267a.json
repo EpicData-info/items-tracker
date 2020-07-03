@@ -1,0 +1,54 @@
+{
+  "id": "6e59b4668c4b43c1a241df1088b7267a",
+  "title": "FlamingoGeneralAudience",
+  "description": "FlamingoGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/52613245bcd34a8eb99078f423620a4d/item/ESRB_Paranoia-842x404-f34529daa4c2fc969dde2a74360ec2c2.png",
+      "md5": "f34529daa4c2fc969dde2a74360ec2c2",
+      "width": 842,
+      "height": 404,
+      "size": 13253,
+      "uploadedDate": "2019-09-20T19:57:40.809Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/52613245bcd34a8eb99078f423620a4d/item/EGS_Bigben_Paranoia_S3-1084x1356-931b0c534dc68a9df8160626655116cf.jpg",
+      "md5": "931b0c534dc68a9df8160626655116cf",
+      "width": 1084,
+      "height": 1356,
+      "size": 305189,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "52613245bcd34a8eb99078f423620a4d",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-24T05:14:50.715Z",
+  "lastModifiedDate": "2019-12-05T13:57:39.016Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6e59b4668c4b43c1a241df1088b7267a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

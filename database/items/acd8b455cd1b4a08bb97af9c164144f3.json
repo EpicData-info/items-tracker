@@ -1,0 +1,36 @@
+{
+  "id": "acd8b455cd1b4a08bb97af9c164144f3",
+  "title": "Currency Pack 2",
+  "description": "Currency Pack 2",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "azalea",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-29T21:34:55.868Z",
+  "lastModifiedDate": "2019-10-08T13:35:33.086Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "acd8b455cd1b4a08bb97af9c164144f3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

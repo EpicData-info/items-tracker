@@ -1,0 +1,31 @@
+{
+  "id": "cab94ef6d05c4641916346969ccd2b28",
+  "title": "Journey General Audience",
+  "description": "Journey General Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "lemur",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-06T02:19:08.713Z",
+  "lastModifiedDate": "2020-01-07T16:23:15.771Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "cab94ef6d05c4641916346969ccd2b28",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

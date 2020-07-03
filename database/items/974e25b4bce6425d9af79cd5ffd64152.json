@@ -1,0 +1,36 @@
+{
+  "id": "974e25b4bce6425d9af79cd5ffd64152",
+  "title": "Warrior Weapon Audience",
+  "description": "Warrior Weapon Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "cosmos",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-15T14:26:40.152Z",
+  "lastModifiedDate": "2020-01-08T14:42:56.373Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "974e25b4bce6425d9af79cd5ffd64152",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ragnarok Game, LLC",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

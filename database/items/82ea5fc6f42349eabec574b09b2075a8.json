@@ -1,0 +1,78 @@
+{
+  "id": "82ea5fc6f42349eabec574b09b2075a8",
+  "title": "OleanderStaging",
+  "description": "OleanderStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/oleander/item/JTSP_LOGO_Hires_WHTE_Optimized-1920x1344-b07ce8dd6b8af8409e7735f5d5e39b63.png",
+      "md5": "b07ce8dd6b8af8409e7735f5d5e39b63",
+      "width": 1920,
+      "height": 1344,
+      "size": 203420,
+      "uploadedDate": "2019-03-19T21:53:06.831Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/oleander/item/Primary promo-2580x1450-8f87796564b7043f5c2ca309de77b7f7.jpg",
+      "md5": "8f87796564b7043f5c2ca309de77b7f7",
+      "width": 2580,
+      "height": 1450,
+      "size": 1440379,
+      "uploadedDate": "2019-08-19T13:20:33.799Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "oleander",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-11T18:44:34.652Z",
+  "lastModifiedDate": "2020-03-18T18:54:42.287Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}//Towers/Saved/SaveGames/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OleanderStaging"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "82ea5fc6f42349eabec574b09b2075a8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5608b379063b45ae8976063e928410fa",
+      "appId": "OleanderStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-11T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,71 @@
+{
+  "id": "9693f340b26d416b972973e3489f28f3",
+  "title": "DEV KingletAustraliaStaging",
+  "description": "DEV KingletAustraliaStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "dlc"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-24T16:09:09.291Z",
+  "lastModifiedDate": "2020-06-04T19:03:27.930Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "cd14dcaa4f3443f19f7169a980559c62"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KingletAustraliaStaging"
+    }
+  },
+  "entitlementName": "9693f340b26d416b972973e3489f28f3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "16452fabe2e04d1da615a1c96c524288",
+      "appId": "KingletAustraliaStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

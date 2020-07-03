@@ -1,0 +1,46 @@
+{
+  "id": "484af5ec8ef64a7aab3d9059640ea028",
+  "title": "HermitGoldAudience",
+  "description": "HermitGoldAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/item/TheCrew2_ESRB_T-842x485-25bf8a62700036e009e914347f30e805.jpg",
+      "md5": "25bf8a62700036e009e914347f30e805",
+      "width": 842,
+      "height": 485,
+      "size": 87849,
+      "uploadedDate": "2020-01-14T19:09:19.496Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "599d248ca46b45a8b40a3b4e484712cb",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T21:13:13.599Z",
+  "lastModifiedDate": "2020-01-14T19:09:23.627Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "484af5ec8ef64a7aab3d9059640ea028",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "selfRefundable": true,
+  "unsearchable": false
+}

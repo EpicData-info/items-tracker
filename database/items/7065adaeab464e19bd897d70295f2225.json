@@ -1,0 +1,35 @@
+{
+  "id": "7065adaeab464e19bd897d70295f2225",
+  "title": "SM Press Audience",
+  "description": "SM Press Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "nutmeg",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T13:59:59.748Z",
+  "lastModifiedDate": "2019-12-10T18:14:54.342Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7065adaeab464e19bd897d70295f2225",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Digital Continue",
+  "developerId": "o-qb7ry6eblsrnt28hxlcuw8w5j5t7y3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

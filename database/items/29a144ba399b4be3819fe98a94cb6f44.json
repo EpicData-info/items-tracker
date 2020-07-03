@@ -1,0 +1,51 @@
+{
+  "id": "29a144ba399b4be3819fe98a94cb6f44",
+  "title": "EscolarStaging",
+  "description": "EscolarStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f5d58106a0e143758ddf2bb30dd72ae2",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-10T20:00:28.555Z",
+  "lastModifiedDate": "2020-04-13T15:42:14.678Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EscolarStaging"
+    }
+  },
+  "entitlementName": "29a144ba399b4be3819fe98a94cb6f44",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "939c40712aec4ed284509eb79b74fd71",
+      "appId": "EscolarStaging",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-04-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "Santa Ragione",
+  "developerId": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

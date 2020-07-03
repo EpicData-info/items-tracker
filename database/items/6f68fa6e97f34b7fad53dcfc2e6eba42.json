@@ -1,0 +1,55 @@
+{
+  "id": "6f68fa6e97f34b7fad53dcfc2e6eba42",
+  "title": "CatnipBuildTest1",
+  "description": "CatnipBuildTest1",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "catnip",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-15T22:26:36.150Z",
+  "lastModifiedDate": "2020-06-15T20:52:55.764Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CatnipBuildTest1"
+    }
+  },
+  "entitlementName": "6f68fa6e97f34b7fad53dcfc2e6eba42",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b2edd32c074e43f69ecf427afe4a1008",
+      "appId": "CatnipBuildTest1",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-15T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

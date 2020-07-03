@@ -1,0 +1,49 @@
+{
+  "id": "58f6418842a842bfb0a01ef135ae464a",
+  "title": "Dedicated Server",
+  "description": "Dedicated Server",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "conanexiles",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-30T20:40:46.020Z",
+  "lastModifiedDate": "2020-06-30T13:18:58.209Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FreeDLC"
+    }
+  },
+  "entitlementName": "58f6418842a842bfb0a01ef135ae464a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7608baa6e61e47e49d2f111632e1c884",
+      "appId": "8efabb9c553b4a43a7ec95d452307429",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-03-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Funcom",
+  "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

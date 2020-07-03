@@ -1,0 +1,23 @@
+{
+  "id": "181a3d6aafca4b658c51970187a8aedd",
+  "title": "Hammer Party",
+  "description": "Hammer Party",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "rotating_offers"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2017-08-29T18:33:49.461Z",
+  "lastModifiedDate": "2017-08-29T18:35:58.402Z",
+  "entitlementName": "181a3d6aafca4b658c51970187a8aedd",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

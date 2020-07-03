@@ -1,0 +1,46 @@
+{
+  "id": "aefc97eb9b424af1b9cad2add28b900e",
+  "title": "C_DevBlog",
+  "description": "DEVELOPER BLOG",
+  "technicalDetails": "http://epic.gm/launcherblog",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/c_DevBlog-960x540-47a339f84a938a4ae20f6d2856e60e38.png",
+      "md5": "47a339f84a938a4ae20f6d2856e60e38",
+      "width": 960,
+      "height": 540,
+      "size": 312349,
+      "uploadedDate": "2017-02-23T21:09:42.101Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "learn"
+    },
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "learn/features"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2014-11-07T19:32:07.558Z",
+  "lastModifiedDate": "2017-02-23T22:09:04.620Z",
+  "entitlementName": "UnrealTournament",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

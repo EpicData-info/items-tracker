@@ -1,0 +1,61 @@
+{
+  "id": "4b88e2168cbd414eb6ea08b365f6c4ef",
+  "title": "ColumbineDemoStagingJA",
+  "description": "ColumbineDemoStagingJA",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "columbine",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-04T11:41:29.960Z",
+  "lastModifiedDate": "2019-12-12T12:59:57.263Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ColumbineDemoStagingJA"
+    }
+  },
+  "entitlementName": "4b88e2168cbd414eb6ea08b365f6c4ef",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b86e2fa868bb42738b7213e8511cbebd",
+      "appId": "ColumbineDemoStagingJA",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-04T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": "3b8aced574054341bd8046610dfbeb9e",
+  "title": "Lobo DLC",
+  "description": "Lobo DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "dlc"
+    }
+  ],
+  "namespace": "wombat",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-18T19:12:59.027Z",
+  "lastModifiedDate": "2020-05-05T10:00:00.222Z",
+  "entitlementName": "3b8aced574054341bd8046610dfbeb9e",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

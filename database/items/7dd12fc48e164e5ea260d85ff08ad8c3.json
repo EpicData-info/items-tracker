@@ -1,0 +1,35 @@
+{
+  "id": "7dd12fc48e164e5ea260d85ff08ad8c3",
+  "title": "ProteaDevAudience",
+  "description": "ProteaDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "protea",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-18T05:22:15.028Z",
+  "lastModifiedDate": "2019-06-11T18:54:56.090Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7dd12fc48e164e5ea260d85ff08ad8c3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Brace Yourself Games",
+  "developerId": "o-5y95w2k7uu469v8lr4dyzeff447wfm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,81 @@
+{
+  "id": "fe7a1e522735449195d4e8314a160a32",
+  "title": "MechWarrior 5 Press",
+  "description": "MechWarrior 5 Press",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/l1-library-promo-2560x1440-ab3c93d0934ae441d018a1517bfd8fca-2560x1440-ab3c93d0934ae441d018a1517bfd8fca.jpg",
+      "md5": "ab3c93d0934ae441d018a1517bfd8fca",
+      "width": 2560,
+      "height": 1440,
+      "size": 520437,
+      "uploadedDate": "2019-11-18T19:17:33.204Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/mechwarrior-5-logo-white-gradient-1309x153-289a48edbf524ce429964b2e0606f043-1309x153-289a48edbf524ce429964b2e0606f043.png",
+      "md5": "289a48edbf524ce429964b2e0606f043",
+      "width": 1309,
+      "height": 153,
+      "size": 7034,
+      "uploadedDate": "2019-11-18T19:17:45.622Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b9def67e597b4be7a16146146a044d02",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-18T19:20:37.076Z",
+  "lastModifiedDate": "2019-12-10T13:52:42.994Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MW5Press"
+    }
+  },
+  "entitlementName": "fe7a1e522735449195d4e8314a160a32",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cde9615d7fb84d7aa26b8838b493998a",
+      "appId": "HoopoePress",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-11-18T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Piranha Games",
+  "developerId": "o-muad9pj32k67stc4ycpgpplwq84sgq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

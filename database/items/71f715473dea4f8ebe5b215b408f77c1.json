@@ -1,0 +1,46 @@
+{
+  "id": "71f715473dea4f8ebe5b215b408f77c1",
+  "title": "StellulaGeneralAudience",
+  "description": "StellulaGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/item/ESRB_NoDescriptors_UsersInteract-842x485-c55c3b08996eb8487d4a6956c84d6d66.jpg",
+      "md5": "c55c3b08996eb8487d4a6956c84d6d66",
+      "width": 842,
+      "height": 485,
+      "size": 86271,
+      "uploadedDate": "2020-01-23T14:44:34.948Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "493e9ad801e8487497fe7840cb8404bb",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-03T20:05:30.215Z",
+  "lastModifiedDate": "2020-01-30T15:57:38.646Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "71f715473dea4f8ebe5b215b408f77c1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

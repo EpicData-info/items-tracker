@@ -1,0 +1,46 @@
+{
+  "id": "9ed2409f2a7e413f87f0de324bdf9941",
+  "title": "RUNE II PublicTest Audience",
+  "description": "RUNE II PublicTest Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/cosmos/item/RP_FOR_T_M_AO-842x404-e685858d6f01213bedf5b2abec53be94.png",
+      "md5": "e685858d6f01213bedf5b2abec53be94",
+      "width": 842,
+      "height": 404,
+      "size": 55379,
+      "uploadedDate": "2019-05-17T19:45:31.491Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "cosmos",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-17T23:54:34.362Z",
+  "lastModifiedDate": "2019-11-12T17:58:47.653Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9ed2409f2a7e413f87f0de324bdf9941",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Human Head Studios, Inc.",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "RATING_PENDING",
+  "unsearchable": false
+}

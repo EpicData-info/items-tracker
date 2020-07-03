@@ -1,0 +1,51 @@
+{
+  "id": "31b7eb380df644f69852721baaa2086b",
+  "title": "Darevil",
+  "description": "Darevil",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-12T03:05:30.023Z",
+  "lastModifiedDate": "2020-04-09T14:22:00.647Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Darevil"
+    }
+  },
+  "entitlementName": "31b7eb380df644f69852721baaa2086b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4f53f80e7b584c0fb78ca6412f089406",
+      "appId": "KakopoDarevil",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix",
+  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

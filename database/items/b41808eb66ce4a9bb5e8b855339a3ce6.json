@@ -1,0 +1,35 @@
+{
+  "id": "b41808eb66ce4a9bb5e8b855339a3ce6",
+  "title": "StableTestingAudience",
+  "description": "StableTestingAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "bd46d4ce259349e5bd8b3ded20274737",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-02T20:07:51.315Z",
+  "lastModifiedDate": "2020-04-02T20:10:22.252Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b41808eb66ce4a9bb5e8b855339a3ce6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

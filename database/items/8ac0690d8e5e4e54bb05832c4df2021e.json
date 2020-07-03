@@ -1,0 +1,84 @@
+{
+  "id": "8ac0690d8e5e4e54bb05832c4df2021e",
+  "title": "SparrowStableStaging",
+  "description": "SparrowStableStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ZOMBIEARMY4_S2_KEYART-2560x1440-d32f9a54e89f6f86471618a239f1a016.jpg",
+      "md5": "d32f9a54e89f6f86471618a239f1a016",
+      "width": 2560,
+      "height": 1440,
+      "size": 295118,
+      "uploadedDate": "2019-06-25T18:35:14.956Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ZOMBIEARMY4_IC1_COLOR-1920x998-778c9fb7e6ed950106326d9961ecd76f.png",
+      "md5": "778c9fb7e6ed950106326d9961ecd76f",
+      "width": 1920,
+      "height": 998,
+      "size": 211626,
+      "uploadedDate": "2019-06-25T18:35:24.845Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ZOMBIEARMY4-1280x1440-9c2aabc29956dc059af50d2a3293fc05.jpg",
+      "md5": "9c2aabc29956dc059af50d2a3293fc05",
+      "width": 1280,
+      "height": 1440,
+      "size": 280976,
+      "uploadedDate": "2019-12-18T16:24:04.983Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-18T16:35:56.551Z",
+  "lastModifiedDate": "2020-05-12T13:50:09.830Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SparrowStableStaging"
+    }
+  },
+  "entitlementName": "8ac0690d8e5e4e54bb05832c4df2021e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "18f2f172f55941b7989779e31c8d882c",
+      "appId": "SparrowStableStaging",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-06-21T00:00:00.000Z"
+    }
+  ],
+  "developer": "Rebellion",
+  "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

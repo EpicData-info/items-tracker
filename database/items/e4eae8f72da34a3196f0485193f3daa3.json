@@ -1,0 +1,75 @@
+{
+  "id": "e4eae8f72da34a3196f0485193f3daa3",
+  "title": "CilantroStaging",
+  "description": "CilantroStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/04467b70295342a79381467353f23955/item/LayersOfFear_PromoPrimary-2560x1440-10b6c8c187c44653d566ec079b030e85.jpg",
+      "md5": "10b6c8c187c44653d566ec079b030e85",
+      "width": 2560,
+      "height": 1440,
+      "size": 207106,
+      "uploadedDate": "2019-10-16T22:58:37.826Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/04467b70295342a79381467353f23955/item/LayersOfFear_LOGO-983x742-886dac16239fb58014ba143dc0dd6e0c.png",
+      "md5": "886dac16239fb58014ba143dc0dd6e0c",
+      "width": 983,
+      "height": 742,
+      "size": 91767,
+      "uploadedDate": "2019-10-16T22:58:49.931Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "04467b70295342a79381467353f23955",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-05T20:52:24.671Z",
+  "lastModifiedDate": "2019-10-24T14:41:42.266Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Bloober Team/Layers of Fear/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CilantroStaging"
+    }
+  },
+  "entitlementName": "e4eae8f72da34a3196f0485193f3daa3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6d05ba7eddfb4ed2a40ec7793c4d3233",
+      "appId": "CilantroStaging",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-10-16T22:58:28.351Z"
+    }
+  ],
+  "developer": "Aspyr Media, Inc.",
+  "developerId": "o-dukzxsmt2q39w2xql6eb8vewd2bkc9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

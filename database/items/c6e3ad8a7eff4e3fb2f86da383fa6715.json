@@ -1,0 +1,24 @@
+{
+  "id": "c6e3ad8a7eff4e3fb2f86da383fa6715",
+  "title": "Free HK audience access item",
+  "description": "Free HK audience access item",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "SUNSET",
+  "creationDate": "2017-11-28T15:08:58.729Z",
+  "lastModifiedDate": "2018-09-18T20:32:32.280Z",
+  "entitlementName": "Fortnite_Free_HK",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementEndDate": "2018-09-19T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

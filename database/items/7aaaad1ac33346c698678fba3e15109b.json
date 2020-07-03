@@ -1,0 +1,25 @@
+{
+  "id": "7aaaad1ac33346c698678fba3e15109b",
+  "title": "Castle Treasury",
+  "description": "Castle Treasury",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "mtx packages"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2018-07-31T20:23:54.612Z",
+  "lastModifiedDate": "2019-11-13T03:32:43.145Z",
+  "entitlementName": "7aaaad1ac33346c698678fba3e15109b",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

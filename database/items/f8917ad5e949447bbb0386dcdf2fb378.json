@@ -1,0 +1,50 @@
+{
+  "id": "f8917ad5e949447bbb0386dcdf2fb378",
+  "title": "BanjoStaging",
+  "description": "BanjoStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "270e1d648a5e4060b7b441615c4da4d9",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-06T20:59:29.248Z",
+  "lastModifiedDate": "2020-03-19T14:19:43.176Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BanjoStaging"
+    }
+  },
+  "entitlementName": "f8917ad5e949447bbb0386dcdf2fb378",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7fac771f20944e15a6201993c5227ed0",
+      "appId": "1020deb78e754e1ca832086d92b26619",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-03-05T21:06:01.392Z"
+    }
+  ],
+  "developer": "Bedtime Digital Games ApS",
+  "developerId": "o-bdq65kgy9hhkz5n4gkjlyt3uju86hw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "c72c32fa205c4de88d503cb8f9efc138",
+  "title": "Standard Subscription",
+  "description": "Grants 100 Mtx every day for 28 days, plus double free packs and a rare agent!",
+  "longDescription": "Grants 100 Mtx every day for 28 days, plus double free packs and a rare agent!",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "mtx-packages"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2017-05-09T21:27:36.930Z",
+  "lastModifiedDate": "2017-06-20T17:56:02.788Z",
+  "entitlementName": "c72c32fa205c4de88d503cb8f9efc138",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

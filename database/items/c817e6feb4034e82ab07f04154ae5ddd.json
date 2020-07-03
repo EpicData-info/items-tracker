@@ -1,0 +1,172 @@
+{
+  "id": "c817e6feb4034e82ab07f04154ae5ddd",
+  "title": "Battle Breakers",
+  "description": "Monsters from space trapped the world’s greatest heroes in technomagic crystal. Power up the perfect team to take back your planet one break at a time in this cartoon-inspired, Hero Collector RPG built by a small, passionate team at Epic Games.",
+  "longDescription": "Monsters from space trapped the world’s greatest heroes in technomagic crystal. Now it’s up to you to assemble the ultimate team of super warriors and take back your planet - one break at a time - in this cartoon-inspired, Hero Collector RPG. \n\nASSEMBLE THE PERFECT TEAM - With the Battle Pass, Skybreaker Quests, and the Hero Store, you have the power to build the team you want. \n\nSAVE THE KINGDOM - Monsters have infested every corner of the kingdom. Explore over 1000 dungeons across volcanoes, forests, glaciers, and more.\n\nBIG BOSSES, EPIC BRAWLS - Unleash massive attacks and special abilities to take down bosses and smash through legions of monsters.\n\nHUNDREDS OF HEROES - Collect an arsenal of powerful heroes ready to fight to save the world\n\nCROSS-PLATFORM - Game saves seamlessly transfer across mobile and PC",
+  "technicalDetails": "Battle Breakers requires an internet connection, Android 5.0 or higher, and 1GB of RAM.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wex/item/wex_bg-430x250-7ff217599bc08d57744a959ff00ec48c.png",
+      "md5": "7ff217599bc08d57744a959ff00ec48c",
+      "width": 430,
+      "height": 250,
+      "size": 224112,
+      "uploadedDate": "2018-11-06T23:05:56.777Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/wex/item/BBLogo-625x408-34f5e3a41a380a7dba705ba302b9ffd0.png",
+      "md5": "34f5e3a41a380a7dba705ba302b9ffd0",
+      "width": 625,
+      "height": 408,
+      "size": 58151,
+      "uploadedDate": "2018-11-29T19:09:02.148Z"
+    },
+    {
+      "type": "AndroidIcon",
+      "url": "https://cdn1.epicgames.com/wex/item/App Icon-Razor_512_FINAL-512x512-48d86dd28744fd3bb05ea99969c73770.png",
+      "md5": "48d86dd28744fd3bb05ea99969c73770",
+      "width": 512,
+      "height": 512,
+      "size": 2519118,
+      "uploadedDate": "2019-10-04T21:25:56.571Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/wex/item/EN_BB_iOS_Appstore_Screenshot_iPhone8Plus_01-1242x2688-e5a0fa4c69b946348a15bd501e784b3b.jpg",
+      "md5": "e5a0fa4c69b946348a15bd501e784b3b",
+      "width": 1242,
+      "height": 2688,
+      "size": 1613059,
+      "uploadedDate": "2019-11-11T23:11:08.941Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/wex/item/EN_BB_iOS_Appstore_Screenshot_iPhone8Plus_02-1242x2688-b78b77c2b36ad6d0e29b94f149361959.jpg",
+      "md5": "b78b77c2b36ad6d0e29b94f149361959",
+      "width": 1242,
+      "height": 2688,
+      "size": 1968567,
+      "uploadedDate": "2019-11-11T23:11:15.456Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/wex/item/EN_BB_iOS_Appstore_Screenshot_iPhone8Plus_03-1242x2688-4fb0271b7df29c025b3414fc5b4b7b31.jpg",
+      "md5": "4fb0271b7df29c025b3414fc5b4b7b31",
+      "width": 1242,
+      "height": 2688,
+      "size": 1794650,
+      "uploadedDate": "2019-11-11T23:11:23.064Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/wex/item/EN_BB_iOS_Appstore_Screenshot_iPhone8Plus_04-1242x2688-d727fcfc970a11b3431151c7d0d587da.jpg",
+      "md5": "d727fcfc970a11b3431151c7d0d587da",
+      "width": 1242,
+      "height": 2688,
+      "size": 1839457,
+      "uploadedDate": "2019-11-11T23:11:30.975Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/wex/item/EN_BB_iOS_Appstore_Screenshot_iPhone8Plus_05-1242x2688-92207b4dedb81c44970d8a678f1193e0.jpg",
+      "md5": "92207b4dedb81c44970d8a678f1193e0",
+      "width": 1242,
+      "height": 2688,
+      "size": 1720685,
+      "uploadedDate": "2019-11-11T23:11:38.198Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/wex/item/EN_BB_iOS_Appstore_Screenshot_iPhone8Plus_06-1242x2688-e8bf64885dbdcece9faa34099bfce22b.jpg",
+      "md5": "e8bf64885dbdcece9faa34099bfce22b",
+      "width": 1242,
+      "height": 2688,
+      "size": 1956356,
+      "uploadedDate": "2019-11-11T23:11:54.636Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/wex/item/EN_BB_iOS_Appstore_Screenshot_iPhone8Plus_07-1242x2688-48364cb598ad90eb4affa923183696cc.jpg",
+      "md5": "48364cb598ad90eb4affa923183696cc",
+      "width": 1242,
+      "height": 2688,
+      "size": 1718736,
+      "uploadedDate": "2019-11-11T23:12:02.274Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/wex/item/EN_BB_iOS_Appstore_Screenshot_iPhone8Plus_08-1242x2688-d62473eb85c34a6b98599a1d2f29223e.jpg",
+      "md5": "d62473eb85c34a6b98599a1d2f29223e",
+      "width": 1242,
+      "height": 2688,
+      "size": 1448824,
+      "uploadedDate": "2019-11-11T23:12:09.843Z"
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/wex/item/Featured-844x959-63dc61c6745a9f8d5ea1fb2fc1315a09.jpg",
+      "md5": "63dc61c6745a9f8d5ea1fb2fc1315a09",
+      "width": 844,
+      "height": 959,
+      "size": 243237,
+      "uploadedDate": "2019-11-13T00:25:27.174Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-28T21:58:26.016Z",
+  "lastModifiedDate": "2019-11-13T22:41:05.563Z",
+  "customAttributes": {
+    "AndroidCommandLine": {
+      "type": "STRING",
+      "value": "test-a-cmd-line"
+    },
+    "AppAccessType": {
+      "type": "STRING",
+      "value": "Public"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UE4ProjectName": {
+      "type": "STRING",
+      "value": "BattleBreakersGame"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BattleBreakers"
+    }
+  },
+  "entitlementName": "c817e6feb4034e82ab07f04154ae5ddd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b1e1dfcdb11641019d681b79dc0ba6ea",
+      "appId": "WorldExplorersLive",
+      "compatibleApps": [],
+      "platform": [
+        "Android"
+      ],
+      "dateAdded": "2019-08-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "bb"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

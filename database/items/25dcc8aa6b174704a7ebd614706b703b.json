@@ -1,0 +1,27 @@
+{
+  "id": "25dcc8aa6b174704a7ebd614706b703b",
+  "title": "WrenEarlyCodeRedemptionAudience",
+  "description": "WrenEarlyCodeRedemptionAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "wren",
+  "status": "ACTIVE",
+  "creationDate": "2018-10-08T13:38:05.142Z",
+  "lastModifiedDate": "2019-09-06T15:45:12.629Z",
+  "customAttributes": {},
+  "entitlementName": "Wren",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

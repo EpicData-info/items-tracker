@@ -1,0 +1,23 @@
+{
+  "id": "418f7f264d3546b0984711711bf43c1d",
+  "title": "Influencer Banner - ProfessorBroman",
+  "description": "Influencer Banner - ProfessorBroman",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-06-14T20:11:46.810Z",
+  "lastModifiedDate": "2017-06-14T22:44:11.546Z",
+  "entitlementName": "INFLUENCERBANNER_ProfessorBroman",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

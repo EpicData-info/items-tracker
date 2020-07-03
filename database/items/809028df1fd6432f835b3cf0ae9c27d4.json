@@ -1,0 +1,34 @@
+{
+  "id": "809028df1fd6432f835b3cf0ae9c27d4",
+  "title": "DLC 1 Audience",
+  "description": "Specialist Pack DLC Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-21T22:16:49.689Z",
+  "lastModifiedDate": "2020-03-03T18:57:56.023Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "809028df1fd6432f835b3cf0ae9c27d4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

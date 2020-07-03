@@ -1,0 +1,49 @@
+{
+  "id": "b4f06e1020524952a336543ebf9e46c6",
+  "title": "CobiaStaging",
+  "description": "CobiaStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c749cd78da34408d8434a46271f4bb79",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-19T20:34:51.452Z",
+  "lastModifiedDate": "2020-03-23T13:19:05.849Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CobiaStaging"
+    }
+  },
+  "entitlementName": "b4f06e1020524952a336543ebf9e46c6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5448380d28ea46a896df3fb2186fa020",
+      "appId": "CobiaStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Santa Ragione",
+  "developerId": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": "b4554019c516405ab9a3172306e64a87",
+  "title": "ShoebillPrePurchaseDevAudience",
+  "description": "ShoebillPrePurchaseDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "e509c16d53714b13ba8e393966507255",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-17T23:17:56.283Z",
+  "lastModifiedDate": "2019-10-18T01:43:28.386Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b4554019c516405ab9a3172306e64a87",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

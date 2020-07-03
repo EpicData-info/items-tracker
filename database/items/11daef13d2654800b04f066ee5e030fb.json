@@ -1,0 +1,36 @@
+{
+  "id": "11daef13d2654800b04f066ee5e030fb",
+  "title": "AssassinsCreedValhallaStandardAudience",
+  "description": "AssassinsCreedValhallaStandardAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "400347196e674de89c23cc2a7f2121db",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-28T17:48:55.584Z",
+  "lastModifiedDate": "2020-04-30T15:02:26.957Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "11daef13d2654800b04f066ee5e030fb",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

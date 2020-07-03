@@ -1,0 +1,55 @@
+{
+  "id": "79e8896e71424fcebb81db1e75e27a39",
+  "title": "NautilusStaging",
+  "description": "NautilusStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "nautilus",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-04T19:55:30.614Z",
+  "lastModifiedDate": "2019-08-01T17:50:59.054Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/AVGame/Saved/SaveGames"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NautilusStaging"
+    }
+  },
+  "entitlementName": "79e8896e71424fcebb81db1e75e27a39",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c4865c2b3bc541e081cd45943c005bef",
+      "appId": "NautilusStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-01-04T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

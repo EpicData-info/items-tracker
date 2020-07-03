@@ -1,0 +1,55 @@
+{
+  "id": "dce1037dafae4d01834b7bb6de52b37d",
+  "title": "Unreal Tournament Editor Dev Playtest",
+  "description": "Unreal Tournament Editor Dev Playtest",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "engines"
+    },
+    {
+      "path": "engines/ue4"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2016-02-04T21:02:41.217Z",
+  "lastModifiedDate": "2018-12-05T20:45:45.643Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "UTEditorDevPlaytest"
+    }
+  },
+  "entitlementName": "UnrealTournamentEditorDevPlaytest",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c4ef87683e964141a025769b638e0efb",
+      "appId": "UnrealTournamentEditorDevPlaytest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2016-02-03T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

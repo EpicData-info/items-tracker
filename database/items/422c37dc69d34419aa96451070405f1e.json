@@ -1,0 +1,33 @@
+{
+  "id": "422c37dc69d34419aa96451070405f1e",
+  "title": "DevTritonAudience",
+  "description": "DevTritonAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "be4b391bc31d465ebeba92b9b822b798",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-02T16:06:39.253Z",
+  "lastModifiedDate": "2020-06-12T12:49:23.709Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "422c37dc69d34419aa96451070405f1e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Santa Ragione",
+  "developerId": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

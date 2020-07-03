@@ -1,0 +1,39 @@
+{
+  "id": "75cbf00e7bbb45f383367197b94e816a",
+  "title": "Emergent Test Item - 1",
+  "description": "Emergent Test Item - 1Emergent Test Item - 1Emergent Test Item - 1Emergent Test Item - 1Emergent Test Item - 1Emergent Test Item - 1",
+  "longDescription": "Emergent Test Item - 1Emergent Test Item - 1Emergent Test Item - 1Emergent Test Item - 1Emergent Test Item - 1Emergent Test Item - 1Emergent Test Item - 1Emergent Test Item - 1Emergent Test Item - 1Emergent Test Item - 1Emergent Test Item - 1Emergent Test Item - 1",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/SeaQA/item/Desert-1024x768-ba45c8f60456a672e003a875e469d0eb.jpg",
+      "md5": "ba45c8f60456a672e003a875e469d0eb",
+      "width": 1024,
+      "height": 768,
+      "size": 845941,
+      "uploadedDate": "2016-02-04T00:06:01.248Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2016-02-04T00:06:19.815Z",
+  "lastModifiedDate": "2019-04-25T09:25:53.972Z",
+  "entitlementName": "75cbf00e7bbb45f383367197b94e816a",
+  "entitlementType": "EXECUTABLE",
+  "entitlementStartDate": "2016-02-03T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "ADULTS_ONLY",
+  "unsearchable": false
+}

@@ -1,0 +1,39 @@
+{
+  "id": "4a7f0910bf9348da8769487f975c74f1",
+  "title": "Forums",
+  "description": "Forums",
+  "technicalDetails": "http://epic.gm/launcherforum",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/UTForums01-1200x400-edb185818c49387830bca9560edf6dbe.png",
+      "md5": "edb185818c49387830bca9560edf6dbe",
+      "width": 1200,
+      "height": 400,
+      "size": 704242,
+      "uploadedDate": "2014-11-13T21:40:13.907Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2014-11-07T19:31:14.947Z",
+  "lastModifiedDate": "2015-09-28T23:56:13.333Z",
+  "entitlementName": "4a7f0910bf9348da8769487f975c74f1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,59 @@
+{
+  "id": "9b41ff2598084b9998608b7a679eb931",
+  "title": "Ocean PreDeployA",
+  "description": "Ocean PreDeployA",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-07T18:55:47.115Z",
+  "lastModifiedDate": "2020-04-02T19:23:51.877Z",
+  "customAttributes": {
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OceanPreDeployA"
+    },
+    "HasGateKeeper": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "OceanPreDeployA",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "08fe77043c994d049d916533cb5827b2",
+      "appId": "OceanPreDeployA",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-02-07T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

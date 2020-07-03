@@ -1,0 +1,24 @@
+{
+  "id": "de5e144b68764e389743f59ae9289a2d",
+  "title": "Create_Step_02",
+  "description": "Step 2: What do you want to Mod?",
+  "longDescription": "",
+  "technicalDetails": "",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "layout"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-02-03T20:34:33.794Z",
+  "lastModifiedDate": "2015-06-12T05:46:11.423Z",
+  "entitlementName": "c4d2be6831fe41f68340a9f399157ad3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "unsearchable": false
+}

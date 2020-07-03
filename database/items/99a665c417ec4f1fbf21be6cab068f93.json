@@ -1,0 +1,70 @@
+{
+  "id": "99a665c417ec4f1fbf21be6cab068f93",
+  "title": "doveStaging",
+  "description": "doveStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/item/EGS_ZenStudios_CastleStorm2_Carousel_2560x1440-2560x1440-833c50d1ef9112b04192df46afe41802.jpg",
+      "md5": "833c50d1ef9112b04192df46afe41802",
+      "width": 2560,
+      "height": 1440,
+      "size": 196869,
+      "uploadedDate": "2019-06-03T19:00:45.797Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/item/EGS_ZenStudios_CastleStorm2_IC1_GameLogo_White-6521x2488-a91b21a9823e9339423c1c6557243513.png",
+      "md5": "a91b21a9823e9339423c1c6557243513",
+      "width": 6521,
+      "height": 2488,
+      "size": 121958,
+      "uploadedDate": "2019-06-03T19:00:59.389Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed355406eacb4633a648f682ddb492b8",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-03T18:28:26.880Z",
+  "lastModifiedDate": "2020-04-02T21:27:56.441Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "doveStaging"
+    }
+  },
+  "entitlementName": "99a665c417ec4f1fbf21be6cab068f93",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bb09909cbd5e4ce39601fa142d32af79",
+      "appId": "doveStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-12T13:13:37.475Z"
+    }
+  ],
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

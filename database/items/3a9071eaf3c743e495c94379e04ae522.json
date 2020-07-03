@@ -1,0 +1,29 @@
+{
+  "id": "3a9071eaf3c743e495c94379e04ae522",
+  "title": "SeasonPassAudience_marker",
+  "description": "SeasonPassAudience_marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "oregano",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-15T20:27:57.773Z",
+  "lastModifiedDate": "2020-05-27T21:47:43.336Z",
+  "entitlementName": "3a9071eaf3c743e495c94379e04ae522",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

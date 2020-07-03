@@ -1,0 +1,36 @@
+{
+  "id": "47bd531334844905b5543525953e985c",
+  "title": "Deluxe Audience",
+  "description": "Deluxe Audience",
+  "longDescription": "",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "b9def67e597b4be7a16146146a044d02",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-30T20:45:32.973Z",
+  "lastModifiedDate": "2020-01-08T15:43:23.996Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "47bd531334844905b5543525953e985c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Piranha Games",
+  "developerId": "o-muad9pj32k67stc4ycpgpplwq84sgq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

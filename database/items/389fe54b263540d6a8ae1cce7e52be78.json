@@ -1,0 +1,40 @@
+{
+  "id": "389fe54b263540d6a8ae1cce7e52be78",
+  "title": "Message of the Day",
+  "description": "Viper MOTD TEXT",
+  "longDescription": "Powered by Unreal Engine 3 and winner of 50+ Game of the Year and Editor’s Choice Awards, Shadow Complex is back for more!\n\nShadow Complex Remastered features all the great gameplay from the award-winning classic, updated with exciting new enhancements and achievements to support its debut on PC, PlayStation 4, and Xbox One.\n\nFeatures:\n- Experience the pivotal modern platform adventure inspired by the classic side-scrolling genre.\n- Explore a huge, mysterious game world populated with legions of enemies, challenges, and jaw-dropping boss battles.\n- Discover unique game-altering power-ups and 100+ additional items and enhancements.\n- Complete all-new achievements and master challenges.\n- Journey through an exciting action-thriller story penned by renowned comic book writer Peter David.\n\nPC Minimum Requirements:\n- OS: Windows 7 and up\n- CPU: Intel Core 2 Duo/AMD Athlon 2x2\n- System RAM: 2GB\n- Video Card: Nvidia Geforce 7800 (512mb)/AMD Radeon HD 4600 (512MB)/Intel HD 4000\n- DirectX 9.0c\n \nPC Recommended:\n- CPU: Intel i5/AMD A4\n- System RAM: 4GB\n- Video Card: Nvidia GT 540 1GB/AMD 5550 1GB\n- DirectX 11\n\nMac Minimum Requirements:\n- OS: OSX 10.10.5 (Yosemite)\n- CPU: Dual-Core Processor, min 2.5 GHZ\n- System RAM: 4GB\n- Video Card: GTX 670M (1GB)\n\nMac Recommended:\n- OS: OSX 10.11 (El Capitan)\n- CPU: Quad-Core Processor, ~2 GHZ\n- System RAM: 8GB\n- Video Card: GTX 750M (2GB)",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/vpr/item/comp-MOTD-03-notfree-440x90-a689034a946d547b2521895705c0aac3.png",
+      "md5": "a689034a946d547b2521895705c0aac3",
+      "width": 440,
+      "height": 90,
+      "size": 6338,
+      "uploadedDate": "2016-01-05T23:47:41.609Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "vpr",
+  "status": "ACTIVE",
+  "creationDate": "2015-10-19T18:25:33.475Z",
+  "lastModifiedDate": "2016-08-04T03:01:49.259Z",
+  "entitlementName": "389fe54b263540d6a8ae1cce7e52be78",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

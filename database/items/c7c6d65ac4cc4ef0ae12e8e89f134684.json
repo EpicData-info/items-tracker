@@ -1,0 +1,34 @@
+{
+  "id": "c7c6d65ac4cc4ef0ae12e8e89f134684",
+  "title": "TernGeneralAudience",
+  "description": "TernGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-24T00:35:38.287Z",
+  "lastModifiedDate": "2020-03-03T18:56:26.459Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c7c6d65ac4cc4ef0ae12e8e89f134684",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Test Organization",
+  "developerId": "o-jwuggxrvjq99seqnvcrzckgm6e8jtr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

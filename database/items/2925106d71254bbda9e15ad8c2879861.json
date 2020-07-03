@@ -1,0 +1,70 @@
+{
+  "id": "2925106d71254bbda9e15ad8c2879861",
+  "title": "Tanager",
+  "description": "Tanager",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-15T17:54:14.813Z",
+  "lastModifiedDate": "2020-06-01T18:23:22.100Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "7f1fa336313d48eca0a802170aa8dd8a"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Tanager"
+    }
+  },
+  "entitlementName": "2925106d71254bbda9e15ad8c2879861",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "657a164dd69244f190478ae033ebecef",
+      "appId": "Tanager",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T19:16:45.802Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

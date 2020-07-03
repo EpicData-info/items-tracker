@@ -1,0 +1,35 @@
+{
+  "id": "5f70764ca11a4cf4933e1141c5e7ba19",
+  "title": "ANNO1800TrialAudience",
+  "description": "ANNO1800TrialAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "oregano",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-06T15:30:02.675Z",
+  "lastModifiedDate": "2020-05-27T21:47:43.336Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5f70764ca11a4cf4933e1141c5e7ba19",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

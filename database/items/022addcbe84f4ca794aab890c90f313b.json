@@ -1,0 +1,24 @@
+{
+  "id": "022addcbe84f4ca794aab890c90f313b",
+  "title": "Fortnite Mobile Friend Invite Quota",
+  "description": "Fortnite Mobile Friend Invite Quota",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-02-25T20:30:56.338Z",
+  "lastModifiedDate": "2018-03-08T22:32:46.699Z",
+  "entitlementName": "Fortnite_Mobile_Invite",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 3,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

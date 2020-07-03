@@ -1,0 +1,25 @@
+{
+  "id": "e4dc81ddf143419b894da69fef77e833",
+  "title": "5000 Fortnite Points (POSA PS4)",
+  "description": "5000 Fortnite Points (PS4)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-06T19:17:05.128Z",
+  "lastModifiedDate": "2019-10-21T16:23:17.496Z",
+  "entitlementName": "FN_5000_POSA_PS4",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

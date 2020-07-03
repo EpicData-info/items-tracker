@@ -1,0 +1,51 @@
+{
+  "id": "9f1eaa44036c45e3b0c3582c3fd4b754",
+  "title": "MoonStaging",
+  "description": "MoonStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4930dde6add240a9bfc7ddc415dc2799",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-05T18:52:45.819Z",
+  "lastModifiedDate": "2020-05-05T19:28:28.819Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MoonStaging"
+    }
+  },
+  "entitlementName": "9f1eaa44036c45e3b0c3582c3fd4b754",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "12fe2ee578054fdea395946f09810940",
+      "appId": "d3d381bc39ac4d268db25ae31133d0f0",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-05T00:00:00.000Z"
+    }
+  ],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

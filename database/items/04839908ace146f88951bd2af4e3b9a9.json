@@ -1,0 +1,55 @@
+{
+  "id": "04839908ace146f88951bd2af4e3b9a9",
+  "title": "SnoekStage",
+  "description": "SnoekStage",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "11eb2ae2943641b498efb54501511b86",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-01T19:09:38.650Z",
+  "lastModifiedDate": "2020-05-01T19:10:45.726Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/StateOfDecay2/Saved/Epic/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SnoekStage"
+    }
+  },
+  "entitlementName": "04839908ace146f88951bd2af4e3b9a9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "448ddf7d014d491889479ed3a237f40f",
+      "appId": "SnoekStage",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-02-18T00:00:00.000Z"
+    }
+  ],
+  "developer": "Microsoft",
+  "developerId": "o-f3qq8ygts6pglxx529jhgx5bmyj6bf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

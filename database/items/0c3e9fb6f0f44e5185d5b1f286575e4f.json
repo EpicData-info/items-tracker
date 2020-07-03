@@ -1,0 +1,52 @@
+{
+  "id": "0c3e9fb6f0f44e5185d5b1f286575e4f",
+  "title": "Paladins - Public Test",
+  "description": "Paladins - Public Test",
+  "longDescription": "Paladins - Public Test",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-30T19:20:05.453Z",
+  "lastModifiedDate": "2020-03-20T15:41:30.856Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AntbirdTesting"
+    }
+  },
+  "entitlementName": "0c3e9fb6f0f44e5185d5b1f286575e4f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "724c67c75eed4d9da518abb68f66c9e2",
+      "appId": "AntbirdTesting",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-18T00:00:00.000Z"
+    }
+  ],
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

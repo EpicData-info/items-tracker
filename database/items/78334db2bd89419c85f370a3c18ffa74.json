@@ -1,0 +1,35 @@
+{
+  "id": "78334db2bd89419c85f370a3c18ffa74",
+  "title": "ForegoneAlphaAudience",
+  "description": "ForegoneAlphaAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "a40f6c03e1374358809ec38c999059c0",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-09T20:05:02.315Z",
+  "lastModifiedDate": "2020-06-09T20:09:08.650Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "78334db2bd89419c85f370a3c18ffa74",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Big Blue Bubble, Inc.",
+  "developerId": "o-r7nfesqr4qcafkmfwmp9hpu492f228",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

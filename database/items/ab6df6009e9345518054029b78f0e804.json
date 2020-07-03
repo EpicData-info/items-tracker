@@ -1,0 +1,35 @@
+{
+  "id": "ab6df6009e9345518054029b78f0e804",
+  "title": "LotusDevAudience",
+  "description": "LotusDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "lotus",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-01T00:41:56.321Z",
+  "lastModifiedDate": "2019-07-30T16:01:26.108Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "ab6df6009e9345518054029b78f0e804",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Klei Entertainment",
+  "developerId": "o-6v5su732w3tnzud9lque2m7s4qzvjx",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

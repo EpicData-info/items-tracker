@@ -1,0 +1,33 @@
+{
+  "id": "f47b1a9fbcd34709ba0f59d2178d4fc3",
+  "title": "LorikeetDevAudience",
+  "description": "LorikeetDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "015763e579d4479cb1ef7780bf91804f",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-12T21:26:47.567Z",
+  "lastModifiedDate": "2019-10-18T12:58:56.349Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f47b1a9fbcd34709ba0f59d2178d4fc3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "William Chyr Studio",
+  "developerId": "o-9j6lnh9adzvfntd9d8ypjc39wb9d3k",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

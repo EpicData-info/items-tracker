@@ -1,0 +1,55 @@
+{
+  "id": "2ee71a3bc7e345a3a43d97598daca3b3",
+  "title": "Far Cry 4 Season Pass",
+  "description": "Far Cry 4 Season Pass",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cf87285950ba492bbdc370b9d265ea36",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-28T23:57:34.585Z",
+  "lastModifiedDate": "2020-02-18T15:33:18.330Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "8373c49812094a339025957ed3688a4c"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "fb91aed864c84d68bce195cde823146f"
+    }
+  },
+  "entitlementName": "2ee71a3bc7e345a3a43d97598daca3b3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "10024c43764743279714d82093a75332",
+      "appId": "TautogSeasonPass",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-01-28T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

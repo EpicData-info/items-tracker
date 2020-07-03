@@ -1,0 +1,33 @@
+{
+  "id": "5bd8700f4889432ca03b0f581844a680",
+  "title": "DevCitrineAudience",
+  "description": "DevCitrineAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "0a4fc789eb0143c29296de79df5387ab",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T15:50:20.290Z",
+  "lastModifiedDate": "2020-07-02T19:38:31.883Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5bd8700f4889432ca03b0f581844a680",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Humble Bundle",
+  "developerId": "o-pldxyabsslnt6jth2z634mmr2pw8lu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

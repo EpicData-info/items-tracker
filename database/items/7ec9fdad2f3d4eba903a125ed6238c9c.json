@@ -1,0 +1,43 @@
+{
+  "id": "7ec9fdad2f3d4eba903a125ed6238c9c",
+  "title": "Robo Recall",
+  "description": "ROBO RECALL",
+  "longDescription": "Bring all-new experiences to Recallers everywhere with the Robo Recall Mod Kit. Build new RoboReady-approved products including over-the-top weapons for dispatching rogue robots! Or, change up the fight by adding your own opponents in need of recalling and creative decimation. Create and share new levels for others to explore, and build custom versions of the Robo Recall maps with your own gameplay. “Go get 'em, Champ!”",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/odin/item/LauncherBanner-1536x862-318c7879e7b974e3f60390cd02acaa7f.png",
+      "md5": "318c7879e7b974e3f60390cd02acaa7f",
+      "width": 1536,
+      "height": 862,
+      "size": 1773734,
+      "uploadedDate": "2017-02-28T22:14:54.306Z"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/odin/item/fb_rr-1920x1080-5f7d6bc442e88fa501f9279fd3c903c8-1920x1080-627c486c9cfad875b5c89cced93c8a3d.jpg",
+      "md5": "627c486c9cfad875b5c89cced93c8a3d",
+      "width": 1920,
+      "height": 1080,
+      "size": 207487,
+      "uploadedDate": "2019-11-20T16:29:21.067Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "odin",
+  "status": "ACTIVE",
+  "creationDate": "2017-01-16T19:54:04.236Z",
+  "lastModifiedDate": "2019-11-20T16:29:37.793Z",
+  "entitlementName": "7ec9fdad2f3d4eba903a125ed6238c9c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,88 @@
+{
+  "id": "36b11de2ebd3409f9a4435619dfa0fea",
+  "title": "Before We Leave",
+  "description": "Before We Leave",
+  "longDescription": "Before We Leave",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/61449320f87347a8bf02159cbf8adb7f/item/EGS_BalancingMonkeyGames_BeforeWeLeave_Tall-510x680-e99086b2cd816c9110f0c43843e3f515.jpg",
+      "md5": "e99086b2cd816c9110f0c43843e3f515",
+      "width": 510,
+      "height": 680,
+      "size": 59224,
+      "uploadedDate": "2020-05-04T22:40:24.117Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/61449320f87347a8bf02159cbf8adb7f/item/EGS_BalancingMonkeyGames_BeforeWeLeave_Wide-1360x766-d5faf87922fb2c74689ef73b52b10df1.jpg",
+      "md5": "d5faf87922fb2c74689ef73b52b10df1",
+      "width": 1360,
+      "height": 766,
+      "size": 158485,
+      "uploadedDate": "2020-05-04T22:40:38.215Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "61449320f87347a8bf02159cbf8adb7f",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-17T05:19:15.308Z",
+  "lastModifiedDate": "2020-05-08T15:00:17.247Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "61449320f87347a8bf02159cbf8adb7f"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BeforeWeLeave"
+    }
+  },
+  "entitlementName": "36b11de2ebd3409f9a4435619dfa0fea",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "77ff8df0e909404f93ca20ff97a55715",
+      "appId": "Salmon",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-04T00:00:00.000Z"
+    }
+  ],
+  "developer": "Balancing Monkey Games",
+  "developerId": "o-4tx8h9e6ugw2546feb637euqzbmkpa",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7d415dae44b0458982654e9204cdfd53",
+  "title": "ArgyleEPAudience_marker",
+  "description": "ArgyleEPAudience_marker",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/argyle/item/ESRB_TrailsRising-842x404-00fa1b6b0f45aa1a75b0d1b760fbc0ab.jpg",
+      "md5": "00fa1b6b0f45aa1a75b0d1b760fbc0ab",
+      "width": 842,
+      "height": 404,
+      "size": 85474,
+      "uploadedDate": "2019-09-11T15:18:03.661Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "argyle",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-03T21:54:54.057Z",
+  "lastModifiedDate": "2019-09-13T14:57:58.845Z",
+  "entitlementName": "7d415dae44b0458982654e9204cdfd53",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "selfRefundable": true,
+  "unsearchable": false
+}

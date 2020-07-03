@@ -1,0 +1,26 @@
+{
+  "id": "270f551def8f422da086604c704f0fe5",
+  "title": "2800 Fortnite Points (POSA Switch)",
+  "description": "2800 Fortnite Points (POSA Switch)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-12T21:14:29.485Z",
+  "lastModifiedDate": "2019-10-21T16:23:17.496Z",
+  "entitlementName": "FN_2800_POSA_Switch",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2019-08-12T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

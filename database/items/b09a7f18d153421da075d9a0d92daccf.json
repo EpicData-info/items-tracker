@@ -1,0 +1,46 @@
+{
+  "id": "b09a7f18d153421da075d9a0d92daccf",
+  "title": "PenguinGeneralAudience",
+  "description": "PenguinGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/19078740fbcc4eada59a5a4ae7b3724c/item/ESRB_GNOG-842x404-a4a36590aa096701c2a0aed175baf965.jpg",
+      "md5": "a4a36590aa096701c2a0aed175baf965",
+      "width": 842,
+      "height": 404,
+      "size": 79005,
+      "uploadedDate": "2019-07-29T18:30:13.734Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "19078740fbcc4eada59a5a4ae7b3724c",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-08T13:17:31.521Z",
+  "lastModifiedDate": "2019-08-13T14:47:03.347Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "b09a7f18d153421da075d9a0d92daccf",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "KO_OP",
+  "developerId": "o-hsgwu456e63dkkgskeusntg93gey48",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "7d420f550e3a47c89ac87f20586611a9",
+  "title": "Entitlement-12",
+  "description": "Entitlement type edited from entitlement type to executable",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-27T17:48:41.651Z",
+  "lastModifiedDate": "2014-10-27T17:54:47.579Z",
+  "entitlementName": "21df848a246b4444ad6906d778832b1c",
+  "entitlementType": "EXECUTABLE",
+  "entitlementEndDate": "2014-10-28T00:00:00.000Z",
+  "entitlementStartDate": "2014-10-27T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "developer": "SeaTest1",
+  "endOfSupport": false,
+  "unsearchable": false
+}

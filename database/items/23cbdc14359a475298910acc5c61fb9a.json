@@ -1,0 +1,51 @@
+{
+  "id": "23cbdc14359a475298910acc5c61fb9a",
+  "title": "HeatherQA",
+  "description": "HeatherQA",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-12T17:36:09.446Z",
+  "lastModifiedDate": "2020-03-12T17:41:20.956Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HeatherQA"
+    }
+  },
+  "entitlementName": "23cbdc14359a475298910acc5c61fb9a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "00d39eeed0404f298a858d146422e2ea",
+      "appId": "5bd37e60094045158f31949d7ffc063a",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-07-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Rockstar Games",
+  "developerId": "o-dhz7kpvrvqngzdpnx5vn3jrljj53ca",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

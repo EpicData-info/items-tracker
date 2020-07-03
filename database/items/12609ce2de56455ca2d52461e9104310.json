@@ -1,0 +1,23 @@
+{
+  "id": "12609ce2de56455ca2d52461e9104310",
+  "title": "Influencer Banner - iHasCupquake",
+  "description": "Influencer Banner - iHasCupquake",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-06-14T19:43:49.422Z",
+  "lastModifiedDate": "2017-06-14T22:44:11.546Z",
+  "entitlementName": "INFLUENCERBANNER_iHasCupquake",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

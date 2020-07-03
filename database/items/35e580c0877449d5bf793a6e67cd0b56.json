@@ -1,0 +1,64 @@
+{
+  "id": "35e580c0877449d5bf793a6e67cd0b56",
+  "title": "CatnipExternalStable1DLC3",
+  "description": "CatnipExternalStable1DLC3",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "catnip",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-10T14:01:13.582Z",
+  "lastModifiedDate": "2020-06-15T20:52:55.764Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/GearboxSoftware/OakGame/Saved/SaveGames/{EpicID}/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/Borderlands 3/Saved/SaveGames/{EpicID}/"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CatnipExternalStable1DLC3"
+    }
+  },
+  "entitlementName": "35e580c0877449d5bf793a6e67cd0b56",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2be0361650bf41dabb94f39ea27c0db9",
+      "appId": "CatnipExternalStable1DLC3",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-12-03T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

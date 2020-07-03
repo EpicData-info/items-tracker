@@ -1,0 +1,48 @@
+{
+  "id": "89ab0233c3c944d09350611dd8bba9ef",
+  "title": "CatnipStaging2DLC3",
+  "description": "CatnipStaging2DLC3",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "catnip",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-19T22:27:38.014Z",
+  "lastModifiedDate": "2020-06-15T20:52:55.764Z",
+  "customAttributes": {
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "89ab0233c3c944d09350611dd8bba9ef",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "10e322b33784488d9690350b41e8b052",
+      "appId": "CatnipStaging2DLC3",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-12-03T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

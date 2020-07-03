@@ -1,0 +1,27 @@
+{
+  "id": "c8d5eb6a3bff4e2f89a64f5f5c260c70",
+  "title": "NPC Attire Package",
+  "description": "NPC Attire Package",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "cobra",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-04T14:41:19.456Z",
+  "lastModifiedDate": "2020-04-07T15:07:09.538Z",
+  "entitlementName": "c8d5eb6a3bff4e2f89a64f5f5c260c70",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

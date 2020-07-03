@@ -1,0 +1,47 @@
+{
+  "id": "3bb5b7b680d340bbafd934bfac637a25",
+  "title": "Battle Breakers Release Playtest",
+  "description": "Battle Breakers Release Playtest",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2016-08-10T17:21:14.048Z",
+  "lastModifiedDate": "2019-09-30T23:51:46.790Z",
+  "customAttributes": {
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BattleBreakersRP"
+    }
+  },
+  "entitlementName": "WorldExplorersReleasePlaytest",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8b93131200da4d4ca1213277fcd82478",
+      "appId": "WorldExplorersReleasePlaytest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2016-08-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

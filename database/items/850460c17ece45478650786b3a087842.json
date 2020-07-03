@@ -1,0 +1,51 @@
+{
+  "id": "850460c17ece45478650786b3a087842",
+  "title": "The Dragon",
+  "description": "The Dragon",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-16T18:43:43.671Z",
+  "lastModifiedDate": "2020-04-09T14:22:00.648Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KakopoDragon"
+    }
+  },
+  "entitlementName": "850460c17ece45478650786b3a087842",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2a6ebec91e0a432e946c6456c560de84",
+      "appId": "KakopoDragon",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix",
+  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

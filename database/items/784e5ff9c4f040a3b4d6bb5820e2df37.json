@@ -1,0 +1,101 @@
+{
+  "id": "784e5ff9c4f040a3b4d6bb5820e2df37",
+  "title": "The Cycle",
+  "description": "The Cycle",
+  "longDescription": "The Cycle",
+  "technicalDetails": "Renamed from Early Access - 1/13/2020",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/azalea/item/EGS Featured Carousel image 1360x766-1360x766-9dba9b2f98beb096af00f60b3149e6fc-1360x766-9dba9b2f98beb096af00f60b3149e6fc.jpg",
+      "md5": "9dba9b2f98beb096af00f60b3149e6fc",
+      "width": 1360,
+      "height": 766,
+      "size": 486120,
+      "uploadedDate": "2020-02-06T14:16:59.931Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/azalea/item/portrait_image_860x1148_1-860x1148-898b71cbe96622565b59842df3f4743a.jpg",
+      "md5": "898b71cbe96622565b59842df3f4743a",
+      "width": 860,
+      "height": 1148,
+      "size": 1010725,
+      "uploadedDate": "2020-02-10T18:23:31.731Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "azalea",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-13T22:11:24.381Z",
+  "lastModifiedDate": "2020-02-10T18:23:37.363Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "azalea"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "YAGER Development GmbH"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheCycleEarlyAccess"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "784e5ff9c4f040a3b4d6bb5820e2df37",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5dc9e2bacc7b4bf2aa5fee44ec2d9b4c",
+      "appId": "AzaleaAlpha",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-13T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

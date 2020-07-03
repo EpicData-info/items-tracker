@@ -1,0 +1,70 @@
+{
+  "id": "7d9ce7dd6f2e4ee98a55bd50a9bb78e0",
+  "title": "Eider",
+  "description": "Eider",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-10T19:03:58.970Z",
+  "lastModifiedDate": "2020-02-05T17:58:05.368Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ed55aa5edc5941de92fd7f64de415793"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Eider"
+    }
+  },
+  "entitlementName": "7d9ce7dd6f2e4ee98a55bd50a9bb78e0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "51204c3b58ea4e0aac3419d00bae49f1",
+      "appId": "Eider",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-10T19:58:59.380Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

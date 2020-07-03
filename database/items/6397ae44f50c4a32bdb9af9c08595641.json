@@ -1,0 +1,60 @@
+{
+  "id": "6397ae44f50c4a32bdb9af9c08595641",
+  "title": "OvenbirdStaging",
+  "description": "OvenbirdStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d759128018124dcabb1fbee9bb28e178",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-03T14:07:35.801Z",
+  "lastModifiedDate": "2019-10-10T14:31:08.157Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Surviving Mars/Save/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../roaming/Surviving Mars/Save/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OvenbirdStaging"
+    }
+  },
+  "entitlementName": "6397ae44f50c4a32bdb9af9c08595641",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e5cec725a96f45a0b21360dc5ac3e87a",
+      "appId": "OvenbirdStaging",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-10-01T00:00:00.000Z"
+    }
+  ],
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,62 @@
+{
+  "id": "52777dbd46fe43a1b52e7c6d77f7ee11",
+  "title": "Phoenix Point Blood and Titanium",
+  "description": "Phoenix Point Blood and Titanium",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/iris/item/phoenix-point_blood-and-titanium-2560x1440-81064fd86bf384bf2de69266683a96de.png",
+      "md5": "81064fd86bf384bf2de69266683a96de",
+      "width": 2560,
+      "height": 1440,
+      "size": 1334315,
+      "uploadedDate": "2019-12-03T18:56:42.852Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-12T19:48:28.552Z",
+  "lastModifiedDate": "2019-12-03T18:56:56.557Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BloodandTitanium"
+    }
+  },
+  "entitlementName": "52777dbd46fe43a1b52e7c6d77f7ee11",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "671c43287de2454ebbec6cab2e504cba",
+      "appId": "IrisDLC1",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-11-12T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

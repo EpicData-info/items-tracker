@@ -1,0 +1,35 @@
+{
+  "id": "d92f53289b91420da00e01596d6e1e8a",
+  "title": "DLC80 Audience",
+  "description": "DLC80 (Premium Halloween Silver Ticket Bundle)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T19:17:43.894Z",
+  "lastModifiedDate": "2019-11-27T20:16:29.730Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d92f53289b91420da00e01596d6e1e8a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,46 @@
+{
+  "id": "f0df34986d814a74ac916ba8044b461b",
+  "title": "Calluna Dev Ops Audience",
+  "description": "Calluna Dev Ops Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/calluna/item/ESRB_Control-496x248-159f49def84c67c57a551259ef1216aa.jpg",
+      "md5": "159f49def84c67c57a551259ef1216aa",
+      "width": 496,
+      "height": 248,
+      "size": 11905,
+      "uploadedDate": "2019-06-24T19:25:56.555Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "calluna",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-09T16:34:26.984Z",
+  "lastModifiedDate": "2020-02-25T16:06:13.218Z",
+  "customAttributes": {
+    "SupportedPlatorms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f0df34986d814a74ac916ba8044b461b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

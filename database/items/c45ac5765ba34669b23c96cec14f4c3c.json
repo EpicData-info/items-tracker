@@ -1,0 +1,33 @@
+{
+  "id": "c45ac5765ba34669b23c96cec14f4c3c",
+  "title": "BucharestGeneralAudience",
+  "description": "BucharestGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "470e78f71f7a4b8eb05f1ec1422553e6",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-19T23:26:04.370Z",
+  "lastModifiedDate": "2020-06-19T23:35:12.437Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c45ac5765ba34669b23c96cec14f4c3c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tactic Studios Inc.",
+  "developerId": "o-hk767x3yr4tfhk2ghy35fq5dnueqdg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

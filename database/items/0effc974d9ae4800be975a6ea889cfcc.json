@@ -1,0 +1,47 @@
+{
+  "id": "0effc974d9ae4800be975a6ea889cfcc",
+  "title": "Outer Wilds General Audience",
+  "description": "Outer Wilds General Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/starfish/item/esrb_outerwilds_web-842x404-70009e8f34d74bc935d8f9e8f9231203.png",
+      "md5": "70009e8f34d74bc935d8f9e8f9231203",
+      "width": 842,
+      "height": 404,
+      "size": 59655,
+      "uploadedDate": "2020-01-08T17:52:04.213Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "starfish",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-06T02:12:35.589Z",
+  "lastModifiedDate": "2020-01-08T17:52:10.213Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0effc974d9ae4800be975a6ea889cfcc",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "selfRefundable": true,
+  "unsearchable": false
+}

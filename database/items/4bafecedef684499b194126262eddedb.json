@@ -1,0 +1,49 @@
+{
+  "id": "4bafecedef684499b194126262eddedb",
+  "title": "BatfishStaging",
+  "description": "BatfishStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f2bfff793b224f6190a394f461c9a4b8",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-16T03:43:47.688Z",
+  "lastModifiedDate": "2019-12-17T13:42:23.856Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BatfishStaging"
+    }
+  },
+  "entitlementName": "4bafecedef684499b194126262eddedb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "77a466defada4aa4966d11ae06dfe405",
+      "appId": "BatfishStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Athlon Games",
+  "developerId": "o-pak9zrvrvpnc8qtwjx3z6pllyzph4q",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

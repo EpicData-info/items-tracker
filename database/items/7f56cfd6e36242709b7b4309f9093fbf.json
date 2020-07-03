@@ -1,0 +1,36 @@
+{
+  "id": "7f56cfd6e36242709b7b4309f9093fbf",
+  "title": "DLC111 Audience",
+  "description": "DLC111 (Premium Summer Sideshow Bronze Ticket Bundle)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-16T19:56:55.654Z",
+  "lastModifiedDate": "2020-07-02T00:52:17.621Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7f56cfd6e36242709b7b4309f9093fbf",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

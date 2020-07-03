@@ -1,0 +1,40 @@
+{
+  "id": "f79eeea68fc14a9da72909df4c8607ee",
+  "title": "Latest Build Info",
+  "description": "June 28\n<inverted-tiny-body>RELEASE NOTES</>",
+  "technicalDetails": "http://epic.gm/1azx",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/1920x1080_jumbo-1920x1080-dd5dbe922cbee6f471db29efba3a2c45.png",
+      "md5": "dd5dbe922cbee6f471db29efba3a2c45",
+      "width": 1920,
+      "height": 1080,
+      "size": 2631386,
+      "uploadedDate": "2017-06-28T15:31:37.876Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-10-02T00:46:19.297Z",
+  "lastModifiedDate": "2017-06-28T15:32:37.086Z",
+  "entitlementName": "f79eeea68fc14a9da72909df4c8607ee",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

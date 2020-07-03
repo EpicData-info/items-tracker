@@ -1,0 +1,50 @@
+{
+  "id": "6ac2d32ab8374bf3adf4ae1fe2728b1e",
+  "title": "Dauntless - Timely Arrival Pack",
+  "description": "Dauntless - Timely Arrival Pack",
+  "technicalDetails": "Arrive on time and in style with the Timely Arrival Pack. Includes the following items:\n\n-  1,000 Platinum\n-  “Timely Arrival” Arrival Emote\n-  50 Ace Chips\n-  3 Common Cells\n-  2 Rare Cells\n- Tonics Bundle\n\nPlatinum is an in-game currency that can be used to purchase weapon and armour skins, arrival emotes, banner customizations, and more. You can also use it to upgrade your Hunt Pass.",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jackal/item/TimelyArrival-355x150-ba46f93823c726e87b84356708881cc3.jpg",
+      "md5": "ba46f93823c726e87b84356708881cc3",
+      "width": 355,
+      "height": 150,
+      "size": 63001,
+      "uploadedDate": "2019-05-21T12:01:48.311Z"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/jackal/item/ESRB_Dauntless_T-1080x516-23b23f06c04aa11263b4f2e9fd9deb0c.jpg",
+      "md5": "23b23f06c04aa11263b4f2e9fd9deb0c",
+      "width": 1080,
+      "height": 516,
+      "size": 36613,
+      "uploadedDate": "2019-05-21T13:22:24.158Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "jackal",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-08T20:59:57.846Z",
+  "lastModifiedDate": "2020-06-11T16:55:23.415Z",
+  "entitlementName": "6ac2d32ab8374bf3adf4ae1fe2728b1e",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "unsearchable": false
+}

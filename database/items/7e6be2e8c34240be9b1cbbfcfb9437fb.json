@@ -1,0 +1,31 @@
+{
+  "id": "7e6be2e8c34240be9b1cbbfcfb9437fb",
+  "title": "Fortnite Competitive - Replay Footage App Bundle",
+  "description": "Fortnite Competitive - Replay Footage App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "SUNSET",
+  "creationDate": "2019-08-14T21:09:48.264Z",
+  "lastModifiedDate": "2020-02-13T18:48:50.828Z",
+  "customAttributes": {
+    "ActionSetName": {
+      "type": "STRING",
+      "value": "Fortnite-ReplayFootage-App-Bundle"
+    }
+  },
+  "entitlementName": "7e6be2e8c34240be9b1cbbfcfb9437fb",
+  "entitlementType": "AUDIENCE",
+  "entitlementEndDate": "2020-02-14T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

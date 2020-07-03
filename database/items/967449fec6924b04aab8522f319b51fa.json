@@ -1,0 +1,80 @@
+{
+  "id": "967449fec6924b04aab8522f319b51fa",
+  "title": "LoonExternal",
+  "description": "LoonExternal",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3928fd8975b2437d894bbc5cd21de9a0",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-07T23:19:51.334Z",
+  "lastModifiedDate": "2020-05-26T15:09:46.064Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "3928fd8975b2437d894bbc5cd21de9a0"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Saints Row The Third/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LoonExternal"
+    }
+  },
+  "entitlementName": "967449fec6924b04aab8522f319b51fa",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "76e94743e64a47c99e2adcb221a7a419",
+      "appId": "LoonExternal",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-11-28T00:00:00.000Z"
+    }
+  ],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

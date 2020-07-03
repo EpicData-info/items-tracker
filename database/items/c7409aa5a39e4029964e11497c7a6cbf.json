@@ -1,0 +1,66 @@
+{
+  "id": "c7409aa5a39e4029964e11497c7a6cbf",
+  "title": "Battle Breakers Loc Testing",
+  "description": "Battle Breakers Loc Testing",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wex/item/wex_bg-430x250-7ff217599bc08d57744a959ff00ec48c.png",
+      "md5": "7ff217599bc08d57744a959ff00ec48c",
+      "width": 430,
+      "height": 250,
+      "size": 224112,
+      "uploadedDate": "2018-11-07T00:26:04.102Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/wex/item/BBLogo-625x408-34f5e3a41a380a7dba705ba302b9ffd0.png",
+      "md5": "34f5e3a41a380a7dba705ba302b9ffd0",
+      "width": 625,
+      "height": 408,
+      "size": 58151,
+      "uploadedDate": "2018-11-29T19:09:38.786Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2016-08-10T17:19:38.800Z",
+  "lastModifiedDate": "2019-09-30T23:46:38.813Z",
+  "customAttributes": {
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BattleBreakersLoc"
+    }
+  },
+  "entitlementName": "WorldExplorersLocTesting",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f57dc3c2a5724b0ca42cf9580f990ade",
+      "appId": "WorldExplorersLocTesting",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2016-08-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

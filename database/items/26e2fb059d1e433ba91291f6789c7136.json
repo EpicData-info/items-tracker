@@ -1,0 +1,35 @@
+{
+  "id": "26e2fb059d1e433ba91291f6789c7136",
+  "title": "Wren",
+  "description": "Ashen",
+  "longDescription": "Ashen is an action RPG about a wanderer in search of a place to call home. This is a world where nothing lasts, no matter how tightly you cling to it. At its core, Ashen is about forging relationships. Players can guide those they trust to their camp - together, you might just stand a chance.",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/wren/item/Ashen_Store_PrimaryPromo_2580x1456-2580x1456-e01227641057a1d85386596b94575650.png",
+      "md5": "e01227641057a1d85386596b94575650",
+      "width": 2580,
+      "height": 1456,
+      "size": 2044040,
+      "uploadedDate": "2018-12-06T20:06:33.376Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "wren",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-06T20:06:39.569Z",
+  "lastModifiedDate": "2019-09-06T15:45:12.629Z",
+  "entitlementName": "26e2fb059d1e433ba91291f6789c7136",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": "0c644cd3069b4ad3a07294137113ca0f",
+  "title": "Saffron SL Pack",
+  "description": "Saffron SL Pack",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-08T07:03:43.525Z",
+  "lastModifiedDate": "2019-05-09T19:00:20.254Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "1ff283ce9e054747abe9ac66074c7ebc"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "[]"
+    }
+  },
+  "entitlementName": "0c644cd3069b4ad3a07294137113ca0f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "73c8bfa5e22644a289c9ec48f1efabd9",
+      "appId": "SaffronSLPackTest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-05-08T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,46 @@
+{
+  "id": "039e5fc020ee40edbdcc24850fc6948b",
+  "title": "EagleDLC Audience",
+  "description": "EagleDLC Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/item/ESRB_E10_FantasyViolence-842x404-b69ee903026c7a87f4179c74360a65aa.jpg",
+      "md5": "b69ee903026c7a87f4179c74360a65aa",
+      "width": 842,
+      "height": 404,
+      "size": 21122,
+      "uploadedDate": "2019-07-16T18:25:49.653Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "bec822fb982843c3be794d440728336b",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-10T18:40:35.600Z",
+  "lastModifiedDate": "2019-08-01T19:34:05.355Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "039e5fc020ee40edbdcc24850fc6948b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "11 Bit Studios",
+  "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "unsearchable": false
+}

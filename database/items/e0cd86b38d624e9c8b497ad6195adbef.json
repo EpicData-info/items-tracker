@@ -1,0 +1,26 @@
+{
+  "id": "e0cd86b38d624e9c8b497ad6195adbef",
+  "title": "Alpha Audience Access",
+  "description": "Alpha Audience Access",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "SUNSET",
+  "creationDate": "2017-04-21T09:40:25.072Z",
+  "lastModifiedDate": "2018-08-07T14:34:27.506Z",
+  "entitlementName": "Fortnite_Alpha",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

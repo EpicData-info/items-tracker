@@ -1,0 +1,45 @@
+{
+  "id": "ac71729cce6d4478aa9b54eef77e0a29",
+  "title": "test admin api",
+  "description": "test admin api",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2017-12-20T06:53:16.946Z",
+  "lastModifiedDate": "2017-12-20T06:53:16.946Z",
+  "entitlementName": "ac71729cce6d4478aa9b54eef77e0a29",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e6a3c8cb979c4fc1ac94f8cc356697ff",
+      "appId": "1",
+      "compatibleApps": [
+        "UE_4.1",
+        "UE_4.2",
+        "UE_4.3",
+        "UE_4.4"
+      ],
+      "platform": [
+        "Mac",
+        "iOS"
+      ],
+      "dateAdded": "2017-12-20T06:53:00.430Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "landytianfr",
+  "developerId": "o-569b3b228844a48801edff12bc30cb",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

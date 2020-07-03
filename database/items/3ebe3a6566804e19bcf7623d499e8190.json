@@ -1,0 +1,47 @@
+{
+  "id": "3ebe3a6566804e19bcf7623d499e8190",
+  "title": "Detroit Become Human General Audience",
+  "description": "Detroit Become Human General Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/columbine/item/ESRB_DetroitBecomeHuman-842x404-035ba6355044f32a11b90c3396b43a6a.jpg",
+      "md5": "035ba6355044f32a11b90c3396b43a6a",
+      "width": 842,
+      "height": 404,
+      "size": 119136,
+      "uploadedDate": "2019-07-29T16:07:35.021Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "columbine",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-14T14:48:29.406Z",
+  "lastModifiedDate": "2020-01-06T15:33:07.492Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3ebe3a6566804e19bcf7623d499e8190",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": "08b9998db71343d49c49e9fff468c03e",
+  "title": "DLC93 Audience",
+  "description": "DLC93 (Horzine Supply Emote Crate | Series #3 Bronze Bundle Pack)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-12T21:49:41.452Z",
+  "lastModifiedDate": "2020-07-01T23:39:52.831Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "08b9998db71343d49c49e9fff468c03e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

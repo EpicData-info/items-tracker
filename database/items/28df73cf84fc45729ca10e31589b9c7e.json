@@ -1,0 +1,55 @@
+{
+  "id": "28df73cf84fc45729ca10e31589b9c7e",
+  "title": "TanagerBulletBill",
+  "description": "TanagerBulletBill",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-23T16:19:49.543Z",
+  "lastModifiedDate": "2020-06-01T18:23:22.100Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TanagerBulletBill"
+    }
+  },
+  "entitlementName": "28df73cf84fc45729ca10e31589b9c7e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d2926f1ea6b94ed59f0397eea9f9193c",
+      "appId": "0ee18301a8824247a8d08d8a9b84dcd7",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

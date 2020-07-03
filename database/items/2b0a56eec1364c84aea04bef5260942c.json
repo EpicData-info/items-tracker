@@ -1,0 +1,36 @@
+{
+  "id": "2b0a56eec1364c84aea04bef5260942c",
+  "title": "DLC121 Audience",
+  "description": "DLC121 (Perilous Plunder Weapon Bundle)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-16T21:48:34.897Z",
+  "lastModifiedDate": "2020-07-02T00:50:25.579Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "2b0a56eec1364c84aea04bef5260942c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

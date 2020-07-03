@@ -1,0 +1,80 @@
+{
+  "id": "d5d288cba4874e358b246117d76979e5",
+  "title": "TWD  The TellTale Definitive Series Pre-Purchase",
+  "description": "TWD  The TellTale Definitive Series Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/item/TTTWD-DS_Epic_About_1920x1080-1920x1080-0a8979b4ab012733a342540562b21e2d.jpg",
+      "md5": "0a8979b4ab012733a342540562b21e2d",
+      "width": 1920,
+      "height": 1080,
+      "size": 211453,
+      "uploadedDate": "2019-08-05T18:24:29.927Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/item/TTTWD-DS-EPIC_GameLogo-1448x966-5dd92e6a1235f0d5821c77d89ed0126e.png",
+      "md5": "5dd92e6a1235f0d5821c77d89ed0126e",
+      "width": 1448,
+      "height": 966,
+      "size": 489652,
+      "uploadedDate": "2019-08-05T18:24:39.790Z"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/item/esrb_walking_dead_def-842x404-92b3c16338490a0f7e78d988976e2378.jpg",
+      "md5": "92b3c16338490a0f7e78d988976e2378",
+      "width": 842,
+      "height": 404,
+      "size": 132018,
+      "uploadedDate": "2019-08-06T14:20:38.838Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b534830f4c524447bfd2266ce70cf8ab",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-05T18:23:18.255Z",
+  "lastModifiedDate": "2019-10-09T13:19:09.249Z",
+  "customAttributes": {
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1568170800"
+    }
+  },
+  "entitlementName": "d5d288cba4874e358b246117d76979e5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ed2ab802331f4fd5aac3ecaaf207a6d4",
+      "appId": "CuckooDummy",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-07-31T00:00:00.000Z"
+    }
+  ],
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

@@ -1,0 +1,100 @@
+{
+  "id": "27f36270a1ec44509e72687c4ba6845a",
+  "title": "Salt",
+  "description": "DM-Salt",
+  "longDescription": "This monastery/fortress was once home to an ancient order of monks dedicated to contemplating the afterlife. Liandri acquired the site via their ‘Heritage Program’ under the express understanding that they continued the orders work; unfortunately for the monks nobody specified how.",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ut/item/Featured_Salt-600x600-385ffa515e273e8b3aaac281e46f5641.png",
+      "md5": "385ffa515e273e8b3aaac281e46f5641",
+      "width": 600,
+      "height": 600,
+      "size": 461736,
+      "uploadedDate": "2016-11-04T19:44:14.370Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/ScreenShot_Salt_01-1920x1080-055d7c74b9e2f028aeeeedbd2ac2741f.png",
+      "md5": "055d7c74b9e2f028aeeeedbd2ac2741f",
+      "width": 1920,
+      "height": 1080,
+      "size": 2758782,
+      "uploadedDate": "2016-11-04T19:44:46.546Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/ScreenShot_Salt_02-1920x1080-2302de4af45fc8af7ee73b3221f4afca.png",
+      "md5": "2302de4af45fc8af7ee73b3221f4afca",
+      "width": 1920,
+      "height": 1080,
+      "size": 2795259,
+      "uploadedDate": "2016-11-04T19:45:00.851Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/ScreenShot_Salt_03-1920x1080-cc2a2694eaba48f34d165a68ca454453.png",
+      "md5": "cc2a2694eaba48f34d165a68ca454453",
+      "width": 1920,
+      "height": 1080,
+      "size": 2908138,
+      "uploadedDate": "2016-11-04T19:45:12.208Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/ScreenShot_Salt_04-1920x1080-f649facf96ab7cf8ad24975209a39ea4.png",
+      "md5": "f649facf96ab7cf8ad24975209a39ea4",
+      "width": 1920,
+      "height": 1080,
+      "size": 2604085,
+      "uploadedDate": "2016-11-04T19:45:43.239Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/ScreenShot_Salt_05-1920x1080-d5110939b9bdec3650649dd077e90498.png",
+      "md5": "d5110939b9bdec3650649dd077e90498",
+      "width": 1920,
+      "height": 1080,
+      "size": 2860513,
+      "uploadedDate": "2016-11-04T19:46:37.990Z"
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ut/item/NewFeatured_Salt-1400x300-e8d2f7b10e2cd51b1f7b92dc5c23ae4e.png",
+      "md5": "e8d2f7b10e2cd51b1f7b92dc5c23ae4e",
+      "width": 1400,
+      "height": 300,
+      "size": 546391,
+      "uploadedDate": "2016-11-04T20:19:50.715Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ut/item/Thumbnail_Salt-300x250-10f382cfc778749512287c4625ba0222.png",
+      "md5": "10f382cfc778749512287c4625ba0222",
+      "width": 300,
+      "height": 250,
+      "size": 86760,
+      "uploadedDate": "2016-11-04T20:20:09.058Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2016-11-03T19:52:24.728Z",
+  "lastModifiedDate": "2019-05-13T14:32:30.584Z",
+  "entitlementName": "Salt",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Chris 'NATO' Morris",
+  "developerId": "o-4fe583c19c4ec99703136491ac3805",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

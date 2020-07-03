@@ -1,0 +1,58 @@
+{
+  "id": "35b2b1dc50404368ac36c2571a7f97cf",
+  "title": "Saffron Season Pass Year 1",
+  "description": "Saffron Season Pass Year 1",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-08T06:51:09.011Z",
+  "lastModifiedDate": "2019-06-04T17:53:24.265Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "a41a877de4df407987e4a8fa62c53d55"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "7b6a41e739f24125be88004b0073154e"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "35b2b1dc50404368ac36c2571a7f97cf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bec74c69cdf94cf183e3097f4725f96d",
+      "appId": "SaffronSeasonPassTest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-05-08T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

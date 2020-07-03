@@ -1,0 +1,36 @@
+{
+  "id": "a29fcc50c36f4faf98f2736a8a1b545e",
+  "title": "ChickenExperimentalAudience",
+  "description": "ChickenExperimentalAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "37baf50c268d47779020d73143bb02b0",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-14T15:32:05.052Z",
+  "lastModifiedDate": "2020-05-14T15:32:56.222Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Win32"
+    }
+  },
+  "entitlementName": "a29fcc50c36f4faf98f2736a8a1b545e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Dragonest Game",
+  "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

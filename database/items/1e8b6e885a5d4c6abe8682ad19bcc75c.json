@@ -1,0 +1,51 @@
+{
+  "id": "1e8b6e885a5d4c6abe8682ad19bcc75c",
+  "title": "Demonios",
+  "description": "Demonios",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-12T03:11:00.096Z",
+  "lastModifiedDate": "2020-04-09T14:22:00.647Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Demonios"
+    }
+  },
+  "entitlementName": "1e8b6e885a5d4c6abe8682ad19bcc75c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0ed2a4cd32424c51875fc207248f0c5b",
+      "appId": "KakopoDemonios",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix",
+  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

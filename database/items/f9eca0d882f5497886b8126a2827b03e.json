@@ -1,0 +1,59 @@
+{
+  "id": "f9eca0d882f5497886b8126a2827b03e",
+  "title": "SnapperEuropaStaging",
+  "description": "SnapperEuropaStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-13T19:40:57.434Z",
+  "lastModifiedDate": "2020-03-13T20:51:32.239Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/Offworld/EpicCloud/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.bin,*.map,*.xml"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SnapperEuropaStaging"
+    }
+  },
+  "entitlementName": "f9eca0d882f5497886b8126a2827b03e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "96cf83dad0ce4ff7a43fd5e5a5e7a05b",
+      "appId": "43010145727648df81c654e41baf2510",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-03-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "82c2502874434dcfafdafd1d3fb6d115",
+  "title": "DLC42 Audience",
+  "description": "DLC42 (Horzine Supply Cosmetic Crate | Series #9 Silver Bundle Pack)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T02:57:11.630Z",
+  "lastModifiedDate": "2019-11-27T20:10:09.979Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "82c2502874434dcfafdafd1d3fb6d115",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

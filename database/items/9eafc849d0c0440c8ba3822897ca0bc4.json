@@ -1,0 +1,51 @@
+{
+  "id": "9eafc849d0c0440c8ba3822897ca0bc4",
+  "title": "WombatBeta",
+  "description": "WombatBeta",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wombat",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-29T16:16:11.747Z",
+  "lastModifiedDate": "2020-04-09T01:06:17.024Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "folderName": {
+      "type": "STRING",
+      "value": "WombatBeta"
+    }
+  },
+  "entitlementName": "9eafc849d0c0440c8ba3822897ca0bc4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5bcdb000f1344f7caf8e6e304c4e9397",
+      "appId": "WombatBeta",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-01-29T16:15:50.228Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

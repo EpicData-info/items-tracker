@@ -1,0 +1,113 @@
+{
+  "id": "12160a20dbb645d7a3672959b5d7ed03",
+  "title": "Griftlands",
+  "description": "Griftlands",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/phlox/item/Alpha_Promo-2048x1152-54d1a976be4e3d14b6cdca591bc9bddc.jpg",
+      "md5": "54d1a976be4e3d14b6cdca591bc9bddc",
+      "width": 2048,
+      "height": 1152,
+      "size": 1999947,
+      "uploadedDate": "2019-07-09T18:56:52.946Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/phlox/item/Alpha_Logo-1854x960-9201c864e7ebdf0d25db61c29fd6eb92.png",
+      "md5": "9201c864e7ebdf0d25db61c29fd6eb92",
+      "width": 1854,
+      "height": 960,
+      "size": 179298,
+      "uploadedDate": "2019-07-09T18:57:10.243Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/phlox/item/Phlox_Portrait-1280x1440-912bcadaca3c81bf9af24885f1abdb3f.png",
+      "md5": "912bcadaca3c81bf9af24885f1abdb3f",
+      "width": 1280,
+      "height": 1440,
+      "size": 684501,
+      "uploadedDate": "2019-11-27T14:08:15.048Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "phlox",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-04T13:07:11.577Z",
+  "lastModifiedDate": "2020-04-21T22:56:05.989Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "phlox"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Documents/Klei/Griftlands/{EpicID}/"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Klei/Griftlands/{EpicID}/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "*.dmp,log.txt,cache/,feedback/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Griftlands"
+    }
+  },
+  "entitlementName": "12160a20dbb645d7a3672959b5d7ed03",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "33e18c32724a4af7bb5b2be3280177bc",
+      "appId": "Phlox",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-04T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Klei Entertainment",
+  "developerId": "o-6v5su732w3tnzud9lque2m7s4qzvjx",
+  "eulaIds": [
+    "(egstore && phlox)"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

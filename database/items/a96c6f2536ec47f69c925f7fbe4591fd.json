@@ -1,0 +1,33 @@
+{
+  "id": "a96c6f2536ec47f69c925f7fbe4591fd",
+  "title": "AlbacoreDevAudience",
+  "description": "AlbacoreDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "c9be94273fe244c08032ca493ad87434",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-06T21:37:52.035Z",
+  "lastModifiedDate": "2020-02-20T15:17:37.180Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a96c6f2536ec47f69c925f7fbe4591fd",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1a606d950daf4387acc51325f7b8a3a4",
+  "title": "Call_To_Action_03",
+  "description": "DISCUSS THE GAME \n<inverted-tiny-body>Visit the Official Reddit</>",
+  "longDescription": "",
+  "technicalDetails": "https://www.reddit.com/r/Battalion1944",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/battalion/item/B44_ModdingResourceImage_03-960x497-9fe9f537a07a1ce1b16740625b5ea052.png",
+      "md5": "9fe9f537a07a1ce1b16740625b5ea052",
+      "width": 960,
+      "height": 497,
+      "size": 740921,
+      "uploadedDate": "2018-07-09T19:37:53.079Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "battalion",
+  "status": "ACTIVE",
+  "creationDate": "2018-07-06T15:49:42.516Z",
+  "lastModifiedDate": "2018-12-14T20:10:21.930Z",
+  "entitlementName": "1a606d950daf4387acc51325f7b8a3a4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

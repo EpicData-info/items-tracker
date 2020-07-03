@@ -1,0 +1,101 @@
+{
+  "id": "dd0b22485f474d21829b14be5772ddb4",
+  "title": "Bloodroots",
+  "description": "Bloodroots",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/item/EGS_PaperCult_Bloodroots_S1-2560x1440-80572938a127a5e726ec2b1a5a24bdc1.jpg",
+      "md5": "80572938a127a5e726ec2b1a5a24bdc1",
+      "width": 2560,
+      "height": 1440,
+      "size": 501662,
+      "uploadedDate": "2019-12-11T18:11:57.558Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/item/EGS_PaperCult_Bloodroots_S2-1280x1440-4c8abb411cd696297b34d4436c912d54.jpg",
+      "md5": "4c8abb411cd696297b34d4436c912d54",
+      "width": 1280,
+      "height": 1440,
+      "size": 264974,
+      "uploadedDate": "2019-12-11T18:12:10.255Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/item/EGS_PaperCult_Bloodroots_IC1-200x69-cd04379387462a1f16a8b90524fd48a8.png",
+      "md5": "cd04379387462a1f16a8b90524fd48a8",
+      "width": 200,
+      "height": 69,
+      "size": 15160,
+      "uploadedDate": "2019-12-11T18:12:17.979Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "25ef88acc7f34afc8ac6669e11573882",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-29T00:10:01.573Z",
+  "lastModifiedDate": "2020-05-15T01:52:11.875Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "25ef88acc7f34afc8ac6669e11573882"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Bloodroots"
+    }
+  },
+  "entitlementName": "dd0b22485f474d21829b14be5772ddb4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c5447d54e00b471db1f26bdb993957fc",
+      "appId": "Pochard",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-29T00:00:00.000Z"
+    }
+  ],
+  "developer": "Paper Cult",
+  "developerId": "o-6fych9fc46deb48wb6fw8th6695pnl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

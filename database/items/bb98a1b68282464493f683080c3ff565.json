@@ -1,0 +1,29 @@
+{
+  "id": "bb98a1b68282464493f683080c3ff565",
+  "title": "Starter Pack 2 Marker",
+  "description": "Starter Pack 2 Marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "azalea",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-29T21:55:33.069Z",
+  "lastModifiedDate": "2019-08-29T21:55:33.069Z",
+  "entitlementName": "bb98a1b68282464493f683080c3ff565",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

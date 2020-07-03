@@ -1,0 +1,29 @@
+{
+  "id": "60d93138988e4558b5a4c3fa5b916ea6",
+  "title": "DeluxePackAudience_marker",
+  "description": "DeluxePackAudience_marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "clary",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-08T21:18:20.468Z",
+  "lastModifiedDate": "2019-08-08T21:18:52.567Z",
+  "entitlementName": "60d93138988e4558b5a4c3fa5b916ea6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

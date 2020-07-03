@@ -1,0 +1,79 @@
+{
+  "id": "dd2cf0174d9748f1b6dc1b53a4d3ea71",
+  "title": "MechWarrior 5 Closed Beta",
+  "description": "MechWarrior 5 Closed Beta",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/Beta-Library-Photo-2560x1440-b5071544b6c8d7cd7d2d4851f7c68482.jpg",
+      "md5": "b5071544b6c8d7cd7d2d4851f7c68482",
+      "width": 2560,
+      "height": 1440,
+      "size": 472339,
+      "uploadedDate": "2019-12-07T01:47:05.647Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/Beta-Library-Photo-half-1280x1440-c497b49dc8c671dbbd4280fc8e2ee7b6.jpg",
+      "md5": "c497b49dc8c671dbbd4280fc8e2ee7b6",
+      "width": 1280,
+      "height": 1440,
+      "size": 432229,
+      "uploadedDate": "2019-12-07T01:47:20.386Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/Beta-Library-logo-200x200-eab87c816e6486ef4f0681aaa0ff4b0c.png",
+      "md5": "eab87c816e6486ef4f0681aaa0ff4b0c",
+      "width": 200,
+      "height": 200,
+      "size": 5685,
+      "uploadedDate": "2019-12-07T01:47:41.725Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b9def67e597b4be7a16146146a044d02",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-21T15:33:27.257Z",
+  "lastModifiedDate": "2019-12-10T13:52:42.994Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MechWarrior5Beta"
+    }
+  },
+  "entitlementName": "dd2cf0174d9748f1b6dc1b53a4d3ea71",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d385968ad1244e2e8278f2be58252070",
+      "appId": "HoopoeBeta",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-07-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Piranha Games",
+  "developerId": "o-muad9pj32k67stc4ycpgpplwq84sgq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

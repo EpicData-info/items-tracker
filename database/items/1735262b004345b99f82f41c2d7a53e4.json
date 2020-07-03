@@ -1,0 +1,51 @@
+{
+  "id": "1735262b004345b99f82f41c2d7a53e4",
+  "title": "BoxfishNightly",
+  "description": "BoxfishNightly",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-20T15:09:27.181Z",
+  "lastModifiedDate": "2020-04-24T03:59:22.768Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BoxfishNightly"
+    }
+  },
+  "entitlementName": "1735262b004345b99f82f41c2d7a53e4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7dfeabc4c7774a87acf21e5a8d172af7",
+      "appId": "c0a04da285dc4f478f4d8c8d17bc529b",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-03-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

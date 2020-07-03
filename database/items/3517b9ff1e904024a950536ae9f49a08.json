@@ -1,0 +1,35 @@
+{
+  "id": "3517b9ff1e904024a950536ae9f49a08",
+  "title": "DLC46 Audience",
+  "description": "DLC46 (Horzine Supply Emote Crate | Series #2 Bronze Bundle Pack)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T03:04:42.850Z",
+  "lastModifiedDate": "2019-11-27T20:07:42.037Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3517b9ff1e904024a950536ae9f49a08",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

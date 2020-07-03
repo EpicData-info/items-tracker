@@ -1,0 +1,24 @@
+{
+  "id": "388a171973f14814a4aba10485a90366",
+  "title": "Entitlement122",
+  "description": "Entitlement is edited from executable to entitlement and item type is consumable",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "assets"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-27T17:56:05.914Z",
+  "lastModifiedDate": "2014-10-27T17:56:32.666Z",
+  "entitlementName": "0e2000e3b75c46ec970934ed96539fd3",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementEndDate": "2014-10-28T00:00:00.000Z",
+  "entitlementStartDate": "2014-10-27T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "developer": "SeaTest1",
+  "useCount": 12,
+  "endOfSupport": false,
+  "unsearchable": false
+}

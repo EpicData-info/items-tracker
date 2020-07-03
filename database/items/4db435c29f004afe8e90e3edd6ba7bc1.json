@@ -1,0 +1,74 @@
+{
+  "id": "4db435c29f004afe8e90e3edd6ba7bc1",
+  "title": "AzaleaHotfix",
+  "description": "AzaleaHotfix",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/azalea/item/The_Cycle_logo_White-615x478-2fe411db4bd7325782a6b92733e52659.png",
+      "md5": "2fe411db4bd7325782a6b92733e52659",
+      "width": 615,
+      "height": 478,
+      "size": 20577,
+      "uploadedDate": "2019-03-19T22:50:17.791Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/azalea/item/YT_Cover_2560_x_1440-2560x1440-17d8baed51461c5daac9aa3abf7fa108.jpg",
+      "md5": "17d8baed51461c5daac9aa3abf7fa108",
+      "width": 2560,
+      "height": 1440,
+      "size": 433773,
+      "uploadedDate": "2019-06-20T17:56:32.749Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "azalea",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-07T02:03:10.555Z",
+  "lastModifiedDate": "2019-09-07T02:08:05.797Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AzaleaHotfix"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4db435c29f004afe8e90e3edd6ba7bc1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ea1e5a51137743c5a5d2d8476f542fe5",
+      "appId": "AzaleaHotfix",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-22T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

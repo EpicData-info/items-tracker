@@ -1,0 +1,24 @@
+{
+  "id": "c8cf61ff37da4585af19dcac9637b9f6",
+  "title": "Ocean Internal - Localization Team",
+  "description": "Ocean Internal - Localization Team",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-03T17:33:10.875Z",
+  "lastModifiedDate": "2019-10-03T17:33:10.875Z",
+  "entitlementName": "c8cf61ff37da4585af19dcac9637b9f6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "78e1f0dbc0d34e7ea84c7b294cdb6026",
+  "title": "Rail Soundtrack Audience",
+  "description": "Rail Soundtrack Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "0fb229f35a3f4eb788b05ae91419a214",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-27T19:08:51.081Z",
+  "lastModifiedDate": "2020-01-06T15:58:56.197Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "78e1f0dbc0d34e7ea84c7b294cdb6026",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Techland",
+  "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

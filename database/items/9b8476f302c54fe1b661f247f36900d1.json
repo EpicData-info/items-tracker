@@ -1,0 +1,91 @@
+{
+  "id": "9b8476f302c54fe1b661f247f36900d1",
+  "title": "Sludge Life OST",
+  "description": "Sludge Life OST",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/item/EGS_SLUDGELIFEOST_Doseone_DigitalExtras_S1-2560x1440-762c5f5c8de4020569a7cc013d7f7415.jpg",
+      "md5": "762c5f5c8de4020569a7cc013d7f7415",
+      "width": 2560,
+      "height": 1440,
+      "size": 1024770,
+      "uploadedDate": "2020-05-25T15:47:29.042Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/item/EGS_SLUDGELIFEOST_Doseone_DigitalExtras_S2-1200x1600-fd8cbc399532c5b4d61b8e1bba5d9363.jpg",
+      "md5": "fd8cbc399532c5b4d61b8e1bba5d9363",
+      "width": 1200,
+      "height": 1600,
+      "size": 1021676,
+      "uploadedDate": "2020-05-25T15:47:43.581Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "158a0eaa18574bb39347c04286d118c7",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-22T19:57:10.112Z",
+  "lastModifiedDate": "2020-05-28T13:21:34.724Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "158a0eaa18574bb39347c04286d118c7"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SludgeLifeOST"
+    }
+  },
+  "entitlementName": "9b8476f302c54fe1b661f247f36900d1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "381b00f14e504e8ebb10c9fa616d5360",
+      "appId": "1c6eff28e2834e48bf39b707a0cfeeb7",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-22T00:00:00.000Z"
+    }
+  ],
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

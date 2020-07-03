@@ -1,0 +1,34 @@
+{
+  "id": "e11d21b43e264b6a9c41219cf054ddc2",
+  "title": "TestSDKGeneralAudience",
+  "description": "TestSDKGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "games"
+    }
+  ],
+  "namespace": "b761d934acc84232bd91cd5358e030f9",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-17T21:43:32.895Z",
+  "lastModifiedDate": "2019-08-22T18:53:19.240Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e11d21b43e264b6a9c41219cf054ddc2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

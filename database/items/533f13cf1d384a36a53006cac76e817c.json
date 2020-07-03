@@ -1,0 +1,26 @@
+{
+  "id": "533f13cf1d384a36a53006cac76e817c",
+  "title": "Season 6 starter kit",
+  "description": "Season 6 starter kit",
+  "longDescription": "",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-10-15T19:29:30.475Z",
+  "lastModifiedDate": "2018-11-05T19:54:45.811Z",
+  "entitlementName": "S6_StarterPack",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2018-10-15T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

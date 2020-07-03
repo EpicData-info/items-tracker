@@ -1,0 +1,92 @@
+{
+  "id": "14d91f5ea7944b32bfedd2f78204a0a3",
+  "title": "Metro Exodus",
+  "description": "Metro Exodus",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/Game-Logo_Metro-Exodus_white-1920x840-fb7a33658fdfb167359dd9aa87a32f48-1920x840-fb7a33658fdfb167359dd9aa87a32f48-1920x840-fb7a33658fdfb167359dd9aa87a32f48.png",
+      "md5": "fb7a33658fdfb167359dd9aa87a32f48",
+      "width": 1920,
+      "height": 840,
+      "size": 166960,
+      "uploadedDate": "2019-01-22T21:10:08.270Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/metro_promo-2580x1450-0e5b7a55fb64f2b4ab1a46455a9293e0.jpg",
+      "md5": "0e5b7a55fb64f2b4ab1a46455a9293e0",
+      "width": 2580,
+      "height": 1450,
+      "size": 580337,
+      "uploadedDate": "2019-02-15T05:06:32.922Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/MetroExodus_tall-618x700-485ff4ae038c7eed3a7b359bcc9c677a.png",
+      "md5": "485ff4ae038c7eed3a7b359bcc9c677a",
+      "width": 618,
+      "height": 700,
+      "size": 273835,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "snapdragon",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-11T14:08:02.310Z",
+  "lastModifiedDate": "2019-11-19T17:03:10.931Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/metro exodus/{EpicID}/"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MetroExodus"
+    }
+  },
+  "entitlementName": "14d91f5ea7944b32bfedd2f78204a0a3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a0b9d7979dbb4f1fbfe2114e5da4e52e",
+      "appId": "Snapdragon",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-01-11T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

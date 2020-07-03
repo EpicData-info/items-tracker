@@ -1,0 +1,50 @@
+{
+  "id": "48a2268b415f480dbdc5fc52b261d444",
+  "title": "BustardStaging",
+  "description": "BustardStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "400cc6605aee41de88f976b587a48aa0",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-10T21:03:46.088Z",
+  "lastModifiedDate": "2019-12-29T14:55:31.310Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BustardStaging"
+    }
+  },
+  "entitlementName": "48a2268b415f480dbdc5fc52b261d444",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b71d63a4b20a44d49b3f54245ddb9d5e",
+      "appId": "BustardStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

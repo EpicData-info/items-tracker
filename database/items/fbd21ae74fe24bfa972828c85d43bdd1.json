@@ -1,0 +1,93 @@
+{
+  "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+  "title": "Auto Chess",
+  "description": "Auto Chess",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/item/Autochess-promo-2560x1440-f041c389dafd6ff1466999a9bf804f3c.jpg",
+      "md5": "f041c389dafd6ff1466999a9bf804f3c",
+      "width": 2560,
+      "height": 1440,
+      "size": 243162,
+      "uploadedDate": "2019-06-10T00:01:51.392Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/item/1200x1600-2-1200x1600-5effedf7c8afeb501d71c2cb5db93b50.jpg",
+      "md5": "5effedf7c8afeb501d71c2cb5db93b50",
+      "width": 1200,
+      "height": 1600,
+      "size": 1542602,
+      "uploadedDate": "2020-05-13T01:29:30.861Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "37baf50c268d47779020d73143bb02b0",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-06T19:54:40.735Z",
+  "lastModifiedDate": "2020-05-13T01:30:13.029Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "37baf50c268d47779020d73143bb02b0"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AutoChess"
+    }
+  },
+  "entitlementName": "fbd21ae74fe24bfa972828c85d43bdd1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "488bf9688cd14a51aacbe0db63b211f7",
+      "appId": "Chicken",
+      "platform": [
+        "Windows",
+        "Win32"
+      ],
+      "dateAdded": "2019-07-18T00:00:00.000Z"
+    }
+  ],
+  "developer": "Dragonest Game",
+  "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": "4d3249b30a534abd82f0e5c30440869f",
+  "title": "PochardStaging",
+  "description": "PochardStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "25ef88acc7f34afc8ac6669e11573882",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-29T00:10:01.607Z",
+  "lastModifiedDate": "2020-02-28T15:59:52.688Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PochardStaging"
+    }
+  },
+  "entitlementName": "4d3249b30a534abd82f0e5c30440869f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cad86a1dd0be41eb9035c9d85ecf54c3",
+      "appId": "PochardStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-29T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

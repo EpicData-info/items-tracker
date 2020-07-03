@@ -1,0 +1,47 @@
+{
+  "id": "d60bc2d0c1874a7e94e42a513e8556c1",
+  "title": "LoonGeneralAudience",
+  "description": "LoonGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/3928fd8975b2437d894bbc5cd21de9a0/item/Diesel_productv2_loon_home_ESRB_SaintsRowTheThird-842x485-33cda60b4ee44979c6a81f83159579ca32ce9a0f-842x485-a536b43f34064b60d6d354e9a118d046.jpg",
+      "md5": "a536b43f34064b60d6d354e9a118d046",
+      "width": 842,
+      "height": 485,
+      "size": 51637,
+      "uploadedDate": "2020-04-06T13:57:26.037Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3928fd8975b2437d894bbc5cd21de9a0",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-15T17:09:28.420Z",
+  "lastModifiedDate": "2020-05-26T15:08:22.340Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d60bc2d0c1874a7e94e42a513e8556c1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": true
+}

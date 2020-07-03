@@ -1,0 +1,53 @@
+{
+  "id": "c55a2f5e84234b03b97efb4da8437f1a",
+  "title": "ShoebillQA",
+  "description": "ShoebillQA",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e509c16d53714b13ba8e393966507255",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-25T17:07:01.039Z",
+  "lastModifiedDate": "2019-10-25T17:08:18.883Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "shoebillqa"
+    }
+  },
+  "entitlementName": "c55a2f5e84234b03b97efb4da8437f1a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "31659af30d5b408582bd3559f781422a",
+      "appId": "ShoebillQA",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-25T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

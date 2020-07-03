@@ -1,0 +1,29 @@
+{
+  "id": "55c6294210e5469aaa21c44fa04f96ab",
+  "title": "WrenDLCDevAudience",
+  "description": "WrenDLCDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "wren",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-01T21:35:56.976Z",
+  "lastModifiedDate": "2019-09-06T15:45:12.629Z",
+  "entitlementName": "55c6294210e5469aaa21c44fa04f96ab",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

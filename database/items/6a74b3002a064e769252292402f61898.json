@@ -1,0 +1,73 @@
+{
+  "id": "6a74b3002a064e769252292402f61898",
+  "title": "Tetris® Effect Digital Deluxe DLC",
+  "description": "Tetris® Effect Digital Deluxe DLC",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/item/tetriseffect_L1-1850x1041-39433010ede56695f20157632cbc9baf.jpg",
+      "md5": "39433010ede56695f20157632cbc9baf",
+      "width": 1850,
+      "height": 1041,
+      "size": 362071,
+      "uploadedDate": "2019-07-16T02:16:06.878Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/item/TetrisEffect_IC1_logo-3712x2854-bca2a325c1f009577c61e213d9ca28eb.png",
+      "md5": "bca2a325c1f009577c61e213d9ca28eb",
+      "width": 3712,
+      "height": 2854,
+      "size": 6214265,
+      "uploadedDate": "2019-07-16T02:17:02.822Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "76339caf9e8e4d24b62761c736e82b42",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-12T18:55:39.496Z",
+  "lastModifiedDate": "2019-07-23T13:49:55.907Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TetrisEffectDLC"
+    }
+  },
+  "entitlementName": "6a74b3002a064e769252292402f61898",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9e5192d62f724e9d95ea3755bf23c15c",
+      "appId": "KiwiDLC1",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-07-12T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Enhance, Inc.",
+  "developerId": "o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

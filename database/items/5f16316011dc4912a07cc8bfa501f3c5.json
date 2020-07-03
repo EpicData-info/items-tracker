@@ -1,0 +1,35 @@
+{
+  "id": "5f16316011dc4912a07cc8bfa501f3c5",
+  "title": "DLC96 Audience",
+  "description": "DLC96 (Horzine Supply Cosmetic Crate | Series #5 Bronze Bundle Pack)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-12T21:55:10.272Z",
+  "lastModifiedDate": "2020-06-18T01:06:58.704Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5f16316011dc4912a07cc8bfa501f3c5",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": "d753dc9279e14f2dbed843e209d65d6a",
+  "title": "BuffaloDevAudience",
+  "description": "BuffaloDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "buffalo",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-12T16:55:19.994Z",
+  "lastModifiedDate": "2019-05-13T14:37:25.919Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Mac,Windows"
+    }
+  },
+  "entitlementName": "d753dc9279e14f2dbed843e209d65d6a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Team Meat",
+  "developerId": "o-mj7q3aaq5djq6wuddnrr5mgqjsk2da",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

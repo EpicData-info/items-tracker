@@ -1,0 +1,88 @@
+{
+  "id": "00bfea4599f549c9829ea050fe221640",
+  "title": "RUNE II",
+  "description": "RUNE II",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/cosmos/item/RUNE II Box Art-1200x1600-d92375f36cfeb2b5eeb68e1519ebb7ab.jpg",
+      "md5": "d92375f36cfeb2b5eeb68e1519ebb7ab",
+      "width": 1200,
+      "height": 1600,
+      "size": 489728,
+      "uploadedDate": "2020-04-30T19:08:07.318Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cosmos/item/RUNE II Quick Launch-1920x1080-efbce6fe1b7d993066432082575f815f.jpg",
+      "md5": "efbce6fe1b7d993066432082575f815f",
+      "width": 1920,
+      "height": 1080,
+      "size": 842441,
+      "uploadedDate": "2020-04-30T19:08:34.598Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cosmos",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-04T20:09:37.098Z",
+  "lastModifiedDate": "2020-04-30T19:08:43.229Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "cosmos"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RuneII"
+    }
+  },
+  "entitlementName": "00bfea4599f549c9829ea050fe221640",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8d8d5c867a894c22a90176635d426aaf",
+      "appId": "Cosmos",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-04T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ragnarok Game, LLC",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

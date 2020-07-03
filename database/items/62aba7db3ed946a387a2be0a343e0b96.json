@@ -1,0 +1,35 @@
+{
+  "id": "62aba7db3ed946a387a2be0a343e0b96",
+  "title": "DLC8 Audience",
+  "description": "Premium Summer Sideshow Ticket",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-13T21:53:44.292Z",
+  "lastModifiedDate": "2019-11-27T20:02:08.910Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "62aba7db3ed946a387a2be0a343e0b96",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

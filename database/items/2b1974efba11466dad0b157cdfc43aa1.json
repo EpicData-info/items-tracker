@@ -1,0 +1,75 @@
+{
+  "id": "2b1974efba11466dad0b157cdfc43aa1",
+  "title": "DEATH STRANDING Pre-Purchase",
+  "description": "DEATH STRANDING Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/item/EGS_KojimaProductions_DeathStranding_S1-2560x1440-e56d3a322a94fd7dd18b9c93ee080d01.jpg",
+      "md5": "e56d3a322a94fd7dd18b9c93ee080d01",
+      "width": 2560,
+      "height": 1440,
+      "size": 495054,
+      "uploadedDate": "2019-11-06T19:13:43.288Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/item/DeathStranding_Tall-1280x1440-5a96ed93665756b28f6d70e65266e64c.jpg",
+      "md5": "5a96ed93665756b28f6d70e65266e64c",
+      "width": 1280,
+      "height": 1440,
+      "size": 463126,
+      "uploadedDate": "2019-12-03T16:10:28.939Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f4a904fcef2447439c35c4e6457f3027",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-06T15:39:20.645Z",
+  "lastModifiedDate": "2020-06-23T22:09:38.576Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DSPrePurchase"
+    }
+  },
+  "entitlementName": "2b1974efba11466dad0b157cdfc43aa1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5b7cc19fc97d4dc988e8d6b6b2e478ee",
+      "appId": "DeathStrandingPre",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-11-06T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

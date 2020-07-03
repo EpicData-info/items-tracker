@@ -1,0 +1,45 @@
+{
+  "id": "12839678edd94bda8603e7f3eb59ba24",
+  "title": "StaticeDevAudience",
+  "description": "StaticeDevAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/item/ESRB_TheEndisNigh-842x404-6e774e998227ed16d5c1739097adc770.jpg",
+      "md5": "6e774e998227ed16d5c1739097adc770",
+      "width": 842,
+      "height": 404,
+      "size": 21605,
+      "uploadedDate": "2019-09-05T15:13:58.122Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "530eeeaffca14275a451d7cff61ee6bb",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-24T06:23:20.889Z",
+  "lastModifiedDate": "2019-09-06T17:45:28.557Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Win32"
+    }
+  },
+  "entitlementName": "12839678edd94bda8603e7f3eb59ba24",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Edmund McMillen, Tyler Glaiel",
+  "developerId": "o-h8c7zcwt24ey84nvxfbgzqpvth9vpz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

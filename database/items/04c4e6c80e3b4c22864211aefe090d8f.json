@@ -1,0 +1,25 @@
+{
+  "id": "04c4e6c80e3b4c22864211aefe090d8f",
+  "title": "Sneaky Bleu",
+  "description": "Sneaky Bleu",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-10T16:53:03.255Z",
+  "lastModifiedDate": "2020-01-15T15:57:53.362Z",
+  "entitlementName": "FN_Sneakybleu",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

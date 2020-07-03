@@ -1,0 +1,46 @@
+{
+  "id": "840ba1c2b7cb46e58a7ed9c5c4e3d24e",
+  "title": "AssassinsCreedUnityGeneralAudience",
+  "description": "AssassinsCreedUnityGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/72bdc702b4974024a69a5eb718a7a135/item/ESRB_M_ACUnity.jpg-842x485-25f1e71e4374bd89d7a70d136f287902.png",
+      "md5": "25f1e71e4374bd89d7a70d136f287902",
+      "width": 842,
+      "height": 485,
+      "size": 35389,
+      "uploadedDate": "2020-03-10T15:27:21.520Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "72bdc702b4974024a69a5eb718a7a135",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-10T04:58:41.932Z",
+  "lastModifiedDate": "2020-03-10T15:27:24.329Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "840ba1c2b7cb46e58a7ed9c5c4e3d24e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

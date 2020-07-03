@@ -1,0 +1,47 @@
+{
+  "id": "25ed76af7816430cbfc0f5e6d3195d56",
+  "title": "EdithFinchGeneralAudience",
+  "description": "EdithFinchGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/badger/item/ESRB_WhatRemainsofEdithFinch-842x404-58d445de4b245d0d087d5fea6cd77f7f.jpg",
+      "md5": "58d445de4b245d0d087d5fea6cd77f7f",
+      "width": 842,
+      "height": 404,
+      "size": 82121,
+      "uploadedDate": "2020-01-08T16:12:07.496Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "badger",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-09T16:00:07.071Z",
+  "lastModifiedDate": "2020-01-08T16:17:35.640Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "25ed76af7816430cbfc0f5e6d3195d56",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "selfRefundable": true,
+  "unsearchable": false
+}

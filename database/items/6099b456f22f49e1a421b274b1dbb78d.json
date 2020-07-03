@@ -1,0 +1,90 @@
+{
+  "id": "6099b456f22f49e1a421b274b1dbb78d",
+  "title": "The Wolf Among Us",
+  "description": "The Wolf Among Us",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/a8f9fb4a881e47b489715f18f7d08e2f/item/EGS_LCGEntertainmentInc_TheWolfAmongUs_S2-1280x1440-3d592297f8f96e8699f46ce34a7f5b10.jpg",
+      "md5": "3d592297f8f96e8699f46ce34a7f5b10",
+      "width": 1280,
+      "height": 1440,
+      "size": 453521,
+      "uploadedDate": "2019-12-11T21:15:07.697Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/a8f9fb4a881e47b489715f18f7d08e2f/item/EGS_LCGEntertainmentInc_TheWolfAmongUs_S1-2560x1440-087d32300cf450fb5f1f1582c7b831fc.jpg",
+      "md5": "087d32300cf450fb5f1f1582c7b831fc",
+      "width": 2560,
+      "height": 1440,
+      "size": 345673,
+      "uploadedDate": "2019-12-11T21:15:22.066Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a8f9fb4a881e47b489715f18f7d08e2f",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-11T01:58:26.425Z",
+  "lastModifiedDate": "2019-12-13T04:24:47.287Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "a8f9fb4a881e47b489715f18f7d08e2f"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheWolfAmongUs"
+    }
+  },
+  "entitlementName": "6099b456f22f49e1a421b274b1dbb78d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f3bc17c903d44a9894b1d8e535bf1eab",
+      "appId": "Cobbler",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Athlon Games",
+  "developerId": "o-pak9zrvrvpnc8qtwjx3z6pllyzph4q",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

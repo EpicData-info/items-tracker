@@ -1,0 +1,24 @@
+{
+  "id": "a20d104ea8e64081af7acac7f3a59f07",
+  "title": "Bat Signal",
+  "description": "Did somebody order a Batman?",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-20T17:50:14.232Z",
+  "lastModifiedDate": "2019-09-21T13:38:17.767Z",
+  "entitlementName": "AthenaDance:eid_blackmondaymale_e0vsb",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

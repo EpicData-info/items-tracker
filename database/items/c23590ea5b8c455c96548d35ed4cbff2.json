@@ -1,0 +1,49 @@
+{
+  "id": "c23590ea5b8c455c96548d35ed4cbff2",
+  "title": "FangtoothStaging",
+  "description": "FangtoothStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2f215955790d456b80c291bc2feaf7f7",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-18T10:01:23.896Z",
+  "lastModifiedDate": "2019-12-28T16:25:22.437Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FangtoothStaging"
+    }
+  },
+  "entitlementName": "c23590ea5b8c455c96548d35ed4cbff2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fbc46229d31a44c796c2a8bf48b1e162",
+      "appId": "FangtoothStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

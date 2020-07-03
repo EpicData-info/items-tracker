@@ -1,0 +1,35 @@
+{
+  "id": "796f05b6120841ab9b039896e9204f07",
+  "title": "CarnationDevAudience",
+  "description": "CarnationDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "carnation",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-11T19:29:43.792Z",
+  "lastModifiedDate": "2019-08-27T16:14:32.002Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "796f05b6120841ab9b039896e9204f07",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

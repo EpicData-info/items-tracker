@@ -1,0 +1,35 @@
+{
+  "id": "e0d25deda70d4aaaa918d6516772ecda",
+  "title": "DLC40 Audience",
+  "description": "DLC40 (Horzine Supply Cosmetic Crate | Series #9 Bronze Bundle Pack)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T02:54:01.678Z",
+  "lastModifiedDate": "2019-11-27T20:05:45.088Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e0d25deda70d4aaaa918d6516772ecda",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

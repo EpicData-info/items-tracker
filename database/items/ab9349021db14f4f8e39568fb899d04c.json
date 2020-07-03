@@ -1,0 +1,49 @@
+{
+  "id": "ab9349021db14f4f8e39568fb899d04c",
+  "title": "CobblerStaging",
+  "description": "CobblerStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a8f9fb4a881e47b489715f18f7d08e2f",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-11T01:58:26.473Z",
+  "lastModifiedDate": "2019-12-13T04:24:47.287Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CobblerStaging"
+    }
+  },
+  "entitlementName": "ab9349021db14f4f8e39568fb899d04c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c7da4bc993d641cdb90f6380c77f0726",
+      "appId": "CobblerStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Athlon Games",
+  "developerId": "o-pak9zrvrvpnc8qtwjx3z6pllyzph4q",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

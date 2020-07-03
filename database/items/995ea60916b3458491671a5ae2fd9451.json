@@ -1,0 +1,58 @@
+{
+  "id": "995ea60916b3458491671a5ae2fd9451",
+  "title": "Anno 1800 Deluxe Pack",
+  "description": "Anno 1800 Deluxe Pack",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "oregano",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-25T16:41:56.949Z",
+  "lastModifiedDate": "2020-05-27T21:47:43.336Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "1ff283ce9e054747abe9ac66074c7ebc"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "8a0620f3d4324f458dfb76aa23b9e951"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "995ea60916b3458491671a5ae2fd9451",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "90b0b7eab74b45aaa1aa05ba31ae7e8d",
+      "appId": "DeluxePackTest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-25T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

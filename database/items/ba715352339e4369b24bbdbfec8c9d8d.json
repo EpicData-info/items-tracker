@@ -1,0 +1,46 @@
+{
+  "id": "ba715352339e4369b24bbdbfec8c9d8d",
+  "title": "High Roller Pack Audience",
+  "description": "DLC2 - KHAN 39 Marshall Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/ESRB_SR-842x485-a4de2492c5e27c0262705a42c34204fd.jpg",
+      "md5": "a4de2492c5e27c0262705a42c34204fd",
+      "width": 842,
+      "height": 485,
+      "size": 84586,
+      "uploadedDate": "2020-04-21T22:18:15.605Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-19T17:49:46.965Z",
+  "lastModifiedDate": "2020-04-27T21:59:40.998Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ba715352339e4369b24bbdbfec8c9d8d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE",
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "f72b3a08e21c487e9514d2c8cb79454b",
+  "title": "Pewee Public Testing Audience",
+  "description": "Pewee Public Testing Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-16T13:40:13.389Z",
+  "lastModifiedDate": "2019-11-21T19:10:29.567Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f72b3a08e21c487e9514d2c8cb79454b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

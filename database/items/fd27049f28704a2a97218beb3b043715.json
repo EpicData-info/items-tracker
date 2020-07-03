@@ -1,0 +1,80 @@
+{
+  "id": "fd27049f28704a2a97218beb3b043715",
+  "title": "PetuniaStaging",
+  "description": "PetuniaStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/petunia/item/M2033-Redux_Library_Primary_Promo-2580x1450-fe8ec6f0777e29e75c9897a4cb7c6121.jpg",
+      "md5": "fe8ec6f0777e29e75c9897a4cb7c6121",
+      "width": 2580,
+      "height": 1450,
+      "size": 971534,
+      "uploadedDate": "2019-05-07T19:27:49.139Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/petunia/item/M2033_GameLogo-1405x800-df93c960cf07a8869de25468fe361de7.png",
+      "md5": "df93c960cf07a8869de25468fe361de7",
+      "width": 1405,
+      "height": 800,
+      "size": 428910,
+      "uploadedDate": "2019-05-07T19:28:03.200Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "petunia",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-29T15:23:04.738Z",
+  "lastModifiedDate": "2019-09-26T15:13:27.743Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PetuniaStaging"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "fd27049f28704a2a97218beb3b043715",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0ed85b7c2f96456f8f658e9d47a5070b",
+      "appId": "PetuniaStaging",
+      "compatibleApps": [
+        "UE_4.0"
+      ],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-26T15:13:25.800Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

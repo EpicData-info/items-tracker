@@ -1,0 +1,33 @@
+{
+  "id": "4034065bd2a646fd8a9ff0884a7ece6a",
+  "title": "CobblerDevAudience",
+  "description": "CobblerDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "a8f9fb4a881e47b489715f18f7d08e2f",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-11T01:58:26.361Z",
+  "lastModifiedDate": "2019-12-13T04:24:47.287Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4034065bd2a646fd8a9ff0884a7ece6a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Athlon Games",
+  "developerId": "o-pak9zrvrvpnc8qtwjx3z6pllyzph4q",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

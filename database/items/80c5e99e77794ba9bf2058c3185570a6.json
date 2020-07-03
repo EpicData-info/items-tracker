@@ -1,0 +1,34 @@
+{
+  "id": "80c5e99e77794ba9bf2058c3185570a6",
+  "title": "SugarDevAudience",
+  "description": "SugarDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-17T15:21:47.787Z",
+  "lastModifiedDate": "2020-06-19T19:31:43.251Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "80c5e99e77794ba9bf2058c3185570a6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

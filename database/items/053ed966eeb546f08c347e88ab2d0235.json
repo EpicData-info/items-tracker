@@ -1,0 +1,65 @@
+{
+  "id": "053ed966eeb546f08c347e88ab2d0235",
+  "title": "CatnipStaging6",
+  "description": "CatnipStaging6",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/catnip/item/2kgmkt_bl3_key_art_horiz_standard-1000x477-9fe53b07eaeb3c17723aae682893d745.png",
+      "md5": "9fe53b07eaeb3c17723aae682893d745",
+      "width": 1000,
+      "height": 477,
+      "size": 969562,
+      "uploadedDate": "2019-09-06T16:29:46.157Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "catnip",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-10T23:11:16.832Z",
+  "lastModifiedDate": "2020-06-15T20:52:55.764Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CatnipStaging6"
+    }
+  },
+  "entitlementName": "053ed966eeb546f08c347e88ab2d0235",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0f8edf2b1a85492196764a9db04ef1bb",
+      "appId": "639e6ed6f90449148e83ab8e98fa4205",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

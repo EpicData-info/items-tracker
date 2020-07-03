@@ -1,0 +1,34 @@
+{
+  "id": "b84dbf3bb7c9475692bcefb4d21851ff",
+  "title": "Item Without Entitlement Name",
+  "description": "Testing to create an item without giving entitlement name",
+  "longDescription": "Calling the REST API - POST to create an item by not giving the entitlement name in the request",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "/api/image/preview/01c98c54815d4eefbed8c65118a3c877",
+      "md5": "076e3caed758a1c18c91a0e9cae3368f",
+      "width": 1024,
+      "height": 768,
+      "size": 859,
+      "uploadedDate": "2014-10-20T00:00:00.000Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-20T23:16:32.294Z",
+  "lastModifiedDate": "2014-10-20T23:16:32.294Z",
+  "entitlementName": "b84dbf3bb7c9475692bcefb4d21851ff",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "SUBSCRIPTION",
+  "endOfSupport": false,
+  "unsearchable": false
+}

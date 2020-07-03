@@ -1,0 +1,87 @@
+{
+  "id": "6dc148f7be5c4b2580b987984a3520b5",
+  "title": "The Foundation DLC",
+  "description": "The Foundation DLC",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/calluna/item/CONTROL_logo_shadow-670x212-670x212-676c3d62788f269f00819451130394e3.png",
+      "md5": "676c3d62788f269f00819451130394e3",
+      "width": 670,
+      "height": 212,
+      "size": 28205,
+      "uploadedDate": "2019-12-11T18:13:14.922Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/calluna/item/Control_Primary-Promo-2580x1450-2580x1450-462c24fa8565931a0f5a99516979b946.jpg",
+      "md5": "462c24fa8565931a0f5a99516979b946",
+      "width": 2580,
+      "height": 1450,
+      "size": 199509,
+      "uploadedDate": "2019-12-11T18:13:23.264Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "calluna",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-11T18:16:11.036Z",
+  "lastModifiedDate": "2020-03-26T15:36:12.471Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "calluna"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "6dc148f7be5c4b2580b987984a3520b5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f5c7a4aecbca442da818709ab49e156d",
+      "appId": "737e55c2736c43a6b93c9c769e04e112",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-12-11T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

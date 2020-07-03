@@ -1,0 +1,35 @@
+{
+  "id": "c03953bfd14247d2aaee0e748e503e90",
+  "title": "DLC 5 Audience",
+  "description": "Southern Style Cosmetic DLC Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-21T22:36:29.494Z",
+  "lastModifiedDate": "2020-06-24T19:03:43.966Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c03953bfd14247d2aaee0e748e503e90",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

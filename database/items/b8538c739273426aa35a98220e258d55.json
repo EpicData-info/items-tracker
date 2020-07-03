@@ -1,0 +1,204 @@
+{
+  "id": "b8538c739273426aa35a98220e258d55",
+  "title": "Unreal Tournament",
+  "description": "Unreal Tournament",
+  "longDescription": "Thank you for your interest in Unreal Tournament! UT is in open development as a collaboration between Epic Games, Unreal Tournament fans and Unreal Engine 4 developers.\n<a id=\"StandardURL\" href=\"http://forums.unrealtournament.com/\">Visit Our Forums</>",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ut/item/uttemp_bluebadge-100x100-6d94c6bd87d3db80f98508d966d2ab85.png",
+      "md5": "6d94c6bd87d3db80f98508d966d2ab85",
+      "width": 100,
+      "height": 100,
+      "size": 8647,
+      "uploadedDate": "2015-06-10T15:49:35.295Z"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/BG_Robo Recall-1920x1200-3d177c28bbd595deedac49aa15744b22.png",
+      "md5": "3d177c28bbd595deedac49aa15744b22",
+      "width": 1920,
+      "height": 1200,
+      "size": 1095648,
+      "uploadedDate": "2017-02-23T23:29:56.431Z"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/small_Battle-Breakers-576x360-10b2a8d914b337e1940e8dcd9395960b.png",
+      "md5": "10b2a8d914b337e1940e8dcd9395960b",
+      "width": 576,
+      "height": 360,
+      "size": 133034,
+      "uploadedDate": "2017-02-23T23:55:06.692Z"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/small_Fortnite-576x360-ada5dd0333eda4d911947b289e304d35.png",
+      "md5": "ada5dd0333eda4d911947b289e304d35",
+      "width": 576,
+      "height": 360,
+      "size": 98644,
+      "uploadedDate": "2017-02-23T23:55:16.874Z"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/small_Unreal-Tournament-576x360-8b2e4c9d24ab5aacdec87815472da9dd.png",
+      "md5": "8b2e4c9d24ab5aacdec87815472da9dd",
+      "width": 576,
+      "height": 360,
+      "size": 87076,
+      "uploadedDate": "2017-02-23T23:55:27.223Z"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/wide_Paragon-960x600-169e898543dd1e4d80a1906b7165c83a.png",
+      "md5": "169e898543dd1e4d80a1906b7165c83a",
+      "width": 960,
+      "height": 600,
+      "size": 303356,
+      "uploadedDate": "2017-02-23T23:55:36.577Z"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/small_shadow-complex-remastered-580x326-77a23415e5de3d74263afebd46538f68.png",
+      "md5": "77a23415e5de3d74263afebd46538f68",
+      "width": 580,
+      "height": 326,
+      "size": 111924,
+      "uploadedDate": "2017-02-24T00:44:29.385Z"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/wide_conan-960x540-7eea318c57f471e202d52b6a0f43b022.png",
+      "md5": "7eea318c57f471e202d52b6a0f43b022",
+      "width": 960,
+      "height": 540,
+      "size": 603014,
+      "uploadedDate": "2017-02-24T01:03:57.688Z"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/small_ark-630x357-51843896a5fdb9426a953bb02ad0a857.png",
+      "md5": "51843896a5fdb9426a953bb02ad0a857",
+      "width": 630,
+      "height": 357,
+      "size": 142219,
+      "uploadedDate": "2017-02-24T01:15:42.906Z"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/small_squad-576x324-c375324caa7381f7d6491510864a99b9.png",
+      "md5": "c375324caa7381f7d6491510864a99b9",
+      "width": 576,
+      "height": 324,
+      "size": 107332,
+      "uploadedDate": "2017-02-24T01:15:52.833Z"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/small_vrfunhouse-576x324-b695c8ee9cfa1160961376ab96ed4c7b.png",
+      "md5": "b695c8ee9cfa1160961376ab96ed4c7b",
+      "width": 576,
+      "height": 324,
+      "size": 103891,
+      "uploadedDate": "2017-02-24T01:16:04.219Z"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/deadByDaylight_unrealEngine-1920x787-bf1e8ee54fd17dacc4e8a512185a99bb.png",
+      "md5": "bf1e8ee54fd17dacc4e8a512185a99bb",
+      "width": 1920,
+      "height": 787,
+      "size": 673512,
+      "uploadedDate": "2017-02-24T19:19:58.327Z"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/BG_Conan-Exiles-1920x1102-052052ed63de051a80276a65a98d5c6b.png",
+      "md5": "052052ed63de051a80276a65a98d5c6b",
+      "width": 1920,
+      "height": 1102,
+      "size": 806325,
+      "uploadedDate": "2017-02-24T19:43:33.917Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/ut/item/utlogo-1024x331-f384b1185cd1544a0a72eb1317cac11f.png",
+      "md5": "f384b1185cd1544a0a72eb1317cac11f",
+      "width": 1024,
+      "height": 331,
+      "size": 56011,
+      "uploadedDate": "2018-11-06T01:13:16.281Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ut/item/NewB_TPBG02-2048x1152-1826500511-2048x1152-5e6cce4cfd852bda96140ad568f2e12d.png",
+      "md5": "5e6cce4cfd852bda96140ad568f2e12d",
+      "width": 2048,
+      "height": 1152,
+      "size": 1116075,
+      "uploadedDate": "2018-11-07T00:50:16.932Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ut/item/ut-39a5fa32c5534e0eabede7b732ca48c8-1288x1450-9a43b56b492819d279855ae612ad85cd-1288x1450-9a43b56b492819d279855ae612ad85cd.png",
+      "md5": "9a43b56b492819d279855ae612ad85cd",
+      "width": 1288,
+      "height": 1450,
+      "size": 2721323,
+      "uploadedDate": "2019-11-20T21:38:05.579Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2014-09-02T16:50:15.264Z",
+  "lastModifiedDate": "2020-01-30T14:24:44.705Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "UnrealTournament"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "UnrealTournament",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9f1905a2511c4ac295a77e1529ee9af8",
+      "appId": "UnrealTournamentDev",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2014-09-15T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "ut || ue_games"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

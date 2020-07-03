@@ -1,0 +1,48 @@
+{
+  "id": "bf15a4b50bb64aa4bee6f6f8e606d3ea",
+  "title": "Spyjinx",
+  "description": "OceanLive",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2016-11-01T17:21:53.596Z",
+  "lastModifiedDate": "2020-04-02T21:05:40.454Z",
+  "customAttributes": {
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "HasGateKeeper": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "OceanLive",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e33e619053744212b02a87a3fca3d13f",
+      "appId": "OceanLive",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2016-11-01T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,38 @@
+{
+  "id": "f6a00b63cf7e4d13b5f0aec3de274468",
+  "title": "Retro Content Audience",
+  "description": "Retro Content Audience",
+  "longDescription": "Retro Content Audience - Deluxe Edition",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "deab864e1abf4357b303bcd5ff6fe8da",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-29T21:01:29.986Z",
+  "lastModifiedDate": "2020-06-29T21:02:03.643Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f6a00b63cf7e4d13b5f0aec3de274468",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Activision Publishing, Inc",
+  "developerId": "o-s5myyzhdfhxwftmvf55ph3eu6fbqpz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

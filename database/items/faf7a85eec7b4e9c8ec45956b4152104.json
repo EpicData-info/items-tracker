@@ -1,0 +1,41 @@
+{
+  "id": "faf7a85eec7b4e9c8ec45956b4152104",
+  "title": "Launcher_Header",
+  "description": "FORTNITE",
+  "longDescription": "Fortnite includes Battle Royale, the completely free 100-player PvP mode. One giant map. A Battle Bus. Last one standing wins. \n\nThis download also allows you to purchase Save the World co-op PVE campaign during Early Access season. Join up to 3 players and lead the world's remaining heroes in a battle to save the world.",
+  "technicalDetails": "",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/fn/item/BR07_LegacyLauncher_CoverArt_3-Up_1920x640-1920x640-d2683cdfafc04fa691dfdff2f3467a08.png",
+      "md5": "d2683cdfafc04fa691dfdff2f3467a08",
+      "width": 1920,
+      "height": 640,
+      "size": 1326145,
+      "uploadedDate": "2018-12-06T10:07:59.231Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-04-04T19:41:16.361Z",
+  "lastModifiedDate": "2018-12-06T10:11:43.691Z",
+  "entitlementName": "faf7a85eec7b4e9c8ec45956b4152104",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

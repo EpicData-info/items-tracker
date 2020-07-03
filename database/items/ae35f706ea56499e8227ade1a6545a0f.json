@@ -1,0 +1,79 @@
+{
+  "id": "ae35f706ea56499e8227ade1a6545a0f",
+  "title": "Tony Hawk's Pro Skater 1 & 2 Pre-Purchase",
+  "description": "Tony Hawk's Pro Skater 1 & 2 Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/item/EGS_TonyHawksProSkater12_VicariousVisions_Editions_S1-2560x1440-cf08310a4025946dd646b7620f7c9562-2560x1440-cf08310a4025946dd646b7620f7c9562.jpg",
+      "md5": "cf08310a4025946dd646b7620f7c9562",
+      "width": 2560,
+      "height": 1440,
+      "size": 497827,
+      "uploadedDate": "2020-05-12T15:46:42.128Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/item/EGS_TonyHawksProSkater12_VicariousVisions_Editions_S2-1200x1600-727267cd47cc9f0b4122bb1d71b966db-1200x1600-727267cd47cc9f0b4122bb1d71b966db.jpg",
+      "md5": "727267cd47cc9f0b4122bb1d71b966db",
+      "width": 1200,
+      "height": 1600,
+      "size": 448680,
+      "uploadedDate": "2020-05-12T15:46:51.624Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "deab864e1abf4357b303bcd5ff6fe8da",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-11T17:18:44.718Z",
+  "lastModifiedDate": "2020-05-12T16:09:17.685Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1599231600"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TonyHawkProPrePurchase"
+    }
+  },
+  "entitlementName": "ae35f706ea56499e8227ade1a6545a0f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "150feebfa487473586c44a633ea96f90",
+      "appId": "GuppyDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-11T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Activision Publishing, Inc",
+  "developerId": "o-s5myyzhdfhxwftmvf55ph3eu6fbqpz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

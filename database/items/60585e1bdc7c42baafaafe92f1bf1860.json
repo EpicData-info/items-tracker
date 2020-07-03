@@ -1,0 +1,55 @@
+{
+  "id": "60585e1bdc7c42baafaafe92f1bf1860",
+  "title": "WombatPromo",
+  "description": "WombatPromo",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wombat",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-27T14:32:29.144Z",
+  "lastModifiedDate": "2019-12-17T13:50:20.713Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WorldWarZPromo"
+    }
+  },
+  "entitlementName": "60585e1bdc7c42baafaafe92f1bf1860",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8b734a6475c64db6bbdcd616bbe24776",
+      "appId": "WombatPromo",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-27T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

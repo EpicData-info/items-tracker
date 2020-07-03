@@ -1,0 +1,116 @@
+{
+  "id": "5cf86732e2744fec98a1c8a077d9f3a8",
+  "title": "Borderlands 3",
+  "description": "Borderlands 3",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/catnip/item/Oak_GameIcon_400x400-400x400-f940ecf9c288f1ae569485307ea5c95b.png",
+      "md5": "f940ecf9c288f1ae569485307ea5c95b",
+      "width": 400,
+      "height": 400,
+      "size": 98643,
+      "uploadedDate": "2019-04-03T11:24:30.960Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/catnip/item/2kgmkt_bl3_key_art_horiz_standard-1000x477-9fe53b07eaeb3c17723aae682893d745.png",
+      "md5": "9fe53b07eaeb3c17723aae682893d745",
+      "width": 1000,
+      "height": 477,
+      "size": 969562,
+      "uploadedDate": "2019-09-10T18:09:49.120Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/catnip/item/EGS_Borderlands3_Takeover_Mobile-560x760-58be14c3e086e3a85bedcc21c08ab5cb-560x760-58be14c3e086e3a85bedcc21c08ab5cb-560x760-58be14c3e086e3a85bedcc21c08ab5cb.jpg",
+      "md5": "58be14c3e086e3a85bedcc21c08ab5cb",
+      "width": 560,
+      "height": 760,
+      "size": 684906,
+      "uploadedDate": "2019-11-20T20:46:21.523Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "catnip",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-13T20:15:03.704Z",
+  "lastModifiedDate": "2020-06-15T20:52:55.764Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "catnip"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/GearboxSoftware/OakGame/Saved/SaveGames/{EpicID}/"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/Borderlands 3/Saved/SaveGames/{EpicID}/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Borderlands3"
+    }
+  },
+  "entitlementName": "5cf86732e2744fec98a1c8a077d9f3a8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fc425a96982c41f09706d5dccd9b41fd",
+      "appId": "Catnip",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-02-13T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "(egstore && amaranth)"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

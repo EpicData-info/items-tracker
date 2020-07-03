@@ -1,0 +1,47 @@
+{
+  "id": "63774f386e7c423fb0834e40cde3ddeb",
+  "title": "The Sinking City General Audience",
+  "description": "The Sinking City General Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/middlemist/item/ESRB_NOCOPYWRITTE_M_Long_1080-1-4905x2280-a8003b462a29137e7eb04750a3016905.png",
+      "md5": "a8003b462a29137e7eb04750a3016905",
+      "width": 4905,
+      "height": 2280,
+      "size": 232833,
+      "uploadedDate": "2019-04-29T19:40:38.929Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "middlemist",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-18T04:33:05.620Z",
+  "lastModifiedDate": "2019-06-27T07:53:49.799Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "63774f386e7c423fb0834e40cde3ddeb",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

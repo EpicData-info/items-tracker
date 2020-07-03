@@ -1,0 +1,42 @@
+{
+  "id": "7afe28f3146b406f8833e13f9f16e5b8",
+  "title": "FortniteLiveTestingHK",
+  "description": "Live Testing app for HK",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "SUNSET",
+  "creationDate": "2017-12-05T16:36:56.012Z",
+  "lastModifiedDate": "2019-04-16T06:21:10.097Z",
+  "customAttributes": {
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "HasGateKeeper": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "FortniteLiveTestingHK",
+  "entitlementType": "EXECUTABLE",
+  "entitlementEndDate": "2019-04-17T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

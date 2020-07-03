@@ -1,0 +1,35 @@
+{
+  "id": "74e1ff4012824ca2b34ff9b176bafeba",
+  "title": "Spellbreak Press Audience",
+  "description": "Spellbreak Press Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-02T16:45:18.012Z",
+  "lastModifiedDate": "2019-10-02T16:45:18.012Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "74e1ff4012824ca2b34ff9b176bafeba",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

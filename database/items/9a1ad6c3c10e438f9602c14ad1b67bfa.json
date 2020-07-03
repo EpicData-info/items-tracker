@@ -1,0 +1,102 @@
+{
+  "id": "9a1ad6c3c10e438f9602c14ad1b67bfa",
+  "title": "Cardboard Box",
+  "description": "It's a box, made of cardboard.",
+  "longDescription": "This box made of paper won't protect your head very well, but it will hide the shame of your last-place finish. It also changes its face depending on how well you are doing.",
+  "technicalDetails": "",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Screen_Cardboard03-1920x1080-791a3ee0f9b644ae603a06eeef03f877.png",
+      "md5": "791a3ee0f9b644ae603a06eeef03f877",
+      "width": 1920,
+      "height": 1080,
+      "size": 2552445,
+      "uploadedDate": "2015-03-01T02:42:41.598Z"
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ut/item/ItemDetail_Cardboard-1400x300-4b62405f1403b289e3898c5ca97d241c.png",
+      "md5": "4b62405f1403b289e3898c5ca97d241c",
+      "width": 1400,
+      "height": 300,
+      "size": 527684,
+      "uploadedDate": "2015-03-01T02:42:20.409Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Screen_Cardboard05-1920x1080-7cafe2162ab90a8820dd8d4e830331cb.png",
+      "md5": "7cafe2162ab90a8820dd8d4e830331cb",
+      "width": 1920,
+      "height": 1080,
+      "size": 2214249,
+      "uploadedDate": "2015-03-01T02:43:05.708Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Screen_Cardboard02-1920x1080-4dfae1e3e7cd93318c9ed66e29322742.png",
+      "md5": "4dfae1e3e7cd93318c9ed66e29322742",
+      "width": 1920,
+      "height": 1080,
+      "size": 2911576,
+      "uploadedDate": "2015-03-01T02:42:34.463Z"
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ut/item/Cardboard550_01-550x550-66bb82b75f3f8423ccb90ef2a3739fe5.png",
+      "md5": "66bb82b75f3f8423ccb90ef2a3739fe5",
+      "width": 550,
+      "height": 550,
+      "size": 411492,
+      "uploadedDate": "2015-03-01T02:42:07.876Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Screen_Cardboard04-1920x1080-1b74c8e598fa6db3e9e7ed7f59d84ab6.png",
+      "md5": "1b74c8e598fa6db3e9e7ed7f59d84ab6",
+      "width": 1920,
+      "height": 1080,
+      "size": 1809764,
+      "uploadedDate": "2015-03-01T02:42:53.226Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ut/item/CardboardThumb_01-300x250-6a8bf0a549577c4e517269ce96954e2f.png",
+      "md5": "6a8bf0a549577c4e517269ce96954e2f",
+      "width": 300,
+      "height": 250,
+      "size": 106005,
+      "uploadedDate": "2015-03-01T02:42:14.286Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Screen_Cardboard01-1920x1080-b831fda457a6388bb6c9c763febc9ac5.png",
+      "md5": "b831fda457a6388bb6c9c763febc9ac5",
+      "width": 1920,
+      "height": 1080,
+      "size": 2645996,
+      "uploadedDate": "2015-03-01T02:42:27.263Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-02-27T03:17:12.205Z",
+  "lastModifiedDate": "2019-05-13T14:32:30.584Z",
+  "entitlementName": "0d5e275ca99d4cf0b03c518a6b272s76",
+  "entitlementType": "EXECUTABLE",
+  "entitlementStartDate": "2015-01-22T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "developer": "Chris 'NATO' Morris",
+  "developerId": "o-4fe583c19c4ec99703136491ac3805",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,90 @@
+{
+  "id": "48d281f487154bb29dd75bd7bb95ac8e",
+  "title": "Pistola",
+  "description": "Remake of a classic Capture the Flag map from community developer Yemi Ajayi",
+  "longDescription": "Pistola is a symmetrical CTF map suited for 8 players.  This version is from Yemi Ajayi and represents a community driven remake of a classic Unreal Tournament Map.\n\nDuring the Skaarj Wars, the Liandri corporation built extensive bunker systems through the hollows of the Pistola Mountain Range in an attempt to secure key assets and provide safe avenues for the transport of wartime infrastructure.  The facilities were decommissioned after the Seven Day Siege, and lay empty for decades until they were refurbished as a rusty and decayed Tournament arena.  The Pistola bunkers proved to be so popular, however, that the Liandri corp has decided to invest in a complete overhaul to support this year's Tournament.",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Pistola_Screen2-1980x1080-72280352b38fdc236e990acc43cd8180.png",
+      "md5": "72280352b38fdc236e990acc43cd8180",
+      "width": 1980,
+      "height": 1080,
+      "size": 3682710,
+      "uploadedDate": "2015-09-15T18:50:39.512Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/ScreenShot00105-1539x1088-6b7e4025a60dfd911352fe3bd7dfcfcf.png",
+      "md5": "6b7e4025a60dfd911352fe3bd7dfcfcf",
+      "width": 1539,
+      "height": 1088,
+      "size": 3449510,
+      "uploadedDate": "2015-09-17T15:04:36.701Z"
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ut/item/Pistola_Banner06-1400x300-1c43d446dc5309fc217a3fbac8d430da.png",
+      "md5": "1c43d446dc5309fc217a3fbac8d430da",
+      "width": 1400,
+      "height": 300,
+      "size": 933147,
+      "uploadedDate": "2015-09-16T00:42:00.800Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/ScreenShot00109-1539x1088-64cb2a7c9dfc861dd3b07faa80818944.png",
+      "md5": "64cb2a7c9dfc861dd3b07faa80818944",
+      "width": 1539,
+      "height": 1088,
+      "size": 3528135,
+      "uploadedDate": "2015-09-17T15:04:29.950Z"
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ut/item/Pistola600x600-600x600-6e8148eca5d6e060b2dcc2f5f3faeba2.png",
+      "md5": "6e8148eca5d6e060b2dcc2f5f3faeba2",
+      "width": 600,
+      "height": 600,
+      "size": 233914,
+      "uploadedDate": "2015-09-16T15:52:07.704Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Pistola_Screen1-1980x1080-5395c789db8e2260458d007cc98e76b2.png",
+      "md5": "5395c789db8e2260458d007cc98e76b2",
+      "width": 1980,
+      "height": 1080,
+      "size": 3175535,
+      "uploadedDate": "2015-09-15T18:50:30.637Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ut/item/Pistola_Thumb_1-300x250-3ba24b1410a29ad495c6e9baa44929f3.png",
+      "md5": "3ba24b1410a29ad495c6e9baa44929f3",
+      "width": 300,
+      "height": 250,
+      "size": 125279,
+      "uploadedDate": "2015-09-15T18:49:55.653Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-09-10T23:54:23.659Z",
+  "lastModifiedDate": "2019-05-13T14:32:30.584Z",
+  "entitlementName": "48d281f487154bb29dd75bd7bb95ac8e",
+  "entitlementType": "EXECUTABLE",
+  "entitlementStartDate": "2015-09-09T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "developer": "Yemi \"Jayoplus\" Ajayi",
+  "endOfSupport": false,
+  "unsearchable": false
+}

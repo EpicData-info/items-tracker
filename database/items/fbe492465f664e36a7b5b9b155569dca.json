@@ -1,0 +1,55 @@
+{
+  "id": "fbe492465f664e36a7b5b9b155569dca",
+  "title": "OpahPrePurchaseDLCStaging",
+  "description": "OpahPrePurchaseDLCStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "30bf97ae13f74c3d87c9f3fe04d507ba",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-11T21:54:56.772Z",
+  "lastModifiedDate": "2020-04-02T20:03:05.501Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OpahPrePurchaseDLC"
+    }
+  },
+  "entitlementName": "fbe492465f664e36a7b5b9b155569dca",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "59bb45efd0e640d5bde0d02e08e85ffb",
+      "appId": "OpahPrePurchaseDLCStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-02-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

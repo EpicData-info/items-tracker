@@ -1,0 +1,87 @@
+{
+  "id": "bb31bde0956c4555a632efaac1e1a534",
+  "title": "StellulaStaging",
+  "description": "StellulaStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/item/Diesel_productv2_farming-simulator-19_home_EGS-GIANTS-FS19-1360x766_Standard-1360x766-3ff704f0c5b6993465dbbeb797b181e9acf313e3-1360x766-4c1c6da4e849066b899c43bed7614c6c.jpg",
+      "md5": "4c1c6da4e849066b899c43bed7614c6c",
+      "width": 1360,
+      "height": 766,
+      "size": 163179,
+      "uploadedDate": "2020-01-23T14:41:55.122Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/item/Diesel_productv2_farming-simulator-19_home_EGS-GIANTS-FS19-860x1148_Standard-860x1148-a464360aa738f506399aff4c95d0a9c7021dee5f-860x1148-71df4a510f82c42cebe1b1861d2f77a3.jpg",
+      "md5": "71df4a510f82c42cebe1b1861d2f77a3",
+      "width": 860,
+      "height": 1148,
+      "size": 208762,
+      "uploadedDate": "2020-01-23T14:42:10.775Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "493e9ad801e8487497fe7840cb8404bb",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-03T20:05:30.291Z",
+  "lastModifiedDate": "2020-03-13T12:58:41.659Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/ApplicationSupport/FarmingSimulator2019/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/FarmingSimulator2019/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "inputDevices/,inputDevicesManual/,mods/,music/,pdlc/,pending_downloads/,savegameBackup/,screenshots/,shader_cache/,AVD_63805.dat,gameSettings.xml,IDT_63805.dat,log.txt,VERSION,savegameBackup,restarting"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1200"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "StellulaStaging"
+    }
+  },
+  "entitlementName": "bb31bde0956c4555a632efaac1e1a534",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "57ef5a31402d40ba87af4ac313614c0a",
+      "appId": "StellulaStaging",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-10-03T00:00:00.000Z"
+    }
+  ],
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

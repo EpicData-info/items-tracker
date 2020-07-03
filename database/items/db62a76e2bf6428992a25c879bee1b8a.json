@@ -1,0 +1,24 @@
+{
+  "id": "db62a76e2bf6428992a25c879bee1b8a",
+  "title": "Ocean External Dev - PlayEveryWare",
+  "description": "Ocean External Dev - PlayEveryWare",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-20T21:55:32.057Z",
+  "lastModifiedDate": "2019-09-20T21:55:32.057Z",
+  "entitlementName": "db62a76e2bf6428992a25c879bee1b8a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

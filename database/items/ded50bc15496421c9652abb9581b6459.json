@@ -1,0 +1,23 @@
+{
+  "id": "ded50bc15496421c9652abb9581b6459",
+  "title": "Rocket Fuel (Legacy)",
+  "description": "Rocket Fuel",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "account_upgrades"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2016-11-11T18:17:46.595Z",
+  "lastModifiedDate": "2017-03-06T19:25:54.168Z",
+  "entitlementName": "ded50bc15496421c9652abb9581b6459",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

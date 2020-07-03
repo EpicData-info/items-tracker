@@ -1,0 +1,50 @@
+{
+  "id": "c690be0d89f242b09db48f796b2d5aee",
+  "title": "ValkyrieStaging",
+  "description": "ValkyrieStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d00c0abafa064bdcb28aa78f705b5716",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-16T20:45:33.643Z",
+  "lastModifiedDate": "2019-09-16T20:49:41.358Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ValkyrieStaging"
+    }
+  },
+  "entitlementName": "c690be0d89f242b09db48f796b2d5aee",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8c211bba7be248ca806d7a70792a87d1",
+      "appId": "ValkyrieStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-16T20:47:59.746Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

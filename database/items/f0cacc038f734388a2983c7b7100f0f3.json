@@ -1,0 +1,27 @@
+{
+  "id": "f0cacc038f734388a2983c7b7100f0f3",
+  "title": "AshenGeneralAudience",
+  "description": "AshenGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "wren",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-04T19:54:02.112Z",
+  "lastModifiedDate": "2019-09-06T15:45:12.629Z",
+  "entitlementName": "f0cacc038f734388a2983c7b7100f0f3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,104 @@
+{
+  "id": "2b64b7409be746f8abb0c835212318f9",
+  "title": "Zombie Army 4 Dead War Pre-Purchase",
+  "description": "Zombie Army 4 Dead War Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ZOMBIEARMY4_S2_KEYART-2560x1440-d32f9a54e89f6f86471618a239f1a016.jpg",
+      "md5": "d32f9a54e89f6f86471618a239f1a016",
+      "width": 2560,
+      "height": 1440,
+      "size": 295118,
+      "uploadedDate": "2019-06-25T18:36:41.959Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ZOMBIEARMY4_IC1_COLOR-1920x998-778c9fb7e6ed950106326d9961ecd76f.png",
+      "md5": "778c9fb7e6ed950106326d9961ecd76f",
+      "width": 1920,
+      "height": 998,
+      "size": 211626,
+      "uploadedDate": "2019-06-25T18:36:50.283Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/EGS_REBELLION_ZOMBIEARMY4_S3_KEYART-1280x1440-71bf2f5ce16e76bbd7dcc2397837e65f.jpg",
+      "md5": "71bf2f5ce16e76bbd7dcc2397837e65f",
+      "width": 1280,
+      "height": 1440,
+      "size": 296640,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-07T02:39:46.286Z",
+  "lastModifiedDate": "2020-05-12T13:50:09.830Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "dfd2530e80e4425d801913b0879be444"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Sparrow"
+    }
+  },
+  "entitlementName": "2b64b7409be746f8abb0c835212318f9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6e629ad6dfd646719d666c5322522a73",
+      "appId": "SparrowDummy",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-06-07T00:00:00.000Z"
+    }
+  ],
+  "developer": "Rebellion",
+  "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

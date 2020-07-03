@@ -1,0 +1,65 @@
+{
+  "id": "7366baa18fee41d7ab5aabb8e5521e97",
+  "title": "1 Extra Skill Point Entitlement",
+  "description": "1 Extra Skill Point Entitlement",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/middlemist/item/TheSinkingCity_GameIcon-400x400-43a5f8e91aaf5b1f3745f3b203df2528.png",
+      "md5": "43a5f8e91aaf5b1f3745f3b203df2528",
+      "width": 400,
+      "height": 400,
+      "size": 15428,
+      "uploadedDate": "2019-03-19T23:34:36.604Z"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/middlemist/item/TheSinkingCity_CodeRedemption-340x440-248ebb799d8f71b2f2feff76cd4495d1.jpg",
+      "md5": "248ebb799d8f71b2f2feff76cd4495d1",
+      "width": 340,
+      "height": 440,
+      "size": 69092,
+      "uploadedDate": "2019-03-20T01:22:58.643Z"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/middlemist/item/the-sinking-city_ESRB_M-4905x2280-a6ffeae05a215ef4b08575ac8eb0ef4f.png",
+      "md5": "a6ffeae05a215ef4b08575ac8eb0ef4f",
+      "width": 4905,
+      "height": 2280,
+      "size": 101372,
+      "uploadedDate": "2019-06-26T15:11:13.022Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "dlc"
+    }
+  ],
+  "namespace": "middlemist",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-19T01:40:58.119Z",
+  "lastModifiedDate": "2019-06-27T07:53:49.799Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7366baa18fee41d7ab5aabb8e5521e97",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

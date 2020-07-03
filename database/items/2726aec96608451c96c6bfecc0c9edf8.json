@@ -1,0 +1,109 @@
+{
+  "id": "2726aec96608451c96c6bfecc0c9edf8",
+  "title": "Superliminal",
+  "description": "Superliminal",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/item/SUPERLIMINAL_PORTRAIT-1280x1440-2b9075e3ced4c21fe439579af5b37332.jpg",
+      "md5": "2b9075e3ced4c21fe439579af5b37332",
+      "width": 1280,
+      "height": 1440,
+      "size": 591634,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/item/EGS_PILLOW_CASTLE_SUPERLIMINAL_CAROUSEL_1-1920x1080-3b51f09ddcae3075f1641ec787bcf6ce.png",
+      "md5": "3b51f09ddcae3075f1641ec787bcf6ce",
+      "width": 1920,
+      "height": 1080,
+      "size": 2258676,
+      "uploadedDate": "2019-11-07T18:30:58.172Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/item/Superliminal_Logo_White-Transparent-4094x883-d81577c2fa43baafe852501f319bd400.png",
+      "md5": "d81577c2fa43baafe852501f319bd400",
+      "width": 4094,
+      "height": 883,
+      "size": 60663,
+      "uploadedDate": "2019-11-07T18:32:13.036Z"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/item/Superliminal_BannerThing_PNG-1280x1420-af698741bb5bc3c41fc7eea112a53da2-1280x1420-af698741bb5bc3c41fc7eea112a53da2.jpg",
+      "md5": "af698741bb5bc3c41fc7eea112a53da2",
+      "width": 1280,
+      "height": 1420,
+      "size": 110941,
+      "uploadedDate": "2019-11-20T17:06:51.351Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6cec00f8934146508b884b0f139d55d0",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-15T16:16:20.378Z",
+  "lastModifiedDate": "2019-11-20T17:06:57.003Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "6cec00f8934146508b884b0f139d55d0"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Superliminal"
+    }
+  },
+  "entitlementName": "2726aec96608451c96c6bfecc0c9edf8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f1dbb05c2a8c4529b480eb73491c0d4d",
+      "appId": "Wigeon",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-26T00:00:00.000Z"
+    }
+  ],
+  "developer": "Pillow Castle",
+  "developerId": "o-jvpl9untxcrsellbhbwjb2ralrg9z9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

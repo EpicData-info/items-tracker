@@ -1,0 +1,24 @@
+{
+  "id": "4c72bd621ca344f2acb15542c49446ad",
+  "title": "WEX External Dev - The Multiplayer Guys",
+  "description": "WEX External Dev - The Multiplayer Guys",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-30T23:25:03.569Z",
+  "lastModifiedDate": "2019-09-30T23:25:03.569Z",
+  "entitlementName": "4c72bd621ca344f2acb15542c49446ad",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "3db7ea4638e241aaa41b0ff9c723f1ad",
+  "title": "Create_Step_03",
+  "description": "Step 3:  Share your creation with friends.",
+  "longDescription": "",
+  "technicalDetails": "https://www.epicgames.com/unrealtournament/tutorials/package-and-share?utm_source=launcher&utm_medium=software&utm_campaign=utcreatetab",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Launcher_ShareBackground06-1440x400-3c89cc69f1a935707ddaba98b629a7a7.png",
+      "md5": "3c89cc69f1a935707ddaba98b629a7a7",
+      "width": 1440,
+      "height": 400,
+      "size": 546731,
+      "uploadedDate": "2015-02-27T16:37:07.186Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layout"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-02-24T00:16:54.472Z",
+  "lastModifiedDate": "2016-04-22T19:29:27.936Z",
+  "entitlementName": "c4d2be6831fe41f68340a9f399157ad3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

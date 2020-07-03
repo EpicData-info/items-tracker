@@ -1,0 +1,29 @@
+{
+  "id": "b11067ba0177428ba34875354728a32f",
+  "title": "Anarchist Mission Audience",
+  "description": "Anarchist Mission Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "oregano",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-29T14:38:45.318Z",
+  "lastModifiedDate": "2019-12-10T16:48:35.367Z",
+  "entitlementName": "b11067ba0177428ba34875354728a32f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

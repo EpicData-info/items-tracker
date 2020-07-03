@@ -1,0 +1,59 @@
+{
+  "id": "e760eb461e3a4fc2aae0a60d6cca9b7c",
+  "title": "MayflowerStaging",
+  "description": "MayflowerStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-13T17:18:24.339Z",
+  "lastModifiedDate": "2020-04-27T21:59:30.970Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/SnowRunner/base/storage/{EpicID}/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "300"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MayflowerStaging"
+    }
+  },
+  "entitlementName": "e760eb461e3a4fc2aae0a60d6cca9b7c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "23ffd599ba364f5c8aa8daa4a2fc9342",
+      "appId": "MayflowerStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-28T00:00:00.000Z"
+    }
+  ],
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

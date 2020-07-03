@@ -1,0 +1,65 @@
+{
+  "id": "b69c1c24fe70497aa671aadb33d663a0",
+  "title": "SnapdragonGeneralAudience",
+  "description": "SnapdragonGeneralAudience",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/MetroExodus_PrimaryPromo-2580x1450-0e5b7a55fb64f2b4ab1a46455a9293e0.jpg",
+      "md5": "0e5b7a55fb64f2b4ab1a46455a9293e0",
+      "width": 2580,
+      "height": 1450,
+      "size": 580337,
+      "uploadedDate": "2019-02-15T05:04:32.130Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/MetroExodus_Logo-1920x840-fb7a33658fdfb167359dd9aa87a32f48.png",
+      "md5": "fb7a33658fdfb167359dd9aa87a32f48",
+      "width": 1920,
+      "height": 840,
+      "size": 166960,
+      "uploadedDate": "2019-02-15T05:05:51.700Z"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/ESRB_MetroExodus_M-842x404-ce507cc45e2abb059dadee1fd4cc397c.png",
+      "md5": "ce507cc45e2abb059dadee1fd4cc397c",
+      "width": 842,
+      "height": 404,
+      "size": 69269,
+      "uploadedDate": "2019-04-23T18:57:35.868Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "snapdragon",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-11T14:11:17.986Z",
+  "lastModifiedDate": "2019-08-26T12:49:44.905Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b69c1c24fe70497aa671aadb33d663a0",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

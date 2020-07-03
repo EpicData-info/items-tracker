@@ -1,0 +1,30 @@
+{
+  "id": "9495b39881344258ac66fed713407ba7",
+  "title": "SeasonPassAudience_marker",
+  "description": "SeasonPassAudience_marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "clary",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-08T20:35:31.008Z",
+  "lastModifiedDate": "2019-10-22T14:44:10.489Z",
+  "entitlementName": "9495b39881344258ac66fed713407ba7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,101 @@
+{
+  "id": "0ca322156e864130a7ef4ce2d528f361",
+  "title": "FortniteBacchusPlaytest",
+  "description": "Maecenas non malesuada sem. Quisque aliquet porta imperdiet. Morbi eu nunc leo. Aliquam accumsan mauris quis nisl dapibus euismod. Morbi mattis tellus dapibus orci sollicitudin tincidunt sed a tortor.",
+  "longDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ex elit, sollicitudin vel eros et, aliquet tempus felis. Etiam et nisi vitae nisi suscipit fringilla. Fusce eu orci non tellus porttitor volutpat. Fusce vel euismod ligula. Vestibulum sit amet odio mi. Pellentesque facilisis, risus quis congue feugiat, mi lacus facilisis tortor, id posuere justo ante luctus erat. Vivamus vitae condimentum nulla, id placerat justo. Suspendisse a augue nec libero posuere posuere a nec sem. Maecenas ullamcorper justo eget libero consequat venenatis. Donec est dui, gravida quis congue ac, malesuada eget mi. Proin faucibus vehicula enim, sed ultrices magna ultrices ac.\n\nNunc molestie ornare felis, vel accumsan arcu consectetur et. Quisque condimentum malesuada ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed interdum nibh. Praesent accumsan accumsan ante viverra ullamcorper. Nulla varius ante iaculis velit tempor, vel finibus quam faucibus. Sed at nisl vitae tortor consectetur sagittis. Praesent hendrerit tincidunt urna et tincidunt. Vestibulum leo erat, lobortis eget mauris in, varius posuere enim. Mauris sed orci et dolor feugiat imperdiet id vulputate dolor. Phasellus imperdiet ac risus ut gravida. Nam feugiat, sapien sit amet luctus dictum, nulla velit feugiat lorem, nec tempus dui lorem ac tortor.\n\nIn tellus nisl, fermentum et mauris non, placerat volutpat dolor. Duis quis dolor ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ut ligula porta, commodo ante dapibus, venenatis erat. Nulla ultrices, odio ut varius finibus, ex ex tristique lorem, non egestas tellus erat fermentum nisl. Aenean sed sapien orci. Praesent nunc turpis, facilisis sit amet turpis commodo, ultricies volutpat nisi. Mauris quis gravida turpis. Aliquam iaculis aliquet nisl, a consectetur arcu euismod sollicitudin. Suspendisse at libero mauris. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;",
+  "technicalDetails": "Vestibulum ac diam eget tellus volutpat convallis. Etiam semper bibendum lectus nec dignissim. Curabitur sed odio rhoncus, consectetur erat sed, posuere orci. In ultrices lorem vitae purus maximus ultrices. Fusce tortor augue, maximus eu leo vel, volutpat egestas tortor. Sed feugiat est fermentum posuere varius. Pellentesque ac nunc ultricies, convallis nisl ut, iaculis odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et libero eget lorem auctor tempor ac convallis felis. Duis pulvinar nisl ut malesuada cursus. Donec venenatis pretium arcu, in auctor tellus tincidunt quis. Fusce viverra nulla turpis, nec accumsan ex porttitor sit amet. In a lectus iaculis, fringilla nisi id, gravida orci.",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/fn/item/FortniteAppBackground2-1920x1080-e971ef02dea4f8ccd483001a695c2009.png",
+      "md5": "e971ef02dea4f8ccd483001a695c2009",
+      "width": 1920,
+      "height": 1080,
+      "size": 1837609,
+      "uploadedDate": "2018-05-26T11:30:39.512Z"
+    },
+    {
+      "type": "AndroidIcon",
+      "url": "https://cdn1.epicgames.com/fn/item/fortniteAppIcon2-690x690-314fefe0a64e7efa0b4fa978dd26e6fd.png",
+      "md5": "314fefe0a64e7efa0b4fa978dd26e6fd",
+      "width": 690,
+      "height": 690,
+      "size": 495712,
+      "uploadedDate": "2018-05-26T11:33:42.140Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fn/item/Fortnite_llamacorn_bg-430x250-ba52f51868240271251851bc83010ec8.png",
+      "md5": "ba52f51868240271251851bc83010ec8",
+      "width": 430,
+      "height": 250,
+      "size": 90716,
+      "uploadedDate": "2018-11-06T21:45:43.615Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/fn/item/blank_logo-1x1-1b95550641d28d4e076bc9111ce9f533.png",
+      "md5": "1b95550641d28d4e076bc9111ce9f533",
+      "width": 1,
+      "height": 1,
+      "size": 928,
+      "uploadedDate": "2018-11-06T21:45:53.330Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-12-14T15:30:44.399Z",
+  "lastModifiedDate": "2019-05-06T16:57:34.443Z",
+  "customAttributes": {
+    "AndroidCommandLine": {
+      "type": "STRING",
+      "value": "../../../FortniteGame/FortniteGame.uproject -epicapp=FortniteBacchusPlaytest -epicenv=Prod"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UE4ProjectName": {
+      "type": "STRING",
+      "value": "FortniteGame"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "HasGateKeeper": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "FortniteBacchusPlaytest",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8294ff195c2841e58ac84804336ab417",
+      "appId": "FortniteBacchusPlaytest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2017-12-14T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

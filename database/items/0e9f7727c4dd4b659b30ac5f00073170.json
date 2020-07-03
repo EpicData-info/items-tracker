@@ -1,0 +1,33 @@
+{
+  "id": "0e9f7727c4dd4b659b30ac5f00073170",
+  "title": "UrsusDevAudience",
+  "description": "UrsusDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "770e960d43c040db9d74e2311a8eb8c5",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-16T16:29:50.764Z",
+  "lastModifiedDate": "2019-12-16T16:33:21.219Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0e9f7727c4dd4b659b30ac5f00073170",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

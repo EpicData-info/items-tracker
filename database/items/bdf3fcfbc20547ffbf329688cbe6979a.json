@@ -1,0 +1,24 @@
+{
+  "id": "bdf3fcfbc20547ffbf329688cbe6979a",
+  "title": "Fortnite Internal QA",
+  "description": "Internal QA access entitlement for test accounts",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-08-23T19:49:54.330Z",
+  "lastModifiedDate": "2019-04-15T00:19:46.301Z",
+  "entitlementName": "Fortnite_Internal_QA",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "df3a39e32fa4499bbe2dcd69d506f860",
+  "title": "Starter Pack 01 Audience",
+  "description": "Starter Pack 01 Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-04-23T19:23:42.731Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-09T13:57:35.209Z",
+  "lastModifiedDate": "2020-04-09T15:15:31.082Z",
+  "entitlementName": "df3a39e32fa4499bbe2dcd69d506f860",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "RATING_PENDING",
+  "unsearchable": false
+}

@@ -1,0 +1,46 @@
+{
+  "id": "0964da73fdd340a2a0cdfe9f48b1593d",
+  "title": "Phoenix Point Content Audience",
+  "description": "Phoenix Point Content Audience",
+  "longDescription": "",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_NEWPortraitPromo-1280x1420-3ebed9c3972a5710778d97b6b1018905.png",
+      "md5": "3ebed9c3972a5710778d97b6b1018905",
+      "width": 1280,
+      "height": 1420,
+      "size": 2968120,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-01T21:19:35.736Z",
+  "lastModifiedDate": "2019-12-03T17:59:26.384Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "0964da73fdd340a2a0cdfe9f48b1593d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "d1e43efe3b8e44eea652f0b5f18e1354",
+  "title": "Stork Pre-Purchase Audience",
+  "description": "Stork Pre-Purchase Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3ade24028e9247039924d3877af0a2ea",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-17T15:32:22.798Z",
+  "lastModifiedDate": "2020-01-06T16:19:37.678Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d1e43efe3b8e44eea652f0b5f18e1354",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Triband",
+  "developerId": "o-lnl9dagny4g6432q7delvkhfqzwcnx",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

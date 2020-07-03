@@ -1,0 +1,41 @@
+{
+  "id": "58986732c8db4a5898cbeb8f7a57b028",
+  "title": "Outer Wilds Pre-Purchase Audience",
+  "description": "Outer Wilds Pre-Purchase Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/starfish/item/esrb_outerwilds_web-1000x473-a54e0d91a96bc66569bf7600e5f1c375.png",
+      "md5": "a54e0d91a96bc66569bf7600e5f1c375",
+      "width": 1000,
+      "height": 473,
+      "size": 63606,
+      "uploadedDate": "2019-06-19T14:16:51.074Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "starfish",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-20T13:10:07.225Z",
+  "lastModifiedDate": "2019-06-19T14:16:54.253Z",
+  "entitlementName": "58986732c8db4a5898cbeb8f7a57b028",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "selfRefundable": true,
+  "unsearchable": false
+}

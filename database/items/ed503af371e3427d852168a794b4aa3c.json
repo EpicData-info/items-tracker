@@ -1,0 +1,37 @@
+{
+  "id": "ed503af371e3427d852168a794b4aa3c",
+  "title": "Berserker Weapon Audience",
+  "description": "Berserker Weapon Audience",
+  "longDescription": "",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "cosmos",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-15T14:30:13.298Z",
+  "lastModifiedDate": "2020-01-08T14:42:09.089Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ed503af371e3427d852168a794b4aa3c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ragnarok Game, LLC",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "47127e95642443508f03f5334a7ff4bb",
+  "title": "VIP Level 2",
+  "description": "VIP Account Level 2",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "account_upgrades"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2018-07-31T19:08:54.105Z",
+  "lastModifiedDate": "2019-11-12T22:33:21.779Z",
+  "entitlementName": "47127e95642443508f03f5334a7ff4bb",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

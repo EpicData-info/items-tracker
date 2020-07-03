@@ -1,0 +1,58 @@
+{
+  "id": "d4d13aae6d08434690fd3241a6a7221b",
+  "title": "Templar Legacy DLC",
+  "description": "Templar Legacy DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "34f7e1e275924bb6a90074920f9c1696",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-21T21:00:50.580Z",
+  "lastModifiedDate": "2020-03-25T14:53:53.722Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "1736f0a0bfb14cd2a5432aa90c1cccbd"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "669904ab5bb04faeaec859073b99ced9"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "d4d13aae6d08434690fd3241a6a7221b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a91c0686eb1547b0b717742dca332268",
+      "appId": "WolffishDLC1",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-02-21T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

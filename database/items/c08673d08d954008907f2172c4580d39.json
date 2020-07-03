@@ -1,0 +1,25 @@
+{
+  "id": "c08673d08d954008907f2172c4580d39",
+  "title": "1000 Fortnite Points (POSA PS4)",
+  "description": "1000 Fortnite Points (PS4)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-06T19:15:00.709Z",
+  "lastModifiedDate": "2019-10-21T16:23:17.496Z",
+  "entitlementName": "FN_1000_POSA_PS4",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,46 @@
+{
+  "id": "a127af53601e4f2cbabadd438ee2c983",
+  "title": "BarracudaGoldAudience",
+  "description": "BarracudaGoldAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/item/ESRB_T_Steep-842x485-5366d4730b97ad989423860c8589a078.jpg",
+      "md5": "5366d4730b97ad989423860c8589a078",
+      "width": 842,
+      "height": 485,
+      "size": 92870,
+      "uploadedDate": "2020-01-14T19:37:55.916Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "a646020cb93b4ea995cda70647bbe001",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-09T19:47:31.325Z",
+  "lastModifiedDate": "2020-01-14T19:37:59.159Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a127af53601e4f2cbabadd438ee2c983",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "selfRefundable": true,
+  "unsearchable": false
+}

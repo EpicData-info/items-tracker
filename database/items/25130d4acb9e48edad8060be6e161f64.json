@@ -1,0 +1,25 @@
+{
+  "id": "25130d4acb9e48edad8060be6e161f64",
+  "title": "E3 2018 Special Gift",
+  "description": "E3 2018 Special Gift",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-05-04T20:53:07.539Z",
+  "lastModifiedDate": "2018-06-04T16:21:09.994Z",
+  "entitlementName": "E3_2018_Special_Gift",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2018-05-04T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

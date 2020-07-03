@@ -1,0 +1,34 @@
+{
+  "id": "c5a3e17fb35245ceaec14c3d5aaf6214",
+  "title": "MoonGeneralAudience",
+  "description": "MoonGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "4930dde6add240a9bfc7ddc415dc2799",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-05T18:52:45.591Z",
+  "lastModifiedDate": "2020-05-07T16:00:23.531Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c5a3e17fb35245ceaec14c3d5aaf6214",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

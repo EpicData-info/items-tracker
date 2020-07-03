@@ -1,0 +1,41 @@
+{
+  "id": "72d82ab50a92464ab626da48ce47a530",
+  "title": "Snapdragon Expansion Pass Audience",
+  "description": "Snapdragon Expansion Pass Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/ESRB_MetroExodus_M-842x404-ce507cc45e2abb059dadee1fd4cc397c.png",
+      "md5": "ce507cc45e2abb059dadee1fd4cc397c",
+      "width": 842,
+      "height": 404,
+      "size": 69269,
+      "uploadedDate": "2019-04-23T18:59:16.690Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "dlc"
+    }
+  ],
+  "namespace": "snapdragon",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-21T18:50:01.007Z",
+  "lastModifiedDate": "2019-08-20T17:38:30.846Z",
+  "entitlementName": "72d82ab50a92464ab626da48ce47a530",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": false,
+  "unsearchable": false
+}

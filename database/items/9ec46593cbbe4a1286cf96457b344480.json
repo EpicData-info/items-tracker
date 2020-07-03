@@ -1,0 +1,25 @@
+{
+  "id": "9ec46593cbbe4a1286cf96457b344480",
+  "title": "Battle Pass Season 3",
+  "description": "Battle Pass Season 3",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-01-25T19:44:39.786Z",
+  "lastModifiedDate": "2018-03-06T00:39:17.599Z",
+  "entitlementName": "BATTLEPASS_Season3",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2018-01-25T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

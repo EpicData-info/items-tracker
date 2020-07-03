@@ -1,0 +1,58 @@
+{
+  "id": "942ca8d5a2da42e28f9982fbb0642b37",
+  "title": "The Hidden Ones DLC",
+  "description": "The Hidden Ones DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "camellia",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-28T15:05:34.017Z",
+  "lastModifiedDate": "2019-11-27T15:28:33.806Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "1fc05256dc1c4c00818a1a52dd519f01"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "194e1a7b889d46dfb6a3c80855266676"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "942ca8d5a2da42e28f9982fbb0642b37",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7dd27be6e6564307b8c095fa2e844b9d",
+      "appId": "THO_DLC_Test",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-28T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

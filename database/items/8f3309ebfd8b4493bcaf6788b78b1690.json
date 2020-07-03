@@ -1,0 +1,26 @@
+{
+  "id": "8f3309ebfd8b4493bcaf6788b78b1690",
+  "title": "Season 4 starter kit",
+  "description": "Season 4 starter kit",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-05-24T19:28:00.405Z",
+  "lastModifiedDate": "2018-05-30T23:40:23.979Z",
+  "customAttributes": {},
+  "entitlementName": "S4_StarterPack",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2018-05-24T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

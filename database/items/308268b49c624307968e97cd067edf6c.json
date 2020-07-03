@@ -1,0 +1,51 @@
+{
+  "id": "308268b49c624307968e97cd067edf6c",
+  "title": "Expansion Pass",
+  "description": "Expansion Pass",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-11T21:25:54.405Z",
+  "lastModifiedDate": "2020-04-09T14:22:00.647Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KakopoExpansion"
+    }
+  },
+  "entitlementName": "308268b49c624307968e97cd067edf6c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "76b8aa1faed74b3d8ef2972dbef2db6c",
+      "appId": "KakopoExpansion",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix",
+  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

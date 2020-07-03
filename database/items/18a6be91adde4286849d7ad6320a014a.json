@@ -1,0 +1,58 @@
+{
+  "id": "18a6be91adde4286849d7ad6320a014a",
+  "title": "Orbit DLC",
+  "description": "Orbit DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-24T19:44:18.183Z",
+  "lastModifiedDate": "2020-02-19T15:39:46.930Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "5911ba0c4b9d4a258df2130d56e18573"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "fcc31e0a028643ad98b01b476472b94b"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "18a6be91adde4286849d7ad6320a014a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "000a4671462c48d68f907c2445bfb094",
+      "appId": "GulperDLC2",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-01-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

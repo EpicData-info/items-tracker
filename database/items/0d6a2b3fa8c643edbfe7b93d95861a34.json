@@ -1,0 +1,34 @@
+{
+  "id": "0d6a2b3fa8c643edbfe7b93d95861a34",
+  "title": "Europe",
+  "description": "Europe (includes the expansions 1912)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "b4d9169e1b8548f2babec33107253309",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-11T14:12:40.310Z",
+  "lastModifiedDate": "2020-02-06T14:55:26.540Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "0d6a2b3fa8c643edbfe7b93d95861a34",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,103 @@
+{
+  "id": "bf2f3f45f8e64e3fa130529d06356109",
+  "title": "The Crew 2",
+  "description": "The Crew 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/item/CREW2_UCS12476_EGST_BannerBundle_STD_US_Edition_Capsule_1920X1080-1920x1080-3ddf7e01cdabcb15cb44393a486c22b3.jpg",
+      "md5": "3ddf7e01cdabcb15cb44393a486c22b3",
+      "width": 1920,
+      "height": 1080,
+      "size": 219213,
+      "uploadedDate": "2019-12-04T15:20:38.146Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/item/S2-TC2-1280x1440-93c82474c04d9f96218202d425973483.jpg",
+      "md5": "93c82474c04d9f96218202d425973483",
+      "width": 1280,
+      "height": 1440,
+      "size": 388879,
+      "uploadedDate": "2019-12-04T15:20:48.497Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "599d248ca46b45a8b40a3b4e484712cb",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-01T23:40:40.565Z",
+  "lastModifiedDate": "2019-12-05T13:46:21.043Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "599d248ca46b45a8b40a3b4e484712cb"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "da62a74ae14140408dd9ce46b2c55d5e"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheCrew2"
+    }
+  },
+  "entitlementName": "bf2f3f45f8e64e3fa130529d06356109",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "909a6857ff214cb386a74028115237a1",
+      "appId": "Hermit",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-01T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

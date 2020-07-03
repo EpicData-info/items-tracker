@@ -1,0 +1,37 @@
+{
+  "id": "1ca903fe199d4c3893a94b82f7ccf152",
+  "title": "Founder's Banner Audience",
+  "description": "Founder's Banner Audience",
+  "longDescription": "",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "cosmos",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-15T15:00:02.632Z",
+  "lastModifiedDate": "2020-01-08T14:43:51.710Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1ca903fe199d4c3893a94b82f7ccf152",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ragnarok Game, LLC",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

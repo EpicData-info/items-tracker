@@ -1,0 +1,81 @@
+{
+  "id": "5f92e5fd96554c668a733446bca859b6",
+  "title": "Old World (test branch)",
+  "description": "Old World (test branch)",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/item/EGS_OldWorld_MohawkGames_S2-860x1148-0e077ae9572c911683633fa9b19bd5c5.jpg",
+      "md5": "0e077ae9572c911683633fa9b19bd5c5",
+      "width": 860,
+      "height": 1148,
+      "size": 696045,
+      "uploadedDate": "2020-04-24T02:50:10.463Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/item/EGS_OldWorld_MohawkGames_S1-2560x1440-9f8de361a5835c8c32754f1e2d7c0084.jpg",
+      "md5": "9f8de361a5835c8c32754f1e2d7c0084",
+      "width": 2560,
+      "height": 1440,
+      "size": 2070193,
+      "uploadedDate": "2020-04-24T02:52:02.309Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "07f4a7dd3c884e5d87e9a209716962ca",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-22T19:32:07.687Z",
+  "lastModifiedDate": "2020-06-19T05:21:03.655Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/OldWorld/Test/Saves/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OldWorldTestBranch"
+    }
+  },
+  "entitlementName": "5f92e5fd96554c668a733446bca859b6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "210abf63a24c443a8fbfda50b964a0c0",
+      "appId": "de4b2ed4f91e4f2a81ce0f01a8a04e79",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-03-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "Mohawk Games",
+  "developerId": "o-uw2qbn4nh26vxscergml2f7du26bvk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "applicationId": "fghi45671BGmZYEEWY5S8odb5iPvIhoR",
+  "unsearchable": false
+}

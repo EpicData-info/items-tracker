@@ -1,0 +1,75 @@
+{
+  "id": "f52c09b1e1b343bcb2efd2ca439d4938",
+  "title": "DreadNauticalWallpaper",
+  "description": "DreadNauticalWallpaper",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/item/EGS_DradNautical_ZenStudios_S1-2560x1440-541b2817a7acf4fb4c71dd31b6e3e340-2560x1440-541b2817a7acf4fb4c71dd31b6e3e340.jpg",
+      "md5": "541b2817a7acf4fb4c71dd31b6e3e340",
+      "width": 2560,
+      "height": 1440,
+      "size": 438638,
+      "uploadedDate": "2020-04-29T15:11:22.726Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/item/EGS_DradNautical_ZenStudios_S2-860x1148-c0f2aef20a80be1aa32f424bfe82810f-860x1148-c0f2aef20a80be1aa32f424bfe82810f.jpg",
+      "md5": "c0f2aef20a80be1aa32f424bfe82810f",
+      "width": 860,
+      "height": 1148,
+      "size": 359599,
+      "uploadedDate": "2020-04-29T15:11:35.709Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "30bf97ae13f74c3d87c9f3fe04d507ba",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-01T17:21:11.363Z",
+  "lastModifiedDate": "2020-04-29T15:11:42.432Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DreadNauticalWallpaper"
+    }
+  },
+  "entitlementName": "f52c09b1e1b343bcb2efd2ca439d4938",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "10b19f1d89a34923b61f38bc0f22f0b0",
+      "appId": "03ac318c56194aa586e59590c54f0f50",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-02-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

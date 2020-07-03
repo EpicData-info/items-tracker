@@ -1,0 +1,28 @@
+{
+  "id": "79f6b0fd2ae74add855fe38ed4b1e392",
+  "title": "Last Aid",
+  "description": "Last Aid - weapon skin pack bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "dlc"
+    }
+  ],
+  "namespace": "wombat",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-09T00:28:21.536Z",
+  "lastModifiedDate": "2020-05-05T10:00:00.222Z",
+  "entitlementName": "79f6b0fd2ae74add855fe38ed4b1e392",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

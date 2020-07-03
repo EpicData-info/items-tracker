@@ -1,0 +1,94 @@
+{
+  "id": "b6494173e7534ad197dafd4d93149718",
+  "title": "Totally Reliable Delivery Service",
+  "description": "Totally Reliable Delivery Service",
+  "longDescription": "Totally Reliable Delivery Service",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/item/EGS_TotallyReliableDeliveryService_WereFiveGames_S2-860x1148-f71f5dbd26132502b9c7ab0d215a8ebc.jpg",
+      "md5": "f71f5dbd26132502b9c7ab0d215a8ebc",
+      "width": 860,
+      "height": 1148,
+      "size": 507224,
+      "uploadedDate": "2020-04-01T17:43:31.486Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/item/EGS_TotallyReliableDeliveryService_WereFiveGames_S1-2560x1440-1890c7586745d7688148b280e74b9b9e.jpg",
+      "md5": "1890c7586745d7688148b280e74b9b9e",
+      "width": 2560,
+      "height": 1440,
+      "size": 406598,
+      "uploadedDate": "2020-04-01T17:43:47.589Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "52b90f9a982a404781b189f6a7903226",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-12T18:24:18.128Z",
+  "lastModifiedDate": "2020-05-11T22:51:17.304Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "52b90f9a982a404781b189f6a7903226"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TRDeliveryService"
+    }
+  },
+  "entitlementName": "b6494173e7534ad197dafd4d93149718",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "65e2839a8e08448c8b619deca43433f7",
+      "appId": "Hoatzin",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-10-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

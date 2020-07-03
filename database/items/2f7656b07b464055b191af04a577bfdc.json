@@ -1,0 +1,62 @@
+{
+  "id": "2f7656b07b464055b191af04a577bfdc",
+  "title": "Phoenix Point DLC 4",
+  "description": "Phoenix Point DLC 4",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/iris/item/phoenix-point_home-2560x1440-bbed143db545be028ce62fc6bab0e50c.png",
+      "md5": "bbed143db545be028ce62fc6bab0e50c",
+      "width": 2560,
+      "height": 1440,
+      "size": 1516096,
+      "uploadedDate": "2019-12-03T19:06:45.294Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-12T20:04:51.498Z",
+  "lastModifiedDate": "2019-12-03T19:06:49.118Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DLC4"
+    }
+  },
+  "entitlementName": "2f7656b07b464055b191af04a577bfdc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2629a8c4eebc450cafcc1b0f3ba672b2",
+      "appId": "IrisDLC4",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-11-12T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

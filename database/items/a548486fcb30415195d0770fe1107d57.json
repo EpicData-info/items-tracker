@@ -1,0 +1,40 @@
+{
+  "id": "a548486fcb30415195d0770fe1107d57",
+  "title": "StarfishReviewAudience",
+  "description": "StarfishReviewAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/starfish/item/esrb_outerwilds_web-1000x473-a54e0d91a96bc66569bf7600e5f1c375.png",
+      "md5": "a54e0d91a96bc66569bf7600e5f1c375",
+      "width": 1000,
+      "height": 473,
+      "size": 63606,
+      "uploadedDate": "2019-06-19T14:17:07.236Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "starfish",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-25T12:04:13.134Z",
+  "lastModifiedDate": "2019-06-19T14:17:10.735Z",
+  "entitlementName": "a548486fcb30415195d0770fe1107d57",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "unsearchable": false
+}

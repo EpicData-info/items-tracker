@@ -1,0 +1,23 @@
+{
+  "id": "1ec7391b18384079a9296965ad0ef2a9",
+  "title": "TestItem",
+  "description": "TestItem",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2016-03-07T22:14:19.176Z",
+  "lastModifiedDate": "2016-03-07T22:14:19.176Z",
+  "entitlementName": "1ec7391b18384079a9296965ad0ef2a9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

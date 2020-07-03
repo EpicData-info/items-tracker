@@ -1,0 +1,69 @@
+{
+  "id": "6625883eadee416db9d7448522424020",
+  "title": "Ghost Recon Wildlands Y2 Season Pass",
+  "description": "Ghost Recon Wildlands Y2 Season Pass",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/hyacinth/item/ESRB_GhostReconWildlands-842x485-aae7a78b2e9a28d13c534d070c7bc80f.jpg",
+      "md5": "aae7a78b2e9a28d13c534d070c7bc80f",
+      "width": 842,
+      "height": 485,
+      "size": 85813,
+      "uploadedDate": "2019-04-23T19:56:50.431Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "hyacinth",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-16T21:28:33.243Z",
+  "lastModifiedDate": "2020-01-28T15:58:59.365Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "43c8d0d7f195465b90ca41c05399f16d"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "7b090687b0b2414ba0b98e098255a178"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "6625883eadee416db9d7448522424020",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3aa68df29bf24733adbe0a7f10413c13",
+      "appId": "HyacinthSP2Dummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-16T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

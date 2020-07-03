@@ -1,0 +1,78 @@
+{
+  "id": "bfd64cdf9f104d109f1d943b9163de4b",
+  "title": "ArrowrootStaging",
+  "description": "ArrowrootStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fa234e40c4d44dfa84fbcb302fef0233/item/DEVELOPER_CITYOFBRASS-2560x1440-10a228823a6be8c175ccbc1d34249a90.jpg",
+      "md5": "10a228823a6be8c175ccbc1d34249a90",
+      "width": 2560,
+      "height": 1440,
+      "size": 194028,
+      "uploadedDate": "2019-05-23T14:49:50.312Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/fa234e40c4d44dfa84fbcb302fef0233/item/DEVELOPER_CITYOFBRASS_IC1_LOGO-2000x632-b84ac18cc6710a2341e6cb9fe9273505.png",
+      "md5": "b84ac18cc6710a2341e6cb9fe9273505",
+      "width": 2000,
+      "height": 632,
+      "size": 440326,
+      "uploadedDate": "2019-05-23T14:50:02.022Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fa234e40c4d44dfa84fbcb302fef0233",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-08T19:19:48.835Z",
+  "lastModifiedDate": "2019-10-09T16:12:56.624Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/COB/Saved_EGS/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ArrowrootStaging"
+    }
+  },
+  "entitlementName": "bfd64cdf9f104d109f1d943b9163de4b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5232e22dcfaa49bdad36580e62499f71",
+      "appId": "ArrowrootStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-08T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Uppercut Games",
+  "developerId": "o-hpdh9zjxpuz4quu95cagfzhgcavmjt",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

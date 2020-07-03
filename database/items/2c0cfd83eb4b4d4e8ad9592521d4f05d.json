@@ -1,0 +1,35 @@
+{
+  "id": "2c0cfd83eb4b4d4e8ad9592521d4f05d",
+  "title": "Bronze Pack Audience",
+  "description": "Bronze Pack Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "37baf50c268d47779020d73143bb02b0",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-08T14:38:17.667Z",
+  "lastModifiedDate": "2020-01-08T17:26:06.624Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Win32"
+    }
+  },
+  "entitlementName": "2c0cfd83eb4b4d4e8ad9592521d4f05d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Dragonest Game",
+  "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

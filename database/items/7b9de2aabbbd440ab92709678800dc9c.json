@@ -1,0 +1,24 @@
+{
+  "id": "7b9de2aabbbd440ab92709678800dc9c",
+  "title": "Test to promote offer to public",
+  "description": "Test to promote offer to public",
+  "longDescription": "Test to promote offer to public",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2015-10-08T06:49:55.561Z",
+  "lastModifiedDate": "2017-05-25T08:13:25.053Z",
+  "entitlementName": "7b9de2aabbbd440ab92709678800dc9c",
+  "entitlementType": "EXECUTABLE",
+  "entitlementStartDate": "2015-10-08T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "unsearchable": false
+}

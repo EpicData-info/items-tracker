@@ -1,0 +1,26 @@
+{
+  "id": "fbb93e264b37494fadd6005a9f1a3d19",
+  "title": "Eclipsed Legends",
+  "description": "Eclipsed Legends",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-28T21:23:12.112Z",
+  "lastModifiedDate": "2019-06-21T19:21:03.047Z",
+  "entitlementName": "Eclipse_legends",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2019-05-28T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

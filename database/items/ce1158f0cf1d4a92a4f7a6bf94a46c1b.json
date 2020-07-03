@@ -1,0 +1,52 @@
+{
+  "id": "ce1158f0cf1d4a92a4f7a6bf94a46c1b",
+  "title": "Crocus",
+  "description": "Crocus",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "crocus",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-16T14:16:58.121Z",
+  "lastModifiedDate": "2019-05-06T16:57:10.766Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Crocus"
+    }
+  },
+  "entitlementName": "ce1158f0cf1d4a92a4f7a6bf94a46c1b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "89b3540461e843da81fca2a0409a334d",
+      "appId": "Crocus",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-01-16T14:15:27.156Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

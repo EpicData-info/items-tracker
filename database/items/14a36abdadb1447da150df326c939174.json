@@ -1,0 +1,47 @@
+{
+  "id": "14a36abdadb1447da150df326c939174",
+  "title": "Oxenfree General Audience",
+  "description": "Oxenfree General Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/hibiscus/item/ESRB_Oxenfree-842x404-f0e18e53e00d19a837a0c9c424bd1760.jpg",
+      "md5": "f0e18e53e00d19a837a0c9c424bd1760",
+      "width": 842,
+      "height": 404,
+      "size": 92773,
+      "uploadedDate": "2020-01-09T17:51:39.925Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "hibiscus",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-29T20:37:11.121Z",
+  "lastModifiedDate": "2020-01-09T17:53:28.492Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "14a36abdadb1447da150df326c939174",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Night School Studio, LLC",
+  "developerId": "o-8bhctnyt9qetgnjd4nssqse58c2589",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,61 @@
+{
+  "id": "3e2bd27ae47f40ee88860bb93664b91b",
+  "title": "Eider Pre-Purchase",
+  "description": "Eider Pre-Purchase",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-06T18:25:28.268Z",
+  "lastModifiedDate": "2020-06-16T16:21:18.837Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ed55aa5edc5941de92fd7f64de415793"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    }
+  },
+  "entitlementName": "3e2bd27ae47f40ee88860bb93664b91b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5274b659da3e41f9a9a7160b8bf2ebf5",
+      "appId": "EiderDummy",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

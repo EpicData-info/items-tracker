@@ -1,0 +1,101 @@
+{
+  "id": "26f79209063d435d8988647a5e2e14c2",
+  "title": "Into The Breach",
+  "description": "Into The Breach",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/5c0d568c71174cff8026db2606771d96/item/EGS_SubsetGames_IntotheBreach_S1-2560x1440-dba55f96ffe7af34552ed2215f921bdc.jpg",
+      "md5": "dba55f96ffe7af34552ed2215f921bdc",
+      "width": 2560,
+      "height": 1440,
+      "size": 472146,
+      "uploadedDate": "2019-12-16T21:27:56.467Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/5c0d568c71174cff8026db2606771d96/item/EGS_SubsetGames_IntotheBreach_S2-1280x1440-22e899c71d5a2bf7bc9353cc3f6e46d2.jpg",
+      "md5": "22e899c71d5a2bf7bc9353cc3f6e46d2",
+      "width": 1280,
+      "height": 1440,
+      "size": 395319,
+      "uploadedDate": "2019-12-16T21:28:08.588Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/5c0d568c71174cff8026db2606771d96/item/EGS_SubsetGames_IntotheBreach_IC1-200x200-49a3bf4ab351e9aa255e2e52c8368346.png",
+      "md5": "49a3bf4ab351e9aa255e2e52c8368346",
+      "width": 200,
+      "height": 200,
+      "size": 15583,
+      "uploadedDate": "2019-12-16T21:28:18.803Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5c0d568c71174cff8026db2606771d96",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-03T17:47:19.808Z",
+  "lastModifiedDate": "2019-12-19T15:56:56.664Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "5c0d568c71174cff8026db2606771d96"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "IntoTheBreach"
+    }
+  },
+  "entitlementName": "26f79209063d435d8988647a5e2e14c2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "85aca4789f0b4292ab3c0249dda2a41d",
+      "appId": "Blobfish",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-12-16T21:25:00.929Z"
+    }
+  ],
+  "developer": "Subset Games",
+  "developerId": "o-y2xjbnp5qy433qzldqbvncb3n8z3l6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

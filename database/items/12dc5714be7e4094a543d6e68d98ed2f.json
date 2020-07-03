@@ -1,0 +1,78 @@
+{
+  "id": "12dc5714be7e4094a543d6e68d98ed2f",
+  "title": "CobraStaging",
+  "description": "CobraStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cobra/item/gamebox-2580x1450-2a3cf138aa51508f3f37f69540d659e5.jpg",
+      "md5": "2a3cf138aa51508f3f37f69540d659e5",
+      "width": 2580,
+      "height": 1450,
+      "size": 254412,
+      "uploadedDate": "2019-01-14T20:16:17.999Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/cobra/item/MyTimeAtPortia_Logo-507x507-8eb12a26295afde02e48a44e72ad3f69.png",
+      "md5": "8eb12a26295afde02e48a44e72ad3f69",
+      "width": 507,
+      "height": 507,
+      "size": 27318,
+      "uploadedDate": "2019-01-14T20:59:44.324Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cobra",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-04T19:36:27.598Z",
+  "lastModifiedDate": "2020-02-07T14:41:22.716Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Pathea Games/My Time at Portia/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "600"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CobraStaging"
+    }
+  },
+  "entitlementName": "12dc5714be7e4094a543d6e68d98ed2f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "de30c46dccd8467e8e2d65c323bffc3b",
+      "appId": "CobraStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-01-04T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

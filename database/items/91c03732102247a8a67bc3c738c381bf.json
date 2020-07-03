@@ -1,0 +1,44 @@
+{
+  "id": "91c03732102247a8a67bc3c738c381bf",
+  "title": "AMD Bundle Audience",
+  "description": "AMD Bundle Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/wombat/item/Diesel_product_ratings_WWZ-ESRB-842x404-594cfb6eef57d34c86a259ce28a7eb0c113ebf35-842x404-816f6c7f1140d5d08750de13e3d81d9c.jpg",
+      "md5": "816f6c7f1140d5d08750de13e3d81d9c",
+      "width": 842,
+      "height": 404,
+      "size": 80166,
+      "uploadedDate": "2019-04-23T21:12:40.284Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "wombat",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-27T14:29:35.761Z",
+  "lastModifiedDate": "2019-12-17T13:50:30.004Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "91c03732102247a8a67bc3c738c381bf",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

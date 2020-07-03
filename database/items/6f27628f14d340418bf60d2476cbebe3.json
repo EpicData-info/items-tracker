@@ -1,0 +1,40 @@
+{
+  "id": "6f27628f14d340418bf60d2476cbebe3",
+  "title": "RollerCoaster Tycoon Adventures Six Flags Promotion",
+  "description": "RollerCoaster Tycoon Adventures Six Flags Promotion",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/canna/item/RollerCoasterTycoonAdventures-842x404-5fc05c1e53eae1acd973f0d638b2b798-842x404-5fc05c1e53eae1acd973f0d638b2b798.jpg",
+      "md5": "5fc05c1e53eae1acd973f0d638b2b798",
+      "width": 842,
+      "height": 404,
+      "size": 46482,
+      "uploadedDate": "2019-05-31T21:23:54.224Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "canna",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-31T21:23:57.585Z",
+  "lastModifiedDate": "2019-05-31T21:23:57.585Z",
+  "entitlementName": "6f27628f14d340418bf60d2476cbebe3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Atari",
+  "developerId": "o-bhpk86rgthezed539g3hb5avacecqt",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE",
+  "unsearchable": false
+}

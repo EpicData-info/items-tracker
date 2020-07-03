@@ -1,0 +1,34 @@
+{
+  "id": "49c6c33f33884014b94b54405d374d7d",
+  "title": "DLC 8 Audience",
+  "description": "Uncle Ho's Heroes Cosmetic DLC Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-21T22:43:20.073Z",
+  "lastModifiedDate": "2020-03-03T19:03:26.648Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "49c6c33f33884014b94b54405d374d7d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

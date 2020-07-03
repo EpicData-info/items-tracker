@@ -1,0 +1,26 @@
+{
+  "id": "645324876f584c7b9cb1e14a141da5f6",
+  "title": "Season 5 - 25 tiers",
+  "description": "Promotional 25 tiers",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-07-05T18:39:36.261Z",
+  "lastModifiedDate": "2018-07-11T20:59:21.242Z",
+  "entitlementName": "BATTLEPASS_Season5_25tiers",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2018-07-05T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

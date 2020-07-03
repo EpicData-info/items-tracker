@@ -1,0 +1,25 @@
+{
+  "id": "d7a5630714d043d9ae5da10e6ed3d1e9",
+  "title": "Black Monday",
+  "description": "Black Monday",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-27T20:28:49.868Z",
+  "lastModifiedDate": "2019-09-21T12:00:14.761Z",
+  "entitlementName": "BlackMonday",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "01561c9629e94c59bbca84e62e4f95e0",
+  "title": "FakeItem",
+  "description": "FakeItem",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "namespace": "epic",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-04T16:16:17.397Z",
+  "lastModifiedDate": "2018-12-04T16:16:17.397Z",
+  "entitlementName": "01561c9629e94c59bbca84e62e4f95e0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

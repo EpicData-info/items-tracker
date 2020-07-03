@@ -1,0 +1,88 @@
+{
+  "id": "bcb422ff343c4c6cac0693742bd10fd9",
+  "title": "KiwiStaging2",
+  "description": "KiwiStaging2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/item/04_EGS_enhance_tetriseffect_L1_librarypromo_2560x1440px-1850x1041-39433010ede56695f20157632cbc9baf.jpg",
+      "md5": "39433010ede56695f20157632cbc9baf",
+      "width": 1850,
+      "height": 1041,
+      "size": 362071,
+      "uploadedDate": "2019-07-12T18:43:26.753Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/item/01_EGS_enhance_TetrisEffect_IC1_logoWhite2-3344x2582-ae2e090eb92ccb1d86a111a68a6a96a3.png",
+      "md5": "ae2e090eb92ccb1d86a111a68a6a96a3",
+      "width": 3344,
+      "height": 2582,
+      "size": 214129,
+      "uploadedDate": "2019-07-12T18:43:37.087Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "76339caf9e8e4d24b62761c736e82b42",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-10T13:45:43.212Z",
+  "lastModifiedDate": "2019-07-23T12:59:57.721Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "defaultLaunchOption_Args": {
+      "type": "STRING",
+      "value": "-nohmd"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-vr -hmd=SteamVR"
+    },
+    "extraLaunchOption_002_Args": {
+      "type": "STRING",
+      "value": "-vr -hmd=OculusHMD"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch in SteamVR"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KiwiStaging2"
+    },
+    "extraLaunchOption_002_Name": {
+      "type": "STRING",
+      "value": "Launch in Oculus VR"
+    }
+  },
+  "entitlementName": "bcb422ff343c4c6cac0693742bd10fd9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e13a05cb53604f8c8ec20840bafdd47e",
+      "appId": "KiwiStaging2",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-07-10T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Enhance, Inc.",
+  "developerId": "o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

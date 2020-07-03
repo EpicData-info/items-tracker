@@ -1,0 +1,26 @@
+{
+  "id": "760fd4f4758443c4b54778a38194558d",
+  "title": "JaguarDevAudience",
+  "description": "JaguarDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "jaguar",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-12T16:51:07.118Z",
+  "lastModifiedDate": "2019-05-13T14:36:06.189Z",
+  "entitlementName": "760fd4f4758443c4b54778a38194558d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Unknown Worlds Entertainment",
+  "developerId": "o-g4s9pbd6mu9e8uqn539s3xqk9yex92",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

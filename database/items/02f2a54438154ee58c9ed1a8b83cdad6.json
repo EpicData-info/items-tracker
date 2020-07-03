@@ -1,0 +1,25 @@
+{
+  "id": "02f2a54438154ee58c9ed1a8b83cdad6",
+  "title": "Eucalyptus",
+  "description": "Eucalyptus",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-27T23:40:26.338Z",
+  "lastModifiedDate": "2019-10-26T00:58:42.352Z",
+  "entitlementName": "FN_Ospray_1",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

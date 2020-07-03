@@ -1,0 +1,117 @@
+{
+  "id": "a8960f04c29f4e17b8da4efea523ef6e",
+  "title": "Satisfactory Dedicated Server",
+  "description": "Satisfactory Dedicated Server",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/crab/item/Satisfactory_GameIcon-400x400-c26af13d061267aac29fe1284093fa6c.png",
+      "md5": "c26af13d061267aac29fe1284093fa6c",
+      "width": 400,
+      "height": 400,
+      "size": 26081,
+      "uploadedDate": "2019-04-29T16:31:47.751Z"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/crab/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-04-29T16:33:06.445Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/crab/item/GameLogo_Satisfactory_Monochrome_Experimental-1500x1077-f3be786ec4d5e7eb50e0bc9819064dac.png",
+      "md5": "f3be786ec4d5e7eb50e0bc9819064dac",
+      "width": 1500,
+      "height": 1077,
+      "size": 49160,
+      "uploadedDate": "2019-04-30T22:13:22.446Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/crab/item/EGS_COFFEESTAIN_SATISFACTORY_L1_Update1KeyArt-2560x1440-cbc50715b24fbee4a4ac142775787734.jpg",
+      "md5": "cbc50715b24fbee4a4ac142775787734",
+      "width": 2560,
+      "height": 1440,
+      "size": 227157,
+      "uploadedDate": "2019-05-13T22:49:48.086Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/crab/item/EGS_COFFEESTAIN_SATISFACTORY_S3_Update2KeyArt-1280x1440-ae196b264841dec7343786edf336350f.jpg",
+      "md5": "ae196b264841dec7343786edf336350f",
+      "width": 1280,
+      "height": 1440,
+      "size": 181851,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "crab",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-06T13:28:14.094Z",
+  "lastModifiedDate": "2020-02-06T13:32:08.569Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "crab"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "DisablePresenceWhileRunning": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SatisfactoryDS"
+    }
+  },
+  "entitlementName": "a8960f04c29f4e17b8da4efea523ef6e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6679a55971074a10913ba2814e185839",
+      "appId": "CrabDedicatedServer",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-03T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Coffee Stain Studios",
+  "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

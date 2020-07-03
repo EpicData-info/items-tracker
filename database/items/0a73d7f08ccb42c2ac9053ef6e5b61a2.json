@@ -1,0 +1,103 @@
+{
+  "id": "0a73d7f08ccb42c2ac9053ef6e5b61a2",
+  "title": "Close to the Sun",
+  "description": "Close to the Sun",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/silene/item/CTTS_keyart_Portrait-1280x1420-bb3fa978410a243939f19bcb8c0d4806.jpg",
+      "md5": "bb3fa978410a243939f19bcb8c0d4806",
+      "width": 1280,
+      "height": 1420,
+      "size": 1518658,
+      "uploadedDate": "2020-04-09T15:12:37.985Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/silene/item/CTTS_keyart_1080p-1920x1080-8c8a438ac89caec5ae1b4ab1bc1e57f6.jpg",
+      "md5": "8c8a438ac89caec5ae1b4ab1bc1e57f6",
+      "width": 1920,
+      "height": 1080,
+      "size": 2032265,
+      "uploadedDate": "2020-04-09T15:13:03.021Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "silene",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-14T21:30:22.790Z",
+  "lastModifiedDate": "2020-04-09T15:13:08.190Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "silene"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/ctts/Saved/SaveGames/"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Wired Productions"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1556802000"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CloseToTheSun"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0a73d7f08ccb42c2ac9053ef6e5b61a2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b494cd3f50bd40568256da2b455064b4",
+      "appId": "Silene",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-14T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Wired Productions",
+  "developerId": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

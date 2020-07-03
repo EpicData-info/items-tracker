@@ -1,0 +1,49 @@
+{
+  "id": "ab19199c73ac47f5843932887f6040ed",
+  "title": "HokiStaging",
+  "description": "HokiStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "091d95ea332843498122beee1a786d71",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-13T02:52:35.559Z",
+  "lastModifiedDate": "2020-01-01T15:25:44.438Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HokiStaging"
+    }
+  },
+  "entitlementName": "ab19199c73ac47f5843932887f6040ed",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "44e692d52ab0468f9d5cad717bbd9d99",
+      "appId": "HokiStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

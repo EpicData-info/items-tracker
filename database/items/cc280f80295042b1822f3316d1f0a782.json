@@ -1,0 +1,103 @@
+{
+  "id": "cc280f80295042b1822f3316d1f0a782",
+  "title": "Beyond Two Souls Pre-Purchase",
+  "description": "Beyond Two Souls Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/lavender/item/Beyond_PrimaryPromo_01-2580x1450-0a606a80d6a752725fd28e784d4f2cfb.jpg",
+      "md5": "0a606a80d6a752725fd28e784d4f2cfb",
+      "width": 2580,
+      "height": 1450,
+      "size": 161428,
+      "uploadedDate": "2019-03-19T21:42:10.298Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lavender/item/Beyond_GameIcon-400x400-362c6839bb4a4c9c28afb2ea260f78cb.png",
+      "md5": "362c6839bb4a4c9c28afb2ea260f78cb",
+      "width": 400,
+      "height": 400,
+      "size": 273087,
+      "uploadedDate": "2019-03-19T21:42:39.616Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/lavender/item/Beyond_Logo_Master-2560x1024-41dbffddef5a6d883727114fc92578b0.png",
+      "md5": "41dbffddef5a6d883727114fc92578b0",
+      "width": 2560,
+      "height": 1024,
+      "size": 177199,
+      "uploadedDate": "2019-03-20T12:52:32.838Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "lavender",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-14T20:35:53.160Z",
+  "lastModifiedDate": "2019-10-16T14:25:56.303Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "lavender"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1563807600"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BeyondTwoSouls"
+    }
+  },
+  "entitlementName": "cc280f80295042b1822f3316d1f0a782",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e446ee2cc7574f00b2d4af030f7765ee",
+      "appId": "LavenderDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-01-29T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

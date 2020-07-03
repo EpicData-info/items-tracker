@@ -1,0 +1,46 @@
+{
+  "id": "c617913cb9204299b3563b24af2c7252",
+  "title": "Kverneland Equipment Pack Audience",
+  "description": "Kverneland Equipment Pack",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/item/ESRB_NoDescriptors_UsersInteract-842x485-c55c3b08996eb8487d4a6956c84d6d66.jpg",
+      "md5": "c55c3b08996eb8487d4a6956c84d6d66",
+      "width": 842,
+      "height": 485,
+      "size": 86271,
+      "uploadedDate": "2020-01-23T14:40:08.622Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "493e9ad801e8487497fe7840cb8404bb",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-12T18:45:14.570Z",
+  "lastModifiedDate": "2020-05-14T20:58:41.316Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c617913cb9204299b3563b24af2c7252",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE",
+  "ageGatings": {},
+  "unsearchable": false
+}

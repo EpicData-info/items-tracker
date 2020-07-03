@@ -1,0 +1,23 @@
+{
+  "id": "fc286f0d23e947f19d15bac7ae3aee1a",
+  "title": "Junit smoke test",
+  "description": "Junit smoke test",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2016-08-04T08:36:14.413Z",
+  "lastModifiedDate": "2019-03-05T05:53:55.243Z",
+  "entitlementName": "fc286f0d23e947f19d15bac7ae3aee1a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "harinirao testtttttt",
+  "developerId": "o-48fdeb720e4875863337a6f5bb8c48",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

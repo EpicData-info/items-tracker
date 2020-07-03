@@ -1,0 +1,36 @@
+{
+  "id": "bccb30aaa1a344cf813193c4515579f4",
+  "title": "Goddess Pack Audience",
+  "description": "Goddess Pack Audience",
+  "longDescription": "Goddess Pack Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-17T20:08:44.210Z",
+  "lastModifiedDate": "2020-03-20T14:41:47.161Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "bccb30aaa1a344cf813193c4515579f4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

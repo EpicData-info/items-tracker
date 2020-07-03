@@ -1,0 +1,91 @@
+{
+  "id": "4e76076db8e7438ba1cff559f71bc4be",
+  "title": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos",
+  "description": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/item/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S1-2560x1440-b9f0201b134b1a6a57fe46bc43fdf859.jpg",
+      "md5": "b9f0201b134b1a6a57fe46bc43fdf859",
+      "width": 2560,
+      "height": 1440,
+      "size": 976796,
+      "uploadedDate": "2020-06-29T19:54:36.803Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/item/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg",
+      "md5": "c6e41542f7fd54417e77bc9ed7eee0e1",
+      "width": 1200,
+      "height": 1600,
+      "size": 872674,
+      "uploadedDate": "2020-06-29T19:54:50.800Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "456d95ca54814c8d98db2f52346ff5de",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-29T16:24:16.515Z",
+  "lastModifiedDate": "2020-07-01T14:33:16.265Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "456d95ca54814c8d98db2f52346ff5de"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DungeonOfNaheulbeuk"
+    }
+  },
+  "entitlementName": "4e76076db8e7438ba1cff559f71bc4be",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1c2a643bbc0e477e86f8b51c6b226c33",
+      "appId": "02fac38ee2614c8ba276b1ea7c1acd7c",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-29T00:00:00.000Z"
+    }
+  ],
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

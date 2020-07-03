@@ -1,0 +1,87 @@
+{
+  "id": "929f65fcf4d84503a9a27283048bba78",
+  "title": "PenguinStaging",
+  "description": "PenguinStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/19078740fbcc4eada59a5a4ae7b3724c/item/GNOG_L1_2560_key-2560x1440-d1e483d28548d9fb82c67180e3c841c0.jpg",
+      "md5": "d1e483d28548d9fb82c67180e3c841c0",
+      "width": 2560,
+      "height": 1440,
+      "size": 307565,
+      "uploadedDate": "2019-07-29T18:29:24.200Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/19078740fbcc4eada59a5a4ae7b3724c/item/GNOG_IC1_logo_color-200x200-28cc1efa170a24e71ed7cffe7e0666d2.png",
+      "md5": "28cc1efa170a24e71ed7cffe7e0666d2",
+      "width": 200,
+      "height": 200,
+      "size": 3216,
+      "uploadedDate": "2019-07-29T18:29:33.559Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "19078740fbcc4eada59a5a4ae7b3724c",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-08T13:17:31.666Z",
+  "lastModifiedDate": "2019-10-09T14:04:22.119Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/unity.KO_OP.GNOG/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/KO_OP/GNOG/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "idspispopd.gnog"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PenguinStaging"
+    }
+  },
+  "entitlementName": "929f65fcf4d84503a9a27283048bba78",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0826ab2354ce4cc1b0dbb4594a6a74ac",
+      "appId": "PenguinStaging",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-07-29T00:00:00.000Z"
+    }
+  ],
+  "developer": "KO_OP",
+  "developerId": "o-hsgwu456e63dkkgskeusntg93gey48",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": "e2778eb93caa473bbb5f13cd701c23a6",
+  "title": "DevMoonstoneAudience",
+  "description": "DevMoonstoneAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "d33c2a64808e434b85eb1329f65431b1",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-16T20:13:52.817Z",
+  "lastModifiedDate": "2020-04-30T14:53:08.463Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e2778eb93caa473bbb5f13cd701c23a6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Butterscotch Shenanigans",
+  "developerId": "o-nl9ywem28pes9amuwp2jqrey4zxjpf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

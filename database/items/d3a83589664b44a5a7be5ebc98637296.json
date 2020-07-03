@@ -1,0 +1,25 @@
+{
+  "id": "d3a83589664b44a5a7be5ebc98637296",
+  "title": "Battle Breakers DevPlaytestG App Bundle",
+  "description": "Battle Breakers DevPlaytestG App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-04T16:55:16.017Z",
+  "lastModifiedDate": "2020-02-04T16:58:04.080Z",
+  "entitlementName": "d3a83589664b44a5a7be5ebc98637296",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

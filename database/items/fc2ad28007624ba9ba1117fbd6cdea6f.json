@@ -1,0 +1,46 @@
+{
+  "id": "fc2ad28007624ba9ba1117fbd6cdea6f",
+  "title": "Omen of Sorrow Demo Audience",
+  "description": "Omen of Sorrow Demo Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/daffodil/item/ESRB_OmenOfSorrow-842x404-003e7e28a84a489d040161daf7e241ea.png",
+      "md5": "003e7e28a84a489d040161daf7e241ea",
+      "width": 842,
+      "height": 404,
+      "size": 39094,
+      "uploadedDate": "2019-06-14T22:04:27.529Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "daffodil",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-14T22:00:17.429Z",
+  "lastModifiedDate": "2019-06-20T14:59:01.889Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "fc2ad28007624ba9ba1117fbd6cdea6f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "AOne Games",
+  "developerId": "o-ee2mpv5fbfg9j22arjrh7vjmypew5q",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "unsearchable": false
+}

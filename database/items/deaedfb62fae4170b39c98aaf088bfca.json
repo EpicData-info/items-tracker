@@ -1,0 +1,73 @@
+{
+  "id": "deaedfb62fae4170b39c98aaf088bfca",
+  "title": "FortniteEvents",
+  "description": "Fortnite app for events",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fn/item/Fortnite_llamacorn_bg-430x250-ba52f51868240271251851bc83010ec8.png",
+      "md5": "ba52f51868240271251851bc83010ec8",
+      "width": 430,
+      "height": 250,
+      "size": 90716,
+      "uploadedDate": "2018-11-06T21:49:28.422Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/fn/item/blank_logo-1x1-1b95550641d28d4e076bc9111ce9f533.png",
+      "md5": "1b95550641d28d4e076bc9111ce9f533",
+      "width": 1,
+      "height": 1,
+      "size": 928,
+      "uploadedDate": "2018-11-06T21:49:35.843Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-05-18T20:42:29.409Z",
+  "lastModifiedDate": "2020-01-08T21:51:13.008Z",
+  "customAttributes": {
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "HasGateKeeper": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "FortniteEvents",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ff87cd5814ca4a63a3f0a04f8cb9219e",
+      "appId": "FortniteEvents",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2018-05-18T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

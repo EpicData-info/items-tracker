@@ -1,0 +1,104 @@
+{
+  "id": "498a092eaea742029f775779fb850596",
+  "title": "Anodyne 2: Return to Dust",
+  "description": "Anodyne 2: Return to Dust",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/395be8a9aed24142b30b6abb2778e995/item/EGS_Anodyne2ReturntoDust_AnalgesicProductions_G1C_00-1920x1080-a06977c625f9cb3d1ac66fa4aed30f06-1920x1080-a06977c625f9cb3d1ac66fa4aed30f06.jpg",
+      "md5": "a06977c625f9cb3d1ac66fa4aed30f06",
+      "width": 1920,
+      "height": 1080,
+      "size": 338021,
+      "uploadedDate": "2020-03-12T15:05:38.803Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/395be8a9aed24142b30b6abb2778e995/item/EGS_Anodyne2ReturntoDust_AnalgesicProductions_S4-510x680-94072e8ad80a101ff5cd8852dc4cc8f8-510x680-94072e8ad80a101ff5cd8852dc4cc8f8.jpg",
+      "md5": "94072e8ad80a101ff5cd8852dc4cc8f8",
+      "width": 510,
+      "height": 680,
+      "size": 257472,
+      "uploadedDate": "2020-03-12T15:05:54.436Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "395be8a9aed24142b30b6abb2778e995",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-17T07:12:13.150Z",
+  "lastModifiedDate": "2020-03-12T15:05:59.746Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "395be8a9aed24142b30b6abb2778e995"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Analgesic Productions LLC/Anodyne 2/"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Analgesic Productions LLC/Anodyne 2/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.txt"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Anodyne2"
+    }
+  },
+  "entitlementName": "498a092eaea742029f775779fb850596",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "634870baddec420d9328f75239f2b264",
+      "appId": "Tanzanite",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-02-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "Analgesic Productions",
+  "developerId": "o-lj8mtqmxvzj3vay37vhmwu2ptycae8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

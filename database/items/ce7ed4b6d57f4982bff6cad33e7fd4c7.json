@@ -1,0 +1,35 @@
+{
+  "id": "ce7ed4b6d57f4982bff6cad33e7fd4c7",
+  "title": "Preview Audience",
+  "description": "Preview Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "phlox",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-15T21:12:45.572Z",
+  "lastModifiedDate": "2019-10-15T21:13:59.716Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ce7ed4b6d57f4982bff6cad33e7fd4c7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Klei Entertainment",
+  "developerId": "o-6v5su732w3tnzud9lque2m7s4qzvjx",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

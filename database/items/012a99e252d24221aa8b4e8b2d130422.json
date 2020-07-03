@@ -1,0 +1,46 @@
+{
+  "id": "012a99e252d24221aa8b4e8b2d130422",
+  "title": "AlmondGeneralAudience",
+  "description": "AlmondGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/387bc8d3398a40f7ae14de417b4acefc/item/ESRB_NoDescriptors-842x404-f08afa4a52626111c56935f5a6b213b9.png",
+      "md5": "f08afa4a52626111c56935f5a6b213b9",
+      "width": 842,
+      "height": 404,
+      "size": 42522,
+      "uploadedDate": "2020-02-14T20:52:23.038Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "387bc8d3398a40f7ae14de417b4acefc",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-05T20:52:37.858Z",
+  "lastModifiedDate": "2020-02-20T15:06:35.432Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "012a99e252d24221aa8b4e8b2d130422",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Aspyr Media, Inc.",
+  "developerId": "o-dukzxsmt2q39w2xql6eb8vewd2bkc9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

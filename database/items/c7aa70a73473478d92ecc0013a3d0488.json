@@ -1,0 +1,36 @@
+{
+  "id": "c7aa70a73473478d92ecc0013a3d0488",
+  "title": "Griftlands General Audience",
+  "description": "Griftlands General Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "phlox",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-04T13:08:56.063Z",
+  "lastModifiedDate": "2020-01-07T20:14:35.110Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c7aa70a73473478d92ecc0013a3d0488",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Klei Entertainment",
+  "developerId": "o-6v5su732w3tnzud9lque2m7s4qzvjx",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

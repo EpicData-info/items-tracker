@@ -1,0 +1,34 @@
+{
+  "id": "588cae028d964fcd8185ba8c2a7b1688",
+  "title": "DLC83 Audience",
+  "description": "DLC83 (Jaeger Weapon Skin Double Pack)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-12T19:59:00.317Z",
+  "lastModifiedDate": "2020-06-18T01:06:58.704Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "588cae028d964fcd8185ba8c2a7b1688",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

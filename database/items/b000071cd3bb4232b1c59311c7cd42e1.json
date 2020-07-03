@@ -1,0 +1,29 @@
+{
+  "id": "b000071cd3bb4232b1c59311c7cd42e1",
+  "title": "WolffishTemplarLegacyDLCAudience_Marker",
+  "description": "WolffishTemplarLegacyDLCAudience_Marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "34f7e1e275924bb6a90074920f9c1696",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-21T21:00:23.217Z",
+  "lastModifiedDate": "2020-03-25T14:53:53.722Z",
+  "customAttributes": {},
+  "entitlementName": "b000071cd3bb4232b1c59311c7cd42e1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

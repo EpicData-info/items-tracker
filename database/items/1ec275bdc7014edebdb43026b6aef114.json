@@ -1,0 +1,33 @@
+{
+  "id": "1ec275bdc7014edebdb43026b6aef114",
+  "title": "Logo",
+  "description": "Logo",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ocn/item/spyjinx_logo1-300x86-c20c540fe7509d8820c4fe2963b2a345.png",
+      "md5": "c20c540fe7509d8820c4fe2963b2a345",
+      "width": 300,
+      "height": 86,
+      "size": 8738,
+      "uploadedDate": "2017-06-26T20:08:36.684Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layout"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2017-06-26T19:57:46.042Z",
+  "lastModifiedDate": "2017-06-27T13:11:06.158Z",
+  "entitlementName": "1ec275bdc7014edebdb43026b6aef114",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "9672c5021ca94b35b4071a5c040812d8",
+  "title": "PeppermintTestingAudience",
+  "description": "PeppermintTestingAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "bd46d4ce259349e5bd8b3ded20274737",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-20T20:42:36.933Z",
+  "lastModifiedDate": "2020-03-20T20:43:03.902Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9672c5021ca94b35b4071a5c040812d8",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

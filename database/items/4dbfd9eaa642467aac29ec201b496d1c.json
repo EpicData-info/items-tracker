@@ -1,0 +1,36 @@
+{
+  "id": "4dbfd9eaa642467aac29ec201b496d1c",
+  "title": "Outward General Audience",
+  "description": "Outward General Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "viola",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-21T17:26:12.954Z",
+  "lastModifiedDate": "2020-02-20T15:08:06.955Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4dbfd9eaa642467aac29ec201b496d1c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

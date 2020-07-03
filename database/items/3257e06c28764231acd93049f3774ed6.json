@@ -1,0 +1,89 @@
+{
+  "id": "3257e06c28764231acd93049f3774ed6",
+  "title": "Subnautica",
+  "description": "Subnautica",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/jaguar/item/subnautica1280x728-1280x728-218fdbee56a2040263cacdc30144dc8f-1280x728-218fdbee56a2040263cacdc30144dc8f.png",
+      "md5": "218fdbee56a2040263cacdc30144dc8f",
+      "width": 1280,
+      "height": 728,
+      "size": 361703,
+      "uploadedDate": "2018-12-12T19:27:43.221Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/jaguar/item/subnautica_logo_1024x138-1024x138-3ae2f0fbde1d1aef5498730e7340fa88.png",
+      "md5": "3ae2f0fbde1d1aef5498730e7340fa88",
+      "width": 1024,
+      "height": 138,
+      "size": 147700,
+      "uploadedDate": "2018-12-13T22:50:21.035Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/jaguar/item/20181120_SN_Epic_5_Portrait_Promo-1288x1450-67f4ca0e9f3906e8eabba048335963b8.jpg",
+      "md5": "67f4ca0e9f3906e8eabba048335963b8",
+      "width": 1288,
+      "height": 1450,
+      "size": 284580,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "jaguar",
+  "status": "ACTIVE",
+  "creationDate": "2018-11-29T23:28:46.382Z",
+  "lastModifiedDate": "2019-11-19T17:03:44.540Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "jaguar"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Subnautica"
+    }
+  },
+  "entitlementName": "3257e06c28764231acd93049f3774ed6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c5960e98c9984c109d4bd5101cbc8a1c",
+      "appId": "Jaguar",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2018-11-29T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Unknown Worlds Entertainment",
+  "developerId": "o-g4s9pbd6mu9e8uqn539s3xqk9yex92",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

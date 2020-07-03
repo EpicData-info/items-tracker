@@ -1,0 +1,54 @@
+{
+  "id": "b371004a136249f1a9fdd52f5f63e51b",
+  "title": "Assassin's Creed Syndicate Season Pass",
+  "description": "Assassin's Creed Syndicate Season Pass",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c9be94273fe244c08032ca493ad87434",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-04T18:27:15.763Z",
+  "lastModifiedDate": "2020-02-20T15:15:45.417Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "e9f9422804f54ef59dcec8e01aba8786"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "2f33a758bae540719062fc722cb77d04"
+    }
+  },
+  "entitlementName": "b371004a136249f1a9fdd52f5f63e51b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d3122411f89644a8a2a47efdcb5ba440",
+      "appId": "AlbacoreSP",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

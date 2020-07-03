@@ -1,0 +1,107 @@
+{
+  "id": "511a4fa19607460f9cbcecea7cef668d",
+  "title": "The Jackbox Party Pack 4",
+  "description": "The Jackbox Party Pack 4",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/snowdrop/item/PrimaryPromo-2580x1450-7098cfc0c6ce5207ed6537aebc2c1e6b.jpg",
+      "md5": "7098cfc0c6ce5207ed6537aebc2c1e6b",
+      "width": 2580,
+      "height": 1450,
+      "size": 487432,
+      "uploadedDate": "2019-02-07T16:03:26.676Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/snowdrop/item/GameIcon_transparent-400x400-8ff610df186a7000a3426136a1cacbe0.png",
+      "md5": "8ff610df186a7000a3426136a1cacbe0",
+      "width": 400,
+      "height": 400,
+      "size": 29629,
+      "uploadedDate": "2019-02-07T16:03:55.186Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/snowdrop/item/TJBPP4_logo-400x400-3b75a8f3aec1118703d4e7ac10fe2c64.png",
+      "md5": "3b75a8f3aec1118703d4e7ac10fe2c64",
+      "width": 400,
+      "height": 400,
+      "size": 13230,
+      "uploadedDate": "2019-02-07T16:50:00.270Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/snowdrop/item/Portrait Promo-1280x1420-2247bcb675d2ee1f4fa1a38429f5a08c.jpg",
+      "md5": "2247bcb675d2ee1f4fa1a38429f5a08c",
+      "width": 1280,
+      "height": 1420,
+      "size": 289773,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "snowdrop",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-16T13:55:53.392Z",
+  "lastModifiedDate": "2019-11-19T17:03:53.041Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "snowdrop"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Jackbox Games"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "JackboxPartyPack4"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac,Win32"
+    }
+  },
+  "entitlementName": "511a4fa19607460f9cbcecea7cef668d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6d07366bb670476ba95a99d83751656b",
+      "appId": "Snowdrop",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-01-16T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

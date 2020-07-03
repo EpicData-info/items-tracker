@@ -1,0 +1,25 @@
+{
+  "id": "e931d6a52f6e49cc90595bd79919ea99",
+  "title": "MorphoEarlyCodeRedemptionAudience",
+  "description": "MorphoEarlyCodeRedemptionAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "morpho",
+  "status": "ACTIVE",
+  "creationDate": "2018-11-28T17:03:33.411Z",
+  "lastModifiedDate": "2018-12-05T19:18:56.997Z",
+  "customAttributes": {},
+  "entitlementName": "e931d6a52f6e49cc90595bd79919ea99",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

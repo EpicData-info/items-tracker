@@ -1,0 +1,50 @@
+{
+  "id": "98a338cda03f4133a90d9979029761f4",
+  "title": "HeatherStaging",
+  "description": "HeatherStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-24T21:49:28.663Z",
+  "lastModifiedDate": "2019-10-23T12:58:28.358Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HeatherStaging"
+    }
+  },
+  "entitlementName": "98a338cda03f4133a90d9979029761f4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9a71e661472043ac82ada2d49be2aa91",
+      "appId": "HeatherStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-07-24T21:56:16.028Z"
+    }
+  ],
+  "developer": "Rockstar Games",
+  "developerId": "o-dhz7kpvrvqngzdpnx5vn3jrljj53ca",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

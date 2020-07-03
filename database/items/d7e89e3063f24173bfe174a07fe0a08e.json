@@ -1,0 +1,74 @@
+{
+  "id": "d7e89e3063f24173bfe174a07fe0a08e",
+  "title": "EiderCampaignPack",
+  "description": "EiderCampaignPack",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "dlc"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-04T16:16:55.928Z",
+  "lastModifiedDate": "2020-06-16T22:19:56.385Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ed55aa5edc5941de92fd7f64de415793"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EiderCampaignPack"
+    }
+  },
+  "entitlementName": "d7e89e3063f24173bfe174a07fe0a08e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "821f23429b2c45d3bfb7d70db7956d5d",
+      "appId": "EiderCampaignPack",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

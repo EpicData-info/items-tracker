@@ -1,0 +1,71 @@
+{
+  "id": "4405df59a04549e28eae43b8e308b038",
+  "title": "Siamese",
+  "description": "Siamese",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T17:15:17.740Z",
+  "lastModifiedDate": "2020-05-08T18:38:22.628Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "7015c51a49be4592b5ba3ae2577723c5"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Siamese"
+    }
+  },
+  "entitlementName": "4405df59a04549e28eae43b8e308b038",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ca873087f6d442739f807a80138a63a5",
+      "appId": "e4867c438f854da5a1d1f8c8609cac22",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-08T17:43:01.547Z"
+    }
+  ],
+  "developer": "Kalypso Media",
+  "developerId": "o-ntj9m7f2v76uksvjujurjfxtjkfawq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

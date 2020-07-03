@@ -1,0 +1,26 @@
+{
+  "id": "a48e9b8c43fa4580ae1fef9fc8b9ec6c",
+  "title": "Deep freeze set",
+  "description": "Deep freeze set",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-08-30T21:52:46.917Z",
+  "lastModifiedDate": "2018-11-13T01:02:07.688Z",
+  "entitlementName": "BR_Deep_Freeze",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2018-11-13T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

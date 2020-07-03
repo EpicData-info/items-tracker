@@ -1,0 +1,34 @@
+{
+  "id": "6165ae1b1c524ee0955e94917e69a4eb",
+  "title": "DLC12 Audience",
+  "description": "DLC12 (Clot Backpack Bundle)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T01:05:50.801Z",
+  "lastModifiedDate": "2019-12-09T18:27:01.886Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6165ae1b1c524ee0955e94917e69a4eb",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

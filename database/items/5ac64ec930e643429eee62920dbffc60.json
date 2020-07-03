@@ -1,0 +1,35 @@
+{
+  "id": "5ac64ec930e643429eee62920dbffc60",
+  "title": "Sound Track 2 Audience",
+  "description": "Sound Track 2 Audience",
+  "longDescription": "Classic DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-20T15:55:07.345Z",
+  "lastModifiedDate": "2020-02-26T16:37:31.919Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5ac64ec930e643429eee62920dbffc60",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Warhorse Studios",
+  "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

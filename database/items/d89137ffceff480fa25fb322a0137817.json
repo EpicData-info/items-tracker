@@ -1,0 +1,46 @@
+{
+  "id": "d89137ffceff480fa25fb322a0137817",
+  "title": "Testing Title-123",
+  "description": "Testing the title with numbers and alphabets",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/SeaQA/item/79937-700x700-700x700-7411907ae56fced82ef1c5bb2a21e38e.png",
+      "md5": "7411907ae56fced82ef1c5bb2a21e38e",
+      "width": 700,
+      "height": 700,
+      "size": 187413,
+      "uploadedDate": "2020-07-01T07:35:24.180Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-20T23:08:14.252Z",
+  "lastModifiedDate": "2020-07-01T07:35:50.926Z",
+  "entitlementName": "seaqatest",
+  "entitlementType": "EXECUTABLE",
+  "entitlementEndDate": "2021-10-01T00:00:00.000Z",
+  "itemType": "SUBSCRIPTION",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {
+    "ESRB": {
+      "ratingSystem": "ESRB",
+      "ageControl": 18,
+      "gameRating": "MATURE",
+      "ratingImage": "https://cdn1.epicgames.com/SeaQA/item/Accept terms-1243x844-3aafdd364eaf13e535d7f9dfc3af8729.png",
+      "title": "cristina test"
+    }
+  },
+  "unsearchable": false
+}

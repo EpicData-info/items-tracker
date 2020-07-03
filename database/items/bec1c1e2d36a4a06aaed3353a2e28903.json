@@ -1,0 +1,47 @@
+{
+  "id": "bec1c1e2d36a4a06aaed3353a2e28903",
+  "title": "B_FragCenter",
+  "description": "FRAG CENTER VIDEOS",
+  "longDescription": "",
+  "technicalDetails": "https://www.unrealtournament.com/fragcenter",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/FragCenter2_Launcher-400x120-dba09459bb08ab1b06073abb4855585c.png",
+      "md5": "dba09459bb08ab1b06073abb4855585c",
+      "width": 400,
+      "height": 120,
+      "size": 35193,
+      "uploadedDate": "2015-10-21T16:12:03.209Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "learn"
+    },
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "learn/features"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2014-11-07T19:32:52.019Z",
+  "lastModifiedDate": "2017-02-23T22:08:43.341Z",
+  "entitlementName": "UnrealTournament",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

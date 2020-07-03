@@ -1,0 +1,51 @@
+{
+  "id": "de3fbc9a5332430b9d02bb0b8a4205e2",
+  "title": "Paladins - Dev",
+  "description": "Paladins - Dev",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-18T01:57:09.861Z",
+  "lastModifiedDate": "2020-03-20T15:42:25.361Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AntbirdStaging"
+    }
+  },
+  "entitlementName": "de3fbc9a5332430b9d02bb0b8a4205e2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "413aa899d7da422bac2c44e5a410e874",
+      "appId": "AntbirdStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-18T00:00:00.000Z"
+    }
+  ],
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

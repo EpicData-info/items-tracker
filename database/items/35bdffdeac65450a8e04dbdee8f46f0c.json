@@ -1,0 +1,56 @@
+{
+  "id": "35bdffdeac65450a8e04dbdee8f46f0c",
+  "title": "Steep XG Season Pass",
+  "description": "Steep XG Season Pass",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a646020cb93b4ea995cda70647bbe001",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-17T16:55:02.381Z",
+  "lastModifiedDate": "2020-01-01T15:32:09.930Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "e9c436b4e1474e6daa4a4ec5bd19fba2"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "67cdf7dbfe9b4843951de7525466ec55"
+    }
+  },
+  "entitlementName": "35bdffdeac65450a8e04dbdee8f46f0c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "12a6f3dbaa2445a29acf93cfdfc7e387",
+      "appId": "BarracudaXGSeasonPassDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-12-09T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

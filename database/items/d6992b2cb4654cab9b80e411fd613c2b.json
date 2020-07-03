@@ -1,0 +1,70 @@
+{
+  "id": "d6992b2cb4654cab9b80e411fd613c2b",
+  "title": "Platinum Expansion DLC",
+  "description": "Platinum Expansion DLC",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/item/Diesel_productv2_farming-simulator-19_platinum-expansion_EGS-GIANTS-FS19-2560x1440_PlatExpansion-2560x1440-fbe5a70530615446852cb5c1eaeac7b0bfc642fd-2560x1440-42be8214ef1331ea14c50fa7161a7240.jpg",
+      "md5": "42be8214ef1331ea14c50fa7161a7240",
+      "width": 2560,
+      "height": 1440,
+      "size": 502185,
+      "uploadedDate": "2020-01-23T14:35:41.930Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/item/Diesel_productv2_farming-simulator-19_platinum-expansion_EGS-GIANTS-FS19-860x1148_PlatExpansion-860x1148-8f4178a4023b6da8c75eb59766a3d5e86f98caf7-860x1148-35221e72408c15a59b76f244187677c4.jpg",
+      "md5": "35221e72408c15a59b76f244187677c4",
+      "width": 860,
+      "height": 1148,
+      "size": 254361,
+      "uploadedDate": "2020-01-23T14:35:55.179Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "493e9ad801e8487497fe7840cb8404bb",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-09T18:59:50.406Z",
+  "lastModifiedDate": "2020-03-10T15:06:18.300Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PlatinumExpansion"
+    }
+  },
+  "entitlementName": "d6992b2cb4654cab9b80e411fd613c2b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8f0b378654a34020b46fa2613b2d6a79",
+      "appId": "StellulaDLC",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-03T00:00:00.000Z"
+    }
+  ],
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,68 @@
+{
+  "id": "58593a9e92d64dc8b02acb77dacd6eed",
+  "title": "SnapdragonQA",
+  "description": "SnapdragonQA",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/MetroExodus_GameLogo_White_Update-1080x549-988e043daad575b9908fa6d802bdf443.png",
+      "md5": "988e043daad575b9908fa6d802bdf443",
+      "width": 1080,
+      "height": 549,
+      "size": 439940,
+      "uploadedDate": "2019-03-22T15:04:53.219Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/Metro_PrimaryPromo_update-2580x1450-0e5b7a55fb64f2b4ab1a46455a9293e0.jpg",
+      "md5": "0e5b7a55fb64f2b4ab1a46455a9293e0",
+      "width": 2580,
+      "height": 1450,
+      "size": 580337,
+      "uploadedDate": "2019-02-14T22:38:27.471Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "snapdragon",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-30T15:52:26.171Z",
+  "lastModifiedDate": "2019-08-23T20:21:21.407Z",
+  "customAttributes": {
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SnapdragonQA"
+    }
+  },
+  "entitlementName": "58593a9e92d64dc8b02acb77dacd6eed",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "762ecd9c3e734a0f9beb233b77239b74",
+      "appId": "SnapdragonQA",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-01-30T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

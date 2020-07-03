@@ -1,0 +1,59 @@
+{
+  "id": "dbb10ba1ec834001b13b0519172f63d6",
+  "title": "SandpiperQA",
+  "description": "SandpiperQA",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-23T22:41:33.169Z",
+  "lastModifiedDate": "2020-02-27T15:58:08.104Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Bigben Interactive/Overpass/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "output_log.txt"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SandpiperQA"
+    }
+  },
+  "entitlementName": "dbb10ba1ec834001b13b0519172f63d6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f60da6c7abf74449aadf15ee8b31c269",
+      "appId": "SandpiperQA",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

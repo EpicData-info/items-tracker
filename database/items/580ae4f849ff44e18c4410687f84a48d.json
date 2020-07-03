@@ -1,0 +1,47 @@
+{
+  "id": "580ae4f849ff44e18c4410687f84a48d",
+  "title": "ProteaSoundtrackAudience",
+  "description": "ProteaSoundtrackAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/protea/item/RP_FOR_T_M_AO-842x404-e685858d6f01213bedf5b2abec53be94.png",
+      "md5": "e685858d6f01213bedf5b2abec53be94",
+      "width": 842,
+      "height": 404,
+      "size": 55379,
+      "uploadedDate": "2019-04-23T21:34:44.022Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "protea",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-13T18:09:46.158Z",
+  "lastModifiedDate": "2020-04-13T18:10:32.816Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "580ae4f849ff44e18c4410687f84a48d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Brace Yourself Games",
+  "developerId": "o-5y95w2k7uu469v8lr4dyzeff447wfm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "RATING_PENDING",
+  "selfRefundable": true,
+  "unsearchable": false
+}

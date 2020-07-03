@@ -1,0 +1,24 @@
+{
+  "id": "30377688e7a444cc8458c738bd30d939",
+  "title": "Fortnite External QA - Enzyme",
+  "description": "Fortnite External QA - Enzyme",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-12T22:18:34.735Z",
+  "lastModifiedDate": "2019-04-12T22:18:34.735Z",
+  "entitlementName": "30377688e7a444cc8458c738bd30d939",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

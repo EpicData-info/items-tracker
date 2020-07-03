@@ -1,0 +1,35 @@
+{
+  "id": "798661e7eb634bee956a0ff0f07df61b",
+  "title": "Starter Pack 2",
+  "description": "Starter Pack 2",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "azalea",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-29T21:38:00.471Z",
+  "lastModifiedDate": "2019-10-07T17:14:45.769Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "798661e7eb634bee956a0ff0f07df61b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "593af4ab12134d119c195ca1d2f0bae5",
+  "title": "GulperStaging",
+  "description": "GulperStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-13T15:48:51.405Z",
+  "lastModifiedDate": "2020-02-19T15:39:46.930Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "16234afb77174ed0a1339661db077649"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GulperStaging"
+    }
+  },
+  "entitlementName": "593af4ab12134d119c195ca1d2f0bae5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "41643b072e3c47e8808bdb9cf0539959",
+      "appId": "GulperStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

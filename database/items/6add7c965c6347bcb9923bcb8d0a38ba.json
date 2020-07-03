@@ -1,0 +1,34 @@
+{
+  "id": "6add7c965c6347bcb9923bcb8d0a38ba",
+  "title": "Call_To_Action_01",
+  "description": "PLAY HELLO NEIGHBOR\n<inverted-tiny-body>PLAY NOW</>",
+  "technicalDetails": "http://www.helloneighborgame.com/",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/helloneighbor/item/CallToAction1-960x540-932ecb656c57ec24b3061435e6c05c88.png",
+      "md5": "932ecb656c57ec24b3061435e6c05c88",
+      "width": 960,
+      "height": 540,
+      "size": 764490,
+      "uploadedDate": "2017-09-22T21:01:14.050Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "helloneighbor",
+  "status": "ACTIVE",
+  "creationDate": "2017-09-22T21:01:20.773Z",
+  "lastModifiedDate": "2019-12-30T15:51:18.106Z",
+  "entitlementName": "6add7c965c6347bcb9923bcb8d0a38ba",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

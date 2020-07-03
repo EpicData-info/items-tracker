@@ -1,0 +1,25 @@
+{
+  "id": "008d8c8e721246759c7d2a9aaacbfc2c",
+  "title": "Dev_Portal_Moderator",
+  "description": "Dev_Portal_Moderator",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "epic",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-09T16:39:16.869Z",
+  "lastModifiedDate": "2019-08-06T23:20:49.047Z",
+  "entitlementName": "Dev_Portal_Moderator",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2019-07-09T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

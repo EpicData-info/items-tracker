@@ -1,0 +1,92 @@
+{
+  "id": "c275c2a3a6564d298db3dd4ca623e1f9",
+  "title": "Shadow Tactics: Blades of the Shogun",
+  "description": "Shadow Tactics: Blades of the Shogun",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/2f215955790d456b80c291bc2feaf7f7/item/EGS_MimimiGames_ShadowTacticsBladesoftheShogun_S3-1360x766-216c2e04b177c6b7252f1f535edef030.jpg",
+      "md5": "216c2e04b177c6b7252f1f535edef030",
+      "width": 1360,
+      "height": 766,
+      "size": 492918,
+      "uploadedDate": "2019-12-20T03:05:04.257Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/2f215955790d456b80c291bc2feaf7f7/item/EGS_MimimiGames_ShadowTacticsBladesoftheShogun_S4-510x680-f62935abb1b2bd42b2f19f9385da7fe7.jpg",
+      "md5": "f62935abb1b2bd42b2f19f9385da7fe7",
+      "width": 510,
+      "height": 680,
+      "size": 233870,
+      "uploadedDate": "2019-12-20T03:05:17.511Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2f215955790d456b80c291bc2feaf7f7",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-18T10:01:23.762Z",
+  "lastModifiedDate": "2019-12-28T16:25:22.437Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "2f215955790d456b80c291bc2feaf7f7"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ShadowTactics"
+    }
+  },
+  "entitlementName": "c275c2a3a6564d298db3dd4ca623e1f9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3f6c16552d51425ab49e7ebffdba2454",
+      "appId": "Fangtooth",
+      "platform": [
+        "Windows",
+        "Win32"
+      ],
+      "dateAdded": "2019-12-26T16:11:41.068Z"
+    }
+  ],
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

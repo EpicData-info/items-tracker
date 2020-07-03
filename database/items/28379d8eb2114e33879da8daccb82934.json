@@ -1,0 +1,60 @@
+{
+  "id": "28379d8eb2114e33879da8daccb82934",
+  "title": "VilniusStaging",
+  "description": "VilniusStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "590c37a9443d46ce84be415b96b1a3e6",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-11T01:35:32.786Z",
+  "lastModifiedDate": "2020-06-25T14:58:26.835Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "1bb6f787bb42420cb1299676a353e404"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "VilniusStaging"
+    }
+  },
+  "entitlementName": "28379d8eb2114e33879da8daccb82934",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6d1a14769e6e437fabe3fdebda6a2f28",
+      "appId": "26256d57840d4a7fb32f3acdd4f326d7",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

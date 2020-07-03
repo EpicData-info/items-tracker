@@ -1,0 +1,34 @@
+{
+  "id": "6d02b0b565b84425a3e055958505017a",
+  "title": "Call_To_Action_01",
+  "description": "VISIT THE OFFICIAL WEBSITE\n<inverted-tiny-body>LEARN MORE</>",
+  "technicalDetails": "https://www.epicgames.com/battlebreakers/",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/wex/item/bb_img4-633x314-9e1870c54590e007d8a98e6a115c37d9.png",
+      "md5": "9e1870c54590e007d8a98e6a115c37d9",
+      "width": 633,
+      "height": 314,
+      "size": 386604,
+      "uploadedDate": "2017-03-14T16:57:25.280Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layout"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2017-03-14T16:45:06.369Z",
+  "lastModifiedDate": "2017-06-26T18:24:52.335Z",
+  "entitlementName": "6d02b0b565b84425a3e055958505017a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

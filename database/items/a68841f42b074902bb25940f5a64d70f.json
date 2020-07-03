@@ -1,0 +1,27 @@
+{
+  "id": "a68841f42b074902bb25940f5a64d70f",
+  "title": "ImpalaPrePurchaseAudience",
+  "description": "ImpalaPrePurchaseAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "impala",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-11T14:31:05.846Z",
+  "lastModifiedDate": "2019-06-21T19:05:45.586Z",
+  "entitlementName": "a68841f42b074902bb25940f5a64d70f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

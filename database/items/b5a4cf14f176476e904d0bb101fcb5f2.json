@@ -1,0 +1,47 @@
+{
+  "id": "b5a4cf14f176476e904d0bb101fcb5f2",
+  "title": "ImpalaGoldAudience",
+  "description": "ImpalaGoldAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/impala/item/Diesel_product_ratings_ESRB_Division2_M-228x130-717dd2e7865484cd95bdcc1c43a59851b3227b28-228x130-3b96f155ba2aaeea670e3674d3fdce7b.png",
+      "md5": "3b96f155ba2aaeea670e3674d3fdce7b",
+      "width": 228,
+      "height": 130,
+      "size": 12434,
+      "uploadedDate": "2020-03-04T22:00:52.946Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "impala",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-08T02:34:10.098Z",
+  "lastModifiedDate": "2020-03-04T22:00:56.406Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b5a4cf14f176476e904d0bb101fcb5f2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

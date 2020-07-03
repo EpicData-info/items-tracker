@@ -1,0 +1,35 @@
+{
+  "id": "d47b520723884841bfcb0a390edf5a8b",
+  "title": "Industries of Titan Early Access Audience",
+  "description": "Industries of Titan Early Access Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "protea",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-09T12:31:13.870Z",
+  "lastModifiedDate": "2020-06-02T18:00:05.317Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d47b520723884841bfcb0a390edf5a8b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Brace Yourself Games",
+  "developerId": "o-5y95w2k7uu469v8lr4dyzeff447wfm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": "607d129f3ac1481cb341c54b96d91cab",
+  "title": "DevPersianAudience",
+  "description": "DevPersianAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-18T21:00:54.944Z",
+  "lastModifiedDate": "2020-06-18T22:25:32.472Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "607d129f3ac1481cb341c54b96d91cab",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

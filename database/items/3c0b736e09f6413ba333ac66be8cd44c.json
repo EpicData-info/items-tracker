@@ -1,0 +1,103 @@
+{
+  "id": "3c0b736e09f6413ba333ac66be8cd44c",
+  "title": "Dauntless Community",
+  "description": "Dauntless Community",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jackal/item/Dauntless_GameIcon-400x400-fedb667fba0c95b47137a8c5416b68d5.png",
+      "md5": "fedb667fba0c95b47137a8c5416b68d5",
+      "width": 400,
+      "height": 400,
+      "size": 28015,
+      "uploadedDate": "2019-06-19T02:20:05.724Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/jackal/item/Dauntless_Logo-1600x477-6a4f18070910182a0058bfac203fbc13.png",
+      "md5": "6a4f18070910182a0058bfac203fbc13",
+      "width": 1600,
+      "height": 477,
+      "size": 729308,
+      "uploadedDate": "2019-06-19T02:20:15.023Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/jackal/item/Dauntless_PrimaryPromo_LibraryCrop-2580x1162-475b6a9f71298d219bdf7908c3c551fd.jpg",
+      "md5": "475b6a9f71298d219bdf7908c3c551fd",
+      "width": 2580,
+      "height": 1162,
+      "size": 1217518,
+      "uploadedDate": "2019-06-19T02:20:23.837Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "jackal",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-19T02:25:33.164Z",
+  "lastModifiedDate": "2020-06-11T16:55:13.098Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "jackal"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Phoenix Labs"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DauntlessCommunity"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "JackalCommunity",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ecf8964bf2074658a1f1acf77c767453",
+      "appId": "JackalCommunity",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-19T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

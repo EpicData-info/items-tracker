@@ -1,0 +1,49 @@
+{
+  "id": "82036c39c2de4ba88d07c4821d3757a6",
+  "title": "MorganiteStaging",
+  "description": "MorganiteStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "158a0eaa18574bb39347c04286d118c7",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-18T21:49:47.593Z",
+  "lastModifiedDate": "2020-05-28T13:21:34.724Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MorganiteStaging"
+    }
+  },
+  "entitlementName": "82036c39c2de4ba88d07c4821d3757a6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7b001473032e43939f0f0992a6d62929",
+      "appId": "MorganiteStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

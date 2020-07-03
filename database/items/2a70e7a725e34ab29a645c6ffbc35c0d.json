@@ -1,0 +1,52 @@
+{
+  "id": "2a70e7a725e34ab29a645c6ffbc35c0d",
+  "title": "WallStreet",
+  "description": "WallStreet",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T16:38:26.403Z",
+  "lastModifiedDate": "2020-05-08T16:57:13.493Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WallStreet"
+    }
+  },
+  "entitlementName": "2a70e7a725e34ab29a645c6ffbc35c0d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d754ca305143443b937807ed31ca99bd",
+      "appId": "d0790e24734f4ea19b6339d0c782a0e4",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Kalypso Media",
+  "developerId": "o-ntj9m7f2v76uksvjujurjfxtjkfawq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

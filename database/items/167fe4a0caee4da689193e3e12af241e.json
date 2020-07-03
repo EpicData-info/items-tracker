@@ -1,0 +1,34 @@
+{
+  "id": "167fe4a0caee4da689193e3e12af241e",
+  "title": "PeweeGeneralAudience",
+  "description": "PeweeGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-16T21:22:27.381Z",
+  "lastModifiedDate": "2020-05-06T21:25:16.218Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "167fe4a0caee4da689193e3e12af241e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,50 @@
+{
+  "id": "f37a06e0d319430f94b3f78b2930a0d1",
+  "title": "Carp-ProdBeta",
+  "description": "Carp-ProdBeta",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-13T21:35:14.116Z",
+  "lastModifiedDate": "2020-06-11T20:49:32.466Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CarpStaging"
+    }
+  },
+  "entitlementName": "f37a06e0d319430f94b3f78b2930a0d1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "798dae9652ea41a99898c2a547a1c17f",
+      "appId": "CarpStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Gearbox Publishing",
+  "developerId": "o-dcmk65hvycy3kndmqvfg3yn3up87jn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

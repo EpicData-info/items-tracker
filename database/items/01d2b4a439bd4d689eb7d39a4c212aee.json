@@ -1,0 +1,33 @@
+{
+  "id": "01d2b4a439bd4d689eb7d39a4c212aee",
+  "title": "DevPantanalAudience",
+  "description": "DevPantanalAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "9b31326adff64c7fa7bbac6e8d4a9e6e",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-23T19:03:05.777Z",
+  "lastModifiedDate": "2020-05-28T16:49:21.816Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "01d2b4a439bd4d689eb7d39a4c212aee",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Dry Cactus",
+  "developerId": "o-h3tscjk3a6qqrftdkrtl8w352rxceg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

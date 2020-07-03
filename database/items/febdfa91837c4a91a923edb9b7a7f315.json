@@ -1,0 +1,25 @@
+{
+  "id": "febdfa91837c4a91a923edb9b7a7f315",
+  "title": "Samsung Preorder 10000 V-Bucks Promo",
+  "description": "Samsung Preorder 10000 V-Bucks Promo",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "points"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-09-18T20:06:14.044Z",
+  "lastModifiedDate": "2018-09-18T20:06:14.044Z",
+  "entitlementName": "FN_10000_SAMSUNG_PROMO",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "9f13c70037a0476d9c0e8e760e0e6d0b",
+  "title": "Call_To_Action_02",
+  "description": "SPYJINX FORUMS\n<inverted-tiny-body>READ MORE</>",
+  "technicalDetails": "https://www.epicgames.com/spyjinx/forums/forum.php",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ocn/item/ocn4-1400x848-7097ec536d2f60885397261db1e70323.png",
+      "md5": "7097ec536d2f60885397261db1e70323",
+      "width": 1400,
+      "height": 848,
+      "size": 406883,
+      "uploadedDate": "2017-03-16T15:01:29.791Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layout"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2017-03-16T13:53:57.022Z",
+  "lastModifiedDate": "2017-06-20T17:56:02.788Z",
+  "entitlementName": "9f13c70037a0476d9c0e8e760e0e6d0b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

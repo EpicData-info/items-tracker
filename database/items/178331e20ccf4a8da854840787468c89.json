@@ -1,0 +1,34 @@
+{
+  "id": "178331e20ccf4a8da854840787468c89",
+  "title": "DLC1 Audience",
+  "description": "Mr. Foster Classic Uniform Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-13T21:35:56.299Z",
+  "lastModifiedDate": "2019-12-09T18:25:20.414Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "178331e20ccf4a8da854840787468c89",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

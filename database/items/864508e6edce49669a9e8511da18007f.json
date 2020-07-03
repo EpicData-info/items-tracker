@@ -1,0 +1,51 @@
+{
+  "id": "864508e6edce49669a9e8511da18007f",
+  "title": "CrocusStaging",
+  "description": "CrocusStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "crocus",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-16T14:15:56.793Z",
+  "lastModifiedDate": "2019-05-06T16:57:10.858Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CrocusStaging"
+    }
+  },
+  "entitlementName": "864508e6edce49669a9e8511da18007f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2e45ae7178454729a6b527993f9ae61d",
+      "appId": "CrocusStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-01-16T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

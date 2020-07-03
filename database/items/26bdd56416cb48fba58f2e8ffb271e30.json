@@ -1,0 +1,46 @@
+{
+  "id": "26bdd56416cb48fba58f2e8ffb271e30",
+  "title": "Calluna Pre-Purchase Audience",
+  "description": "Calluna Pre-Purchase Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/calluna/item/Control_Esrb-340x163-450592beba2d7746e4f1a364e976f82a.png",
+      "md5": "450592beba2d7746e4f1a364e976f82a",
+      "width": 340,
+      "height": 163,
+      "size": 34084,
+      "uploadedDate": "2019-04-23T19:55:41.462Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "calluna",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-25T23:06:56.139Z",
+  "lastModifiedDate": "2020-02-25T16:06:30.682Z",
+  "customAttributes": {
+    "availableDate": {
+      "type": "STRING",
+      "value": "1553583600"
+    }
+  },
+  "entitlementName": "26bdd56416cb48fba58f2e8ffb271e30",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

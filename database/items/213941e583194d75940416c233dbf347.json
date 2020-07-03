@@ -1,0 +1,60 @@
+{
+  "id": "213941e583194d75940416c233dbf347",
+  "title": "FlierStaging",
+  "description": "FlierStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "52326e805bac4619a4a8fac165363a42",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-05T18:21:48.109Z",
+  "lastModifiedDate": "2020-03-26T14:34:23.065Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.thefullbrightcompany.gonehome/Saves/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/The Fullbright Company/Gone Home/Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FlierStaging"
+    }
+  },
+  "entitlementName": "213941e583194d75940416c233dbf347",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "96acbb535b80483c98dd5a53399e198c",
+      "appId": "FlierStaging",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2020-03-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

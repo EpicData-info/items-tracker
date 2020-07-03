@@ -1,0 +1,25 @@
+{
+  "id": "ae73e85580ff445db5374d210419b60a",
+  "title": "System Requirements",
+  "description": "System Requirements",
+  "longDescription": "",
+  "technicalDetails": "http://shadowcomplexhelp.epicgames.com/customer/en/portal/articles/2232464-what-are-the-system-requirements-for-shadow-complex-remastered-pc-mac-",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "layout"
+    }
+  ],
+  "namespace": "vpr",
+  "status": "ACTIVE",
+  "creationDate": "2017-03-15T19:32:53.612Z",
+  "lastModifiedDate": "2017-06-26T19:23:55.319Z",
+  "entitlementName": "ae73e85580ff445db5374d210419b60a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "b08998112b5942908076c13141717270",
+  "title": "BarracudaSeasonPassAudience_marker",
+  "description": "BarracudaSeasonPassAudience_marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "a646020cb93b4ea995cda70647bbe001",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-09T19:41:06.129Z",
+  "lastModifiedDate": "2020-01-01T15:30:24.656Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b08998112b5942908076c13141717270",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

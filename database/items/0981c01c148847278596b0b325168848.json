@@ -1,0 +1,46 @@
+{
+  "id": "0981c01c148847278596b0b325168848",
+  "title": "Speedwell Dev Audience",
+  "description": "Speedwell Dev Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/c5e786eddfd041caa9984213e3f9621d/item/ESRB_MetroLastLight-842x404-699f2f88320405267d8acb6bb327b32b.png",
+      "md5": "699f2f88320405267d8acb6bb327b32b",
+      "width": 842,
+      "height": 404,
+      "size": 59015,
+      "uploadedDate": "2019-04-30T21:36:28.262Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "c5e786eddfd041caa9984213e3f9621d",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-22T16:53:15.956Z",
+  "lastModifiedDate": "2019-05-16T11:12:40.857Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0981c01c148847278596b0b325168848",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

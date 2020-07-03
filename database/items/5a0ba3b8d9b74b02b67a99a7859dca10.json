@@ -1,0 +1,91 @@
+{
+  "id": "5a0ba3b8d9b74b02b67a99a7859dca10",
+  "title": "Journey To The Savage Planet Pre-Purchase",
+  "description": "Journey To The Savage Planet Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/oleander/item/JTSP_LOGO_Hires_WHTE_Optimized-1920x1344-b07ce8dd6b8af8409e7735f5d5e39b63.png",
+      "md5": "b07ce8dd6b8af8409e7735f5d5e39b63",
+      "width": 1920,
+      "height": 1344,
+      "size": 203420,
+      "uploadedDate": "2019-03-19T21:47:02.527Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/oleander/item/Primary_promo-2580x1450-80be29c1e4c586e87fe075c2a0bb006b.jpg",
+      "md5": "80be29c1e4c586e87fe075c2a0bb006b",
+      "width": 2580,
+      "height": 1450,
+      "size": 506122,
+      "uploadedDate": "2019-08-21T18:15:29.544Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/oleander/item/portrait_promo_NEW-1280x1420-ca328189f3781b7d4a422d8ad5a5d422.jpg",
+      "md5": "ca328189f3781b7d4a422d8ad5a5d422",
+      "width": 1280,
+      "height": 1420,
+      "size": 703461,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "oleander",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-12T20:16:29.927Z",
+  "lastModifiedDate": "2020-03-18T18:53:54.963Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "oleander"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "505 Games"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5a0ba3b8d9b74b02b67a99a7859dca10",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9b049669d7f5436aacb14317ff24d647",
+      "appId": "OleanderDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-11T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "6c0dca2bc78748c581722498bf08618e",
+  "title": "LilacDevAudience",
+  "description": "LilacDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "lilac",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-16T13:13:03.779Z",
+  "lastModifiedDate": "2019-05-13T14:41:27.301Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "6c0dca2bc78748c581722498bf08618e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

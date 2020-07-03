@@ -1,0 +1,55 @@
+{
+  "id": "84ddb7ef1c3f41ef92edeae89c143d31",
+  "title": "TanagerYoshi",
+  "description": "Tanager-Yoshi",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-23T16:19:59.512Z",
+  "lastModifiedDate": "2020-03-23T17:19:27.741Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TanagerYoshi"
+    }
+  },
+  "entitlementName": "84ddb7ef1c3f41ef92edeae89c143d31",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ee936c0cbaef4b3a8d23392a71e7585e",
+      "appId": "0a20fe4b3c2240dbac3308efdf3524cb",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

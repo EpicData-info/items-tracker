@@ -1,0 +1,30 @@
+{
+  "id": "13c200217cf44b9c83b9c5f4a1932eff",
+  "title": "HawkUltimatePack_Marker",
+  "description": "HawkUltimatePack_Marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "0a84818055e740a7be21a2e5b6162703",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-05T21:02:12.271Z",
+  "lastModifiedDate": "2019-06-14T21:04:35.526Z",
+  "entitlementName": "13c200217cf44b9c83b9c5f4a1932eff",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

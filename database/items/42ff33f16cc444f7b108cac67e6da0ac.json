@@ -1,0 +1,34 @@
+{
+  "id": "42ff33f16cc444f7b108cac67e6da0ac",
+  "title": "MuscovyDevAudience",
+  "description": "MuscovyDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-03T15:22:15.189Z",
+  "lastModifiedDate": "2020-05-07T13:10:20.282Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "42ff33f16cc444f7b108cac67e6da0ac",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

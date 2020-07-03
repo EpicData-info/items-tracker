@@ -1,0 +1,47 @@
+{
+  "id": "fc039ec37d6c42df8e4d783f3b08b88d",
+  "title": "PepperDevAudience",
+  "description": "PepperDevAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/item/ESRB_Shenmue3-842x404-b3b61b50e41756a3c15abdbd27349ce9.jpg",
+      "md5": "b3b61b50e41756a3c15abdbd27349ce9",
+      "width": 842,
+      "height": 404,
+      "size": 114627,
+      "uploadedDate": "2019-07-29T16:24:28.475Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-19T17:54:04.264Z",
+  "lastModifiedDate": "2019-11-19T12:56:23.766Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "fc039ec37d6c42df8e4d783f3b08b88d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "selfRefundable": false,
+  "unsearchable": false
+}

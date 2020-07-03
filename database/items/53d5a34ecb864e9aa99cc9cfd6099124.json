@@ -1,0 +1,36 @@
+{
+  "id": "53d5a34ecb864e9aa99cc9cfd6099124",
+  "title": "DLC110 Audience",
+  "description": "DLC110 (Compound Bow)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-12T22:40:07.560Z",
+  "lastModifiedDate": "2020-06-24T18:42:14.415Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "53d5a34ecb864e9aa99cc9cfd6099124",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

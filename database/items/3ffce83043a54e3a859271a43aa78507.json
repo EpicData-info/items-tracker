@@ -1,0 +1,37 @@
+{
+  "id": "3ffce83043a54e3a859271a43aa78507",
+  "title": "SuperMeatBoyForeverGeneralAudience",
+  "description": "SuperMeatBoyForeverGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/moose/item/ESRB_SMBF-842x404-5050b4a187569e809d02cb7c62f35f62.png",
+      "md5": "5050b4a187569e809d02cb7c62f35f62",
+      "width": 842,
+      "height": 404,
+      "size": 41715,
+      "uploadedDate": "2019-04-23T20:59:27.509Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "moose",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-06T02:28:33.654Z",
+  "lastModifiedDate": "2019-05-13T14:38:13.589Z",
+  "entitlementName": "3ffce83043a54e3a859271a43aa78507",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Team Meat",
+  "developerId": "o-mj7q3aaq5djq6wuddnrr5mgqjsk2da",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

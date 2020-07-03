@@ -1,0 +1,70 @@
+{
+  "id": "59afb48bfaed46cdaad320083dc88d7e",
+  "title": "Real Mars Map Pack",
+  "description": "Real Mars Map Pack",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyRealMarsMapPack_MohawkGames_DLC_IC1_A-320x180-c5e620ae3740ba780a962e4c1f9e8c08.jpg",
+      "md5": "c5e620ae3740ba780a962e4c1f9e8c08",
+      "width": 320,
+      "height": 180,
+      "size": 75139,
+      "uploadedDate": "2020-03-05T15:53:15.246Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/Offworld_Portrait-510x680-7a9909ce27ac1d94813f6f49f6632871.jpg",
+      "md5": "7a9909ce27ac1d94813f6f49f6632871",
+      "width": 510,
+      "height": 680,
+      "size": 60952,
+      "uploadedDate": "2020-03-05T15:53:26.586Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-17T21:43:42.797Z",
+  "lastModifiedDate": "2020-03-05T15:58:54.093Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RealMarsMapPack"
+    }
+  },
+  "entitlementName": "59afb48bfaed46cdaad320083dc88d7e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f43b6e49890445af86c14eba9962f321",
+      "appId": "SnapperMap",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-02-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

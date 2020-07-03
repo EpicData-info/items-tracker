@@ -1,0 +1,24 @@
+{
+  "id": "0ac06beccb3f48949233c54fd0c7834e",
+  "title": "Ocean Epic Contractor - Dev Team",
+  "description": "Ocean Epic Contractor - Dev Team",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-20T15:51:09.196Z",
+  "lastModifiedDate": "2019-09-20T15:51:41.584Z",
+  "entitlementName": "0ac06beccb3f48949233c54fd0c7834e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

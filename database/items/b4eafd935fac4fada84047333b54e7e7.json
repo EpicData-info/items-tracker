@@ -1,0 +1,40 @@
+{
+  "id": "b4eafd935fac4fada84047333b54e7e7",
+  "title": "DLC1 Audience",
+  "description": "DLC1 Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/item/ESRB_ShenmueIII-842x404-33dc7b511ece533836879c6303e4cc71-842x404-33dc7b511ece533836879c6303e4cc71.jpg",
+      "md5": "33dc7b511ece533836879c6303e4cc71",
+      "width": 842,
+      "height": 404,
+      "size": 103425,
+      "uploadedDate": "2020-01-29T21:21:37.447Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-03T20:38:53.023Z",
+  "lastModifiedDate": "2020-02-24T22:33:11.094Z",
+  "entitlementName": "b4eafd935fac4fada84047333b54e7e7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "unsearchable": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "e0f7c8d25c87436c92a9914fb26cc164",
+  "title": "Fortnite External Dev - Ghostpunch",
+  "description": "Fortnite External Dev - Ghostpunch",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-26T18:48:35.902Z",
+  "lastModifiedDate": "2019-11-26T18:48:35.902Z",
+  "entitlementName": "e0f7c8d25c87436c92a9914fb26cc164",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "95c18606da95485a8953beec7f8d7c86",
+  "title": "CatnipGBXUserResearch3DLC5Part2",
+  "description": "CatnipGBXUserResearch3DLC5Part2",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "catnip",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-15T19:40:25.505Z",
+  "lastModifiedDate": "2020-06-15T23:14:04.001Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CatnipGBXUserResearch3DLC4PT2"
+    }
+  },
+  "entitlementName": "95c18606da95485a8953beec7f8d7c86",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4297dbd7496a4007afddd90e284b6eb4",
+      "appId": "b3d51c581c14431f90eb273439a02789",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-05-17T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

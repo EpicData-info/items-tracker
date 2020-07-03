@@ -1,0 +1,51 @@
+{
+  "id": "4df9f492e4e248c68f6950f84b99b11c",
+  "title": "PersianStaging",
+  "description": "PersianStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-18T21:00:55.171Z",
+  "lastModifiedDate": "2020-06-18T22:34:11.259Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PersianStaging"
+    }
+  },
+  "entitlementName": "4df9f492e4e248c68f6950f84b99b11c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2e21b5aedc534bcda47af8ee4ef09a24",
+      "appId": "1668ee2396a3410a83d1d08dd1fc010d",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-18T22:34:08.373Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

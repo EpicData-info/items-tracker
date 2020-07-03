@@ -1,0 +1,74 @@
+{
+  "id": "ce04a7a8e3d6472194e2f128524eb730",
+  "title": "WrenDLCStaging",
+  "description": "WrenDLCStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "dlc"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wren",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-01T21:29:28.093Z",
+  "lastModifiedDate": "2019-10-25T17:32:42.994Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "wren"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AshenDLCstage"
+    },
+    "developerName": {
+      "type": "STRING",
+      "value": "A44 Games"
+    }
+  },
+  "entitlementName": "ce04a7a8e3d6472194e2f128524eb730",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f59cd7b5c9de4886a9c6fe36812be7de",
+      "appId": "WrenDLCStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-01T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

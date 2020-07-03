@@ -1,0 +1,33 @@
+{
+  "id": "b73fe90f1ddc47edad034d3ade3b4155",
+  "title": "tttttDevAudience",
+  "description": "tttttDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "coriander",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-04T04:11:04.652Z",
+  "lastModifiedDate": "2020-02-18T15:52:25.070Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b73fe90f1ddc47edad034d3ade3b4155",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "test_olena3",
+  "developerId": "o-6v6396hzph6lsnsyydlzmqzpkppmlf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

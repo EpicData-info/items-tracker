@@ -1,0 +1,56 @@
+{
+  "id": "b0bcc97cec664258883a8482e2377b78",
+  "title": "IrisDLC5Staging",
+  "description": "IrisDLC5Staging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-14T17:37:35.384Z",
+  "lastModifiedDate": "2020-02-14T18:07:04.883Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DLC5"
+    }
+  },
+  "entitlementName": "b0bcc97cec664258883a8482e2377b78",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ac87dbe9f2af4cb2af1be1f4cb0a12ba",
+      "appId": "IrisDLC5Staging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-11-12T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": "759b6298432b428eb47bf08636f6c4f7",
+  "title": "TautogDevAudience",
+  "description": "TautogDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "cf87285950ba492bbdc370b9d265ea36",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-24T17:49:46.796Z",
+  "lastModifiedDate": "2020-01-29T00:04:12.703Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "759b6298432b428eb47bf08636f6c4f7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

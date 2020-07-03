@@ -1,0 +1,23 @@
+{
+  "id": "38dae82d13c54f73bd8f30285a4a8e26",
+  "title": "Influencer Banner - Alexclick",
+  "description": "Influencer Banner - Alexclick",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-07-14T15:42:49.714Z",
+  "lastModifiedDate": "2017-07-14T15:51:16.918Z",
+  "entitlementName": "INFLUENCERBANNER_Alexclick",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,99 @@
+{
+  "id": "0d31b75218004754a9568414213b4735",
+  "title": "Beyond Two Souls (Japanese)",
+  "description": "Beyond Two Souls (Japanese)",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lavender/item/Beyond_GameIcon-400x400-362c6839bb4a4c9c28afb2ea260f78cb.png",
+      "md5": "362c6839bb4a4c9c28afb2ea260f78cb",
+      "width": 400,
+      "height": 400,
+      "size": 273087,
+      "uploadedDate": "2019-04-24T17:48:28.927Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/lavender/item/B2S_Lavender_thumb-2560x1440-a69d17f57f977966d3cb57d2f7db939f.png",
+      "md5": "a69d17f57f977966d3cb57d2f7db939f",
+      "width": 2560,
+      "height": 1440,
+      "size": 934482,
+      "uploadedDate": "2019-06-21T19:09:21.705Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "lavender",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-29T21:18:04.532Z",
+  "lastModifiedDate": "2020-06-24T19:56:17.794Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "lavender"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Quantic Dream/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Beyond Two Souls Demo/,Beyond Two Souls Demo JP/"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LavenderJA"
+    }
+  },
+  "entitlementName": "0d31b75218004754a9568414213b4735",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6518220fdd29423fa78138b43c17a9ce",
+      "appId": "LavenderJA",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-29T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

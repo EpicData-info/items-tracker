@@ -1,0 +1,27 @@
+{
+  "id": "5468cb57e6f24e38b3588644c19ff120",
+  "title": "200 V-Bucks (Comp)",
+  "description": "200 V-Bucks (Comp)",
+  "longDescription": "Spend V-bucks in the loot store for heroes, schematics, upgrades and more!",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "points"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-09-18T18:20:35.241Z",
+  "lastModifiedDate": "2018-09-18T18:41:29.382Z",
+  "entitlementName": "FN_200_POINTS_COMP",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2018-09-18T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

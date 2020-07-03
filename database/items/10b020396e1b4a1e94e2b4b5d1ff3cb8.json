@@ -1,0 +1,33 @@
+{
+  "id": "10b020396e1b4a1e94e2b4b5d1ff3cb8",
+  "title": "Kakopo Sea Audience",
+  "description": "Kakopo Sea Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-16T18:55:38.971Z",
+  "lastModifiedDate": "2020-04-09T14:22:00.647Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "10b020396e1b4a1e94e2b4b5d1ff3cb8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Square Enix",
+  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

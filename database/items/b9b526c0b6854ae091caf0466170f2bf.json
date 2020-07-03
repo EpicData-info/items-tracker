@@ -1,0 +1,25 @@
+{
+  "id": "b9b526c0b6854ae091caf0466170f2bf",
+  "title": "Test Item1",
+  "description": "creating an item by making an api call",
+  "longDescription": "Calling AdminItemResource of Catalog Service and making a POST to create an item",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "projects"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-01T20:59:16.471Z",
+  "lastModifiedDate": "2019-12-11T07:20:16.116Z",
+  "entitlementName": "checkingTheEntitlement",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "CONSUMABLE",
+  "developer": "allantest1",
+  "developerId": "o-cpa2a6m9f2zgmksvkxlvcru9udy9w8",
+  "useCount": 10,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

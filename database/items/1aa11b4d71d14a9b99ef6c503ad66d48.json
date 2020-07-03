@@ -1,0 +1,70 @@
+{
+  "id": "1aa11b4d71d14a9b99ef6c503ad66d48",
+  "title": "Eternal Cylinder Partner",
+  "description": "Eternal Cylinder Partner",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/fa0c74ef7780498fb222dcd099bf82a2/item/EGS_ACE TEAM_THE ETERNAL CYLINDER_IC1_Game Logo Color-200x200-3908ba8c5f699d68a3cc39b6efa0e0fc.png",
+      "md5": "3908ba8c5f699d68a3cc39b6efa0e0fc",
+      "width": 200,
+      "height": 200,
+      "size": 119914,
+      "uploadedDate": "2019-08-29T01:35:44.028Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fa0c74ef7780498fb222dcd099bf82a2/item/EGS_ACE TEAM_THE ETERNAL CYLINDER_G1_Product Display Page Promo-1920x1080-3009c54e34003caeba8d1139d3f5ca5c.jpg",
+      "md5": "3009c54e34003caeba8d1139d3f5ca5c",
+      "width": 1920,
+      "height": 1080,
+      "size": 2168676,
+      "uploadedDate": "2019-08-29T01:36:05.125Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fa0c74ef7780498fb222dcd099bf82a2",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-04T18:31:20.207Z",
+  "lastModifiedDate": "2019-10-04T18:34:49.210Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EternalCylinderPartner"
+    }
+  },
+  "entitlementName": "1aa11b4d71d14a9b99ef6c503ad66d48",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9b3d23126b0d49aaa3d510368e501995",
+      "appId": "OriolePartnerStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "Good Shepherd Entertainment",
+  "developerId": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

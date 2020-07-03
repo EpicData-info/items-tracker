@@ -1,0 +1,30 @@
+{
+  "id": "5da97d9d6bed46a8be8797f818aefea9",
+  "title": "HawkSeasonPass_Marker",
+  "description": "HawkSeasonPass_Marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "0a84818055e740a7be21a2e5b6162703",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-05T21:01:07.890Z",
+  "lastModifiedDate": "2019-06-14T21:04:35.526Z",
+  "entitlementName": "5da97d9d6bed46a8be8797f818aefea9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

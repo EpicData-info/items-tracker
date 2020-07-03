@@ -1,0 +1,33 @@
+{
+  "id": "fa47d5f474dc42df9e59ec179b9d831f",
+  "title": "SiameseGeneralAudience",
+  "description": "SiameseGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T17:14:52.670Z",
+  "lastModifiedDate": "2020-05-08T18:39:32.077Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "fa47d5f474dc42df9e59ec179b9d831f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Kalypso Media",
+  "developerId": "o-ntj9m7f2v76uksvjujurjfxtjkfawq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

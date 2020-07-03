@@ -1,0 +1,33 @@
+{
+  "id": "6ca2cb3081184f2280f5cca50da910bb",
+  "title": "EiderDevAudience",
+  "description": "EiderDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-10T19:03:58.907Z",
+  "lastModifiedDate": "2020-02-05T17:58:05.368Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6ca2cb3081184f2280f5cca50da910bb",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

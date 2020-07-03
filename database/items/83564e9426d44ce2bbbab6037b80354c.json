@@ -1,0 +1,25 @@
+{
+  "id": "83564e9426d44ce2bbbab6037b80354c",
+  "title": "Dummy Item",
+  "description": "Dummy Item",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "namespace": "epic",
+  "status": "ACTIVE",
+  "creationDate": "2018-11-18T19:02:32.968Z",
+  "lastModifiedDate": "2020-04-28T15:58:34.189Z",
+  "entitlementName": "83564e9426d44ce2bbbab6037b80354c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

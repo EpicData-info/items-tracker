@@ -1,0 +1,25 @@
+{
+  "id": "10901639dd384d0e802f2a4e50292045",
+  "title": "7,500 V-Bucks (Comp)",
+  "description": "7,500 V-Bucks (Comp)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "points"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-08-23T17:44:46.124Z",
+  "lastModifiedDate": "2018-08-23T18:21:31.255Z",
+  "entitlementName": "FN_7500_POINTS_COMP",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

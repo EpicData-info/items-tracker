@@ -1,0 +1,22 @@
+{
+  "id": "0418359c3cbc4daebbc3a6eaf060c71a",
+  "title": "TestSeaQA-1",
+  "description": "Entitlement Start Date test",
+  "longDescription": "Entitlement type is executable, item type is Subscription, entitlement start date is today",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-27T18:08:47.118Z",
+  "lastModifiedDate": "2014-10-27T18:08:47.118Z",
+  "entitlementName": "EntitlmentType-1",
+  "entitlementType": "EXECUTABLE",
+  "entitlementEndDate": "2014-10-28T00:00:00.000Z",
+  "itemType": "SUBSCRIPTION",
+  "endOfSupport": false,
+  "unsearchable": false
+}

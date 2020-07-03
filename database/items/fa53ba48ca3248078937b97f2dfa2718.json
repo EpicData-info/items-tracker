@@ -1,0 +1,109 @@
+{
+  "id": "fa53ba48ca3248078937b97f2dfa2718",
+  "title": "TWD The Telltale Definitive Series",
+  "description": "TWD The Telltale Definitive Series",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/item/TTTWD-DS_Epic_About_1920x1080-1920x1080-0a8979b4ab012733a342540562b21e2d.jpg",
+      "md5": "0a8979b4ab012733a342540562b21e2d",
+      "width": 1920,
+      "height": 1080,
+      "size": 211453,
+      "uploadedDate": "2019-08-05T18:27:44.170Z"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/item/esrb_walking_dead_def-842x404-92b3c16338490a0f7e78d988976e2378.jpg",
+      "md5": "92b3c16338490a0f7e78d988976e2378",
+      "width": 842,
+      "height": 404,
+      "size": 132018,
+      "uploadedDate": "2019-08-06T14:19:48.144Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/item/TTTWD-DS-LOGO-WHITE-360x237-c64d8e270dce97925a9e808ead4298cb.png",
+      "md5": "c64d8e270dce97925a9e808ead4298cb",
+      "width": 360,
+      "height": 237,
+      "size": 13935,
+      "uploadedDate": "2019-09-09T21:19:23.045Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/item/cuckoo_home-1280x1440-5587580e0632a53f9e9b8b88cdf78d23.jpg",
+      "md5": "5587580e0632a53f9e9b8b88cdf78d23",
+      "width": 1280,
+      "height": 1440,
+      "size": 212695,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b534830f4c524447bfd2266ce70cf8ab",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-31T20:27:32.297Z",
+  "lastModifiedDate": "2019-11-19T17:04:03.829Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "b534830f4c524447bfd2266ce70cf8ab"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TWDTTDS"
+    }
+  },
+  "entitlementName": "fa53ba48ca3248078937b97f2dfa2718",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5f1af8b49aa74180a29448e67ab2e7b7",
+      "appId": "Cuckoo",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-07-31T00:00:00.000Z"
+    }
+  ],
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

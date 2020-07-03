@@ -1,0 +1,36 @@
+{
+  "id": "1fe05fce665e498c86afa0d6ee4d43f4",
+  "title": "DLC94 Audience",
+  "description": "DLC94 (Horzine Supply Emote Crate | Series #3 Silver Bundle Pack)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-12T21:50:27.471Z",
+  "lastModifiedDate": "2020-07-02T01:09:15.291Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1fe05fce665e498c86afa0d6ee4d43f4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cd90f6dd7c6b4edcb4247d9129fb7e76",
+  "title": "PAX 2018",
+  "description": "PAX 2018 Gift",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-08-03T20:00:57.227Z",
+  "lastModifiedDate": "2018-08-09T19:13:40.560Z",
+  "entitlementName": "Llamacon18_Spray",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2018-08-20T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

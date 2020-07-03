@@ -1,0 +1,50 @@
+{
+  "id": "906cf4d598744d9b9c46451b8cbc058d",
+  "title": "Carp-ProdCanary",
+  "description": "Carp-ProdCanary",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-01T00:44:37.750Z",
+  "lastModifiedDate": "2020-06-11T20:49:32.466Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CarpQAStaging"
+    }
+  },
+  "entitlementName": "906cf4d598744d9b9c46451b8cbc058d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4bbedd73c6b04dc9bafc71f5a9433732",
+      "appId": "CarpQAStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Gearbox Publishing",
+  "developerId": "o-dcmk65hvycy3kndmqvfg3yn3up87jn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

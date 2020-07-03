@@ -1,0 +1,29 @@
+{
+  "id": "90bf1badedf7471da5da3c146f10ab62",
+  "title": "CajunDevAudience",
+  "description": "CajunDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "72dda1cee6e040c1bbce452bd501e0a7",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-08T17:16:34.826Z",
+  "lastModifiedDate": "2019-05-10T15:29:18.268Z",
+  "entitlementName": "90bf1badedf7471da5da3c146f10ab62",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Code Horizon",
+  "developerId": "o-gvzm3vdwtv2avjdlnlv8rb5s94btuj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

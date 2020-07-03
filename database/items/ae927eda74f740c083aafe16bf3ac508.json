@@ -1,0 +1,78 @@
+{
+  "id": "ae927eda74f740c083aafe16bf3ac508",
+  "title": "Dauntless Playtest",
+  "description": "Dauntless Playtest",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/jackal/item/Dauntless-Primary-Promo-2580x1450-a67479a0645374ea477db9763434e206.jpg",
+      "md5": "a67479a0645374ea477db9763434e206",
+      "width": 2580,
+      "height": 1450,
+      "size": 275649,
+      "uploadedDate": "2019-01-28T20:40:31.524Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/jackal/item/EGS_Phoenix Labs_dauntless-logo-white-1920x694-c6bbd7ce30615dfa24d34cfef5a27ba9.png",
+      "md5": "c6bbd7ce30615dfa24d34cfef5a27ba9",
+      "width": 1920,
+      "height": 694,
+      "size": 35895,
+      "uploadedDate": "2019-03-18T20:06:32.249Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "jackal",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-03T17:13:40.102Z",
+  "lastModifiedDate": "2020-06-11T16:55:13.098Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "jackal"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DauntlessPlaytest"
+    }
+  },
+  "entitlementName": "ae927eda74f740c083aafe16bf3ac508",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4ecfc9214c894514a3b587bf24afd3ad",
+      "appId": "JackalPlaytest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-06T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

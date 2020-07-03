@@ -1,0 +1,26 @@
+{
+  "id": "42bdefea7cd84b98a8c0c73804527ad6",
+  "title": "FortnitePublicTest - Creative Test - Week of 1/27",
+  "description": "FortnitePublicTest - Creative Test - Week of 1/27",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "SUNSET",
+  "creationDate": "2020-01-28T21:21:10.938Z",
+  "lastModifiedDate": "2020-02-05T22:13:44.064Z",
+  "entitlementName": "42bdefea7cd84b98a8c0c73804527ad6",
+  "entitlementType": "AUDIENCE",
+  "entitlementEndDate": "2020-02-06T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

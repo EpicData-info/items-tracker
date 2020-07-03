@@ -1,0 +1,25 @@
+{
+  "id": "fa4cd4533c5e474482d39206c1f828e0",
+  "title": "Marvel Outfit E#1",
+  "description": "Marvel Outfit E#1",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-25T15:14:32.709Z",
+  "lastModifiedDate": "2019-04-25T15:14:32.709Z",
+  "entitlementName": "AthenaDance:eid_ashtonsaltlake",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

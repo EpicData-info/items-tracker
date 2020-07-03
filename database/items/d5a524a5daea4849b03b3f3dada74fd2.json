@@ -1,0 +1,35 @@
+{
+  "id": "d5a524a5daea4849b03b3f3dada74fd2",
+  "title": "Call_To_Action_03",
+  "description": "Join the community",
+  "technicalDetails": "https://steamcommunity.com/app/665920",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/showmaker/item/3_960x497-960x497-ff1a936717e4c88618706fe62e7bff5b.png",
+      "md5": "ff1a936717e4c88618706fe62e7bff5b",
+      "width": 960,
+      "height": 497,
+      "size": 633824,
+      "uploadedDate": "2018-08-27T19:33:08.375Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "showmaker",
+  "status": "ACTIVE",
+  "creationDate": "2018-08-27T14:00:59.918Z",
+  "lastModifiedDate": "2018-09-04T16:55:06.504Z",
+  "entitlementName": "d5a524a5daea4849b03b3f3dada74fd2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

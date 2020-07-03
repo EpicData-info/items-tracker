@@ -1,0 +1,59 @@
+{
+  "id": "1c8a832ba5964b668a757ad7ea752314",
+  "title": "OpalStaging",
+  "description": "OpalStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5645a537b6a44f6f82d122729f3253ed",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-27T23:30:59.514Z",
+  "lastModifiedDate": "2020-03-12T14:28:22.974Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.gutefabrik.mutazionemacos/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Die Gute Fabrik/Mutazione/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OpalStaging"
+    }
+  },
+  "entitlementName": "1c8a832ba5964b668a757ad7ea752314",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6c0a860993334033a36050396eff4df8",
+      "appId": "0afa920711f74ff9a695e40a38d6cd34",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-03-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Akupara Games",
+  "developerId": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

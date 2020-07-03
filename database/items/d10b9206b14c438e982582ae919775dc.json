@@ -1,0 +1,109 @@
+{
+  "id": "d10b9206b14c438e982582ae919775dc",
+  "title": "Ghostbusters The Video Game Remastered",
+  "description": "Ghostbusters The Video Game Remastered",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/d0545b136bb042fb9014e72b6af748f6/item/GhostbustersRemastered_PrimaryPromo-2580x1456-aad1aae4cd333521188e30a9fe1c64fe.jpg",
+      "md5": "aad1aae4cd333521188e30a9fe1c64fe",
+      "width": 2580,
+      "height": 1456,
+      "size": 356282,
+      "uploadedDate": "2019-05-30T12:01:10.071Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d0545b136bb042fb9014e72b6af748f6/item/GhostbustersRemastered_GameIcon-400x400-9a750bb7b54f3be78ea16ce36c2426c4.png",
+      "md5": "9a750bb7b54f3be78ea16ce36c2426c4",
+      "width": 400,
+      "height": 400,
+      "size": 35965,
+      "uploadedDate": "2019-05-30T12:02:30.308Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/d0545b136bb042fb9014e72b6af748f6/item/EGS_Saber_GhostbustersRemastered_IC1-1850x782-1ad7ba4f068ae191ee923147b38f9e69.png",
+      "md5": "1ad7ba4f068ae191ee923147b38f9e69",
+      "width": 1850,
+      "height": 782,
+      "size": 183683,
+      "uploadedDate": "2019-10-07T21:57:21.995Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/d0545b136bb042fb9014e72b6af748f6/item/GhostbustersRemastered_PortraitPromo-1288x1450-aa3c6e69b8d6500702edc6d1bb07fa00.jpg",
+      "md5": "aa3c6e69b8d6500702edc6d1bb07fa00",
+      "width": 1288,
+      "height": 1450,
+      "size": 172990,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d0545b136bb042fb9014e72b6af748f6",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-17T17:49:05.661Z",
+  "lastModifiedDate": "2019-11-19T17:02:46.895Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "d0545b136bb042fb9014e72b6af748f6"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GhostbustersRemastered"
+    }
+  },
+  "entitlementName": "d10b9206b14c438e982582ae919775dc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c3997c60e4474ffa8caa88318456c1e5",
+      "appId": "Mint",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-17T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

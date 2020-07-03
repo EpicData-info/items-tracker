@@ -1,0 +1,120 @@
+{
+  "id": "40f78806d35b40baaaa93b83f13daca9",
+  "title": "Assassin's Creed Odyssey",
+  "description": "Assassin's Creed Odyssey",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/clary/item/Store_Primary_Promo_2580x1450-2000x1124-584f0f3586d46ee98a195bb59a59030d.jpg",
+      "md5": "584f0f3586d46ee98a195bb59a59030d",
+      "width": 2000,
+      "height": 1124,
+      "size": 356429,
+      "uploadedDate": "2019-08-17T01:00:54.175Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/clary/item/ACOdyssey_logo_color-1000x375-dc1d4e2ce4a26f4064a2fb5ef6fb3dd3.png",
+      "md5": "dc1d4e2ce4a26f4064a2fb5ef6fb3dd3",
+      "width": 1000,
+      "height": 375,
+      "size": 65587,
+      "uploadedDate": "2019-08-17T01:03:32.312Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/clary/item/ACOD_Portrait-552x576-64d0966bcf63c374163a5b920f68b253.jpg",
+      "md5": "64d0966bcf63c374163a5b920f68b253",
+      "width": 552,
+      "height": 576,
+      "size": 125783,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "clary",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-08T20:37:47.765Z",
+  "lastModifiedDate": "2019-11-19T17:02:17.473Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "clary"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "50db96ebcaea4fbbac705da4f6d8e8dd"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AssassinsCreedOdyssey"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "40f78806d35b40baaaa93b83f13daca9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "46767c35f96c45bb842f380b1518d6c7",
+      "appId": "Clary",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-08T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

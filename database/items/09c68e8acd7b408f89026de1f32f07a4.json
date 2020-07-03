@@ -1,0 +1,45 @@
+{
+  "id": "09c68e8acd7b408f89026de1f32f07a4",
+  "title": "Platinum Expansion DLC Audience",
+  "description": "Platinum Expansion DLC Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/item/ESRB_NoDescriptors_UsersInteract-842x485-c55c3b08996eb8487d4a6956c84d6d66.jpg",
+      "md5": "c55c3b08996eb8487d4a6956c84d6d66",
+      "width": 842,
+      "height": 485,
+      "size": 86271,
+      "uploadedDate": "2020-01-23T14:32:29.676Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "493e9ad801e8487497fe7840cb8404bb",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-09T19:00:59.422Z",
+  "lastModifiedDate": "2020-03-10T15:15:39.980Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "09c68e8acd7b408f89026de1f32f07a4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE",
+  "unsearchable": false
+}

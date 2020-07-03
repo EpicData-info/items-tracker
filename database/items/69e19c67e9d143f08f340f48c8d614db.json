@@ -1,0 +1,35 @@
+{
+  "id": "69e19c67e9d143f08f340f48c8d614db",
+  "title": "Outward Soundtrack Audience",
+  "description": "Outward Soundtrack Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "viola",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-13T18:58:32.461Z",
+  "lastModifiedDate": "2020-02-20T15:08:06.955Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "69e19c67e9d143f08f340f48c8d614db",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

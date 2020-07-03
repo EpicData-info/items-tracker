@@ -1,0 +1,46 @@
+{
+  "id": "bcfa14ebd44e4767893afaae0e7e6a5c",
+  "title": "WigeonPre-PurchaseAudience",
+  "description": "WigeonPre-PurchaseAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/item/Ratings_RP_FOR_E-388x190-2b6aa92035599db2ca1517a036cb974a.png",
+      "md5": "2b6aa92035599db2ca1517a036cb974a",
+      "width": 388,
+      "height": 190,
+      "size": 4433,
+      "uploadedDate": "2019-11-07T14:46:17.247Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "6cec00f8934146508b884b0f139d55d0",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-06T22:42:52.276Z",
+  "lastModifiedDate": "2019-11-12T14:57:07.212Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "bcfa14ebd44e4767893afaae0e7e6a5c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Pillow Castle",
+  "developerId": "o-jvpl9untxcrsellbhbwjb2ralrg9z9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "RATING_PENDING",
+  "selfRefundable": true,
+  "unsearchable": false
+}

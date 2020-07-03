@@ -1,0 +1,94 @@
+{
+  "id": "5c65b37ce4104bc1af79408386f98833",
+  "title": "Airborne Kingdom Pre-Purchase",
+  "description": "Airborne Kingdom Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_AirborneKingdom_TheWanderingBan_S4-510x680--510x680-0c7e1ea031ccfca05216f1ec6f3a2988.jpg",
+      "md5": "0c7e1ea031ccfca05216f1ec6f3a2988",
+      "width": 510,
+      "height": 680,
+      "size": 42723,
+      "uploadedDate": "2020-06-13T18:55:22.873Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_AirborneKingdom_TheWanderingBan_S3-1360x766-1360x766-66c3e3bfc42f10d6f68ab49c9c19bf6a.jpg",
+      "md5": "66c3e3bfc42f10d6f68ab49c9c19bf6a",
+      "width": 1360,
+      "height": 766,
+      "size": 147216,
+      "uploadedDate": "2020-06-13T18:55:35.813Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e1809e1742cb498080d8849b11a99c5a",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-13T18:36:11.284Z",
+  "lastModifiedDate": "2020-06-13T18:55:39.416Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "e1809e1742cb498080d8849b11a99c5a"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1609426800"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "5c65b37ce4104bc1af79408386f98833",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "207062a8e24245199c0695a534f64800",
+      "appId": "MacawDummy",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-07-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "The Wandering Band LLC",
+  "developerId": "o-64h79p2hud28hmlx8emazj2ccfe6ml",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

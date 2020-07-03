@@ -1,0 +1,39 @@
+{
+  "id": "6bc0a2dce7a744aea0c97cc7cf3a6ad3",
+  "title": "Live stream",
+  "description": "Live stream",
+  "technicalDetails": "http://epic.gm/launchertwitch",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/UTLivestream01-1200x400-9a34bb3e2a291f24b315357e8046610c.png",
+      "md5": "9a34bb3e2a291f24b315357e8046610c",
+      "width": 1200,
+      "height": 400,
+      "size": 583475,
+      "uploadedDate": "2014-11-13T21:40:35.121Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2014-11-07T19:31:47.159Z",
+  "lastModifiedDate": "2015-08-11T19:31:20.231Z",
+  "entitlementName": "UnrealTournament",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "unsearchable": false
+}

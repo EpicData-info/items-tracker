@@ -1,0 +1,24 @@
+{
+  "id": "bdecf5663a6843dd8d6c7c3710ec6c7c",
+  "title": "LemurDevAudience",
+  "description": "LemurDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "lemur",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-12T16:29:24.332Z",
+  "lastModifiedDate": "2019-05-28T17:01:45.972Z",
+  "entitlementName": "bdecf5663a6843dd8d6c7c3710ec6c7c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

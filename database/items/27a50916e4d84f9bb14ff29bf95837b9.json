@@ -1,0 +1,35 @@
+{
+  "id": "27a50916e4d84f9bb14ff29bf95837b9",
+  "title": "OrchidDevAudience",
+  "description": "OrchidDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "orchid",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-16T13:47:44.689Z",
+  "lastModifiedDate": "2019-05-13T14:41:34.181Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "27a50916e4d84f9bb14ff29bf95837b9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

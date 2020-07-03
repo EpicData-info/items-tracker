@@ -1,0 +1,29 @@
+{
+  "id": "38a2ef07baee44adba59dc9d72fed27b",
+  "title": "ANNO1800BetaAudience",
+  "description": "ANNO1800BetaAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "oregano",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-29T19:52:21.630Z",
+  "lastModifiedDate": "2019-12-10T16:48:35.367Z",
+  "entitlementName": "38a2ef07baee44adba59dc9d72fed27b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

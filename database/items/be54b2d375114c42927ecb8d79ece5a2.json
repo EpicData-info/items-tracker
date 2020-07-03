@@ -1,0 +1,24 @@
+{
+  "id": "be54b2d375114c42927ecb8d79ece5a2",
+  "title": "MorphoDevAudience",
+  "description": "MorphoDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "morpho",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-12T16:19:12.415Z",
+  "lastModifiedDate": "2019-05-13T14:39:19.433Z",
+  "entitlementName": "be54b2d375114c42927ecb8d79ece5a2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

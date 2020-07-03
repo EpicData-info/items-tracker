@@ -1,0 +1,41 @@
+{
+  "id": "1f3273a8902542a699288308fed2e1a2",
+  "title": "THO_DLC_Audience_Marker",
+  "description": "THO_DLC_Audience_Marker",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/camellia/item/ACORating-842x404-3192940fd03ce42a91bec04ef222e1ec.png",
+      "md5": "3192940fd03ce42a91bec04ef222e1ec",
+      "width": 842,
+      "height": 404,
+      "size": 76578,
+      "uploadedDate": "2019-04-23T21:04:14.710Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "camellia",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-28T15:13:56.489Z",
+  "lastModifiedDate": "2019-11-27T15:28:33.806Z",
+  "customAttributes": {},
+  "entitlementName": "1f3273a8902542a699288308fed2e1a2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "f847a4e677c3417aaa59760c0eeebfa9",
+  "title": "Test offer for Junit Smoke Test(Don't delete)",
+  "description": "Test offer for Junit Smoke Test(Don't delete)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2016-08-16T07:52:48.800Z",
+  "lastModifiedDate": "2016-08-16T07:52:48.800Z",
+  "entitlementName": "f847a4e677c3417aaa59760c0eeebfa9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "harinirao testtttttt",
+  "developerId": "o-48fdeb720e4875863337a6f5bb8c48",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

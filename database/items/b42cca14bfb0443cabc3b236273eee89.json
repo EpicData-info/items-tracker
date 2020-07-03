@@ -1,0 +1,56 @@
+{
+  "id": "b42cca14bfb0443cabc3b236273eee89",
+  "title": "Saturnalia Demo",
+  "description": "Saturnalia Demo",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c749cd78da34408d8434a46271f4bb79",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-11T14:18:28.035Z",
+  "lastModifiedDate": "2020-05-11T14:27:52.865Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SaturnaliaDemo"
+    }
+  },
+  "entitlementName": "b42cca14bfb0443cabc3b236273eee89",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ec476dda572b49d98b5724f93ae5af91",
+      "appId": "c928e41e9cea40f2b945081bde64f261",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Santa Ragione",
+  "developerId": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

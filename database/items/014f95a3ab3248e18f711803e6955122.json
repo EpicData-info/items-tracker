@@ -1,0 +1,46 @@
+{
+  "id": "014f95a3ab3248e18f711803e6955122",
+  "title": "BloodrootDevAudience",
+  "description": "BloodrootDevAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/bloodroot/item/Diesel_product_bloodroot_ESRB_TheWalkingDeadSeason1_M-842x404-2f5352d1c2333ad458282e2c4edd2a63e1d90750-842x404-f7f5be821ae60dab68ad09767320570c.png",
+      "md5": "f7f5be821ae60dab68ad09767320570c",
+      "width": 842,
+      "height": 404,
+      "size": 66906,
+      "uploadedDate": "2019-04-23T20:14:35.592Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "bloodroot",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-08T22:28:58.647Z",
+  "lastModifiedDate": "2019-05-13T14:05:12.169Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "014f95a3ab3248e18f711803e6955122",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

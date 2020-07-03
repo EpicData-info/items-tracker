@@ -1,0 +1,41 @@
+{
+  "id": "840b9dea6d804d388992ff7d260dacb9",
+  "title": "NewtPreAlphaAudience",
+  "description": "NewtPreAlphaAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-04-23T19:38:45.177Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-01T20:27:04.773Z",
+  "lastModifiedDate": "2019-05-13T14:35:29.773Z",
+  "entitlementName": "840b9dea6d804d388992ff7d260dacb9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "RATING_PENDING",
+  "selfRefundable": false,
+  "unsearchable": false
+}

@@ -1,0 +1,71 @@
+{
+  "id": "12c56039ad65435f83b381a5374f0007",
+  "title": "Siberian",
+  "description": "Siberian",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T16:35:14.221Z",
+  "lastModifiedDate": "2020-05-08T16:57:13.474Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "e1055bf1e5654b93a27e19e6bb86cb2a"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Siberian"
+    }
+  },
+  "entitlementName": "12c56039ad65435f83b381a5374f0007",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ab54659f44c745748e5e531a270374fc",
+      "appId": "6f76563847a04e61be4f084717d456e0",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-08T16:42:38.801Z"
+    }
+  ],
+  "developer": "Kalypso Media",
+  "developerId": "o-ntj9m7f2v76uksvjujurjfxtjkfawq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

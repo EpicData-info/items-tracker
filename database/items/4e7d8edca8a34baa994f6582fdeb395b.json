@@ -1,0 +1,35 @@
+{
+  "id": "4e7d8edca8a34baa994f6582fdeb395b",
+  "title": "KingdomUltimatePack_Redeemable",
+  "description": "KingdomUltimatePack_Redeemable",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "400347196e674de89c23cc2a7f2121db",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-29T22:06:55.775Z",
+  "lastModifiedDate": "2020-04-30T15:01:42.184Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4e7d8edca8a34baa994f6582fdeb395b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

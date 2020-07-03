@@ -1,0 +1,51 @@
+{
+  "id": "84642e89fdf84130afcc5a84e37147c4",
+  "title": "AngeloniaStaging",
+  "description": "AngeloniaStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "angelonia",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-10T17:00:35.509Z",
+  "lastModifiedDate": "2020-01-28T15:56:14.912Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AngeloniaStaging"
+    }
+  },
+  "entitlementName": "84642e89fdf84130afcc5a84e37147c4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "74eecbea27234f77877fe77152b7bc4c",
+      "appId": "AngeloniaStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-10T16:59:34.698Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": "809e477e64c2400b8aa5a6acf19c9c6a",
+  "title": "DLC118 Audience",
+  "description": "DLC118 {Future Neon Gear Cosmetic Bundle)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-16T22:01:40.228Z",
+  "lastModifiedDate": "2020-06-18T01:07:27.711Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "809e477e64c2400b8aa5a6acf19c9c6a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

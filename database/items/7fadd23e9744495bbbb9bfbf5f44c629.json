@@ -1,0 +1,29 @@
+{
+  "id": "7fadd23e9744495bbbb9bfbf5f44c629",
+  "title": "item title",
+  "description": "description",
+  "longDescription": "long description",
+  "technicalDetails": "technical information",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-20T07:48:24.954Z",
+  "lastModifiedDate": "2020-04-20T07:48:24.954Z",
+  "entitlementName": "7fadd23e9744495bbbb9bfbf5f44c629",
+  "entitlementType": "EXECUTABLE",
+  "entitlementEndDate": "2023-10-05T00:00:00.000Z",
+  "entitlementStartDate": "2014-10-23T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "useCount": 3,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

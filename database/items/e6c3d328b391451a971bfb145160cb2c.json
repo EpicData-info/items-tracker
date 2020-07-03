@@ -1,0 +1,35 @@
+{
+  "id": "e6c3d328b391451a971bfb145160cb2c",
+  "title": "Darksiders DLC1",
+  "description": "Darksiders DLC1",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/springbok/item/Darksiders3-842x404-ae7a2909804d96414b049264244c56c6.png",
+      "md5": "ae7a2909804d96414b049264244c56c6",
+      "width": 842,
+      "height": 404,
+      "size": 58959,
+      "uploadedDate": "2019-04-23T20:30:46.733Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "springbok",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-14T17:59:28.441Z",
+  "lastModifiedDate": "2019-07-16T16:56:55.846Z",
+  "entitlementName": "e6c3d328b391451a971bfb145160cb2c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

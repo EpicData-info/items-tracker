@@ -1,0 +1,98 @@
+{
+  "id": "26734c6c01984fd882d72a18e81df681",
+  "title": "Human Resource Machine",
+  "description": "Human Resource Machine",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/basil/item/Basil_HRM_Logo-1191x870-59b90f2d7ff71b1c283dbca4bb931f52.png",
+      "md5": "59b90f2d7ff71b1c283dbca4bb931f52",
+      "width": 1191,
+      "height": 870,
+      "size": 46389,
+      "uploadedDate": "2019-04-25T21:23:19.164Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/basil/item/Basil_HRM_PrimaryPromo-2580x1450-6397adc15b04f44458140bd2ad71a7d7.jpg",
+      "md5": "6397adc15b04f44458140bd2ad71a7d7",
+      "width": 2580,
+      "height": 1450,
+      "size": 307566,
+      "uploadedDate": "2019-04-25T21:23:04.132Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/basil/item/Human-Resource-Machine-Portrait-Promo-1280x1420-0110d1430288b552736a3914c882cafa.jpg",
+      "md5": "0110d1430288b552736a3914c882cafa",
+      "width": 1280,
+      "height": 1420,
+      "size": 165784,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "basil",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-15T17:34:31.041Z",
+  "lastModifiedDate": "2019-11-19T17:02:56.111Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "basil"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HumanResourceMachine"
+    }
+  },
+  "entitlementName": "26734c6c01984fd882d72a18e81df681",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "358400b8e72e4232b9fd81413cb0eb0e",
+      "appId": "Basil",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-02-15T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Tomorrow Corporation",
+  "developerId": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

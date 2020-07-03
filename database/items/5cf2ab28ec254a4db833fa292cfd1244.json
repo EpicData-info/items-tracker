@@ -1,0 +1,70 @@
+{
+  "id": "5cf2ab28ec254a4db833fa292cfd1244",
+  "title": "PepperStaging",
+  "description": "PepperStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/item/SIII_Store_Primary_Promo-2580x1450-013a64fa8981e712fab77bd6ebb7c17a.jpg",
+      "md5": "013a64fa8981e712fab77bd6ebb7c17a",
+      "width": 2580,
+      "height": 1450,
+      "size": 518985,
+      "uploadedDate": "2019-06-03T21:16:53.870Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/item/Game-Logo_ShenmueIII-3168x692-ebf5c465607e0836a16f99c8f0c3fc8d.png",
+      "md5": "ebf5c465607e0836a16f99c8f0c3fc8d",
+      "width": 3168,
+      "height": 692,
+      "size": 356115,
+      "uploadedDate": "2019-06-03T21:17:04.480Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-19T17:50:52.763Z",
+  "lastModifiedDate": "2019-11-19T12:56:23.766Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PepperStaging"
+    }
+  },
+  "entitlementName": "5cf2ab28ec254a4db833fa292cfd1244",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0f6b118be3d94e80a24e0be3749d2137",
+      "appId": "PepperStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-19T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

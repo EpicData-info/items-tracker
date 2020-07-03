@@ -1,0 +1,23 @@
+{
+  "id": "0fbd2eb793f249ab930d3cf493bb0219",
+  "title": "Trade Route",
+  "description": "500 Gems PLUS 25 Gems every day for 30 days",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "recurring"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2017-07-25T18:40:32.421Z",
+  "lastModifiedDate": "2017-07-25T19:22:49.597Z",
+  "entitlementName": "0fbd2eb793f249ab930d3cf493bb0219",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

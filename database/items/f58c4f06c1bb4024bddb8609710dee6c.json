@@ -1,0 +1,61 @@
+{
+  "id": "f58c4f06c1bb4024bddb8609710dee6c",
+  "title": "CloverStaging",
+  "description": "CloverStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "clover",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-14T21:39:40.056Z",
+  "lastModifiedDate": "2019-08-30T20:24:41.031Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Little Inferno/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../roaming/Little Inferno/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CloverStaging"
+    }
+  },
+  "entitlementName": "f58c4f06c1bb4024bddb8609710dee6c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7a158bdab5b846838c1f289d5dfdf83f",
+      "appId": "CloverStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-02-14T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Tomorrow Corporation",
+  "developerId": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,90 @@
+{
+  "id": "0cae1a97d47f4ee2ba4e112b9601637f",
+  "title": "UT Editor",
+  "description": "Flavored Editor for Unreal Tournament Development",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/ut/item/unrealTournament_logo-310x93-15f8643a30de94e235c6b9873d0cd536-310x93-15f8643a30de94e235c6b9873d0cd536.png",
+      "md5": "15f8643a30de94e235c6b9873d0cd536",
+      "width": 310,
+      "height": 93,
+      "size": 16659,
+      "uploadedDate": "2018-11-28T23:28:22.790Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ut/item/uteditor-1920x1080-fb4df1f59008e495277a71c3f4a71d9d.png",
+      "md5": "fb4df1f59008e495277a71c3f4a71d9d",
+      "width": 1920,
+      "height": 1080,
+      "size": 925676,
+      "uploadedDate": "2018-11-28T23:52:59.898Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ut/item/uteditor-1920x1080-fb4df1f59008e495277a71c3f4a71d9d-1920x1080-fb4df1f59008e495277a71c3f4a71d9d.png",
+      "md5": "fb4df1f59008e495277a71c3f4a71d9d",
+      "width": 1920,
+      "height": 1080,
+      "size": 925676,
+      "uploadedDate": "2019-11-20T21:13:35.726Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "engines"
+    },
+    {
+      "path": "engines/ue4"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-01-22T16:22:53.625Z",
+  "lastModifiedDate": "2020-01-07T15:12:58.920Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "UnrealTournamentEditor"
+    },
+    "com.epicgames.app.productSlug": {
+      "type": "STRING",
+      "value": "modkit"
+    }
+  },
+  "entitlementName": "UnrealTournamentEditor",
+  "entitlementType": "EXECUTABLE",
+  "entitlementStartDate": "2015-01-01T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "408661e363ba4edeb7abb8215b2fab26",
+      "appId": "UnrealTournamentEditor",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2015-01-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "(ut && ue_games)"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

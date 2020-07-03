@@ -1,0 +1,51 @@
+{
+  "id": "ac1c75ec95324aef8098154d627884b3",
+  "title": "KakopoDanger",
+  "description": "KakopoDanger",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-12T15:12:14.801Z",
+  "lastModifiedDate": "2020-04-09T14:22:00.648Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KakopoDanger"
+    }
+  },
+  "entitlementName": "ac1c75ec95324aef8098154d627884b3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f8f75b1b01da4d08a8f9b7029cf5a7cb",
+      "appId": "KakopoDanger",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix",
+  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

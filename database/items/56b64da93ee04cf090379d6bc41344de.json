@@ -1,0 +1,36 @@
+{
+  "id": "56b64da93ee04cf090379d6bc41344de",
+  "title": "NightjarPrePurchaseAudience",
+  "description": "NightjarPrePurchaseAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "07f4a7dd3c884e5d87e9a209716962ca",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-13T17:28:59.400Z",
+  "lastModifiedDate": "2020-05-15T02:31:55.529Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "56b64da93ee04cf090379d6bc41344de",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Mohawk Games",
+  "developerId": "o-uw2qbn4nh26vxscergml2f7du26bvk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

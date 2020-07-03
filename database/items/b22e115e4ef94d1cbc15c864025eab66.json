@@ -1,0 +1,47 @@
+{
+  "id": "b22e115e4ef94d1cbc15c864025eab66",
+  "title": "SnapdragonPrePurchaseAudience",
+  "description": "SnapdragonPrePurchaseAudience",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/game-logo_metro-exodus_white-2850x1450-b14f454728dc4a768250d3bd6f6bb05f.png",
+      "md5": "b14f454728dc4a768250d3bd6f6bb05f",
+      "width": 2850,
+      "height": 1450,
+      "size": 605487,
+      "uploadedDate": "2019-02-14T22:34:44.914Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/Metro_PrimaryPromo_update-2580x1450-0e5b7a55fb64f2b4ab1a46455a9293e0.jpg",
+      "md5": "0e5b7a55fb64f2b4ab1a46455a9293e0",
+      "width": 2580,
+      "height": 1450,
+      "size": 580337,
+      "uploadedDate": "2019-02-14T22:35:04.421Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "dlc"
+    }
+  ],
+  "namespace": "snapdragon",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-07T22:38:39.689Z",
+  "lastModifiedDate": "2019-05-16T11:57:16.463Z",
+  "entitlementName": "b22e115e4ef94d1cbc15c864025eab66",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

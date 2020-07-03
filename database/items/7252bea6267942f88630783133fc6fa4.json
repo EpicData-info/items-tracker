@@ -1,0 +1,34 @@
+{
+  "id": "7252bea6267942f88630783133fc6fa4",
+  "title": "KoratGeneralAudience",
+  "description": "KoratGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "6504cc61472e498796e0b4963a201438",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-13T17:06:58.281Z",
+  "lastModifiedDate": "2020-06-14T18:37:33.026Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7252bea6267942f88630783133fc6fa4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Red Barrels Inc",
+  "developerId": "o-43vl99bsbv9r5mtf76dv98b7um7kn4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,91 @@
+{
+  "id": "f5d84259a95a4b11ade74a7e4e0bde66",
+  "title": "Rogue Legacy 2",
+  "description": "Rogue Legacy 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/item/EGS_RogueLegacy2_CellarDoorGames_S1-2560x1440-2c375dccd5b902fbbafacb8c302cda58.jpg",
+      "md5": "2c375dccd5b902fbbafacb8c302cda58",
+      "width": 2560,
+      "height": 1440,
+      "size": 962584,
+      "uploadedDate": "2020-07-02T19:59:17.387Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/item/EGS_RogueLegacy2_CellarDoorGames_S2-1200x1600-d11643e87e6a81e5fbb527336f7a0cbf.jpg",
+      "md5": "d11643e87e6a81e5fbb527336f7a0cbf",
+      "width": 1200,
+      "height": 1600,
+      "size": 992284,
+      "uploadedDate": "2020-07-02T19:59:28.511Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4966d5da285c4f2c876937844b0e23ee",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-23T12:42:05.810Z",
+  "lastModifiedDate": "2020-07-03T16:14:40.254Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "4966d5da285c4f2c876937844b0e23ee"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RogueLegacy2"
+    }
+  },
+  "entitlementName": "f5d84259a95a4b11ade74a7e4e0bde66",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e255c573ed124c6e82a89f7b069f5691",
+      "appId": "bd35425c9548494082d002f36601ff45",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-23T00:00:00.000Z"
+    }
+  ],
+  "developer": "Cellar Door Games",
+  "developerId": "o-aajwdms75r9jlekaktgsnxe6zw2ldj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

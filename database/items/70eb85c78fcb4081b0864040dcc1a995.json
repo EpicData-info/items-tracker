@@ -1,0 +1,27 @@
+{
+  "id": "70eb85c78fcb4081b0864040dcc1a995",
+  "title": "Player Attire Package",
+  "description": "Player Attire Package",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "cobra",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-04T14:40:48.396Z",
+  "lastModifiedDate": "2020-04-07T15:07:09.538Z",
+  "entitlementName": "70eb85c78fcb4081b0864040dcc1a995",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "7739c58c0b8e4c68a63d31e67bbbd2f0",
+  "title": "FlamingoDevAudience",
+  "description": "FlamingoDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "52613245bcd34a8eb99078f423620a4d",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-24T05:14:50.742Z",
+  "lastModifiedDate": "2019-12-05T13:57:39.017Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7739c58c0b8e4c68a63d31e67bbbd2f0",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

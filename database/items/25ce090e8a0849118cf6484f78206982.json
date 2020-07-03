@@ -1,0 +1,79 @@
+{
+  "id": "25ce090e8a0849118cf6484f78206982",
+  "title": "FortniteAthena",
+  "description": "FortniteAthena",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fn/item/Fortnite_llamacorn_bg-430x250-ba52f51868240271251851bc83010ec8.png",
+      "md5": "ba52f51868240271251851bc83010ec8",
+      "width": 430,
+      "height": 250,
+      "size": 90716,
+      "uploadedDate": "2018-11-06T21:32:15.601Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/fn/item/blank_logo-1x1-1b95550641d28d4e076bc9111ce9f533.png",
+      "md5": "1b95550641d28d4e076bc9111ce9f533",
+      "width": 1,
+      "height": 1,
+      "size": 928,
+      "uploadedDate": "2018-11-06T21:35:10.739Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-08-08T20:26:23.336Z",
+  "lastModifiedDate": "2019-05-06T16:57:32.690Z",
+  "customAttributes": {
+    "AndroidCommandLine": {
+      "type": "STRING",
+      "value": "../../../FortniteGame/FortniteGame.uproject -epicapp=FortniteAthena -epicenv=Prod"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UE4ProjectName": {
+      "type": "STRING",
+      "value": "FortniteGame"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "HasGateKeeper": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "FortniteAthena",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e1cb44d5ccd04715898dcf6341a9aaf6",
+      "appId": "FortniteAthena",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2017-08-07T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": "3625713c4fb94ea9b40b14dc5a1a2ca4",
+  "title": "DeveloperTest",
+  "description": "Testing the developer filed to see if it is mandatory or not",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "projects/tutorials"
+    },
+    {
+      "path": "projects"
+    },
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2015-01-19T23:06:32.771Z",
+  "lastModifiedDate": "2015-01-19T23:06:32.771Z",
+  "entitlementName": "3625713c4fb94ea9b40b14dc5a1a2ca4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "SUBSCRIPTION",
+  "developer": "Dev Test",
+  "endOfSupport": false,
+  "unsearchable": false
+}

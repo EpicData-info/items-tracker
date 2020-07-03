@@ -1,0 +1,35 @@
+{
+  "id": "f22dba1f4de34c16a10c2e58aca8e8e4",
+  "title": "BoxfishDeluxeAudienceTest",
+  "description": "BoxfishDeluxeAudienceTest",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-11T00:14:25.147Z",
+  "lastModifiedDate": "2020-04-24T03:59:16.429Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f22dba1f4de34c16a10c2e58aca8e8e4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

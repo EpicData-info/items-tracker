@@ -1,0 +1,24 @@
+{
+  "id": "a46ef9792391432c82cf18321a553fc8",
+  "title": "Darksiders III - The Crucible",
+  "description": "Darksiders III - The Crucible",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "springbok",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-04T20:19:06.021Z",
+  "lastModifiedDate": "2019-07-16T16:56:55.846Z",
+  "entitlementName": "a46ef9792391432c82cf18321a553fc8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

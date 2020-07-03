@@ -1,0 +1,36 @@
+{
+  "id": "e72c4572f3c342039c82f5f844a934d0",
+  "title": "DLC1 - Navistar 500 MV Audience",
+  "description": "DLC1 - Navistar 500 MV Audience",
+  "longDescription": "Pre-Purchase DLC item",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-09T22:30:43.536Z",
+  "lastModifiedDate": "2020-04-27T21:59:30.970Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e72c4572f3c342039c82f5f844a934d0",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

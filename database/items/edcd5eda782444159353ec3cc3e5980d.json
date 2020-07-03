@@ -1,0 +1,23 @@
+{
+  "id": "edcd5eda782444159353ec3cc3e5980d",
+  "title": "TestSeaQA-9",
+  "description": "Entitlement Start Date test",
+  "longDescription": "Entitlement type is entitlement, item type is durable, entitlement start date is in future",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-27T18:15:03.927Z",
+  "lastModifiedDate": "2014-10-27T18:15:03.927Z",
+  "entitlementName": "EntitlmentType-1",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementEndDate": "2015-10-28T00:00:00.000Z",
+  "entitlementStartDate": "2015-10-25T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "endOfSupport": false,
+  "unsearchable": false
+}

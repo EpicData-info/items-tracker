@@ -1,0 +1,36 @@
+{
+  "id": "20073cda15ff4d2fb0cd7b1cdce00f06",
+  "title": "OperenciaGeneralAudience",
+  "description": "OperenciaGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "lily",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-28T20:03:33.335Z",
+  "lastModifiedDate": "2020-03-31T15:02:00.662Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "20073cda15ff4d2fb0cd7b1cdce00f06",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,82 @@
+{
+  "id": "f3542bc29e454791bc92d63bee6b70b3",
+  "title": "WombatTrialStaging",
+  "description": "WombatTrialStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wombat/item/WWZ Promo-960x540-21a102c5a83358d4934b947d674e85dc.jpg",
+      "md5": "21a102c5a83358d4934b947d674e85dc",
+      "width": 960,
+      "height": 540,
+      "size": 109442,
+      "uploadedDate": "2019-09-26T20:14:41.332Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/wombat/item/wwz_logo-400x400-0dc2a56a36635998206f055028192c7a.png",
+      "md5": "0dc2a56a36635998206f055028192c7a",
+      "width": 400,
+      "height": 400,
+      "size": 36562,
+      "uploadedDate": "2019-09-26T20:14:52.262Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wombat",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-26T20:08:14.893Z",
+  "lastModifiedDate": "2020-04-09T01:06:17.024Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Saber/WWZ/client/storage/{EpicID}/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "logs/,log.flg,video.dat,sound.dat"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "folderName": {
+      "type": "STRING",
+      "value": "WombatTrialStaging"
+    }
+  },
+  "entitlementName": "f3542bc29e454791bc92d63bee6b70b3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8023252d1e2841b0a07cd025fa94b904",
+      "appId": "WombatTrialStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-01-29T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

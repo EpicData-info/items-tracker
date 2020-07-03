@@ -1,0 +1,94 @@
+{
+  "id": "abd862e2fc4b4042ab3231466f46ff27",
+  "title": "JackalMainline",
+  "description": "JackalMainline",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/jackal/item/Trials Keyart-1850x928-f4f5d0f9ea96cd6b1aa5f5df90d64a11.jpg",
+      "md5": "f4f5d0f9ea96cd6b1aa5f5df90d64a11",
+      "width": 1850,
+      "height": 928,
+      "size": 147813,
+      "uploadedDate": "2019-09-06T18:26:49.605Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/jackal/item/dauntless-logo-white-16450x6525-1c76a1c53329ca9cfb6f93408ebbddad.png",
+      "md5": "1c76a1c53329ca9cfb6f93408ebbddad",
+      "width": 16450,
+      "height": 6525,
+      "size": 3771322,
+      "uploadedDate": "2019-09-06T18:27:12.484Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "jackal",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-25T12:46:12.572Z",
+  "lastModifiedDate": "2020-06-11T16:55:13.098Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "jackal"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Phoenix Labs"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "JackalMainline"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "abd862e2fc4b4042ab3231466f46ff27",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "82b019c955c1451d87e6ff623ffbc9d5",
+      "appId": "JackalMainline",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-25T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

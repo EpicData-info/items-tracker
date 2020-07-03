@@ -1,0 +1,71 @@
+{
+  "id": "46015e9347c340e6b84705eb362d1777",
+  "title": "Treasures of The Past",
+  "description": "Treasures of The Past",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-20T15:09:41.328Z",
+  "lastModifiedDate": "2020-03-31T16:21:32.018Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ca4058f18b0a4a9e9e2ccc28f7f33000"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "From the Ashes"
+    }
+  },
+  "entitlementName": "46015e9347c340e6b84705eb362d1777",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6473747d476e4005b316f12fa11ac0a0",
+      "appId": "EelTreasures",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-01-04T00:00:00.000Z"
+    }
+  ],
+  "developer": "Warhorse Studios",
+  "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

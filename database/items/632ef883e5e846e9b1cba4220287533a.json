@@ -1,0 +1,58 @@
+{
+  "id": "632ef883e5e846e9b1cba4220287533a",
+  "title": "Far Cry 5 Season Pass",
+  "description": "Far Cry 5 Season Pass",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "coriander",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-21T17:35:13.102Z",
+  "lastModifiedDate": "2020-02-18T15:53:15.273Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "afcac729418b4d4a9532bc53831c09d5"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "f2f3e24bf1a5444da59b92c0b2205232"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "632ef883e5e846e9b1cba4220287533a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f90b9fd5f7044eaeacd869f5e9499900",
+      "appId": "CorianderSeasonPassTest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-21T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

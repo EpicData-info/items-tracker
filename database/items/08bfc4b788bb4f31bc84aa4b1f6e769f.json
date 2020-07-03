@@ -1,0 +1,45 @@
+{
+  "id": "08bfc4b788bb4f31bc84aa4b1f6e769f",
+  "title": "Custom Characters",
+  "description": "Coming Soon",
+  "longDescription": "",
+  "keyImages": [
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ut/item/customchar3-549x536-be292299aea83e06ce4de593943e9bab-549x536-be292299aea83e06ce4de593943e9bab.png",
+      "md5": "be292299aea83e06ce4de593943e9bab",
+      "width": 549,
+      "height": 536,
+      "size": 288464,
+      "uploadedDate": "2015-02-27T17:48:59.933Z"
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ut/item/customchar3-549x536-be292299aea83e06ce4de593943e9bab-549x536-be292299aea83e06ce4de593943e9bab.png",
+      "md5": "be292299aea83e06ce4de593943e9bab",
+      "width": 549,
+      "height": 536,
+      "size": 288464,
+      "uploadedDate": "2015-02-27T17:58:34.720Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-02-27T17:49:06.838Z",
+  "lastModifiedDate": "2019-05-13T14:32:30.584Z",
+  "entitlementName": "08bfc4b788bb4f31bc84aa4b1f6e769f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "unsearchable": false
+}

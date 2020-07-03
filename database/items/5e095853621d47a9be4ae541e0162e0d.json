@@ -1,0 +1,35 @@
+{
+  "id": "5e095853621d47a9be4ae541e0162e0d",
+  "title": "Mint Korea Ratings Audience",
+  "description": "Mint Korea Ratings Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "d0545b136bb042fb9014e72b6af748f6",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-29T14:04:34.181Z",
+  "lastModifiedDate": "2019-10-04T11:43:31.687Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5e095853621d47a9be4ae541e0162e0d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

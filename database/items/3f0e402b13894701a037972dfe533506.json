@@ -1,0 +1,45 @@
+{
+  "id": "3f0e402b13894701a037972dfe533506",
+  "title": "Cyberpunk 2077 General Audience",
+  "description": "Cyberpunk 2077 General Audience",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/item/EGS_CDPROJEKTRED_CYBERPUNK2077_S3_DESCRIPTION-1280x1440-58949bccc0886694cf24d8c0f153d250.jpg",
+      "md5": "58949bccc0886694cf24d8c0f153d250",
+      "width": 1280,
+      "height": 1440,
+      "size": 161300,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "77f2b98e2cef40c8a7437518bf420e47",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-07T19:03:29.123Z",
+  "lastModifiedDate": "2019-11-04T18:37:25.168Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3f0e402b13894701a037972dfe533506",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,91 @@
+{
+  "id": "4bbb53faeba847e79bcd32e59ecec760",
+  "title": "Surgeon Simulator - Alpha",
+  "description": "Surgeon Simulator - Alpha",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7f1fa336313d48eca0a802170aa8dd8a/item/EGS_Bossa_SurgeonSimulator2_S5-1280x956-5cebdb85bb4fa8490b8197408cb38914-1280x956-5cebdb85bb4fa8490b8197408cb38914.png",
+      "md5": "5cebdb85bb4fa8490b8197408cb38914",
+      "width": 1280,
+      "height": 956,
+      "size": 473730,
+      "uploadedDate": "2020-06-02T13:55:14.093Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7f1fa336313d48eca0a802170aa8dd8a/item/EGS_Bossa_SurgeonSimulator2_S4-510x680-3df245d076432c9d3070798ce82bf102-510x680-3df245d076432c9d3070798ce82bf102.jpg",
+      "md5": "3df245d076432c9d3070798ce82bf102",
+      "width": 510,
+      "height": 680,
+      "size": 189156,
+      "uploadedDate": "2020-06-02T13:55:24.524Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-02T13:53:42.418Z",
+  "lastModifiedDate": "2020-06-13T19:33:54.321Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "7f1fa336313d48eca0a802170aa8dd8a"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SurgeonSim2Alpha"
+    }
+  },
+  "entitlementName": "4bbb53faeba847e79bcd32e59ecec760",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "657a164dd69244f190478ae033ebecef",
+      "appId": "64adcd01cc5b423983b6da9dede9de57",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

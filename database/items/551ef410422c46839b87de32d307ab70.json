@@ -1,0 +1,25 @@
+{
+  "id": "551ef410422c46839b87de32d307ab70",
+  "title": "Marvel Outfit E#2",
+  "description": "Marvel Outfit E#2",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-25T15:12:30.669Z",
+  "lastModifiedDate": "2019-04-25T15:12:30.669Z",
+  "entitlementName": "AthenaDance:eid_ashtonboardwalk",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

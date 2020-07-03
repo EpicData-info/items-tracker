@@ -1,0 +1,98 @@
+{
+  "id": "6edfff78792441198e3e3f9f0a9dde33",
+  "title": "Assassin's Creed Odyssey Trial",
+  "description": "Assassin's Creed Odyssey Trial",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/clary/item/IM_Pop_Up-611x829-4f08c8a328928cdf91496e4d48cd55bd.png",
+      "md5": "4f08c8a328928cdf91496e4d48cd55bd",
+      "width": 611,
+      "height": 829,
+      "size": 935466,
+      "uploadedDate": "2020-03-17T18:10:05.047Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/clary/item/HeroBanner_En-3840x2160-87a72f83066f6148f708053c998e4f1e.jpg",
+      "md5": "87a72f83066f6148f708053c998e4f1e",
+      "width": 3840,
+      "height": 2160,
+      "size": 11331255,
+      "uploadedDate": "2020-03-18T13:37:12.832Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "clary",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-04T18:39:34.133Z",
+  "lastModifiedDate": "2020-03-23T15:57:28.669Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "clary"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1584633600"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ACOdysseyTrial"
+    }
+  },
+  "entitlementName": "6edfff78792441198e3e3f9f0a9dde33",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0b3ad27817f64b46b8e07c61c5d283b1",
+      "appId": "c2f90610958b42119da31f7b3735bd64",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-08T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "da9e7542ed1b4dc995cead36779eab61",
+  "title": "Alpha Bonus - 4200 V-bucks",
+  "description": "Alpha Bonus - 4200 V-bucks",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-06-16T20:51:39.927Z",
+  "lastModifiedDate": "2017-06-16T20:59:17.713Z",
+  "entitlementName": "ALPHABONUS_4200",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

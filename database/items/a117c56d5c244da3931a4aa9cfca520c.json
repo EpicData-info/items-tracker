@@ -1,0 +1,33 @@
+{
+  "id": "a117c56d5c244da3931a4aa9cfca520c",
+  "title": "TanagerGeneralAudience",
+  "description": "TanagerGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-15T17:54:14.739Z",
+  "lastModifiedDate": "2020-06-13T19:33:59.057Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a117c56d5c244da3931a4aa9cfca520c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,66 @@
+{
+  "id": "a56d4656bf574494813313dcaa2bc2b5",
+  "title": "DLC Marker",
+  "description": "DLC Marker",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/newt/item/EGS_ProletariatInc_Spellbreak_S1-2560x1440-75987e837f994b0638bf99cd359e723f.jpg",
+      "md5": "75987e837f994b0638bf99cd359e723f",
+      "width": 2560,
+      "height": 1440,
+      "size": 439488,
+      "uploadedDate": "2019-10-21T14:40:40.448Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-28T20:27:07.648Z",
+  "lastModifiedDate": "2020-02-28T20:56:00.139Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Proletariat Inc"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SpellbreakPress"
+    }
+  },
+  "entitlementName": "a56d4656bf574494813313dcaa2bc2b5",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

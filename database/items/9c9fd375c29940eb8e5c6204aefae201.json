@@ -1,0 +1,29 @@
+{
+  "id": "9c9fd375c29940eb8e5c6204aefae201",
+  "title": "Anno1800GoldEditionAudience",
+  "description": "Anno1800GoldEditionAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "oregano",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-25T23:35:49.236Z",
+  "lastModifiedDate": "2020-05-27T21:47:43.336Z",
+  "entitlementName": "9c9fd375c29940eb8e5c6204aefae201",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

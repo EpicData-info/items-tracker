@@ -1,0 +1,51 @@
+{
+  "id": "406d5da5f1244546bde400fe9388fff4",
+  "title": "Tanager_Peach",
+  "description": "Tanager_Peach",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-11T15:44:08.803Z",
+  "lastModifiedDate": "2020-03-11T15:54:44.214Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TanagerPeach"
+    }
+  },
+  "entitlementName": "406d5da5f1244546bde400fe9388fff4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "64e771b6e38e479498294404239f5507",
+      "appId": "cb33c6219fd94cf68bbea0950671dc18",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

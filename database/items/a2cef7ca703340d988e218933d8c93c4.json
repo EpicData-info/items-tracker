@@ -1,0 +1,84 @@
+{
+  "id": "a2cef7ca703340d988e218933d8c93c4",
+  "title": "BluebirdStaging",
+  "description": "BluebirdStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/item/EGS_POLYTRON_FEZ_N1_NEWSFEED_PRIMARY-2560x1440-cf0e2f3af51039940999d57737e8c13c.jpg",
+      "md5": "cf0e2f3af51039940999d57737e8c13c",
+      "width": 2560,
+      "height": 1440,
+      "size": 349220,
+      "uploadedDate": "2019-08-14T13:51:55.821Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/item/EGS_POLYTRON_FEZ_IC1_GAME_LOGO-760x720-aebf7ac340f3efcdc712de7c3c5fceef.png",
+      "md5": "aebf7ac340f3efcdc712de7c3c5fceef",
+      "width": 760,
+      "height": 720,
+      "size": 37905,
+      "uploadedDate": "2019-08-14T13:52:11.148Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "41f47fd0d3e248bc938a5815d6d64daa",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-09T14:07:34.724Z",
+  "lastModifiedDate": "2019-10-09T16:14:51.543Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/FEZ/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../roaming/FEZ/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BluebirdStaging"
+    }
+  },
+  "entitlementName": "a2cef7ca703340d988e218933d8c93c4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4bd1dde133fc4187afe5c4acbe85f800",
+      "appId": "BluebirdStaging",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-08-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Polytron Corporation, Inc",
+  "developerId": "o-yh6xe9ws2y6xcgrbr27lvspn3ulb5e",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

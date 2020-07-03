@@ -1,0 +1,26 @@
+{
+  "id": "062f2632abea4c8a9acfad9c470a51dd",
+  "title": "Fortnite Anti-Cheat App Bundle",
+  "description": "Fortnite Anti-Cheat App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "SUNSET",
+  "creationDate": "2020-01-29T17:36:41.522Z",
+  "lastModifiedDate": "2020-02-11T18:05:08.071Z",
+  "entitlementName": "062f2632abea4c8a9acfad9c470a51dd",
+  "entitlementType": "AUDIENCE",
+  "entitlementEndDate": "2020-02-12T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

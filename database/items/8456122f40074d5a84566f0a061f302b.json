@@ -1,0 +1,35 @@
+{
+  "id": "8456122f40074d5a84566f0a061f302b",
+  "title": "Operencia - Explorer's Pack Audience",
+  "description": "Operencia - Explorer's Pack Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "lily",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-24T18:38:46.434Z",
+  "lastModifiedDate": "2020-03-31T15:02:00.662Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "8456122f40074d5a84566f0a061f302b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

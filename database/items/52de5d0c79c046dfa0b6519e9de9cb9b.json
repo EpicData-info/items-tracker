@@ -1,0 +1,83 @@
+{
+  "id": "52de5d0c79c046dfa0b6519e9de9cb9b",
+  "title": "SaltStaging",
+  "description": "SaltStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/b671fbc7be424e888c9346a9a6d3d9db/item/IC1-1920x1589-d649a2f29c7137d610c44e9ed5c4a766.png",
+      "md5": "d649a2f29c7137d610c44e9ed5c4a766",
+      "width": 1920,
+      "height": 1589,
+      "size": 183718,
+      "uploadedDate": "2019-08-14T18:02:58.256Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b671fbc7be424e888c9346a9a6d3d9db/item/S1-2546x1140-bff534328df4abe66ea9c4b910df016a.jpg",
+      "md5": "bff534328df4abe66ea9c4b910df016a",
+      "width": 2546,
+      "height": 1140,
+      "size": 742003,
+      "uploadedDate": "2019-08-14T18:03:10.845Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b671fbc7be424e888c9346a9a6d3d9db",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-05T14:11:02.516Z",
+  "lastModifiedDate": "2019-10-09T16:19:48.157Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Celeste/Saves/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Saves/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SaltStaging"
+    }
+  },
+  "entitlementName": "52de5d0c79c046dfa0b6519e9de9cb9b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ea965a069ce945b0ad3639146237a920",
+      "appId": "SaltStaging",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-08-05T00:00:00.000Z"
+    }
+  ],
+  "developer": "Matt Makes Games",
+  "developerId": "o-82l4kr2zqqhkqqa6mkut4pjx9lma3h",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

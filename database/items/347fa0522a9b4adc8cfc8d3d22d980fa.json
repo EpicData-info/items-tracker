@@ -1,0 +1,48 @@
+{
+  "id": "347fa0522a9b4adc8cfc8d3d22d980fa",
+  "title": "Slime Rancher General Audience",
+  "description": "Slime Rancher General Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/corydalis/item/ESRB_SlimeRancher-842x404-b87a749a0d84064b54f915548c922b5d.jpg",
+      "md5": "b87a749a0d84064b54f915548c922b5d",
+      "width": 842,
+      "height": 404,
+      "size": 70396,
+      "uploadedDate": "2020-01-08T22:32:57.684Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "corydalis",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-18T19:39:00.798Z",
+  "lastModifiedDate": "2020-05-19T19:57:36.329Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac,Win32"
+    }
+  },
+  "entitlementName": "347fa0522a9b4adc8cfc8d3d22d980fa",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Monomi Park",
+  "developerId": "o-zaqwbfdrp3pwhlqsnwvjfsmjdpsj3a",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

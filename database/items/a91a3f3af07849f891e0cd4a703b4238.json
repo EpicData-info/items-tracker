@@ -1,0 +1,51 @@
+{
+  "id": "a91a3f3af07849f891e0cd4a703b4238",
+  "title": "AmberStaging",
+  "description": "AmberStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fd0183d33a5a40ff8cd4a6ebb52f6ace",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-17T06:56:43.175Z",
+  "lastModifiedDate": "2020-03-12T14:32:55.448Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AmberStaging"
+    }
+  },
+  "entitlementName": "a91a3f3af07849f891e0cd4a703b4238",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1a9ee1f4904240448c00654137ab9c69",
+      "appId": "AmberStaging",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-03-08T18:35:33.969Z"
+    }
+  ],
+  "developer": "Adam Robinson-Yu",
+  "developerId": "o-x6pmn2h8elkycylakfrdw79xp2hrpv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

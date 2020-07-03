@@ -1,0 +1,51 @@
+{
+  "id": "0935d6fda08c496ebe4051531542c8dc",
+  "title": "Tanager_Mario",
+  "description": "Tanager_Mario",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-10T21:23:35.422Z",
+  "lastModifiedDate": "2020-03-11T15:54:44.214Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TanagerMario"
+    }
+  },
+  "entitlementName": "0935d6fda08c496ebe4051531542c8dc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9279aae0569e44d6bcea4cc16433164a",
+      "appId": "acb2279d29984ada84738e0894c77615",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

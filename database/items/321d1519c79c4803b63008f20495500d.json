@@ -1,0 +1,50 @@
+{
+  "id": "321d1519c79c4803b63008f20495500d",
+  "title": "TanagerStaging",
+  "description": "TanagerStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-15T17:54:14.872Z",
+  "lastModifiedDate": "2019-12-13T03:52:56.866Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TanagerStaging"
+    }
+  },
+  "entitlementName": "321d1519c79c4803b63008f20495500d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5a327017c1fd402fb01116e0581736df",
+      "appId": "TanagerStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T19:17:04.423Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,97 @@
+{
+  "id": "5c52836e6b9f4e0ca441f69fd15aa311",
+  "title": "Tom Clancy's The Division 2 - Trial",
+  "description": "Tom Clancy's The Division 2 - Trial",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/impala/item/TCTD2_OpenBeta_Promo-2048x1151-cce9a8a830443aaf82f23ae88dcf6141.jpg",
+      "md5": "cce9a8a830443aaf82f23ae88dcf6141",
+      "width": 2048,
+      "height": 1151,
+      "size": 496655,
+      "uploadedDate": "2019-03-01T09:09:00.258Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/impala/item/Tctd2_logo_twe8black_1000x375-1000x375-58b36c15b48073a8a846d0cd84ad046c.png",
+      "md5": "58b36c15b48073a8a846d0cd84ad046c",
+      "width": 1000,
+      "height": 375,
+      "size": 40590,
+      "uploadedDate": "2019-10-17T14:44:13.600Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/impala/item/TD2_Portrait-Promo_1280x1420-1280x1420-4f0c658d399e26d7120aa6b04d4f77a0.jpg",
+      "md5": "4f0c658d399e26d7120aa6b04d4f77a0",
+      "width": 1280,
+      "height": 1420,
+      "size": 199408,
+      "uploadedDate": "2020-02-21T21:40:31.280Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "impala",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-14T22:52:03.772Z",
+  "lastModifiedDate": "2020-03-12T18:01:45.483Z",
+  "customAttributes": {
+    "PresenceID": {
+      "type": "STRING",
+      "value": "impala"
+    },
+    "isUplay": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1582790400"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheDivision2Trial"
+    }
+  },
+  "entitlementName": "5c52836e6b9f4e0ca441f69fd15aa311",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "36f01dd6a52540568e1e305d02b8e7c5",
+      "appId": "ImpalaTrial",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-14T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

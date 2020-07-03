@@ -1,0 +1,56 @@
+{
+  "id": "68fa6face7374a82ae84f14012e443cd",
+  "title": "IrisDLC3Staging",
+  "description": "IrisDLC3Staging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-14T17:37:16.482Z",
+  "lastModifiedDate": "2020-02-14T18:06:47.094Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FesteringSkies"
+    }
+  },
+  "entitlementName": "68fa6face7374a82ae84f14012e443cd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "19c76b7c84af45949fc45f1665772688",
+      "appId": "IrisDLC3Staging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-11-12T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4217759881dd43209da2e89a9552a9a6",
+  "title": "Founder Audience Access",
+  "description": "Founder Audience Access",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-04-17T02:08:28.358Z",
+  "lastModifiedDate": "2019-06-13T15:59:41.067Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "Fortnite_Founder",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "fn"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

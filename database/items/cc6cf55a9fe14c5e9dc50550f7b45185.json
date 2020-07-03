@@ -1,0 +1,56 @@
+{
+  "id": "cc6cf55a9fe14c5e9dc50550f7b45185",
+  "title": "Saturnalia Current",
+  "description": "Saturnalia Current",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c749cd78da34408d8434a46271f4bb79",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-11T14:18:33.235Z",
+  "lastModifiedDate": "2020-05-11T14:27:52.865Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Saturnalia Current"
+    }
+  },
+  "entitlementName": "cc6cf55a9fe14c5e9dc50550f7b45185",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ec476dda572b49d98b5724f93ae5af91",
+      "appId": "657dad1ce59744bc9c81d279f76ad6c8",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Santa Ragione",
+  "developerId": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

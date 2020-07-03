@@ -1,0 +1,57 @@
+{
+  "id": "52466ad658504d6e9bb6ede38df115e8",
+  "title": "AmberjackStaging",
+  "description": "AmberjackStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "72bdc702b4974024a69a5eb718a7a135",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-10T04:58:42.065Z",
+  "lastModifiedDate": "2020-03-10T14:13:14.219Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "2ffda90bb4454d5f91d5be34f420462d"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AmberjackStaging"
+    }
+  },
+  "entitlementName": "52466ad658504d6e9bb6ede38df115e8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0ea7aac5fc8f452e98e9ed7e43a4b8e2",
+      "appId": "AmberjackStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

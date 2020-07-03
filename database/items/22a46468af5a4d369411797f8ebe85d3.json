@@ -1,0 +1,56 @@
+{
+  "id": "22a46468af5a4d369411797f8ebe85d3",
+  "title": "Steep X DLC",
+  "description": "Steep X DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a646020cb93b4ea995cda70647bbe001",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-09T19:33:20.339Z",
+  "lastModifiedDate": "2020-01-01T15:32:42.977Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "e9c436b4e1474e6daa4a4ec5bd19fba2"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "6ca86dc6719f435fbf4fe1f1874bd496"
+    }
+  },
+  "entitlementName": "22a46468af5a4d369411797f8ebe85d3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fc5aad2469dd42ab991db08bfeb4227c",
+      "appId": "BarracudaXDLCDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-12-09T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,77 @@
+{
+  "id": "a53e821fbdc24181877243a8dbb63463",
+  "title": "Battle Breakers",
+  "description": "Battle Breakers",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wex/item/wex_bg-430x250-7ff217599bc08d57744a959ff00ec48c.png",
+      "md5": "7ff217599bc08d57744a959ff00ec48c",
+      "width": 430,
+      "height": 250,
+      "size": 224112,
+      "uploadedDate": "2018-11-06T23:05:56.777Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/wex/item/BBLogo-625x408-34f5e3a41a380a7dba705ba302b9ffd0.png",
+      "md5": "34f5e3a41a380a7dba705ba302b9ffd0",
+      "width": 625,
+      "height": 408,
+      "size": 58151,
+      "uploadedDate": "2018-11-29T19:09:02.148Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/wex/item/BB_EGS_Launcher_S2-1280x1440-f50d07c9bb6e9ffdb35623f0992dcd7e.jpg",
+      "md5": "f50d07c9bb6e9ffdb35623f0992dcd7e",
+      "width": 1280,
+      "height": 1440,
+      "size": 1722691,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2016-08-10T17:22:25.371Z",
+  "lastModifiedDate": "2019-11-19T17:02:25.316Z",
+  "customAttributes": {
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BattleBreakers"
+    }
+  },
+  "entitlementName": "WorldExplorersLive",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f9a36cd1681a41d1872c7037ec8d8c60",
+      "appId": "WorldExplorersLive",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2016-08-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

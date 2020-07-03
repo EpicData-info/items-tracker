@@ -1,0 +1,37 @@
+{
+  "id": "2a6e2d009f2a4a2683bc70b08f4dcca3",
+  "title": "StaticeGeneralAudience",
+  "description": "StaticeGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "530eeeaffca14275a451d7cff61ee6bb",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-24T06:23:20.870Z",
+  "lastModifiedDate": "2020-04-24T14:11:17.031Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Win32"
+    }
+  },
+  "entitlementName": "2a6e2d009f2a4a2683bc70b08f4dcca3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Edmund McMillen, Tyler Glaiel",
+  "developerId": "o-h8c7zcwt24ey84nvxfbgzqpvth9vpz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

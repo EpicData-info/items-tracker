@@ -1,0 +1,109 @@
+{
+  "id": "9b20b42327b349d4a42ace042eb6f83c",
+  "title": "The Walking Dead: Michonne",
+  "description": "The Walking Dead: Michonne",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/fennel/item/EGS_SKYBOUND_TWDMICHONNE_IC2_DarkLogo-400x400-ed732df0070cc98d5f64833d62f5d0b0.png",
+      "md5": "ed732df0070cc98d5f64833d62f5d0b0",
+      "width": 400,
+      "height": 400,
+      "size": 30767,
+      "uploadedDate": "2019-03-26T02:17:23.478Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fennel/item/EGS_SKYBOUND_TWDMICHONNE_GameBoxWide-1068x601-cb095137a6c756cc1efe4b27d3a048ff.jpg",
+      "md5": "cb095137a6c756cc1efe4b27d3a048ff",
+      "width": 1068,
+      "height": 601,
+      "size": 146777,
+      "uploadedDate": "2019-03-26T02:17:45.783Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/fennel/item/EGS_SKYBOUND_TWDMICHONNE_DieselGameLogo-400x265-252ca2378fe46f3292f994eabea2d3ea.png",
+      "md5": "252ca2378fe46f3292f994eabea2d3ea",
+      "width": 400,
+      "height": 265,
+      "size": 47218,
+      "uploadedDate": "2019-03-26T02:19:20.453Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/fennel/item/EGS_SKYBOUND_TWDM_GameBoxTall-1280x1440-05fb51874d0ce6c4b16fa69edcae1cc4.jpg",
+      "md5": "05fb51874d0ce6c4b16fa69edcae1cc4",
+      "width": 1280,
+      "height": 1440,
+      "size": 99834,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fennel",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-22T22:02:27.011Z",
+  "lastModifiedDate": "2019-11-19T17:04:00.142Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "fennel"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Telltale Games"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TWDMichonne"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9b20b42327b349d4a42ace042eb6f83c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bb03e3ee246a4a75b84f0fd19b987c9d",
+      "appId": "Fennel",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-22T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

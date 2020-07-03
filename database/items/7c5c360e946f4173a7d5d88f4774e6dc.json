@@ -1,0 +1,86 @@
+{
+  "id": "7c5c360e946f4173a7d5d88f4774e6dc",
+  "title": "The Jackbox Party Pack 3",
+  "description": "The Jackbox Party Pack 3",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/orchid/item/JackboxPartyPack3_Hero-2580x1450-ff8092de4f28e294b8931624202d9452.jpg",
+      "md5": "ff8092de4f28e294b8931624202d9452",
+      "width": 2580,
+      "height": 1450,
+      "size": 407424,
+      "uploadedDate": "2019-02-04T14:43:00.859Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/orchid/item/JackboxPartyPack3_Logo_White-1920x1345-b595fd0cfd5be984b35cfd80fe703b1f.png",
+      "md5": "b595fd0cfd5be984b35cfd80fe703b1f",
+      "width": 1920,
+      "height": 1345,
+      "size": 124503,
+      "uploadedDate": "2019-02-04T14:43:13.986Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/orchid/item/JackboxPartyPack3_Hero_Portrait-1280x1420-8edf26dc88b4b389d88c69e08b1cd5d4.jpg",
+      "md5": "8edf26dc88b4b389d88c69e08b1cd5d4",
+      "width": 1280,
+      "height": 1420,
+      "size": 342835,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "orchid",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-16T13:37:03.290Z",
+  "lastModifiedDate": "2019-11-19T17:03:52.248Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "JackboxPartyPack3"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac,Win32"
+    }
+  },
+  "entitlementName": "7c5c360e946f4173a7d5d88f4774e6dc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e124f91587574754bc4e045421c3420f",
+      "appId": "Orchid",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-01-16T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

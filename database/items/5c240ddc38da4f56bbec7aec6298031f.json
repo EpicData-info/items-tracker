@@ -1,0 +1,24 @@
+{
+  "id": "5c240ddc38da4f56bbec7aec6298031f",
+  "title": "Touchdown",
+  "description": "Go for the extra point.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-08T19:55:55.081Z",
+  "lastModifiedDate": "2019-01-08T19:55:55.081Z",
+  "entitlementName": "AthenaGlider:glider_id_071_football",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

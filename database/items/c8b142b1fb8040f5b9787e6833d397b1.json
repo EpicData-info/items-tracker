@@ -1,0 +1,52 @@
+{
+  "id": "c8b142b1fb8040f5b9787e6833d397b1",
+  "title": "MayflowerExternalTests",
+  "description": "MayflowerExternalTests",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-01T13:16:02.767Z",
+  "lastModifiedDate": "2020-05-12T18:51:00.354Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MayflowerExternalTests"
+    }
+  },
+  "entitlementName": "c8b142b1fb8040f5b9787e6833d397b1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cd21d446ca354324b98f9e65e89cf262",
+      "appId": "MayflowerExternalTests",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-28T00:00:00.000Z"
+    }
+  ],
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

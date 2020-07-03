@@ -1,0 +1,23 @@
+{
+  "id": "0b5b119c5b774b988c2e235a83c3f354",
+  "title": "Influencer Banner - Nefarius AP",
+  "description": "Influencer Banner - Nefarius AP",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-07-19T19:37:04.547Z",
+  "lastModifiedDate": "2017-07-19T19:47:05.332Z",
+  "entitlementName": "INFLUENCERBANNER_NefariusAP",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

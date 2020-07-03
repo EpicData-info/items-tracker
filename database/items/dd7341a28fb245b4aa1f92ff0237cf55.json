@@ -1,0 +1,34 @@
+{
+  "id": "dd7341a28fb245b4aa1f92ff0237cf55",
+  "title": "Eternal Cylinder Partner Audience",
+  "description": "Eternal Cylinder Partner Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "fa0c74ef7780498fb222dcd099bf82a2",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-04T18:29:40.258Z",
+  "lastModifiedDate": "2019-10-04T18:34:10.557Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "dd7341a28fb245b4aa1f92ff0237cf55",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Good Shepherd Entertainment",
+  "developerId": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

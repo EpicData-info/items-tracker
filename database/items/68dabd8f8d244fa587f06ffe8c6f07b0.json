@@ -1,0 +1,49 @@
+{
+  "id": "68dabd8f8d244fa587f06ffe8c6f07b0",
+  "title": "UrsusStaging",
+  "description": "UrsusStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "helloneighbor",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-18T23:06:27.765Z",
+  "lastModifiedDate": "2019-12-30T15:51:18.106Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "UrsusStaging"
+    }
+  },
+  "entitlementName": "68dabd8f8d244fa587f06ffe8c6f07b0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "716962c7d0214a6e976f266cf3abe27b",
+      "appId": "UrsusStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

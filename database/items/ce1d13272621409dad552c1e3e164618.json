@@ -1,0 +1,50 @@
+{
+  "id": "ce1d13272621409dad552c1e3e164618",
+  "title": "BoxfishStaging",
+  "description": "BoxfishStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-12T21:56:02.676Z",
+  "lastModifiedDate": "2020-05-22T17:14:39.678Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BoxfishStaging"
+    }
+  },
+  "entitlementName": "ce1d13272621409dad552c1e3e164618",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5ede0c1b5edb4a19be5dfa4fef865e0a",
+      "appId": "BoxfishStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

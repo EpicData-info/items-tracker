@@ -1,0 +1,35 @@
+{
+  "id": "afc448bfca37435faf3fe4cae83475b8",
+  "title": "Persian DLC 1 Audience",
+  "description": "Persian DLC 1 Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-18T21:02:57.850Z",
+  "lastModifiedDate": "2020-06-18T22:25:32.472Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "afc448bfca37435faf3fe4cae83475b8",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

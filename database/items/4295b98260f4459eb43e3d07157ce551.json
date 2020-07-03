@@ -1,0 +1,37 @@
+{
+  "id": "4295b98260f4459eb43e3d07157ce551",
+  "title": "Sigurd's Axe Audience",
+  "description": "Sigurd's Axe Audience",
+  "longDescription": "",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "cosmos",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-15T14:59:17.003Z",
+  "lastModifiedDate": "2020-01-08T14:42:30.477Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4295b98260f4459eb43e3d07157ce551",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ragnarok Game, LLC",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

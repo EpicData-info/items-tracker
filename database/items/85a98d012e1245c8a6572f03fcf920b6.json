@@ -1,0 +1,92 @@
+{
+  "id": "85a98d012e1245c8a6572f03fcf920b6",
+  "title": "Paladins",
+  "description": "Paladins",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/item/Smite-EGS-DarknessandDragons-PortraitIMG-860x1148-860x1148-86650a0774e99d9262beb7e68b9df6e6.jpg",
+      "md5": "86650a0774e99d9262beb7e68b9df6e6",
+      "width": 860,
+      "height": 1148,
+      "size": 325977,
+      "uploadedDate": "2020-04-29T18:52:36.559Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/item/Smite-EGS-DarknessandDragons-LandscapeIMG-2560x1440-2560x1440-231b377596b2e7c3ededcb90ebfedb64.jpg",
+      "md5": "231b377596b2e7c3ededcb90ebfedb64",
+      "width": 2560,
+      "height": 1440,
+      "size": 390427,
+      "uploadedDate": "2020-04-29T18:53:07.326Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-18T01:57:09.836Z",
+  "lastModifiedDate": "2020-04-29T18:53:11.603Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "badb0ee71b474ed591ec43212547cfc8"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Paladins"
+    }
+  },
+  "entitlementName": "85a98d012e1245c8a6572f03fcf920b6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1df8359888944ca5834309d8c3bc1b11",
+      "appId": "Antbird",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-18T00:00:00.000Z"
+    }
+  ],
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

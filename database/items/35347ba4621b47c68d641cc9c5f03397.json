@@ -1,0 +1,78 @@
+{
+  "id": "35347ba4621b47c68d641cc9c5f03397",
+  "title": "GeraniumStaging",
+  "description": "GeraniumStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/geranium/item/JackboxPartyPack5_Hero-2580x1450-a31ed86be178b54ce04567b1baa6184f.jpg",
+      "md5": "a31ed86be178b54ce04567b1baa6184f",
+      "width": 2580,
+      "height": 1450,
+      "size": 365931,
+      "uploadedDate": "2019-02-06T21:14:39.700Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/geranium/item/tjbpp5_logo__1_-1248x711-7421831144cbd106ef73a2dd879a3073.png",
+      "md5": "7421831144cbd106ef73a2dd879a3073",
+      "width": 1248,
+      "height": 711,
+      "size": 71942,
+      "uploadedDate": "2019-02-06T21:15:28.158Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "geranium",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-16T14:07:09.984Z",
+  "lastModifiedDate": "2019-07-23T17:00:32.703Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Jackbox Games/The Jackbox Party Pack 5/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GeraniumStaging"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "35347ba4621b47c68d641cc9c5f03397",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2c49687c8ebe46fdbf9eee5d4ba1a0eb",
+      "appId": "GeraniumStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-01-16T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b5b5e4c4e1fb48bda7ce383338b6d802",
+  "title": "Battle Breakers free app bundle",
+  "description": "Battle Breakers free app bundle",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/wex/item/BB_EGS_Launcher_S2-1280x1440-f50d07c9bb6e9ffdb35623f0992dcd7e.jpg",
+      "md5": "f50d07c9bb6e9ffdb35623f0992dcd7e",
+      "width": 1280,
+      "height": 1440,
+      "size": 1722691,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-11T13:40:40.950Z",
+  "lastModifiedDate": "2019-11-19T17:02:24.546Z",
+  "customAttributes": {
+    "ActionSetName": {
+      "type": "STRING",
+      "value": "WEX-Free-App-Bundle"
+    }
+  },
+  "entitlementName": "b5b5e4c4e1fb48bda7ce383338b6d802",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

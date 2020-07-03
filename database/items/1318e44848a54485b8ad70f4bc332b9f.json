@@ -1,0 +1,63 @@
+{
+  "id": "1318e44848a54485b8ad70f4bc332b9f",
+  "title": "MarmosetStaging",
+  "description": "MarmosetStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "marmoset",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-14T03:33:17.844Z",
+  "lastModifiedDate": "2019-10-09T14:19:10.692Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/Double Damage Games/RebelGalaxyOutlaw/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "*.txt,*.dat,*.bin,*.log,*.zbg_bkup,guts/,editorobj/,.editorObj,.layout"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MarmosetStaging"
+    }
+  },
+  "entitlementName": "1318e44848a54485b8ad70f4bc332b9f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "706adab4687a4b10aee1c5357f09c5f9",
+      "appId": "MarmosetStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-14T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Double Damage Games, Inc",
+  "developerId": "o-7kk95dlwa9mep5kfkubrgmp9qkwbt4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

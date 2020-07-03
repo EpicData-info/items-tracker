@@ -1,0 +1,71 @@
+{
+  "id": "2590548ecc3d46b0b1a78d4732d83d18",
+  "title": "Rogue Company Public Test",
+  "description": "Rogue Company Public Test",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/item/EGS_DEVELOPER_RogueCompany_G1_DESCRIPTION-2560x1440-4979a2c03bf95b992a9ba71086fc7e90.jpg",
+      "md5": "4979a2c03bf95b992a9ba71086fc7e90",
+      "width": 2560,
+      "height": 1440,
+      "size": 430307,
+      "uploadedDate": "2019-09-04T18:31:20.350Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/item/EGS_DEVELOPER_RogueCompany_IC1_DESCRIPTION-200x200-02a2630eadb17cdcd9009ab52f2a1fb5.png",
+      "md5": "02a2630eadb17cdcd9009ab52f2a1fb5",
+      "width": 200,
+      "height": 200,
+      "size": 3748,
+      "uploadedDate": "2019-09-04T18:31:31.321Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-16T13:41:52.922Z",
+  "lastModifiedDate": "2020-05-08T22:33:01.935Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RogueCompanyPublicTest"
+    }
+  },
+  "entitlementName": "2590548ecc3d46b0b1a78d4732d83d18",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a02619d44b1a422e99ddbfef8967b896",
+      "appId": "PeweeTesting",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-16T00:00:00.000Z"
+    }
+  ],
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

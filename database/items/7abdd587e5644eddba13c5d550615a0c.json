@@ -1,0 +1,30 @@
+{
+  "id": "7abdd587e5644eddba13c5d550615a0c",
+  "title": "Ocean Apple Cert App Bundle",
+  "description": "Ocean Apple Cert App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-20T03:24:53.208Z",
+  "lastModifiedDate": "2019-09-20T03:24:53.208Z",
+  "customAttributes": {
+    "ActionSetName": {
+      "type": "STRING",
+      "value": "Ocean-AppleCert-App-Bundle"
+    }
+  },
+  "entitlementName": "7abdd587e5644eddba13c5d550615a0c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,87 @@
+{
+  "id": "ffbeb81700694897983b712ddbc9c24a",
+  "title": "Phoenix Point Backer Build",
+  "description": "Phoenix Point Backer Build",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_PrimaryPromo-1920x1079-1d5a04d67c44c162d1e3acf2df2f57e3.jpg",
+      "md5": "1d5a04d67c44c162d1e3acf2df2f57e3",
+      "width": 1920,
+      "height": 1079,
+      "size": 162524,
+      "uploadedDate": "2019-03-25T21:11:45.244Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_GameLogo_White-3220x432-7aca4b7a258e701731893afe68f4becb.png",
+      "md5": "7aca4b7a258e701731893afe68f4becb",
+      "width": 3220,
+      "height": 432,
+      "size": 118600,
+      "uploadedDate": "2019-03-25T21:12:00.250Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-25T21:13:48.485Z",
+  "lastModifiedDate": "2020-02-13T18:59:51.118Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "iris"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PhoenixPointBackerBuild"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "ffbeb81700694897983b712ddbc9c24a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2688e51c150e41dd8480b421bf63192b",
+      "appId": "IrisBacker",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-03-25T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

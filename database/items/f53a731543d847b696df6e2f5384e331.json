@@ -1,0 +1,57 @@
+{
+  "id": "f53a731543d847b696df6e2f5384e331",
+  "title": "HamletStaging",
+  "description": "HamletStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7061cd389bdc4c068910da67cd8e154c",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-13T15:50:11.870Z",
+  "lastModifiedDate": "2020-04-13T18:42:43.239Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "5b89097b20d84ea0ba8ae964b3270165"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HamletStaging"
+    }
+  },
+  "entitlementName": "f53a731543d847b696df6e2f5384e331",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3abe5b634a5e43fea08aa8d36c00732e",
+      "appId": "HamletStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

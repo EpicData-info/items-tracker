@@ -1,0 +1,34 @@
+{
+  "id": "7219fd0219fa492da426a79c8078f1e4",
+  "title": "Call_To_Action_02",
+  "description": "DARK AND LIGHT HOME PAGE\n<inverted-tiny-body>LEARN MORE</>",
+  "technicalDetails": "https://www.playdnl.com/",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/darkandlight/item/DNL_Homepage-960x540-e9cc7884e836438810b65ca7edf35104.png",
+      "md5": "e9cc7884e836438810b65ca7edf35104",
+      "width": 960,
+      "height": 540,
+      "size": 1145511,
+      "uploadedDate": "2018-04-10T18:12:27.728Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "darkandlight",
+  "status": "ACTIVE",
+  "creationDate": "2018-03-06T20:00:42.237Z",
+  "lastModifiedDate": "2018-04-10T18:12:35.374Z",
+  "entitlementName": "7219fd0219fa492da426a79c8078f1e4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "abab54af62a04539a96cd067d9848e26",
+  "title": "Fierce Cloudpuff",
+  "description": "Fiercely adorable. Obsessed with cookies and sandwiches.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "cross_promo"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-30T17:09:05.514Z",
+  "lastModifiedDate": "2019-11-20T22:50:54.224Z",
+  "entitlementName": "BB_Cloudpuff",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": "6f1e176f7b6340fba18065452e21dede",
+  "title": "Ghostbusters Pre-Purchase Audience",
+  "description": "Ghostbusters Pre-Purchase Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "d0545b136bb042fb9014e72b6af748f6",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-15T17:57:34.345Z",
+  "lastModifiedDate": "2019-10-04T11:43:31.687Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6f1e176f7b6340fba18065452e21dede",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

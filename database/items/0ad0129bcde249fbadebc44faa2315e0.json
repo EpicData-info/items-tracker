@@ -1,0 +1,35 @@
+{
+  "id": "0ad0129bcde249fbadebc44faa2315e0",
+  "title": "DLC108 Audience",
+  "description": "DLC108 (Jaeger MKII Weapon Skin Bundle Pack)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-12T22:33:52.087Z",
+  "lastModifiedDate": "2020-06-18T01:06:58.704Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0ad0129bcde249fbadebc44faa2315e0",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

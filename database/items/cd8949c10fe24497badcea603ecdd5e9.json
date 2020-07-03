@@ -1,0 +1,24 @@
+{
+  "id": "cd8949c10fe24497badcea603ecdd5e9",
+  "title": "Minty",
+  "description": "Minty",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-26T14:46:08.652Z",
+  "lastModifiedDate": "2019-09-26T14:46:08.652Z",
+  "entitlementName": "FN_Minty",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

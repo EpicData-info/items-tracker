@@ -1,0 +1,34 @@
+{
+  "id": "3d2bd0dfd3c442069c0d23024aac0f8c",
+  "title": "Call_To_Action_02",
+  "description": "FORUMS\n<inverted-tiny-body>LEARN MORE</>",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/pixark/item/PixARK(Resource)02-960x497-a8c21ba40d2c4119981dc807fef63ac3.png",
+      "md5": "a8c21ba40d2c4119981dc807fef63ac3",
+      "width": 960,
+      "height": 497,
+      "size": 1478606,
+      "uploadedDate": "2018-06-25T17:19:06.085Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "pixark",
+  "status": "ACTIVE",
+  "creationDate": "2018-06-25T17:19:09.998Z",
+  "lastModifiedDate": "2018-07-16T19:21:49.371Z",
+  "entitlementName": "3d2bd0dfd3c442069c0d23024aac0f8c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

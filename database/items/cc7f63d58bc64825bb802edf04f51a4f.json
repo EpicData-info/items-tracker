@@ -1,0 +1,39 @@
+{
+  "id": "cc7f63d58bc64825bb802edf04f51a4f",
+  "title": "Logo Small",
+  "description": "Logo Small",
+  "technicalDetails": "",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/UTLogo02-1024x332-2d7d7f71d5b4eecd0336745e562b203b.png",
+      "md5": "2d7d7f71d5b4eecd0336745e562b203b",
+      "width": 1024,
+      "height": 332,
+      "size": 107213,
+      "uploadedDate": "2015-01-28T21:39:49.472Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2014-11-08T16:52:46.246Z",
+  "lastModifiedDate": "2015-01-28T21:40:09.394Z",
+  "entitlementName": "UnrealTournament",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "unsearchable": false
+}

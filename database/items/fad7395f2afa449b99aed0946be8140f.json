@@ -1,0 +1,45 @@
+{
+  "id": "fad7395f2afa449b99aed0946be8140f",
+  "title": "dove Alpha Audience",
+  "description": "dove Alpha Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/item/ESRB_Castlestorm2-842x485-495e8af0c592a9c8067798699d4646c4.png",
+      "md5": "495e8af0c592a9c8067798699d4646c4",
+      "width": 842,
+      "height": 485,
+      "size": 45295,
+      "uploadedDate": "2019-06-03T19:01:35.550Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ed355406eacb4633a648f682ddb492b8",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-23T15:09:55.007Z",
+  "lastModifiedDate": "2019-09-23T15:10:38.324Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "fad7395f2afa449b99aed0946be8140f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "unsearchable": false
+}

@@ -1,0 +1,67 @@
+{
+  "id": "902a7d687e8c4814a9654a675b2ccc3a",
+  "title": "HermitStaging",
+  "description": "HermitStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "599d248ca46b45a8b40a3b4e484712cb",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-01T23:40:40.802Z",
+  "lastModifiedDate": "2019-12-05T12:53:40.500Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "1f16caed27c942b8a5023478c32c86c1"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HermitStaging"
+    }
+  },
+  "entitlementName": "902a7d687e8c4814a9654a675b2ccc3a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5ddfba165ba049258c7b543cded7c5bd",
+      "appId": "HermitStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-01T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

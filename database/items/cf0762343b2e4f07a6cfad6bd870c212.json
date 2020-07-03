@@ -1,0 +1,33 @@
+{
+  "id": "cf0762343b2e4f07a6cfad6bd870c212",
+  "title": "HamletDevAudience",
+  "description": "HamletDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "7061cd389bdc4c068910da67cd8e154c",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-13T15:50:11.721Z",
+  "lastModifiedDate": "2020-03-17T14:28:36.845Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "cf0762343b2e4f07a6cfad6bd870c212",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

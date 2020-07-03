@@ -1,0 +1,69 @@
+{
+  "id": "e42eca8e2aeb48da9ccc5d5ecc212b62",
+  "title": "Super Meat Boy Forever",
+  "description": "Super Meat Boy Forever",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/moose/item/SMBF_Logo-792x314-ef8346d1de89ea4bb77178778eb4fb26-792x314-ef8346d1de89ea4bb77178778eb4fb26.png",
+      "md5": "ef8346d1de89ea4bb77178778eb4fb26",
+      "width": 792,
+      "height": 314,
+      "size": 67396,
+      "uploadedDate": "2018-11-30T01:21:43.641Z"
+    },
+    {
+      "type": "undefined",
+      "url": "https://cdn1.epicgames.com/moose/item/SMBF_PrimaryPromo (2)-2580x1456-6a79414a644278bffb75efa113e5bfb3.jpg",
+      "md5": "6a79414a644278bffb75efa113e5bfb3",
+      "width": 2580,
+      "height": 1456,
+      "size": 542000,
+      "uploadedDate": "2018-12-06T21:17:34.176Z"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/moose/item/SMBF_PortraitPromo-1288x1450-cd06de90cc95aebe671eb17bc4f8f9b5-1288x1450-0348b35fb4aaa317927822e5b9af13a4-1288x1450-5d0730e60a4d3daad01d62901c9660a2.jpg",
+      "md5": "5d0730e60a4d3daad01d62901c9660a2",
+      "width": 1288,
+      "height": 1450,
+      "size": 145363,
+      "uploadedDate": "2019-11-20T17:05:47.420Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "moose",
+  "status": "ACTIVE",
+  "creationDate": "2018-11-30T01:21:47.809Z",
+  "lastModifiedDate": "2019-11-20T17:05:51.735Z",
+  "entitlementName": "e42eca8e2aeb48da9ccc5d5ecc212b62",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e7a1b466fa174218bb2d404ab159ca70",
+      "appId": "Moose",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2018-11-30T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Team Meat",
+  "developerId": "o-mj7q3aaq5djq6wuddnrr5mgqjsk2da",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

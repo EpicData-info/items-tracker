@@ -1,0 +1,34 @@
+{
+  "id": "8d4b615788274ceba22fc3764c25a0d6",
+  "title": "Expansion Pass Audience",
+  "description": "Expansion Pass Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-05T01:47:54.665Z",
+  "lastModifiedDate": "2020-04-23T15:00:07.418Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "8d4b615788274ceba22fc3764c25a0d6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Square Enix",
+  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

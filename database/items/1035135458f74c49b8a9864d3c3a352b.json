@@ -1,0 +1,30 @@
+{
+  "id": "1035135458f74c49b8a9864d3c3a352b",
+  "title": "Fortnite CN QA App Bundle",
+  "description": "Fortnite CN QA App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-18T01:48:02.826Z",
+  "lastModifiedDate": "2019-05-06T16:57:31.717Z",
+  "customAttributes": {
+    "ActionSetName": {
+      "type": "STRING",
+      "value": "Fortnite-CN-QA-App-Bundle"
+    }
+  },
+  "entitlementName": "1035135458f74c49b8a9864d3c3a352b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

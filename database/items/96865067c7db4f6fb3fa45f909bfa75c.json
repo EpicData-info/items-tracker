@@ -1,0 +1,35 @@
+{
+  "id": "96865067c7db4f6fb3fa45f909bfa75c",
+  "title": "Free Bundle Marker Audience",
+  "description": "Free Bundle Marker Audience",
+  "longDescription": "Free Bundle Marker Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-24T15:18:43.704Z",
+  "lastModifiedDate": "2020-03-25T23:12:08.046Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "96865067c7db4f6fb3fa45f909bfa75c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

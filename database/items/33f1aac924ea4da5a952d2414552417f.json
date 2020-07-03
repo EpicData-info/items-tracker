@@ -1,0 +1,102 @@
+{
+  "id": "33f1aac924ea4da5a952d2414552417f",
+  "title": "Assassin's Creed Rogue",
+  "description": "Assassin's Creed Rogue",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/34f7e1e275924bb6a90074920f9c1696/item/ACRG_Store_Landscape_2580x1450-2580x1450-2e3c9cdfd312bb0f063e991982c5ff57.jpg",
+      "md5": "2e3c9cdfd312bb0f063e991982c5ff57",
+      "width": 2580,
+      "height": 1450,
+      "size": 1139152,
+      "uploadedDate": "2020-03-25T14:50:50.779Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/34f7e1e275924bb6a90074920f9c1696/item/ACRG_Store_Portrait_1280x1420-1280x1420-5cba5dab889312a3ee8e0cb414f1ebaa.png",
+      "md5": "5cba5dab889312a3ee8e0cb414f1ebaa",
+      "width": 1280,
+      "height": 1420,
+      "size": 3504605,
+      "uploadedDate": "2020-03-25T14:51:13.216Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "34f7e1e275924bb6a90074920f9c1696",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-24T17:50:05.166Z",
+  "lastModifiedDate": "2020-03-25T14:53:53.722Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "34f7e1e275924bb6a90074920f9c1696"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "1736f0a0bfb14cd2a5432aa90c1cccbd"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AssassinsCreedRogue"
+    },
+    "neverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "33f1aac924ea4da5a952d2414552417f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "342a432204524ecda105b401f517579f",
+      "appId": "Wolffish",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

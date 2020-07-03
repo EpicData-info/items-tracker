@@ -1,0 +1,57 @@
+{
+  "id": "5bba168d1b694dc6a062e3df786b46a5",
+  "title": "JasperStaging",
+  "description": "JasperStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-13T19:28:26.288Z",
+  "lastModifiedDate": "2020-03-19T13:50:25.787Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "36b1d5936e0f4789b058ca0b462b9693"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "JasperStaging"
+    }
+  },
+  "entitlementName": "5bba168d1b694dc6a062e3df786b46a5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2bb5669af7a24ea1b11b39ab78ded7e1",
+      "appId": "JasperStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

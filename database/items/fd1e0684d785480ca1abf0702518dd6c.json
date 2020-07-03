@@ -1,0 +1,34 @@
+{
+  "id": "fd1e0684d785480ca1abf0702518dd6c",
+  "title": "WolffishGeneralAudience",
+  "description": "WolffishGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "34f7e1e275924bb6a90074920f9c1696",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-24T17:50:05.034Z",
+  "lastModifiedDate": "2020-03-25T14:53:53.722Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "fd1e0684d785480ca1abf0702518dd6c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

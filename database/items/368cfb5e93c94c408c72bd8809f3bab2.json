@@ -1,0 +1,34 @@
+{
+  "id": "368cfb5e93c94c408c72bd8809f3bab2",
+  "title": "The Sojourn Press Audience",
+  "description": "The Sojourn Press Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ada169f07b81464a9fc06a7d6896101d",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-29T19:44:51.242Z",
+  "lastModifiedDate": "2019-10-18T17:15:40.856Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "368cfb5e93c94c408c72bd8809f3bab2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Iceberg Interactive",
+  "developerId": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

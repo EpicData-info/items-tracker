@@ -1,0 +1,30 @@
+{
+  "id": "339847dedc384e14bcbbf6c9f79d4889",
+  "title": "SpyJinx free app bundle",
+  "description": "SpyJinx free app bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-16T20:36:13.352Z",
+  "lastModifiedDate": "2020-03-17T03:15:11.849Z",
+  "customAttributes": {
+    "ActionSetName": {
+      "type": "STRING",
+      "value": "Ocean-Free-App-Bundle"
+    }
+  },
+  "entitlementName": "339847dedc384e14bcbbf6c9f79d4889",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

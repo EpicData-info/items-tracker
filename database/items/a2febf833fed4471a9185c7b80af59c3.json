@@ -1,0 +1,100 @@
+{
+  "id": "a2febf833fed4471a9185c7b80af59c3",
+  "title": "Alan Wake's American Nightmare",
+  "description": "Alan Wake's American Nightmare",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4d2a12aff0484d699b1806ab104d259b/item/AlanWake_AN_PrimaryPromo-2580x1450-115d388941ed76dfc588f6ee7be5b06a.jpg",
+      "md5": "115d388941ed76dfc588f6ee7be5b06a",
+      "width": 2580,
+      "height": 1450,
+      "size": 174605,
+      "uploadedDate": "2019-10-08T19:03:45.244Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/4d2a12aff0484d699b1806ab104d259b/item/Alan_Wake_American_Nightmare_logo-2000x893-c8b2c2f751d25a6d5a59a490d1815fbc.png",
+      "md5": "c8b2c2f751d25a6d5a59a490d1815fbc",
+      "width": 2000,
+      "height": 893,
+      "size": 122453,
+      "uploadedDate": "2019-10-08T19:03:57.011Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/4d2a12aff0484d699b1806ab104d259b/item/AlanWake_AN_Store_Portrait_Portrait-1280x1420-9ffeb4efd25401f9999aa132f60c3ef3.jpg",
+      "md5": "9ffeb4efd25401f9999aa132f60c3ef3",
+      "width": 1280,
+      "height": 1420,
+      "size": 114390,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4d2a12aff0484d699b1806ab104d259b",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-22T19:15:19.976Z",
+  "lastModifiedDate": "2019-11-19T17:02:12.156Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "4d2a12aff0484d699b1806ab104d259b"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AWAN"
+    }
+  },
+  "entitlementName": "a2febf833fed4471a9185c7b80af59c3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4a2de02838f043a0b492c12d882f4862",
+      "appId": "Condor",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Remedy Entertainment",
+  "developerId": "o-sdmmvl8pftrkwfy86bjp286kuwhnsq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

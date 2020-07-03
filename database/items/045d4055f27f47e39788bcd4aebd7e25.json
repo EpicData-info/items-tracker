@@ -1,0 +1,27 @@
+{
+  "id": "045d4055f27f47e39788bcd4aebd7e25",
+  "title": "TestSeaQA-7",
+  "description": "Entitlement Start Date test",
+  "longDescription": "Entitlement type is entitlement, item type is Subscription, entitlement start date is in past",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-27T18:14:14.387Z",
+  "lastModifiedDate": "2020-04-27T21:53:14.531Z",
+  "entitlementName": "EntitlmentType-1",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementEndDate": "2025-10-28T00:00:00.000Z",
+  "entitlementStartDate": "2014-10-25T00:00:00.000Z",
+  "itemType": "SUBSCRIPTION",
+  "developer": "shaveta67-test",
+  "developerId": "o-5d0c7fec03094bceac537084ab535b",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

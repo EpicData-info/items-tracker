@@ -1,0 +1,111 @@
+{
+  "id": "a32aff0cb47f499496bdd2eec8e91695",
+  "title": "Uno",
+  "description": "Uno",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/item/UNO S2 -BANNERS-1280x1440-a43c9c1eff3b99f3024eee11256e306b.jpg",
+      "md5": "a43c9c1eff3b99f3024eee11256e306b",
+      "width": 1280,
+      "height": 1440,
+      "size": 204074,
+      "uploadedDate": "2020-03-16T22:54:14.477Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/item/UNO - S1 BANNERS-2560x1440-016401d01dc8efe5d5d20cff54f1218c.jpg",
+      "md5": "016401d01dc8efe5d5d20cff54f1218c",
+      "width": 2560,
+      "height": 1440,
+      "size": 334849,
+      "uploadedDate": "2020-03-16T22:55:21.210Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/item/GameName_Newsfeed_Game_Icon_400x400-400x400-20e6cec6b1510826e616e41c3a99ff02.png",
+      "md5": "20e6cec6b1510826e616e41c3a99ff02",
+      "width": 400,
+      "height": 400,
+      "size": 120290,
+      "uploadedDate": "2020-03-16T22:55:41.165Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ca93b6d41a4e41af864942d8f0a2a826",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-13T15:49:35.078Z",
+  "lastModifiedDate": "2020-03-17T14:25:49.491Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ca93b6d41a4e41af864942d8f0a2a826"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "0f066b80cdf64c7abded795b78f8b04c"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Uno"
+    }
+  },
+  "entitlementName": "a32aff0cb47f499496bdd2eec8e91695",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1205cebee0554f989f4435f1984ca87b",
+      "appId": "Hussar",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

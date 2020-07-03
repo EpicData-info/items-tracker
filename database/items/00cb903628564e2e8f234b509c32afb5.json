@@ -1,0 +1,31 @@
+{
+  "id": "00cb903628564e2e8f234b509c32afb5",
+  "title": "ChuckTestFreeOffer",
+  "description": "ChuckTestFreeOffer",
+  "longDescription": "ChuckTestFreeOffer",
+  "technicalDetails": "ChuckTestFreeOffer",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2017-03-02T02:40:02.282Z",
+  "lastModifiedDate": "2020-01-31T06:33:28.445Z",
+  "entitlementName": "00cb903628564e2e8f234b509c32afb5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "CONSUMABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "useCount": 1,
+  "eulaIds": [
+    "NANANA"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

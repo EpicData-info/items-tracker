@@ -1,0 +1,35 @@
+{
+  "id": "f707e54cb77440cf993dfb9edfc0b79d",
+  "title": "GreenAudience",
+  "description": "GreenAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T18:27:59.862Z",
+  "lastModifiedDate": "2020-05-08T18:38:22.672Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f707e54cb77440cf993dfb9edfc0b79d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Kalypso Media",
+  "developerId": "o-ntj9m7f2v76uksvjujurjfxtjkfawq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

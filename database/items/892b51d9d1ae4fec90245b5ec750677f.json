@@ -1,0 +1,71 @@
+{
+  "id": "892b51d9d1ae4fec90245b5ec750677f",
+  "title": "The Amorous Adventures of Bold Sir Hans Capon",
+  "description": "The Amorous Adventures of Bold Sir Hans Capon",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-04T05:16:50.866Z",
+  "lastModifiedDate": "2020-03-31T16:21:01.154Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ca4058f18b0a4a9e9e2ccc28f7f33000"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheAmorousAdv"
+    }
+  },
+  "entitlementName": "892b51d9d1ae4fec90245b5ec750677f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ae08a4d0374a4635968c6c4be7f4c6a0",
+      "appId": "EelAmorous",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-01-04T00:00:00.000Z"
+    }
+  ],
+  "developer": "Warhorse Studios",
+  "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

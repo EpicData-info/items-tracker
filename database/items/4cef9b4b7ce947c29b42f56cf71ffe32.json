@@ -1,0 +1,35 @@
+{
+  "id": "4cef9b4b7ce947c29b42f56cf71ffe32",
+  "title": "DLC35 Audience",
+  "description": "DLC35 (Horzine Supply Cosmetic Crate | Series #6 Gold Bundle Pack)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T02:38:47.613Z",
+  "lastModifiedDate": "2019-11-27T20:05:15.219Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4cef9b4b7ce947c29b42f56cf71ffe32",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,70 @@
+{
+  "id": "ed2392df7f154358895dc37908b5aaf7",
+  "title": "Limited Supply",
+  "description": "Limited Supply",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyLimitedSupply_MohawkGames_DLC_IC1_A-320x180-8be0096e5d7b66a58ff889f42a1e00fa.jpg",
+      "md5": "8be0096e5d7b66a58ff889f42a1e00fa",
+      "width": 320,
+      "height": 180,
+      "size": 68342,
+      "uploadedDate": "2020-03-05T15:52:22.621Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/Offworld_Portrait-510x680-7a9909ce27ac1d94813f6f49f6632871.jpg",
+      "md5": "7a9909ce27ac1d94813f6f49f6632871",
+      "width": 510,
+      "height": 680,
+      "size": 60952,
+      "uploadedDate": "2020-03-05T15:52:33.962Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-17T22:06:09.783Z",
+  "lastModifiedDate": "2020-03-05T15:58:54.094Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LimitedSupply"
+    }
+  },
+  "entitlementName": "ed2392df7f154358895dc37908b5aaf7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ec73f8b3af6c4c60a8cc0497e8dbf3a8",
+      "appId": "SnapperSupply",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-02-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

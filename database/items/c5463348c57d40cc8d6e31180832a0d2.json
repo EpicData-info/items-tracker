@@ -1,0 +1,33 @@
+{
+  "id": "c5463348c57d40cc8d6e31180832a0d2",
+  "title": "stargazerDevAudience",
+  "description": "stargazerDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "5fdcc0dc67294af3be740f362bd976fd",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-20T18:23:14.493Z",
+  "lastModifiedDate": "2020-03-26T18:56:44.742Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Win32,Mac"
+    }
+  },
+  "entitlementName": "c5463348c57d40cc8d6e31180832a0d2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Wizards of the Coast",
+  "developerId": "o-xlb74ml56wsa5dcfcgrpvu4ywndlmm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,90 @@
+{
+  "id": "4aef2a789d604a1088f3d8673bcb22ef",
+  "title": "Ancestors The Humankind Odyssey - Press",
+  "description": "Ancestors The Humankind Odyssey - Press",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/amaranth/item/EGS_PanacheDigitalGames_AncestorsTheHumankindOdyssey_IC1_GameLogoDarkbg-3000x1206-32a3a2c8b1036e5d757171bfc9c960ed.png",
+      "md5": "32a3a2c8b1036e5d757171bfc9c960ed",
+      "width": 3000,
+      "height": 1206,
+      "size": 55259,
+      "uploadedDate": "2019-05-23T18:34:29.538Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/amaranth/item/EGS_PanacheDigitalGames_Ancestors_N2_2560x1440-2560x1440-50339597c82243866cade177e5ed78cf.png",
+      "md5": "50339597c82243866cade177e5ed78cf",
+      "width": 2560,
+      "height": 1440,
+      "size": 1603409,
+      "uploadedDate": "2019-05-23T18:34:38.819Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "amaranth",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-22T15:18:46.961Z",
+  "lastModifiedDate": "2019-08-27T13:31:45.534Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "amaranth"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AncestorsTHOPress"
+    }
+  },
+  "entitlementName": "4aef2a789d604a1088f3d8673bcb22ef",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "de5761e8420b41f0bb194f0da1e31ba3",
+      "appId": "AmaranthPress",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-18T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Private Division",
+  "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

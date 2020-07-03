@@ -1,0 +1,31 @@
+{
+  "id": "725a3cba59ab401aa80a28f5ff90fb15",
+  "title": "NoodleHaus App Bundle",
+  "description": "NoodleHaus App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-14T18:58:28.148Z",
+  "lastModifiedDate": "2020-01-17T15:55:40.885Z",
+  "customAttributes": {
+    "ActionSetName": {
+      "type": "STRING",
+      "value": "Fortnite-NoodleHaus-App-Bundle"
+    }
+  },
+  "entitlementName": "725a3cba59ab401aa80a28f5ff90fb15",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

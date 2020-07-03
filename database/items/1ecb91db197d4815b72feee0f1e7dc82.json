@@ -1,0 +1,70 @@
+{
+  "id": "1ecb91db197d4815b72feee0f1e7dc82",
+  "title": "Season Pass",
+  "description": "Season Pass",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_G1-2560x1440-d2b89622979482c7b0a632306800b950.jpg",
+      "md5": "d2b89622979482c7b0a632306800b950",
+      "width": 2560,
+      "height": 1440,
+      "size": 312776,
+      "uploadedDate": "2019-10-16T23:30:42.197Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_IC1_COLOUR-1920x1080-891789d632a30ac0fd0a9c46069c53fe.png",
+      "md5": "891789d632a30ac0fd0a9c46069c53fe",
+      "width": 1920,
+      "height": 1080,
+      "size": 26596,
+      "uploadedDate": "2019-10-16T23:30:52.540Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-04T15:02:13.905Z",
+  "lastModifiedDate": "2019-11-04T20:09:23.251Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "QUBE2SeasonPass"
+    }
+  },
+  "entitlementName": "1ecb91db197d4815b72feee0f1e7dc82",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f9349946e92743e3afc2b983f6a0e240",
+      "appId": "AukSeason",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ten Hut Games",
+  "developerId": "o-kk34ewvmscclj5a2ukx49ff6qknn7a",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

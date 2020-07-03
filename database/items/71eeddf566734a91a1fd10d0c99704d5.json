@@ -1,0 +1,33 @@
+{
+  "id": "71eeddf566734a91a1fd10d0c99704d5",
+  "title": "Toy Vehicle Audience",
+  "description": "Toy Vehicle Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-16T18:45:43.324Z",
+  "lastModifiedDate": "2020-04-09T14:22:00.648Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "71eeddf566734a91a1fd10d0c99704d5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Square Enix",
+  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

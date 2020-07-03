@@ -1,0 +1,99 @@
+{
+  "id": "1a34c013d44e4d00b638dae75c8fed07",
+  "title": "Assassins Creed Syndicate",
+  "description": "Assassins Creed Syndicate",
+  "longDescription": "Assassins Creed Syndicate",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/item/ACS-STD-2560x1440-d38ba6341ab707a6ec99c4f921d8a9bc-2560x1440-d38ba6341ab707a6ec99c4f921d8a9bc.jpg",
+      "md5": "d38ba6341ab707a6ec99c4f921d8a9bc",
+      "width": 2560,
+      "height": 1440,
+      "size": 853469,
+      "uploadedDate": "2020-02-17T15:42:26.866Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/item/AC_Syndicate_Portrait-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0.png",
+      "md5": "b74c2aa94670d9e97cc6ddab0a5d4dd0",
+      "width": 1280,
+      "height": 1420,
+      "size": 4086781,
+      "uploadedDate": "2020-02-17T15:42:40.087Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c9be94273fe244c08032ca493ad87434",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-06T21:37:52.082Z",
+  "lastModifiedDate": "2020-02-20T15:15:16.031Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "c9be94273fe244c08032ca493ad87434"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "e9f9422804f54ef59dcec8e01aba8786"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AssassinsCreedSyndicate"
+    }
+  },
+  "entitlementName": "1a34c013d44e4d00b638dae75c8fed07",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9f4a336c710a4352b285f8d485b08715",
+      "appId": "Albacore",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

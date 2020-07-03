@@ -1,0 +1,108 @@
+{
+  "id": "757dcc774bbd4af1b71c450dd9e9159f",
+  "title": "South Park: Fractured But Whole",
+  "description": "South Park: Fractured But Whole",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/item/SFBW-S1-2560x1440-c39875130a3c5528771fe933431c6763.jpg",
+      "md5": "c39875130a3c5528771fe933431c6763",
+      "width": 2560,
+      "height": 1440,
+      "size": 314261,
+      "uploadedDate": "2019-12-18T15:34:44.815Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/item/SFBW-S2-1280x1440-6a3160fdcb57839f73332ede6564e19e.jpg",
+      "md5": "6a3160fdcb57839f73332ede6564e19e",
+      "width": 1280,
+      "height": 1440,
+      "size": 467198,
+      "uploadedDate": "2019-12-18T15:34:59.249Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/item/SPFB_UCS12473_EGST_Neg_1000x375-1000x375-5551374af35891ad6529dff819a4e53d.png",
+      "md5": "5551374af35891ad6529dff819a4e53d",
+      "width": 1000,
+      "height": 375,
+      "size": 117944,
+      "uploadedDate": "2019-12-18T15:35:04.640Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "764eb429792649e4a606413cd649de2c",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-28T21:43:21.118Z",
+  "lastModifiedDate": "2019-12-20T15:33:49.356Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "764eb429792649e4a606413cd649de2c"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "1636f05db30b48fd9c2d96a38cdd25d1"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SouthParkTFBWhole"
+    }
+  },
+  "entitlementName": "757dcc774bbd4af1b71c450dd9e9159f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "139bf3dc62254a6389cc85a4950114fc",
+      "appId": "Alewife",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-12-16T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

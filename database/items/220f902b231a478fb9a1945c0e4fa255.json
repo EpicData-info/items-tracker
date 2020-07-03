@@ -1,0 +1,74 @@
+{
+  "id": "220f902b231a478fb9a1945c0e4fa255",
+  "title": "QAOriole",
+  "description": "QAOriole",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/fa0c74ef7780498fb222dcd099bf82a2/item/EGS_ACE TEAM_THE ETERNAL CYLINDER_IC1_Game Logo Color-200x200-3908ba8c5f699d68a3cc39b6efa0e0fc.png",
+      "md5": "3908ba8c5f699d68a3cc39b6efa0e0fc",
+      "width": 200,
+      "height": 200,
+      "size": 119914,
+      "uploadedDate": "2019-08-29T01:35:44.028Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fa0c74ef7780498fb222dcd099bf82a2/item/EGS_ACE TEAM_THE ETERNAL CYLINDER_G1_Product Display Page Promo-1920x1080-3009c54e34003caeba8d1139d3f5ca5c.jpg",
+      "md5": "3009c54e34003caeba8d1139d3f5ca5c",
+      "width": 1920,
+      "height": 1080,
+      "size": 2168676,
+      "uploadedDate": "2019-08-29T01:36:05.125Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fa0c74ef7780498fb222dcd099bf82a2",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-18T14:02:51.663Z",
+  "lastModifiedDate": "2020-03-19T17:25:54.313Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "QAOriole"
+    }
+  },
+  "entitlementName": "220f902b231a478fb9a1945c0e4fa255",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2b144d68c5ac45d6a9fe3688db46aadd",
+      "appId": "5caf127b47ec4eee9abb92476895870e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "Good Shepherd Entertainment",
+  "developerId": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

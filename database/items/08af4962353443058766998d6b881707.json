@@ -1,0 +1,100 @@
+{
+  "id": "08af4962353443058766998d6b881707",
+  "title": "Backspace",
+  "description": "DM-Backspace",
+  "longDescription": "The ancient winds that permeate this bloodthirsty conclave are said to echo the calls of the old protectors, summoning exiled warriors from afar to prove their worth in trials of combat.",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ut/item/Featured_Backspace-600x600-55c6b29bfd0e5f85dce9e54f3f5aff98.png",
+      "md5": "55c6b29bfd0e5f85dce9e54f3f5aff98",
+      "width": 600,
+      "height": 600,
+      "size": 598895,
+      "uploadedDate": "2016-11-04T19:50:25.226Z"
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ut/item/NewFeatured_Backspace-1400x300-fbe21b34f894bb1936a375dcfba20870.png",
+      "md5": "fbe21b34f894bb1936a375dcfba20870",
+      "width": 1400,
+      "height": 300,
+      "size": 577317,
+      "uploadedDate": "2016-11-04T19:50:34.500Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Screenshot_Backspace_01-1920x1080-d1a4e38ea608036d4e62eab5e9220c6f.png",
+      "md5": "d1a4e38ea608036d4e62eab5e9220c6f",
+      "width": 1920,
+      "height": 1080,
+      "size": 3606004,
+      "uploadedDate": "2016-11-04T19:50:46.141Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Screenshot_Backspace_02-1920x1080-5ad2f3266ca2c469406509880c086ac9.png",
+      "md5": "5ad2f3266ca2c469406509880c086ac9",
+      "width": 1920,
+      "height": 1080,
+      "size": 3486497,
+      "uploadedDate": "2016-11-04T19:51:01.108Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Screenshot_Backspace_03-1920x1080-03c856b0827acf3883998e78c9caed57.png",
+      "md5": "03c856b0827acf3883998e78c9caed57",
+      "width": 1920,
+      "height": 1080,
+      "size": 2852508,
+      "uploadedDate": "2016-11-04T19:51:10.140Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Screenshot_Backspace_04-1920x1080-5733cb0ad9ba9bbb6620ca8a4b4c45bd.png",
+      "md5": "5733cb0ad9ba9bbb6620ca8a4b4c45bd",
+      "width": 1920,
+      "height": 1080,
+      "size": 3186775,
+      "uploadedDate": "2016-11-04T19:51:17.992Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Screenshot_Backspace_05-1920x1080-849ddb7f52e400b7bd242969e0684afa.png",
+      "md5": "849ddb7f52e400b7bd242969e0684afa",
+      "width": 1920,
+      "height": 1080,
+      "size": 3743066,
+      "uploadedDate": "2016-11-04T19:51:48.347Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ut/item/Thumbnail_Backspace-300x250-3fa6e72d57e5f8f40db1286567498466.png",
+      "md5": "3fa6e72d57e5f8f40db1286567498466",
+      "width": 300,
+      "height": 250,
+      "size": 93498,
+      "uploadedDate": "2016-11-04T19:51:55.387Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2016-11-03T19:54:26.795Z",
+  "lastModifiedDate": "2019-05-13T14:32:30.584Z",
+  "entitlementName": "Backspace",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

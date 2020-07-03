@@ -1,0 +1,33 @@
+{
+  "id": "da97a9da36914bbfa6db00f1d61d05f6",
+  "title": "PelicanDevAudience",
+  "description": "PelicanDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "854ca270c7f04fe483212a35811e9189",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-01T19:10:34.754Z",
+  "lastModifiedDate": "2019-09-26T14:59:28.489Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "da97a9da36914bbfa6db00f1d61d05f6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "David OReilly",
+  "developerId": "o-bb6gmtc2ysnxtvxulaxsqe7bgtzkz7",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "77d6b720a9cc4d3993492a6711aab31d",
+  "title": "test_create_landy",
+  "description": "test_create_landy",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "assets"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2017-10-18T10:42:47.668Z",
+  "lastModifiedDate": "2019-07-09T08:35:18.210Z",
+  "entitlementName": "77d6b720a9cc4d3993492a6711aab31d",
+  "entitlementType": "EXECUTABLE",
+  "entitlementEndDate": "2019-07-07T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "379c72fae98f453fb5b89ea7d3c66361",
+      "appId": "1",
+      "compatibleApps": [
+        "UE_4.16",
+        "UE_4.17"
+      ],
+      "platform": [
+        "PS4"
+      ],
+      "dateAdded": "2017-10-18T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "landytianfr",
+  "developerId": "o-569b3b228844a48801edff12bc30cb",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

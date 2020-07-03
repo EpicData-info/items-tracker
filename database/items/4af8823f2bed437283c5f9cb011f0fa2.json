@@ -1,0 +1,69 @@
+{
+  "id": "4af8823f2bed437283c5f9cb011f0fa2",
+  "title": "JacinthQA",
+  "description": "JacinthQA",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "conanexiles",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-21T18:20:23.122Z",
+  "lastModifiedDate": "2020-06-25T14:28:27.423Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "conanexiles"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "JacinthQA"
+    }
+  },
+  "entitlementName": "4af8823f2bed437283c5f9cb011f0fa2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "79ffde84703d4c23aaeff72c722859fc",
+      "appId": "1c45c43710b240c4be8c5c7c9a00a448",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-03-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Funcom",
+  "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

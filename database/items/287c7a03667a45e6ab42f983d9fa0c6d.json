@@ -1,0 +1,25 @@
+{
+  "id": "287c7a03667a45e6ab42f983d9fa0c6d",
+  "title": "Create_CommunitySpotlight",
+  "description": "Community Spotlight",
+  "longDescription": "Unreal® Tournament is being developed as a collaboration between gamers, developers and Epic Games. The community can not only play the game while it is being developed, but share also ideas, make mods or even help with development.",
+  "technicalDetails": "",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "layout"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-02-04T00:06:48.550Z",
+  "lastModifiedDate": "2017-03-17T18:58:26.812Z",
+  "entitlementName": "c4d2be6831fe41f68340a9f399157ad3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

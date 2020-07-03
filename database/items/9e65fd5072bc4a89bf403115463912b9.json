@@ -1,0 +1,51 @@
+{
+  "id": "9e65fd5072bc4a89bf403115463912b9",
+  "title": "WombatDevelopment",
+  "description": "WombatDevelopment",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wombat",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-25T20:27:01.321Z",
+  "lastModifiedDate": "2020-04-09T01:06:17.024Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WombatDevelopment"
+    }
+  },
+  "entitlementName": "9e65fd5072bc4a89bf403115463912b9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bb190c5e6d5d4becb1ca12bfd7bba624",
+      "appId": "WombatDevelopment",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-25T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

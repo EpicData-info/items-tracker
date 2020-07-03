@@ -1,0 +1,90 @@
+{
+  "id": "6efd99a68c87411593bdde83dc559230",
+  "title": "Civilization VI : Persia and Macedon Civilization & Scenario Pack",
+  "description": "Civilization VI : Persia and Macedon Civilization & Scenario Pack",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/EGS_SidMeiersCivilizationVI_FiraxisGames_S5-1360x766-43ec615712394b3c4acbe77bce54975c.jpg",
+      "md5": "43ec615712394b3c4acbe77bce54975c",
+      "width": 1360,
+      "height": 766,
+      "size": 475027,
+      "uploadedDate": "2020-05-19T21:41:35.877Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/EGS_SidMeiersCivilizationVI_FiraxisGames_S6-510x680-7bca651712a1c939a86f767c65160461.jpg",
+      "md5": "7bca651712a1c939a86f767c65160461",
+      "width": 510,
+      "height": 680,
+      "size": 309610,
+      "uploadedDate": "2020-05-19T21:41:46.371Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "dlc"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-16T20:35:17.751Z",
+  "lastModifiedDate": "2020-05-27T23:45:14.293Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "cd14dcaa4f3443f19f7169a980559c62"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PersiaMacedonDLC"
+    }
+  },
+  "entitlementName": "6efd99a68c87411593bdde83dc559230",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e6a8f1ef80d44168b51469bc13b6cd09",
+      "appId": "KingletPersiaMacedon",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fa360fd91785475fb9d89a58329b2390",
+  "title": "JackalProdTestAudience",
+  "description": "JackalProdTestAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "jackal",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-25T14:09:40.850Z",
+  "lastModifiedDate": "2020-06-11T16:55:23.415Z",
+  "entitlementName": "fa360fd91785475fb9d89a58329b2390",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

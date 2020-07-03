@@ -1,0 +1,25 @@
+{
+  "id": "9b4ee5f785444db1a5a4f34d71ee3f75",
+  "title": "[Promo] Samsung 5000 V-Bucks",
+  "description": "[Promo] Samsung 5000 V-Bucks",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "points"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-09-19T18:29:34.361Z",
+  "lastModifiedDate": "2018-10-15T21:40:28.457Z",
+  "entitlementName": "FN_5000_SAMSUNG_PROMO",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

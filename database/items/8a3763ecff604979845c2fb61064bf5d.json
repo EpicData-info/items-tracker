@@ -1,0 +1,30 @@
+{
+  "id": "8a3763ecff604979845c2fb61064bf5d",
+  "title": "Fortnite Event - Creative E32019 App Bundle",
+  "description": "Fortnite Event - Creative E32019 App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "SUNSET",
+  "creationDate": "2019-05-08T18:03:14.108Z",
+  "lastModifiedDate": "2019-06-21T13:15:29.220Z",
+  "customAttributes": {
+    "ActionSetName": {
+      "type": "STRING",
+      "value": "Fortnite-Event-Creative-E32019-App-Bundle"
+    }
+  },
+  "entitlementName": "8a3763ecff604979845c2fb61064bf5d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

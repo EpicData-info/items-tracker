@@ -1,0 +1,33 @@
+{
+  "id": "c4621c987b3241ae94b1ce30753d7021",
+  "title": "DevSiberianAudience",
+  "description": "DevSiberianAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T16:35:14.137Z",
+  "lastModifiedDate": "2020-05-08T16:57:20.929Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c4621c987b3241ae94b1ce30753d7021",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Kalypso Media",
+  "developerId": "o-ntj9m7f2v76uksvjujurjfxtjkfawq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

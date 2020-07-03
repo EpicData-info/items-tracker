@@ -1,0 +1,78 @@
+{
+  "id": "4c6a69a9755c4ca2a50d86b7a8ccd7e3",
+  "title": "AlliumStaging",
+  "description": "AlliumStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/allium/item/Observation_PrimaryPromo-1920x1080-515772930cdd49854eedd42128215ffc.jpg",
+      "md5": "515772930cdd49854eedd42128215ffc",
+      "width": 1920,
+      "height": 1080,
+      "size": 351193,
+      "uploadedDate": "2019-03-25T20:45:47.317Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/allium/item/Observation_Logo_Color-2496x560-b4b1a805027ea44d3e5018fe13036576.png",
+      "md5": "b4b1a805027ea44d3e5018fe13036576",
+      "width": 2496,
+      "height": 560,
+      "size": 15068,
+      "uploadedDate": "2019-03-25T20:46:07.353Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "allium",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-25T20:36:02.959Z",
+  "lastModifiedDate": "2019-10-09T16:11:22.361Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/No Code Studio/Observation/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AlliumStaging"
+    }
+  },
+  "entitlementName": "4c6a69a9755c4ca2a50d86b7a8ccd7e3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2547abeaaab1435c841d4f4a4c95c67e",
+      "appId": "AlliumStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-25T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

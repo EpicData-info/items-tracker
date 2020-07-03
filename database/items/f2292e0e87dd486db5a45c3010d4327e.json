@@ -1,0 +1,41 @@
+{
+  "id": "f2292e0e87dd486db5a45c3010d4327e",
+  "title": "Restricted Press Audience",
+  "description": "Restricted Press Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/ocelot/item/ClosetotheSun-842x404-b4e07498d37bb5ef762336cec2de62e9.png",
+      "md5": "b4e07498d37bb5ef762336cec2de62e9",
+      "width": 842,
+      "height": 404,
+      "size": 55352,
+      "uploadedDate": "2019-04-23T21:04:17.990Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "ocelot",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-22T21:34:57.607Z",
+  "lastModifiedDate": "2019-05-13T14:05:46.881Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f2292e0e87dd486db5a45c3010d4327e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

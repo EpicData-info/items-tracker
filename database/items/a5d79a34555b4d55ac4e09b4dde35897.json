@@ -1,0 +1,110 @@
+{
+  "id": "a5d79a34555b4d55ac4e09b4dde35897",
+  "title": "Subnautica Below Zero",
+  "description": "Subnautica Below Zero",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/foxglove/item/20190119_SN_BZ_Logo_Horizontal-2767x838-3a270bbd782f1b867bd43bc25905cd73.png",
+      "md5": "3a270bbd782f1b867bd43bc25905cd73",
+      "width": 2767,
+      "height": 838,
+      "size": 515171,
+      "uploadedDate": "2019-01-24T20:10:43.359Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/foxglove/item/20190119_SN_BZ_IcePeeper_SquareProfile-900x900-ba6f4b8919c041fa5c9a0a080c0c697b.jpg",
+      "md5": "ba6f4b8919c041fa5c9a0a080c0c697b",
+      "width": 900,
+      "height": 900,
+      "size": 67568,
+      "uploadedDate": "2019-01-24T20:10:55.929Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/foxglove/item/SBZ_Hero_Landscape-2560x1450-4040d92bb659aba19937040433688207.jpg",
+      "md5": "4040d92bb659aba19937040433688207",
+      "width": 2560,
+      "height": 1450,
+      "size": 378373,
+      "uploadedDate": "2019-01-29T20:51:03.388Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/foxglove/item/SBZ_Hero_Portrait-1288x1450-6e0c416453ae65849a5c82f4540daad5.jpg",
+      "md5": "6e0c416453ae65849a5c82f4540daad5",
+      "width": 1288,
+      "height": 1450,
+      "size": 196229,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "foxglove",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-24T19:47:19.853Z",
+  "lastModifiedDate": "2019-11-19T17:03:45.333Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Unknown Worlds Entertainment"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SubnauticaBelowZero"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "FoxgloveGeneralAudience",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "484702ff8e124366896a28bd915d1412",
+      "appId": "Foxglove",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-02-28T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Unknown Worlds Entertainment",
+  "developerId": "o-g4s9pbd6mu9e8uqn539s3xqk9yex92",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

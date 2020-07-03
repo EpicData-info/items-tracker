@@ -1,0 +1,29 @@
+{
+  "id": "022ae4076b3849babfafacbfd20bd706",
+  "title": "Founder's Pack 2 (Explorer Pack) Marker",
+  "description": "Founder's Pack 2 (Explorer Pack) Marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "azalea",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-07T19:53:35.286Z",
+  "lastModifiedDate": "2019-07-31T19:13:06.599Z",
+  "entitlementName": "022ae4076b3849babfafacbfd20bd706",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

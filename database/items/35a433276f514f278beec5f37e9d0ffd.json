@@ -1,0 +1,41 @@
+{
+  "id": "35a433276f514f278beec5f37e9d0ffd",
+  "title": "Public_Carousel_2",
+  "description": "Sign up for the Alpha!",
+  "longDescription": "",
+  "technicalDetails": "https://www.epicgames.com/fortnite/register?utm_source=launcher&utm_medium=fn&utm_campaign=fnplay",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/fn/item/Construction-Fortnite-Launcher-1000x290-651bb426987277b9bf16bec8f36bf7a4.png",
+      "md5": "84652570cc5ddb319628378d5d9aa697",
+      "width": 1000,
+      "height": 290,
+      "size": 492617,
+      "uploadedDate": "2017-01-26T20:11:48.346Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2015-10-12T18:38:49.008Z",
+  "lastModifiedDate": "2017-01-26T20:11:55.060Z",
+  "entitlementName": "35a433276f514f278beec5f37e9d0ffd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

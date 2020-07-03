@@ -1,0 +1,35 @@
+{
+  "id": "eb14f52e511545b3990e36861bb19d14",
+  "title": "DLC68 Audience",
+  "description": "DLC68 (Horzine Supply Weapon Crate | Series #5 Gold Bundle Pack)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T18:36:57.067Z",
+  "lastModifiedDate": "2019-11-27T20:12:24.124Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "eb14f52e511545b3990e36861bb19d14",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

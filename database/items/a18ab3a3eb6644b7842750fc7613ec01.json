@@ -1,0 +1,93 @@
+{
+  "id": "a18ab3a3eb6644b7842750fc7613ec01",
+  "title": "Omega Armor",
+  "description": "Viper",
+  "longDescription": "Viper awesomeness",
+  "technicalDetails": "",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Screen_KingDemon03-1920x1080-39b454dbb4d162180a4bf5e21962fd8a.png",
+      "md5": "39b454dbb4d162180a4bf5e21962fd8a",
+      "width": 1920,
+      "height": 1080,
+      "size": 2031366,
+      "uploadedDate": "2015-02-28T01:43:18.852Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ut/item/SkullThumb_01-300x250-0d757494b43eea20951748225830d84d.png",
+      "md5": "0d757494b43eea20951748225830d84d",
+      "width": 300,
+      "height": 250,
+      "size": 102014,
+      "uploadedDate": "2015-02-28T01:42:40.000Z"
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ut/item/ItemDetail_DemonSkull-1400x300-df85f3b09e597ef1dae232aa291f6d76.png",
+      "md5": "df85f3b09e597ef1dae232aa291f6d76",
+      "width": 1400,
+      "height": 300,
+      "size": 502847,
+      "uploadedDate": "2015-02-28T01:42:49.569Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Screen_Demon02-1920x1080-b15d07eaa1d2d9f6dc387754175376ab.png",
+      "md5": "b15d07eaa1d2d9f6dc387754175376ab",
+      "width": 1920,
+      "height": 1080,
+      "size": 2430862,
+      "uploadedDate": "2015-02-28T01:43:24.608Z"
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ut/item/Untitled-2-550x500-5f46f472c06fa35f2845326937d553e8.png",
+      "md5": "5f46f472c06fa35f2845326937d553e8",
+      "width": 550,
+      "height": 500,
+      "size": 476692,
+      "uploadedDate": "2015-02-28T02:25:51.245Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Screen_KingDemon02-1920x1080-01db2a4fe9374f5a29e961aa83545f9c.png",
+      "md5": "01db2a4fe9374f5a29e961aa83545f9c",
+      "width": 1920,
+      "height": 1080,
+      "size": 2286749,
+      "uploadedDate": "2015-02-28T01:43:05.940Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Screen_Demon01-1920x1080-20987fc65ec788be7f2705cc7200bcbb.png",
+      "md5": "20987fc65ec788be7f2705cc7200bcbb",
+      "width": 1920,
+      "height": 1080,
+      "size": 2346518,
+      "uploadedDate": "2015-02-28T01:43:34.397Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-11-13T19:15:37.934Z",
+  "lastModifiedDate": "2019-05-13T14:32:30.584Z",
+  "entitlementName": "a18ab3a3eb6644b7842750fc7613ec01",
+  "entitlementType": "EXECUTABLE",
+  "entitlementStartDate": "2015-01-22T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

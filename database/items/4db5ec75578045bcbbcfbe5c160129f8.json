@@ -1,0 +1,55 @@
+{
+  "id": "4db5ec75578045bcbbcfbe5c160129f8",
+  "title": "LupineStaging",
+  "description": "LupineStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "lupine",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-27T01:37:33.327Z",
+  "lastModifiedDate": "2019-12-17T15:58:37.990Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Funomena/Wattam/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LupineStaging"
+    }
+  },
+  "entitlementName": "4db5ec75578045bcbbcfbe5c160129f8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "99250a0401ea406c81f8f7ee699308ac",
+      "appId": "LupineStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-27T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

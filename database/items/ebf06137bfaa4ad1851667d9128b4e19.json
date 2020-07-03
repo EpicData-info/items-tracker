@@ -1,0 +1,35 @@
+{
+  "id": "ebf06137bfaa4ad1851667d9128b4e19",
+  "title": "Skin 1 Audience",
+  "description": "Chloe's Cavaliers",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "b9def67e597b4be7a16146146a044d02",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-21T18:12:17.860Z",
+  "lastModifiedDate": "2020-01-08T15:36:42.013Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ebf06137bfaa4ad1851667d9128b4e19",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Piranha Games",
+  "developerId": "o-muad9pj32k67stc4ycpgpplwq84sgq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

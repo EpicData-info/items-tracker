@@ -1,0 +1,46 @@
+{
+  "id": "a947e4e361604dbe993781d28080ec12",
+  "title": "EagleGeneralAudience",
+  "description": "EagleGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/item/ESRB_E10_FantasyViolence-842x404-b69ee903026c7a87f4179c74360a65aa.jpg",
+      "md5": "b69ee903026c7a87f4179c74360a65aa",
+      "width": 842,
+      "height": 404,
+      "size": 21122,
+      "uploadedDate": "2019-07-16T15:43:18.055Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "bec822fb982843c3be794d440728336b",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-09T15:35:38.164Z",
+  "lastModifiedDate": "2020-01-28T16:25:23.771Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "a947e4e361604dbe993781d28080ec12",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "11 Bit Studios",
+  "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "selfRefundable": true,
+  "unsearchable": false
+}

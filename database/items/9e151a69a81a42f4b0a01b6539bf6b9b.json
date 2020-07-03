@@ -1,0 +1,47 @@
+{
+  "id": "9e151a69a81a42f4b0a01b6539bf6b9b",
+  "title": "Trover Saves The Universe Pre-Purchase Audience",
+  "description": "Trover Saves The Universe Pre-Purchase Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/sweetpea/item/Trover_ESRB-330x158-4b061e19f8b86626bf6763b553ae5b98.jpg",
+      "md5": "4b061e19f8b86626bf6763b553ae5b98",
+      "width": 330,
+      "height": 158,
+      "size": 45255,
+      "uploadedDate": "2019-04-23T19:30:09.369Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "sweetpea",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-26T01:16:50.717Z",
+  "lastModifiedDate": "2019-06-04T12:59:01.699Z",
+  "customAttributes": {
+    "availableDate": {
+      "type": "STRING",
+      "value": "1553583600"
+    }
+  },
+  "entitlementName": "9e151a69a81a42f4b0a01b6539bf6b9b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Squanch Games",
+  "developerId": "o-n2p7jejpaawba9jzcfpryscpj3uh6w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

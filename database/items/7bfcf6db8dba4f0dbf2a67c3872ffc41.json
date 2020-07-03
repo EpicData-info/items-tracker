@@ -1,0 +1,100 @@
+{
+  "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+  "title": "Spellbreak",
+  "description": "Spellbreak",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/newt/item/EGS_ProletariatInc_Spellbreak_S4-510x680-7554fbe28edb464bc5447618e65202dd.jpg",
+      "md5": "7554fbe28edb464bc5447618e65202dd",
+      "width": 510,
+      "height": 680,
+      "size": 111107,
+      "uploadedDate": "2020-02-28T20:36:11.653Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/newt/item/EGS_ProletariatInc_Spellbreak_S3-1360x766-afa07da3663cba7e0269f44cb96be8bc.jpg",
+      "md5": "afa07da3663cba7e0269f44cb96be8bc",
+      "width": 1360,
+      "height": 766,
+      "size": 382253,
+      "uploadedDate": "2020-02-28T20:36:20.520Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/newt/item/EGS_ProletariatInc_Spellbreak_IC2-128x128-f2d69ef550d3718937e61621a70d9a35.png",
+      "md5": "f2d69ef550d3718937e61621a70d9a35",
+      "width": 128,
+      "height": 128,
+      "size": 13506,
+      "uploadedDate": "2020-02-28T20:37:30.401Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-13T21:44:29.162Z",
+  "lastModifiedDate": "2020-02-28T20:37:49.120Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Proletariat Inc"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Spellbreak"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "834a4b3c8da94c98b323dd597da817ef",
+      "appId": "Newt",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2018-12-13T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

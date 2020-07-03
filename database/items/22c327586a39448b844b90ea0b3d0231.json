@@ -1,0 +1,34 @@
+{
+  "id": "22c327586a39448b844b90ea0b3d0231",
+  "title": "SiberianGeneralAudience",
+  "description": "SiberianGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T16:35:14.072Z",
+  "lastModifiedDate": "2020-06-29T13:56:14.262Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "22c327586a39448b844b90ea0b3d0231",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": "06b2e259e9ee4acf93edaca22a0212b2",
+  "title": "BucharestStaging",
+  "description": "BucharestStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "470e78f71f7a4b8eb05f1ec1422553e6",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-19T23:26:04.742Z",
+  "lastModifiedDate": "2020-06-19T23:34:43.578Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BucharestStaging"
+    }
+  },
+  "entitlementName": "06b2e259e9ee4acf93edaca22a0212b2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6f4c88cb59db46d1b046897041fc1e16",
+      "appId": "c84296ad78e445c69531820f3a5b6e7b",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-19T23:30:23.278Z"
+    }
+  ],
+  "developer": "Tactic Studios Inc.",
+  "developerId": "o-hk767x3yr4tfhk2ghy35fq5dnueqdg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ce297fa04b3b4dc5b59c8591bc3db09f",
+  "title": "ThrushStaging",
+  "description": "ThrushStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0aaf0617ee0d47df87c0dc93509159dd",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-24T05:55:20.020Z",
+  "lastModifiedDate": "2020-02-04T15:14:07.834Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Asmodee/Carcassonne/Default/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ThrushStaging"
+    }
+  },
+  "entitlementName": "ce297fa04b3b4dc5b59c8591bc3db09f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1077609f6c1e4df1a92a74fd3e41533e",
+      "appId": "ThrushStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Asmodee",
+  "developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

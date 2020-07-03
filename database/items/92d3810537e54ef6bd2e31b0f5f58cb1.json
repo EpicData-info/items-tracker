@@ -1,0 +1,25 @@
+{
+  "id": "92d3810537e54ef6bd2e31b0f5f58cb1",
+  "title": "Inferno Challenge Pack",
+  "description": "Inferno Challenge Pack",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-03T20:19:59.201Z",
+  "lastModifiedDate": "2019-04-30T14:16:24.830Z",
+  "entitlementName": "Inferno_Challenges_01",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

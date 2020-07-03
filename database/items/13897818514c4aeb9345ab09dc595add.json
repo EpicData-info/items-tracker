@@ -1,0 +1,58 @@
+{
+  "id": "13897818514c4aeb9345ab09dc595add",
+  "title": "AlewifeStaging",
+  "description": "AlewifeStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "764eb429792649e4a606413cd649de2c",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-28T21:43:21.145Z",
+  "lastModifiedDate": "2019-12-20T15:33:49.356Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "85fc44516e1646e6ac004a152508ef61"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AlewifeStaging"
+    }
+  },
+  "entitlementName": "13897818514c4aeb9345ab09dc595add",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "341d898c0bbd46728b64b62f2ed42ff0",
+      "appId": "AlewifeStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-28T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

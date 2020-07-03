@@ -1,0 +1,23 @@
+{
+  "id": "ce5e6a5299ee44d2a9932fec72701514",
+  "title": "Influencer Banner - Alexelcapo",
+  "description": "Influencer Banner - Alexelcapo",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-07-19T19:35:18.176Z",
+  "lastModifiedDate": "2017-07-19T19:47:05.332Z",
+  "entitlementName": "INFLUENCERBANNER_Alexelcapo",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

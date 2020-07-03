@@ -1,0 +1,29 @@
+{
+  "id": "cc1e38f006924a0a85dd82c5aacec142",
+  "title": "Beyond Two Souls Pre-Purchase Audience TEST",
+  "description": "Beyond Two Souls Pre-Purchase Audience TEST",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "lavender",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-15T23:29:37.553Z",
+  "lastModifiedDate": "2019-10-16T14:25:56.304Z",
+  "entitlementName": "cc1e38f006924a0a85dd82c5aacec142",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

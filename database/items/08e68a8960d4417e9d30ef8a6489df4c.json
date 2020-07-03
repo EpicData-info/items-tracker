@@ -1,0 +1,35 @@
+{
+  "id": "08e68a8960d4417e9d30ef8a6489df4c",
+  "title": "ChickadeeGeneralAudience",
+  "description": "ChickadeeGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "aeac94c7a11048758064b82f8f8d20ed",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-04T14:32:24.251Z",
+  "lastModifiedDate": "2020-02-19T19:22:43.537Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "08e68a8960d4417e9d30ef8a6489df4c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Test Organization",
+  "developerId": "o-jwuggxrvjq99seqnvcrzckgm6e8jtr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

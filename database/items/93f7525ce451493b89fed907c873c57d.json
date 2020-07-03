@@ -1,0 +1,45 @@
+{
+  "id": "93f7525ce451493b89fed907c873c57d",
+  "title": "CilantroGeneralAudience",
+  "description": "CilantroGeneralAudience",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/04467b70295342a79381467353f23955/item/LayersOfFear_PortaitPromo-1280x1440-61daf14a7bf8e9c71650cadff259d386.jpg",
+      "md5": "61daf14a7bf8e9c71650cadff259d386",
+      "width": 1280,
+      "height": 1440,
+      "size": 143618,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "04467b70295342a79381467353f23955",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-05T20:52:24.526Z",
+  "lastModifiedDate": "2020-01-06T21:07:17.297Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "93f7525ce451493b89fed907c873c57d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Aspyr Media, Inc.",
+  "developerId": "o-dukzxsmt2q39w2xql6eb8vewd2bkc9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

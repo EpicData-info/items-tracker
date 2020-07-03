@@ -1,0 +1,29 @@
+{
+  "id": "722ef6559a19420fa296746e8a01ea12",
+  "title": "SaffronGoldAudience_marker",
+  "description": "SaffronGoldAudience_marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-08T07:11:13.864Z",
+  "lastModifiedDate": "2019-05-09T19:00:20.254Z",
+  "entitlementName": "722ef6559a19420fa296746e8a01ea12",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

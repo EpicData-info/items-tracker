@@ -1,0 +1,83 @@
+{
+  "id": "807986032e01471f87dd5ac9ea94e8f2",
+  "title": "PhloxStaging",
+  "description": "PhloxStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/phlox/item/Griftlands_Logo-1113x600-194662df3c122fd76aaf67cae826b4b5.png",
+      "md5": "194662df3c122fd76aaf67cae826b4b5",
+      "width": 1113,
+      "height": 600,
+      "size": 26322,
+      "uploadedDate": "2019-06-27T19:36:04.041Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/phlox/item/Griftlands_Promo-2580x1450-2dfee7e7d50825b839a36a52cb5dac7d.jpg",
+      "md5": "2dfee7e7d50825b839a36a52cb5dac7d",
+      "width": 2580,
+      "height": 1450,
+      "size": 3399189,
+      "uploadedDate": "2019-06-27T19:36:14.124Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "phlox",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-04T13:08:18.034Z",
+  "lastModifiedDate": "2019-08-08T19:40:33.509Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Documents/Klei/Griftlands_staging"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Klei/Griftlands_staging/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "*.dmp,log.txt,cache/,feedback/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PhloxStaging"
+    }
+  },
+  "entitlementName": "807986032e01471f87dd5ac9ea94e8f2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9c11d6bfaf164418a0531abc32579257",
+      "appId": "PhloxStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-03-04T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Klei Entertainment",
+  "developerId": "o-6v5su732w3tnzud9lque2m7s4qzvjx",
+  "eulaIds": [
+    "(egstore && phlox)"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "846157f56bf1439d91fd6a0520673b46",
+  "title": "Phoenix Point Press2 Audience",
+  "description": "Phoenix Point Press2 Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-13T19:01:30.980Z",
+  "lastModifiedDate": "2020-02-13T19:04:28.301Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "846157f56bf1439d91fd6a0520673b46",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

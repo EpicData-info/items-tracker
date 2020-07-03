@@ -1,0 +1,36 @@
+{
+  "id": "c07e5b36bdb64981bc52f7b85e92d008",
+  "title": "Currency Pack 3",
+  "description": "Currency Pack 3",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "azalea",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-29T21:35:42.022Z",
+  "lastModifiedDate": "2019-10-08T13:35:46.835Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c07e5b36bdb64981bc52f7b85e92d008",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

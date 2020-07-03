@@ -1,0 +1,58 @@
+{
+  "id": "38b549071d964aefacc869ceceab6b19",
+  "title": "Saffron OR Pack",
+  "description": "Saffron OR Pack",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-08T07:30:07.077Z",
+  "lastModifiedDate": "2019-05-09T19:00:20.254Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "[]"
+    }
+  },
+  "entitlementName": "38b549071d964aefacc869ceceab6b19",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9420a5f7064a4bb48969c1741296e22f",
+      "appId": "SaffronORPackTest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-05-08T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

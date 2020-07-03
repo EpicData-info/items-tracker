@@ -1,0 +1,33 @@
+{
+  "id": "51523fcd6f184936a31065906fe40c99",
+  "title": "GulperDevAudience",
+  "description": "GulperDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-13T15:48:51.327Z",
+  "lastModifiedDate": "2020-02-19T15:40:01.064Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "51523fcd6f184936a31065906fe40c99",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "4f0aaa947e204edbaf2dcf9edae9eacf",
+  "title": "Pouch of Gems",
+  "description": "A pouch of gems",
+  "longDescription": "A pouch of gems",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "mtx-packages"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2017-04-07T03:47:27.161Z",
+  "lastModifiedDate": "2019-11-12T22:11:55.412Z",
+  "entitlementName": "4f0aaa947e204edbaf2dcf9edae9eacf",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

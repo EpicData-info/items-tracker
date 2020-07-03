@@ -1,0 +1,23 @@
+{
+  "id": "2ea6c26b06b9494fadf8313ccda583ab",
+  "title": "Paragon Banner",
+  "description": "Paragon Banner",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-07-07T18:14:18.011Z",
+  "lastModifiedDate": "2017-07-07T19:02:57.211Z",
+  "entitlementName": "PARAGON_BANNER",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

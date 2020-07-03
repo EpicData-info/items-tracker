@@ -1,0 +1,33 @@
+{
+  "id": "c70bc4ba26954e1a82b5c9cddced1ad2",
+  "title": "Wombat Production Audience",
+  "description": "Wombat Production Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "wombat",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-28T14:28:53.777Z",
+  "lastModifiedDate": "2019-12-17T13:50:30.004Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c70bc4ba26954e1a82b5c9cddced1ad2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

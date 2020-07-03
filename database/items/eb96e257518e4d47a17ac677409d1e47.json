@@ -1,0 +1,100 @@
+{
+  "id": "eb96e257518e4d47a17ac677409d1e47",
+  "title": "SAMURAI SHODOWN",
+  "description": "SAMURAI SHODOWN",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/item/EGS_SAMURAISHODOWN_SNKCORPORATION_S2-860x1148-5d69fe40f4d47c3df84304461153e928.jpg",
+      "md5": "5d69fe40f4d47c3df84304461153e928",
+      "width": 860,
+      "height": 1148,
+      "size": 270213,
+      "uploadedDate": "2020-05-31T23:42:08.764Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/item/EGS_SAMURAISHODOWN_SNKCORPORATION_S1-2560x1440-3944d8fd1380c786c06e63188d94f8f2.jpg",
+      "md5": "3944d8fd1380c786c06e63188d94f8f2",
+      "width": 2560,
+      "height": 1440,
+      "size": 488597,
+      "uploadedDate": "2020-05-31T23:42:16.406Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ace4435645d9489cacfbb422b7c1c817",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-04T20:15:15.925Z",
+  "lastModifiedDate": "2020-06-11T14:18:05.103Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ace4435645d9489cacfbb422b7c1c817"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/SamuraiShodown/Saved/SaveGames/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "AIData.sav,GameData.sav,SystemData.sav"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SamuraiShodown"
+    }
+  },
+  "entitlementName": "eb96e257518e4d47a17ac677409d1e47",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "af7b50699c284fbda6319bc47a448a98",
+      "appId": "1c78abcd467643f9ad58cc3a7d161983",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-03-16T00:00:00.000Z"
+    }
+  ],
+  "developer": "SNK CORPORATION",
+  "developerId": "o-bse2s8gp28ptrv924lby79vx66vsz6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567tUzX5W9uhE6UkiERU2u5BEec",
+  "unsearchable": false
+}

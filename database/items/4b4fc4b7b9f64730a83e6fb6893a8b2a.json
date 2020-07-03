@@ -1,0 +1,35 @@
+{
+  "id": "4b4fc4b7b9f64730a83e6fb6893a8b2a",
+  "title": "Starter Pack 3",
+  "description": "Starter Pack 3",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "azalea",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-29T21:38:48.599Z",
+  "lastModifiedDate": "2019-10-07T17:15:06.456Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4b4fc4b7b9f64730a83e6fb6893a8b2a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

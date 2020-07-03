@@ -1,0 +1,35 @@
+{
+  "id": "bb1eae05f27c424693ec69ea14b6a0fb",
+  "title": "SaturnaliaDemoAudience",
+  "description": "SaturnaliaDemoAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c749cd78da34408d8434a46271f4bb79",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-11T14:21:59.372Z",
+  "lastModifiedDate": "2020-05-11T14:27:58.921Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "bb1eae05f27c424693ec69ea14b6a0fb",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Santa Ragione",
+  "developerId": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

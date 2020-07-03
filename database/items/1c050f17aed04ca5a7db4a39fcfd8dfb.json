@@ -1,0 +1,85 @@
+{
+  "id": "1c050f17aed04ca5a7db4a39fcfd8dfb",
+  "title": "FortniteExtQAReleaseTestingB",
+  "description": "Second Fortnite external QA release testing app",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fn/item/Fortnite_llamacorn_bg-430x250-ba52f51868240271251851bc83010ec8.png",
+      "md5": "ba52f51868240271251851bc83010ec8",
+      "width": 430,
+      "height": 250,
+      "size": 90716,
+      "uploadedDate": "2018-11-06T21:47:56.315Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/fn/item/blank_logo-1x1-1b95550641d28d4e076bc9111ce9f533.png",
+      "md5": "1b95550641d28d4e076bc9111ce9f533",
+      "width": 1,
+      "height": 1,
+      "size": 928,
+      "uploadedDate": "2018-11-06T21:48:02.730Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-04-23T18:36:32.422Z",
+  "lastModifiedDate": "2019-11-08T19:43:23.939Z",
+  "customAttributes": {
+    "AndroidCommandLine": {
+      "type": "STRING",
+      "value": "../../../FortniteGame/FortniteGame.uproject -epicapp=FortniteExtQAReleaseTestingB -epicenv=Prod -logpso -skippatchcheck"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UE4ProjectName": {
+      "type": "STRING",
+      "value": "FortniteGame"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FnExtQaReleaseTestingB"
+    },
+    "HasGateKeeper": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "FortniteExtQAReleaseTestingB",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "065c56aae0c6484cbbbad2dd44d9637c",
+      "appId": "FortniteExtQAReleaseTestingB",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2018-04-23T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

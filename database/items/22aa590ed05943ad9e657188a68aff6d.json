@@ -1,0 +1,59 @@
+{
+  "id": "22aa590ed05943ad9e657188a68aff6d",
+  "title": "Test compatible list",
+  "description": "item description",
+  "longDescription": "long item description",
+  "technicalDetails": "technical information",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/SeaQA/item/Penguins-1024x768-9d377b10ce778c4938b3c7e2c63a229a.jpg",
+      "md5": "9d377b10ce778c4938b3c7e2c63a229a",
+      "width": 1024,
+      "height": 768,
+      "size": 777835,
+      "uploadedDate": "2014-10-20T06:44:12.734Z"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/SeaQA/item/M-200x104-5499a8120d532a2940edfd816fd72567.png",
+      "md5": "5499a8120d532a2940edfd816fd72567",
+      "width": 200,
+      "height": 104,
+      "size": 8863,
+      "uploadedDate": "2019-04-25T09:23:44.590Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "assets"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-20T06:44:54.791Z",
+  "lastModifiedDate": "2019-04-25T09:23:59.093Z",
+  "entitlementName": "22aa590ed05943ad9e657188a68aff6d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b9cbe7cd340f4c659087a3d646d60f47",
+      "appId": "1",
+      "compatibleApps": [
+        "UE_4.0"
+      ],
+      "platform": [
+        "Mac",
+        "PS4"
+      ],
+      "dateAdded": "2016-08-29T00:00:00.000Z"
+    }
+  ],
+  "developer": "Landy Tian",
+  "developerId": "o-dc32abc22b45c7ab6a291d60d51863",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

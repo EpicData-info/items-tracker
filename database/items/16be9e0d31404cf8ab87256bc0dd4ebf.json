@@ -1,0 +1,55 @@
+{
+  "id": "16be9e0d31404cf8ab87256bc0dd4ebf",
+  "title": "Danger Deck DLC",
+  "description": "Danger Deck DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "764eb429792649e4a606413cd649de2c",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-20T20:25:15.922Z",
+  "lastModifiedDate": "2019-12-20T15:33:49.356Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "1636f05db30b48fd9c2d96a38cdd25d1"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "b5278b5537c24d478ab6e10c3278598f"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "16be9e0d31404cf8ab87256bc0dd4ebf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bb25964d311743c18487bf5134345084",
+      "appId": "AlewifeDLC1",
+      "dateAdded": "2019-11-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

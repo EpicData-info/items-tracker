@@ -1,0 +1,25 @@
+{
+  "id": "64075b4c661842f08f5c0b1d357ea06e",
+  "title": "FortniteDevPlaytestG App Bundle",
+  "description": "FortniteDevPlaytestG App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-04T16:25:59.025Z",
+  "lastModifiedDate": "2020-02-04T17:11:44.531Z",
+  "entitlementName": "64075b4c661842f08f5c0b1d357ea06e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

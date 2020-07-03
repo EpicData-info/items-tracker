@@ -1,0 +1,35 @@
+{
+  "id": "0e1d6856108f41088a7096b1d5ba9478",
+  "title": "Industries of Titan Experimental Audience",
+  "description": "Industries of Titan Experimental Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "protea",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-04T18:48:35.892Z",
+  "lastModifiedDate": "2019-12-04T18:55:45.979Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0e1d6856108f41088a7096b1d5ba9478",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Brace Yourself Games",
+  "developerId": "o-5y95w2k7uu469v8lr4dyzeff447wfm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

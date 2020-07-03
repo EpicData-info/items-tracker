@@ -1,0 +1,91 @@
+{
+  "id": "6face7470ea44ed9b640a79aad5e7ada",
+  "title": "Desperados III - OST",
+  "description": "Desperados III - OST",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/8b8fd2fe87a04bbab2eca292e71b5e2c/item/Image-Logo-1920x1080-4d9bac5ace995b67d63b6b1be5ee631d.jpg",
+      "md5": "4d9bac5ace995b67d63b6b1be5ee631d",
+      "width": 1920,
+      "height": 1080,
+      "size": 1536572,
+      "uploadedDate": "2020-06-10T18:42:19.982Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/8b8fd2fe87a04bbab2eca292e71b5e2c/item/Desperados3-OST-Portrait-1539x1829-ee41eb6d5e981235e1a3022fa846f916.png",
+      "md5": "ee41eb6d5e981235e1a3022fa846f916",
+      "width": 1539,
+      "height": 1829,
+      "size": 3440393,
+      "uploadedDate": "2020-06-10T18:42:33.901Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8b8fd2fe87a04bbab2eca292e71b5e2c",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-08T13:29:59.296Z",
+  "lastModifiedDate": "2020-06-16T16:47:39.048Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "8b8fd2fe87a04bbab2eca292e71b5e2c"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DesperadosIIIOST"
+    }
+  },
+  "entitlementName": "6face7470ea44ed9b640a79aad5e7ada",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1223d03097e14e979f6be4eb658bad17",
+      "appId": "af6bb51484c449fd9ecd7e203085242f",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

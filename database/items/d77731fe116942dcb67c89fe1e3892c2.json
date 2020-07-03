@@ -1,0 +1,24 @@
+{
+  "id": "d77731fe116942dcb67c89fe1e3892c2",
+  "title": "WEX External - Dev Team",
+  "description": "WEX External - Dev Team",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-03T15:47:39.075Z",
+  "lastModifiedDate": "2019-10-03T15:47:39.075Z",
+  "entitlementName": "d77731fe116942dcb67c89fe1e3892c2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

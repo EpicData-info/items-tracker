@@ -1,0 +1,35 @@
+{
+  "id": "0d176b06a3344d4c95eb516cdbc5b269",
+  "title": "OstrichPreviewAudience",
+  "description": "OstrichPreviewAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "413361d2d5db4912ac2dfbcf27a38141",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-24T01:05:32.074Z",
+  "lastModifiedDate": "2020-04-24T01:23:34.745Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0d176b06a3344d4c95eb516cdbc5b269",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Glumberland",
+  "developerId": "o-q293du8hx3hhcjbqzrmfz6cz48hk6x",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

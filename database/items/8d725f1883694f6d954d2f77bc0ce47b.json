@@ -1,0 +1,38 @@
+{
+  "id": "8d725f1883694f6d954d2f77bc0ce47b",
+  "title": "Create_CommunitySpotlight_02",
+  "description": "Flak Cannon by KazeoHin-TechAE",
+  "longDescription": "",
+  "technicalDetails": "https://www.epicgames.com/unrealtournament/community-contributors?utm_source=launcher&utm_medium=software&utm_campaign=utcreatetab",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/flak_cannon-2000x1171-f6d57d0514112c9ad2a2b6b99c3bd27e.png",
+      "md5": "f6d57d0514112c9ad2a2b6b99c3bd27e",
+      "width": 2000,
+      "height": 1171,
+      "size": 1545965,
+      "uploadedDate": "2017-02-24T21:50:47.361Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "projects"
+    },
+    {
+      "path": "projects/showcases"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-02-03T20:22:29.327Z",
+  "lastModifiedDate": "2017-02-24T21:50:55.423Z",
+  "entitlementName": "c4d2be6831fe41f68340a9f399157ad3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": "b36aee54fcb146de9e84b76fad034d08",
+  "title": "OCN",
+  "description": "NDA",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ocn/item/ocean1-1280x720-574ea805d182a6932c5f5ef9ea3680e5.png",
+      "md5": "574ea805d182a6932c5f5ef9ea3680e5",
+      "width": 1280,
+      "height": 720,
+      "size": 24538,
+      "uploadedDate": "2017-03-16T20:15:29.200Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "SUNSET",
+  "creationDate": "2015-12-11T18:45:00.696Z",
+  "lastModifiedDate": "2019-09-17T23:46:03.294Z",
+  "entitlementName": "b36aee54fcb146de9e84b76fad034d08",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "8228505605324ad1a0cf36a550c5c437",
+  "title": "Atomicrops Press Audience",
+  "description": "Atomicrops Press Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-27T01:01:39.542Z",
+  "lastModifiedDate": "2019-09-05T13:59:31.547Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Mac"
+    }
+  },
+  "entitlementName": "8228505605324ad1a0cf36a550c5c437",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

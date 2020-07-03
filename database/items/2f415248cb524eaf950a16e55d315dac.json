@@ -1,0 +1,96 @@
+{
+  "id": "2f415248cb524eaf950a16e55d315dac",
+  "title": "Dauntless",
+  "description": "Dauntless",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jackal/item/dauntless-game-icon-400x400-fedb667fba0c95b47137a8c5416b68d5.png",
+      "md5": "fedb667fba0c95b47137a8c5416b68d5",
+      "width": 400,
+      "height": 400,
+      "size": 28015,
+      "uploadedDate": "2019-01-28T20:33:34.435Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/jackal/item/epic-dauntlesscallofthevoid-fullgame-vertical-1410x1786-101912762-1410x1786-106740e181f59d1ac817d901c30c8844.jpg",
+      "md5": "106740e181f59d1ac817d901c30c8844",
+      "width": 1410,
+      "height": 1786,
+      "size": 198974,
+      "uploadedDate": "2020-06-11T16:42:59.074Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/jackal/item/dauntless-carousel-1360x766-withlogo-1360x766-101895964-1360x766-922608a1b0bab988fba4681201e9ccef.png",
+      "md5": "922608a1b0bab988fba4681201e9ccef",
+      "width": 1360,
+      "height": 766,
+      "size": 446159,
+      "uploadedDate": "2020-06-11T16:43:13.885Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "jackal",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-28T20:38:56.842Z",
+  "lastModifiedDate": "2020-06-11T16:55:13.098Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Phoenix Labs"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Dauntless"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "2f415248cb524eaf950a16e55d315dac",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2a3f79d21de94a62ae3ef45db2ff6a7c",
+      "appId": "Jackal",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-30T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

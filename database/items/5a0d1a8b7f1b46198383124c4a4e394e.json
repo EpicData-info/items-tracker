@@ -1,0 +1,30 @@
+{
+  "id": "5a0d1a8b7f1b46198383124c4a4e394e",
+  "title": "Fortnite External Hardware Partner App Bundle",
+  "description": "Fortnite External Hardware Partner App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-18T22:12:01.445Z",
+  "lastModifiedDate": "2019-05-06T16:57:31.541Z",
+  "customAttributes": {
+    "ActionSetName": {
+      "type": "STRING",
+      "value": "Fortnite-Hardware-Partner-App-Bundle"
+    }
+  },
+  "entitlementName": "5a0d1a8b7f1b46198383124c4a4e394e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

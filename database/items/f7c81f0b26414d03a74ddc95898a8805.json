@@ -1,0 +1,35 @@
+{
+  "id": "f7c81f0b26414d03a74ddc95898a8805",
+  "title": "CorydalisDevAudience",
+  "description": "CorydalisDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "corydalis",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-18T19:36:49.539Z",
+  "lastModifiedDate": "2019-06-17T17:11:37.082Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac,Win32"
+    }
+  },
+  "entitlementName": "f7c81f0b26414d03a74ddc95898a8805",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Monomi Park",
+  "developerId": "o-zaqwbfdrp3pwhlqsnwvjfsmjdpsj3a",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

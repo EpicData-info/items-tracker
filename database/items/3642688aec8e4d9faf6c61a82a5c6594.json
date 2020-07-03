@@ -1,0 +1,80 @@
+{
+  "id": "3642688aec8e4d9faf6c61a82a5c6594",
+  "title": "MacawStaging",
+  "description": "MacawStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_WanderingBand_AirborneKingdom_IC1_color-200x200-7371be8d9858a68d70fe5da214fc8ed6.png",
+      "md5": "7371be8d9858a68d70fe5da214fc8ed6",
+      "width": 200,
+      "height": 200,
+      "size": 6360,
+      "uploadedDate": "2019-08-28T19:59:04.551Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_WanderingBand_AirborneKingdom_Facebook_01-1920x1080-2712acb6db262f45254f72a7d6e35c1a.jpg",
+      "md5": "2712acb6db262f45254f72a7d6e35c1a",
+      "width": 1920,
+      "height": 1080,
+      "size": 239259,
+      "uploadedDate": "2019-08-28T19:59:16.466Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e1809e1742cb498080d8849b11a99c5a",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-12T21:27:32.522Z",
+  "lastModifiedDate": "2020-02-25T15:48:59.006Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/The Wandering Band LLC/Airborne Kingdom/Save Files/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/The Wandering Band LLC/Airborne Kingdom/Save Files/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MacawStaging"
+    }
+  },
+  "entitlementName": "3642688aec8e4d9faf6c61a82a5c6594",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c9e593fb2de24e368f1d75e22467f727",
+      "appId": "MacawStaging",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-07-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "The Wandering Band LLC",
+  "developerId": "o-64h79p2hud28hmlx8emazj2ccfe6ml",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,47 @@
+{
+  "id": "dedda7d8eafc4b29bfbac110f43dcacf",
+  "title": "Worshippers of the Necronomicon DLC Audience",
+  "description": "Worshippers of the Necronomicon DLC Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/middlemist/item/ESRB_NOCOPYWRITTE_M_Long_1080-1-4905x2280-a8003b462a29137e7eb04750a3016905.png",
+      "md5": "a8003b462a29137e7eb04750a3016905",
+      "width": 4905,
+      "height": 2280,
+      "size": 232833,
+      "uploadedDate": "2019-04-29T19:41:00.412Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "middlemist",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-19T01:38:40.628Z",
+  "lastModifiedDate": "2019-06-27T07:53:49.799Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "dedda7d8eafc4b29bfbac110f43dcacf",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

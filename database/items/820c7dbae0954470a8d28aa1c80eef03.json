@@ -1,0 +1,35 @@
+{
+  "id": "820c7dbae0954470a8d28aa1c80eef03",
+  "title": "DuckGeneralAudience",
+  "description": "DuckGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2bfd5ca43ef443739ada168e017e1b78",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-14T18:16:03.615Z",
+  "lastModifiedDate": "2019-09-19T12:54:17.833Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "820c7dbae0954470a8d28aa1c80eef03",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Versus Evil",
+  "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

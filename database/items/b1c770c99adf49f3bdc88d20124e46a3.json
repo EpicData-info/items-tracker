@@ -1,0 +1,55 @@
+{
+  "id": "b1c770c99adf49f3bdc88d20124e46a3",
+  "title": "TanagerBoo",
+  "description": "TanagerBoo",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-23T16:19:43.363Z",
+  "lastModifiedDate": "2020-03-23T17:19:27.741Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TanagerBoo"
+    }
+  },
+  "entitlementName": "b1c770c99adf49f3bdc88d20124e46a3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d34de6b13f8446179b2aa7de1f0ec4bb",
+      "appId": "8073514b5c6946ef92bfa8ad7b0ba8c9",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

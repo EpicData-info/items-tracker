@@ -1,0 +1,104 @@
+{
+  "id": "84bfb0cd95df49b5bbc291018394bc38",
+  "title": "Might & Magic: Chess Royale",
+  "description": "Might & Magic: Chess Royale",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/82225e5cb4714006b335a50d840208c6/item/EPIC_Key_Art_Landscape-MNMCR-3840x2160-9f436daddcd292d17ec8765b961fcc85.png",
+      "md5": "9f436daddcd292d17ec8765b961fcc85",
+      "width": 3840,
+      "height": 2160,
+      "size": 488514,
+      "uploadedDate": "2020-05-04T16:15:28.137Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/82225e5cb4714006b335a50d840208c6/item/EPIC_Key_Art_Portrait_640x854-MNMCR-640x854-faddeaba1e194bf29c224ab81cd8450b.png",
+      "md5": "faddeaba1e194bf29c224ab81cd8450b",
+      "width": 640,
+      "height": 854,
+      "size": 238117,
+      "uploadedDate": "2020-05-04T16:15:42.205Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "82225e5cb4714006b335a50d840208c6",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-09T19:27:45.736Z",
+  "lastModifiedDate": "2020-05-05T14:39:24.045Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "82225e5cb4714006b335a50d840208c6"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "d6616f3c2a5c4f55ba803a820c91284a"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MMChessRoyale"
+    },
+    "neverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "84bfb0cd95df49b5bbc291018394bc38",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e0d8f35f745744ad8cabec801461723d",
+      "appId": "b141e42965ff431aa0e23bf3d5635942",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-04-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

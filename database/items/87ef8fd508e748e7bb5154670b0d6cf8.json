@@ -1,0 +1,25 @@
+{
+  "id": "87ef8fd508e748e7bb5154670b0d6cf8",
+  "title": "Handoff",
+  "description": "Handoff",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-27T23:44:41.299Z",
+  "lastModifiedDate": "2019-10-18T01:23:34.766Z",
+  "entitlementName": "FN_Ospray_5",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

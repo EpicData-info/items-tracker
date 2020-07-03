@@ -1,0 +1,34 @@
+{
+  "id": "9f4fd1a1af2f4b73b43198a77b7ad22c",
+  "title": "OrioleGeneralAudience",
+  "description": "OrioleGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "fa0c74ef7780498fb222dcd099bf82a2",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-27T19:15:43.720Z",
+  "lastModifiedDate": "2019-08-29T13:37:04.756Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9f4fd1a1af2f4b73b43198a77b7ad22c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Good Shepherd Entertainment",
+  "developerId": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

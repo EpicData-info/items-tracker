@@ -1,0 +1,34 @@
+{
+  "id": "055d04bae98e489890b8de94b6b44fc1",
+  "title": "Early Access to Battle Hardened Assault Character",
+  "description": "Early Access to Battle Hardened Assault Character",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-12T20:42:40.618Z",
+  "lastModifiedDate": "2020-04-24T03:59:22.768Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "055d04bae98e489890b8de94b6b44fc1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

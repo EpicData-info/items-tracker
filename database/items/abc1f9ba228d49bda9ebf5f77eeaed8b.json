@@ -1,0 +1,113 @@
+{
+  "id": "abc1f9ba228d49bda9ebf5f77eeaed8b",
+  "title": "The Sinking City",
+  "description": "The Sinking City",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/middlemist/item/TheSinkingCity_GameIcon-400x400-43a5f8e91aaf5b1f3745f3b203df2528.png",
+      "md5": "43a5f8e91aaf5b1f3745f3b203df2528",
+      "width": 400,
+      "height": 400,
+      "size": 15428,
+      "uploadedDate": "2019-03-18T16:47:35.276Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/middlemist/item/TheSinkingCity_PrimaryPromo-2560x1440-f716054a8b406fe06b154861a9670e19.jpg",
+      "md5": "f716054a8b406fe06b154861a9670e19",
+      "width": 2560,
+      "height": 1440,
+      "size": 399120,
+      "uploadedDate": "2019-03-18T16:51:28.322Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/middlemist/item/TheSinkingCity_Logo_Black-1920x428-ff25d7b8417c200731a26d002d4c4dcc.png",
+      "md5": "ff25d7b8417c200731a26d002d4c4dcc",
+      "width": 1920,
+      "height": 428,
+      "size": 107982,
+      "uploadedDate": "2019-03-18T16:54:31.927Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/middlemist/item/TheSinkingCity_PortraitPromo-1280x1440-441d5af35aa67bc061ec376b04c748ba.jpg",
+      "md5": "441d5af35aa67bc061ec376b04c748ba",
+      "width": 1280,
+      "height": 1440,
+      "size": 283650,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "middlemist",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-18T04:30:09.062Z",
+  "lastModifiedDate": "2019-11-19T17:03:57.818Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "middlemist"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/TSCGame/Saved/SaveGames/"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheSinkingCity"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "abc1f9ba228d49bda9ebf5f77eeaed8b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e5644c1d60734733a6acf562eb44530c",
+      "appId": "Middlemist",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-18T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

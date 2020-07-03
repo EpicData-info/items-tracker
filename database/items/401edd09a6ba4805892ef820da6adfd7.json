@@ -1,0 +1,70 @@
+{
+  "id": "401edd09a6ba4805892ef820da6adfd7",
+  "title": "Jupiter’s Forge",
+  "description": "Jupiter’s Forge",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyJupitersForge_MohawkGames_Expansion_IC1_A-320x180-28b7a9d792c0f292effafd2743fc0605.jpg",
+      "md5": "28b7a9d792c0f292effafd2743fc0605",
+      "width": 320,
+      "height": 180,
+      "size": 31776,
+      "uploadedDate": "2020-03-05T15:57:33.108Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/Offworld_Portrait-510x680-7a9909ce27ac1d94813f6f49f6632871.jpg",
+      "md5": "7a9909ce27ac1d94813f6f49f6632871",
+      "width": 510,
+      "height": 680,
+      "size": 60952,
+      "uploadedDate": "2020-03-05T15:57:44.685Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-17T21:43:47.563Z",
+  "lastModifiedDate": "2020-03-05T15:58:54.093Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "JupitersForge"
+    }
+  },
+  "entitlementName": "401edd09a6ba4805892ef820da6adfd7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "255ef5e381f146c58251de68e97e4071",
+      "appId": "SnapperJupiter",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-02-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

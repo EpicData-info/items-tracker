@@ -1,0 +1,31 @@
+{
+  "id": "e00a96290115442a82c8443d67fb86be",
+  "title": "Fortnite QA App Bundle",
+  "description": "Fortnite QA App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-16T20:29:58.432Z",
+  "lastModifiedDate": "2020-05-21T18:44:25.282Z",
+  "customAttributes": {
+    "ActionSetName": {
+      "type": "STRING",
+      "value": "Fortnite-QA-App-Bundle"
+    }
+  },
+  "entitlementName": "e00a96290115442a82c8443d67fb86be",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

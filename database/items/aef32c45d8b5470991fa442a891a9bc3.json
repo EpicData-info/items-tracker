@@ -1,0 +1,30 @@
+{
+  "id": "aef32c45d8b5470991fa442a891a9bc3",
+  "title": "DeluxePackAudience_redeemable",
+  "description": "DeluxePackAudience_redeemable",
+  "technicalDetails": "Granted if you must call Partner Integration to redeem season pass separately from the game. Not necessary if the edition you buy already includes it",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "clary",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-08T21:17:30.592Z",
+  "lastModifiedDate": "2019-08-08T21:17:59.748Z",
+  "entitlementName": "aef32c45d8b5470991fa442a891a9bc3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

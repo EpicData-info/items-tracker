@@ -1,0 +1,36 @@
+{
+  "id": "7a4dc16cc61442ceb8361ef611a6055a",
+  "title": "Unreal Tournament Latest",
+  "description": "Thank you for your interest in Unreal Tournament!",
+  "longDescription": "“<h1>Message of the Day</>Thank you for your interest in Unreal Tournament! This is the latest build we believe to be stable.<Strong>It's not guaranteed to be bug free, please give us feedback in the forums! http://forums.unrealtournament.com</>",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ut/item/UT_sidebar_Logo-265x43-319cfc713d4c472c49118069860d97cd.png",
+      "md5": "319cfc713d4c472c49118069860d97cd",
+      "width": 265,
+      "height": 43,
+      "size": 14231,
+      "uploadedDate": "2014-09-18T16:57:44.307Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2014-09-02T16:49:12.881Z",
+  "lastModifiedDate": "2014-10-08T21:18:01.013Z",
+  "entitlementName": "UT_Entitlement",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "unsearchable": false
+}

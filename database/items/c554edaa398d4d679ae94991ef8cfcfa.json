@@ -1,0 +1,30 @@
+{
+  "id": "c554edaa398d4d679ae94991ef8cfcfa",
+  "title": "Fortnite Broadcast Team App Bundle",
+  "description": "Fortnite Broadcast Team App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-18T23:06:43.028Z",
+  "lastModifiedDate": "2019-06-10T17:26:50.383Z",
+  "customAttributes": {
+    "ActionSetName": {
+      "type": "STRING",
+      "value": "Fortnite-Events-Download&Play-App-Bundle"
+    }
+  },
+  "entitlementName": "c554edaa398d4d679ae94991ef8cfcfa",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

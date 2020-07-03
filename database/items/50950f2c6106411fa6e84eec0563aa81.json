@@ -1,0 +1,72 @@
+{
+  "id": "50950f2c6106411fa6e84eec0563aa81",
+  "title": "RimWorld Royalty DLC",
+  "description": "RimWorld Royalty DLC",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/item/EGS_Royalty_LudeonStudios_DLC_S2-1200x1600-e6e2d5dbcbecf38f58579f10e96550f2.jpg",
+      "md5": "e6e2d5dbcbecf38f58579f10e96550f2",
+      "width": 1200,
+      "height": 1600,
+      "size": 644061,
+      "uploadedDate": "2020-06-08T17:57:51.839Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/item/EGS_Royalty_LudeonStudios_DLC_S1-2560x1440-c2d988da3d4ae505be7bc9739515a3ed.jpg",
+      "md5": "c2d988da3d4ae505be7bc9739515a3ed",
+      "width": 2560,
+      "height": 1440,
+      "size": 819956,
+      "uploadedDate": "2020-06-08T17:58:13.143Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7051eadbb8c2435caf32a9bc0dc17936",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T00:55:47.067Z",
+  "lastModifiedDate": "2020-06-09T16:00:13.927Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RimWorldRoyaltyDLC"
+    }
+  },
+  "entitlementName": "50950f2c6106411fa6e84eec0563aa81",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "94d8ce15fecc4446a914c07b3a5f98c6",
+      "appId": "f2fa4512adda4621bb9d92046980493e",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-04-02T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ludeon Studios",
+  "developerId": "o-hsdwarj24e4ntqdnvu83854narhusv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

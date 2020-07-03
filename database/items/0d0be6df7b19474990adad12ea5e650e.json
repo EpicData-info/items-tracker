@@ -1,0 +1,102 @@
+{
+  "id": "0d0be6df7b19474990adad12ea5e650e",
+  "title": "Missile Command: Recharged",
+  "description": "Missile Command: Recharged",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/item/EGS_MissileCommandRecharged_NickervisionStudios_S5-1920x1080-330fe63b5bf777f36860f6fd03b2a62c.jpg",
+      "md5": "330fe63b5bf777f36860f6fd03b2a62c",
+      "width": 1920,
+      "height": 1080,
+      "size": 704545,
+      "uploadedDate": "2020-05-27T13:53:34.903Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/item/EGS_MissileCommandRecharged_NickervisionStudios_S6-1200x1600-13dce142b015db18d28b54c6d1515f6c.jpg",
+      "md5": "13dce142b015db18d28b54c6d1515f6c",
+      "width": 1200,
+      "height": 1600,
+      "size": 1000056,
+      "uploadedDate": "2020-05-27T13:53:44.643Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1e58a1653e6846d3a05cccb2ae5b7385",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-27T00:55:19.100Z",
+  "lastModifiedDate": "2020-06-24T18:13:42.404Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "1e58a1653e6846d3a05cccb2ae5b7385"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/unity.Atari Inc_.Missile Command_ Recharged/"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Atari Inc_/Missile Command_ Recharged/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MCRecharged"
+    }
+  },
+  "entitlementName": "0d0be6df7b19474990adad12ea5e650e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "084ed29a5f9f4a3881a370004534f7c5",
+      "appId": "fe014df1aa2c465aae88138c4307b11a",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2020-05-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "Atari",
+  "developerId": "o-bhpk86rgthezed539g3hb5avacecqt",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567rXqhl7cxvERPyykKda6sTcsH",
+  "unsearchable": false
+}

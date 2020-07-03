@@ -1,0 +1,101 @@
+{
+  "id": "65fb5029cddb4de7b5fa155b6992e6a3",
+  "title": "Unsaved",
+  "description": "DM-Unsaved",
+  "longDescription": "Constructed to exploit a large deposit of Tarydium in the core of a small moon, this remote satellite mining facility is one of the newer Tournament Arenas offered by LMC. Due to the presence of the three X29 fusion devices, the moon has now been displaced into a decaying orbit. This has led its former crew to designate the facility … Unsaved.",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ut/item/Featured_Unsaved-600x600-f3a13bae6efee6b6626ba515d08f4319.png",
+      "md5": "f3a13bae6efee6b6626ba515d08f4319",
+      "width": 600,
+      "height": 600,
+      "size": 474429,
+      "uploadedDate": "2016-11-04T19:52:55.194Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ut/item/Thumbnail_Unsaved-300x250-90642e246c6a1084107a40acef97df59.png",
+      "md5": "90642e246c6a1084107a40acef97df59",
+      "width": 300,
+      "height": 250,
+      "size": 121559,
+      "uploadedDate": "2016-11-04T20:18:30.058Z"
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ut/item/NewFeatured_Unsaved-1400x300-64f4be6a304fc9e85b756861d55990fb.png",
+      "md5": "64f4be6a304fc9e85b756861d55990fb",
+      "width": 1400,
+      "height": 300,
+      "size": 228925,
+      "uploadedDate": "2017-03-17T18:45:16.270Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Screenshot_Unsaved_01-1920x1080-f68555042511fd59168677d61482d707.png",
+      "md5": "f68555042511fd59168677d61482d707",
+      "width": 1920,
+      "height": 1080,
+      "size": 925676,
+      "uploadedDate": "2017-03-17T18:45:23.838Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Screenshot_Unsaved_02-1920x1080-dee1a9f91b2c9cf8b5513fcd3058b3b0.png",
+      "md5": "dee1a9f91b2c9cf8b5513fcd3058b3b0",
+      "width": 1920,
+      "height": 1080,
+      "size": 892083,
+      "uploadedDate": "2017-03-17T18:45:43.036Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Screenshot_Unsaved_03-1920x1080-c87809bbdc5b35a483b129529a2ae8f2.png",
+      "md5": "c87809bbdc5b35a483b129529a2ae8f2",
+      "width": 1920,
+      "height": 1080,
+      "size": 895250,
+      "uploadedDate": "2017-03-17T18:45:55.373Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Screenshot_Unsaved_04-1920x1080-cb89391e05eed6a036f13b9db30390db.png",
+      "md5": "cb89391e05eed6a036f13b9db30390db",
+      "width": 1920,
+      "height": 1080,
+      "size": 829246,
+      "uploadedDate": "2017-03-17T18:46:10.530Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Screenshot_Unsaved_05-1920x1080-c00d06a9944afc0d27a2bcac82cd201e.png",
+      "md5": "c00d06a9944afc0d27a2bcac82cd201e",
+      "width": 1920,
+      "height": 1080,
+      "size": 1018450,
+      "uploadedDate": "2017-03-17T18:46:21.042Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2016-11-03T19:44:44.576Z",
+  "lastModifiedDate": "2019-05-13T14:32:30.584Z",
+  "entitlementName": "Unsaved",
+  "entitlementType": "EXECUTABLE",
+  "entitlementStartDate": "2016-11-03T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

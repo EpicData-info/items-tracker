@@ -1,0 +1,47 @@
+{
+  "id": "ec8f601a877a4b8d832a9792dbf9438e",
+  "title": "Jackbox4GeneralAudience",
+  "description": "Jackbox4GeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/snowdrop/item/ESRB_Jackbox4-842x485-920238713a907424bd9998793647aef2.jpg",
+      "md5": "920238713a907424bd9998793647aef2",
+      "width": 842,
+      "height": 485,
+      "size": 114405,
+      "uploadedDate": "2020-01-09T19:06:00.655Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "snowdrop",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-16T13:58:08.111Z",
+  "lastModifiedDate": "2020-01-09T19:06:04.184Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "ec8f601a877a4b8d832a9792dbf9438e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "selfRefundable": true,
+  "unsearchable": false
+}

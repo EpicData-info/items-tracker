@@ -1,0 +1,23 @@
+{
+  "id": "b82b3e07451c4734a5429d996b7debcd",
+  "title": "Test version of free audience access item",
+  "description": "Test version of free audience access item.  Meant for QA use to test access on non-Live apps",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-09-18T18:56:23.732Z",
+  "lastModifiedDate": "2017-09-18T18:56:23.732Z",
+  "entitlementName": "Fortnite_Free_Test",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

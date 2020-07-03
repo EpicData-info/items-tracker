@@ -1,0 +1,36 @@
+{
+  "id": "28d14314c8ea4173af7b92f9c266c66d",
+  "title": "Champions Pack Marker Audience",
+  "description": "Champions Pack Marker Audience",
+  "longDescription": "Champions Pack Marker Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-11T23:15:01.033Z",
+  "lastModifiedDate": "2020-04-23T01:34:34.974Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "28d14314c8ea4173af7b92f9c266c66d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

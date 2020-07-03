@@ -1,0 +1,23 @@
+{
+  "id": "aff99c6f39554f28abdac81921830cfe",
+  "title": "TestItem",
+  "description": "TestItem",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "odin",
+  "status": "ACTIVE",
+  "creationDate": "2017-02-22T15:59:47.709Z",
+  "lastModifiedDate": "2017-02-22T15:59:47.709Z",
+  "entitlementName": "aff99c6f39554f28abdac81921830cfe",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,46 @@
+{
+  "id": "44fdc06e2ebb475193a314c2b7696ae7",
+  "title": "Catnip External DLC2 Audience",
+  "description": "Catnip External DLC2 Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-842x485-275d74057f4825477e1f7f17f8cf0abc.jpg",
+      "md5": "275d74057f4825477e1f7f17f8cf0abc",
+      "width": 842,
+      "height": 485,
+      "size": 134137,
+      "uploadedDate": "2020-01-07T22:47:39.704Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "catnip",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-31T21:19:14.202Z",
+  "lastModifiedDate": "2020-06-15T20:52:55.764Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "44fdc06e2ebb475193a314c2b7696ae7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

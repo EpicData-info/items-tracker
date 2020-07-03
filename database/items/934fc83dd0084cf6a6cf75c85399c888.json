@@ -1,0 +1,58 @@
+{
+  "id": "934fc83dd0084cf6a6cf75c85399c888",
+  "title": "Saffron Sur Pack",
+  "description": "Saffron Sur Pack",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-08T06:57:38.055Z",
+  "lastModifiedDate": "2019-05-09T19:00:20.254Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "[]"
+    }
+  },
+  "entitlementName": "934fc83dd0084cf6a6cf75c85399c888",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f92ccbac4c534639bbe5694fce1321b7",
+      "appId": "SaffronSurPackTest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-05-08T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

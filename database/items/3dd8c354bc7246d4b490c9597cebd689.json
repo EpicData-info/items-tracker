@@ -1,0 +1,34 @@
+{
+  "id": "3dd8c354bc7246d4b490c9597cebd689",
+  "title": "DLC0 - Sabertooth Livery Audience",
+  "description": "DLC0 - Sabertooth Livery Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-09T22:28:09.491Z",
+  "lastModifiedDate": "2020-04-27T21:59:40.998Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3dd8c354bc7246d4b490c9597cebd689",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

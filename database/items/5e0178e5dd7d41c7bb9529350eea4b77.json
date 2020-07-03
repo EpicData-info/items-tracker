@@ -1,0 +1,59 @@
+{
+  "id": "5e0178e5dd7d41c7bb9529350eea4b77",
+  "title": "CamelliaStaging",
+  "description": "CamelliaStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "camellia",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-08T21:55:51.850Z",
+  "lastModifiedDate": "2019-11-27T15:28:33.806Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CamelliaStaging"
+    }
+  },
+  "entitlementName": "5e0178e5dd7d41c7bb9529350eea4b77",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e9a0677aed59426c9ce367e9364e29ed",
+      "appId": "CamelliaStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-08T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

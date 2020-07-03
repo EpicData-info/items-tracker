@@ -1,0 +1,28 @@
+{
+  "id": "4d089f4488ee4719ae8defeab579c255",
+  "title": "Oak Barbeque",
+  "description": "Oak Barbeque",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-07T20:42:16.651Z",
+  "lastModifiedDate": "2019-12-21T16:09:13.454Z",
+  "entitlementName": "Oak_barbeque",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementEndDate": "2020-12-31T00:00:00.000Z",
+  "entitlementStartDate": "2019-08-07T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

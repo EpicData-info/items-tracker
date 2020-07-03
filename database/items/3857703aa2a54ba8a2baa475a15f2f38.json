@@ -1,0 +1,35 @@
+{
+  "id": "3857703aa2a54ba8a2baa475a15f2f38",
+  "title": "DLC5 Audience",
+  "description": "Premium Christmas Treat Ticket",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-13T21:48:20.054Z",
+  "lastModifiedDate": "2019-11-27T19:33:54.060Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3857703aa2a54ba8a2baa475a15f2f38",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

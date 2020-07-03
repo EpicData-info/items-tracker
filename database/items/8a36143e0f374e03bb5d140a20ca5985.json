@@ -1,0 +1,56 @@
+{
+  "id": "8a36143e0f374e03bb5d140a20ca5985",
+  "title": "TestingTest11",
+  "description": "Testing the entitlement type",
+  "longDescription": "Testing entitlement type with item type as subscription and entitlement type as executable",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/SeaQA/item/Chrysanthemum-1024x768-076e3caed758a1c18c91a0e9cae3368f.jpg",
+      "md5": "076e3caed758a1c18c91a0e9cae3368f",
+      "width": 1024,
+      "height": 768,
+      "size": 879394,
+      "uploadedDate": "2014-10-27T17:45:52.704Z"
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/SeaQA/item/Hydrangeas-1024x768-bdf3bf1da3405725be763540d6601144.jpg",
+      "md5": "bdf3bf1da3405725be763540d6601144",
+      "width": 1024,
+      "height": 768,
+      "size": 595284,
+      "uploadedDate": "2015-07-27T22:41:56.567Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "engines"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-27T17:46:36.605Z",
+  "lastModifiedDate": "2015-07-27T22:42:14.069Z",
+  "entitlementName": "8a36143e0f374e03bb5d140a20ca5985",
+  "entitlementType": "EXECUTABLE",
+  "entitlementEndDate": "2020-10-01T00:00:00.000Z",
+  "entitlementStartDate": "2014-10-27T00:00:00.000Z",
+  "itemType": "SUBSCRIPTION",
+  "releaseInfo": [
+    {
+      "id": "e2a336c67f444bec95dfd28847c1020c",
+      "appId": "TestTestApp11",
+      "compatibleApps": [
+        "UE_4.1"
+      ],
+      "platform": [
+        "Mac"
+      ],
+      "dateAdded": "2014-10-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "SeaTest1",
+  "endOfSupport": false,
+  "unsearchable": false
+}

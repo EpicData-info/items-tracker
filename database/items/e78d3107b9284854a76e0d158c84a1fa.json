@@ -1,0 +1,33 @@
+{
+  "id": "e78d3107b9284854a76e0d158c84a1fa",
+  "title": "DevOpalAudience",
+  "description": "DevOpalAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "5645a537b6a44f6f82d122729f3253ed",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-27T23:30:59.406Z",
+  "lastModifiedDate": "2020-03-12T14:28:38.441Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "e78d3107b9284854a76e0d158c84a1fa",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Akupara Games",
+  "developerId": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

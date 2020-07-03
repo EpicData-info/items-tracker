@@ -1,0 +1,92 @@
+{
+  "id": "40201a99ff044534a2204652ba6e9bdf",
+  "title": "TurtleRelease",
+  "description": "TurtleRelease",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/turtle/item/ManEater_Logo__White_Red-611x338-17e1f3827e4934a0da8b92e4c29561be.png",
+      "md5": "17e1f3827e4934a0da8b92e4c29561be",
+      "width": 611,
+      "height": 338,
+      "size": 19497,
+      "uploadedDate": "2019-05-01T16:50:03.013Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/turtle/item/maneaterWide-2580x1456-a66dd2422bbbb9feef9304933254bb78.jpg",
+      "md5": "a66dd2422bbbb9feef9304933254bb78",
+      "width": 2580,
+      "height": 1456,
+      "size": 414334,
+      "uploadedDate": "2019-10-24T22:23:14.204Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/turtle/item/Maneater_logoTall-1288x1450-3f3224ed80617513f63a140ee53a4aff.jpg",
+      "md5": "3f3224ed80617513f63a140ee53a4aff",
+      "width": 1288,
+      "height": 1450,
+      "size": 233776,
+      "uploadedDate": "2019-12-17T20:24:40.595Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "turtle",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-22T02:15:45.984Z",
+  "lastModifiedDate": "2020-06-23T17:50:20.921Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Maneater/Saved/SaveGames/"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TurtleRelease"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "40201a99ff044534a2204652ba6e9bdf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "99811702338f4e899babd8e14edeb380",
+      "appId": "TurtleRelease",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-05-01T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

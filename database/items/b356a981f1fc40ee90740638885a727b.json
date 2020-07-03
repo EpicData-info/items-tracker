@@ -1,0 +1,29 @@
+{
+  "id": "b356a981f1fc40ee90740638885a727b",
+  "title": "FarCry4SeasonPassAudience_marker",
+  "description": "FarCry4SeasonPassAudience_marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "cf87285950ba492bbdc370b9d265ea36",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-28T23:56:37.935Z",
+  "lastModifiedDate": "2020-02-18T15:33:18.330Z",
+  "customAttributes": {},
+  "entitlementName": "b356a981f1fc40ee90740638885a727b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

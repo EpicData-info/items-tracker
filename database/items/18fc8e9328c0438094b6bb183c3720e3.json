@@ -1,0 +1,71 @@
+{
+  "id": "18fc8e9328c0438094b6bb183c3720e3",
+  "title": "Moon",
+  "description": "Moon",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4930dde6add240a9bfc7ddc415dc2799",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-05T18:52:45.777Z",
+  "lastModifiedDate": "2020-05-05T19:10:52.352Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "4930dde6add240a9bfc7ddc415dc2799"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Moon"
+    }
+  },
+  "entitlementName": "18fc8e9328c0438094b6bb183c3720e3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "efc74af47fdc44bf842c39c5ec5c088b",
+      "appId": "e3c5b28f9e6d44e9a5065117e3aa0935",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-05T19:10:48.551Z"
+    }
+  ],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,74 @@
+{
+  "id": "afa307e52dbb4d118435e8ecb32c9ca3",
+  "title": "Saffron Pre-Purchase",
+  "description": "Saffron Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/Game_Logo_Neg_1000x375-1000x375-ba1dcba5b27ac88bce0b6d3271c608a9.png",
+      "md5": "ba1dcba5b27ac88bce0b6d3271c608a9",
+      "width": 1000,
+      "height": 375,
+      "size": 104250,
+      "uploadedDate": "2019-05-09T04:31:53.261Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/TargetPrimaryPromo-2580x1450-989ed2e98944eebffc504e23c958260d.jpg",
+      "md5": "989ed2e98944eebffc504e23c958260d",
+      "width": 2580,
+      "height": 1450,
+      "size": 498355,
+      "uploadedDate": "2019-05-09T04:31:44.407Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-08T07:40:35.577Z",
+  "lastModifiedDate": "2019-05-09T19:00:20.254Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "[]"
+    }
+  },
+  "entitlementName": "afa307e52dbb4d118435e8ecb32c9ca3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3f8adf99679d429ab65bde67a10d8618",
+      "appId": "SaffronDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-05-08T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

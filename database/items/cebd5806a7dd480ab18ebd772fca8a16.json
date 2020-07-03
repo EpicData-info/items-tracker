@@ -1,0 +1,29 @@
+{
+  "id": "cebd5806a7dd480ab18ebd772fca8a16",
+  "title": "AniseDevAudience",
+  "description": "AniseDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "anise",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-02T19:27:01.663Z",
+  "lastModifiedDate": "2019-10-22T14:02:18.544Z",
+  "entitlementName": "cebd5806a7dd480ab18ebd772fca8a16",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

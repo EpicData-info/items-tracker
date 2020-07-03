@@ -1,0 +1,35 @@
+{
+  "id": "c40256f046cd4897bcff76d95df68a11",
+  "title": "Dutch 2025 DLC Pack Audience",
+  "description": "Dutch 2025 DLC Pack Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-07T00:43:24.838Z",
+  "lastModifiedDate": "2020-05-26T16:42:40.689Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c40256f046cd4897bcff76d95df68a11",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

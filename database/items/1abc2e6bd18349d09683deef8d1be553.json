@@ -1,0 +1,94 @@
+{
+  "id": "1abc2e6bd18349d09683deef8d1be553",
+  "title": "Little Inferno",
+  "description": "Little Inferno",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/clover/item/LI_promo-2580x1450-09bacf52096c1dded7726dfb9fe6feb8.jpg",
+      "md5": "09bacf52096c1dded7726dfb9fe6feb8",
+      "width": 2580,
+      "height": 1450,
+      "size": 197308,
+      "uploadedDate": "2019-05-13T17:11:02.058Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/clover/item/LI_logo-1920x1100-4215b5b3640b2718c8ac400b0a929b8a.png",
+      "md5": "4215b5b3640b2718c8ac400b0a929b8a",
+      "width": 1920,
+      "height": 1100,
+      "size": 653259,
+      "uploadedDate": "2019-05-13T17:11:10.805Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/clover/item/Little-Inferno-Portrait-Promo-1280x1420-0dc830ccd38d3c225c68b25828dd74a8.jpg",
+      "md5": "0dc830ccd38d3c225c68b25828dd74a8",
+      "width": 1280,
+      "height": 1420,
+      "size": 116155,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "clover",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-14T21:35:39.449Z",
+  "lastModifiedDate": "2019-11-19T17:03:07.870Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "clover"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LittleInferno"
+    }
+  },
+  "entitlementName": "1abc2e6bd18349d09683deef8d1be553",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a7496186aadb4352bbccbd1c330a7dbc",
+      "appId": "Clover",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-02-14T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Tomorrow Corporation",
+  "developerId": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

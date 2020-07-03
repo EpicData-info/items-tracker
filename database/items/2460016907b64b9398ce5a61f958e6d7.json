@@ -1,0 +1,32 @@
+{
+  "id": "2460016907b64b9398ce5a61f958e6d7",
+  "title": "FNSpectators0319",
+  "description": "Spectator audience entitlement",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-21T17:03:15.547Z",
+  "lastModifiedDate": "2019-03-21T17:03:15.547Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "FNSpectators0319",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "fn"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

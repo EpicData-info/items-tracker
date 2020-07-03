@@ -1,0 +1,25 @@
+{
+  "id": "42ef906b23574956b3f675371aa4c99e",
+  "title": "Marvel Outfit #2",
+  "description": "Marvel Outfit #2",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-25T14:56:19.176Z",
+  "lastModifiedDate": "2019-04-25T14:56:19.176Z",
+  "entitlementName": "AthenaCharacter:cid_400_athena_commando_m_ashtonsaltlake",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

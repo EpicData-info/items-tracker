@@ -1,0 +1,98 @@
+{
+  "id": "db2c519a963b4510842017c6413d41e7",
+  "title": "Far Cry 3 Blood Dragon",
+  "description": "Far Cry 3 Blood Dragon",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/8b9fc0e3ee7d478abc047d1a3596c568/item/Diesel_productv2_far-cry-3-blood-dragon_home_FarCry3BloodDragon_Store_Landscape_2580x1450-2580x1450-dedcefb519e99c5e1c45e928c2960b3ca59ecf22-2580x1450-261647198cb9b6e13c678bab7fb1fe4f.jpg",
+      "md5": "261647198cb9b6e13c678bab7fb1fe4f",
+      "width": 2580,
+      "height": 1450,
+      "size": 597669,
+      "uploadedDate": "2020-02-18T15:06:32.109Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/8b9fc0e3ee7d478abc047d1a3596c568/item/FC3DB Portrait-1280x1440-787bce84c08e424e3d8dd75bef1e7053-1280x1440-787bce84c08e424e3d8dd75bef1e7053.png",
+      "md5": "787bce84c08e424e3d8dd75bef1e7053",
+      "width": 1280,
+      "height": 1440,
+      "size": 3019849,
+      "uploadedDate": "2020-02-18T15:10:10.700Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8b9fc0e3ee7d478abc047d1a3596c568",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-24T17:48:52.209Z",
+  "lastModifiedDate": "2020-02-18T15:31:20.117Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "8b9fc0e3ee7d478abc047d1a3596c568"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "438fe1de2d7a45ffb8c290c34ba38532"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FarCry3BloodDragon"
+    }
+  },
+  "entitlementName": "db2c519a963b4510842017c6413d41e7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "233661a25d6d426bb8c6c13c22a168eb",
+      "appId": "Hapuka",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

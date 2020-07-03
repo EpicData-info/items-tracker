@@ -1,0 +1,37 @@
+{
+  "id": "92baba997daf4e4585aad4b2d197a4e6",
+  "title": "Battle Breakers Dev Latest",
+  "description": "Battle Breakers Dev Latest",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-30T23:44:50.987Z",
+  "lastModifiedDate": "2019-09-30T23:46:23.830Z",
+  "entitlementName": "WorldExplorersDevLatest",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dc02f3b4697546dca97a17eaaa36821b",
+      "appId": "WorldExplorersDevLatest",
+      "compatibleApps": [],
+      "platform": [],
+      "dateAdded": "2019-09-30T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

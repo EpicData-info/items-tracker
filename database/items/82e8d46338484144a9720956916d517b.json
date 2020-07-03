@@ -1,0 +1,34 @@
+{
+  "id": "82e8d46338484144a9720956916d517b",
+  "title": "MoonstonePressAudience",
+  "description": "MoonstonePressAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "d33c2a64808e434b85eb1329f65431b1",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-24T02:05:13.829Z",
+  "lastModifiedDate": "2020-04-30T14:53:08.463Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "82e8d46338484144a9720956916d517b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Butterscotch Shenanigans",
+  "developerId": "o-nl9ywem28pes9amuwp2jqrey4zxjpf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

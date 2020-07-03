@@ -1,0 +1,104 @@
+{
+  "id": "795a3702f4104ac58400fb1d4a778439",
+  "title": "Afterparty Pre-Purchase",
+  "description": "Afterparty Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/adenium/item/Afterparty_PrimaryPromoImage_2580x1450-2580x1450-be4bf4f974e89762d519cc2f2a289d3a.jpg",
+      "md5": "be4bf4f974e89762d519cc2f2a289d3a",
+      "width": 2580,
+      "height": 1450,
+      "size": 278370,
+      "uploadedDate": "2019-03-15T15:57:27.510Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/adenium/item/Afterparty_GameIcon_400x400-400x400-fba79aa463578d60e74badc171dc8157.png",
+      "md5": "fba79aa463578d60e74badc171dc8157",
+      "width": 400,
+      "height": 400,
+      "size": 11881,
+      "uploadedDate": "2019-03-15T15:57:55.555Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/adenium/item/AfterpartyLogo_wSkull_DarkVersion_RGB-1184x567-c56f496e37c57229fb5649a99b6b323c.png",
+      "md5": "c56f496e37c57229fb5649a99b6b323c",
+      "width": 1184,
+      "height": 567,
+      "size": 117422,
+      "uploadedDate": "2019-05-15T15:08:51.196Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "adenium",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-14T14:40:14.730Z",
+  "lastModifiedDate": "2019-10-29T13:00:02.669Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "adenium"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Night School Studios"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "795a3702f4104ac58400fb1d4a778439",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bb6e6becbb2e4ed6bb77f8c6d9cb1f5d",
+      "appId": "AdeniumDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-03-15T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Night School Studio, LLC",
+  "developerId": "o-8bhctnyt9qetgnjd4nssqse58c2589",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

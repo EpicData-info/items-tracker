@@ -1,0 +1,74 @@
+{
+  "id": "aa091be827714c738c89cfe7236516e1",
+  "title": "World War Z - Trial Weekend",
+  "description": "World War Z - Trial Weekend",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wombat/item/Desktop_NoLogo1810x810-1810x810-d8035763e7dc3e95a090696603171078-1810x810-d8035763e7dc3e95a090696603171078.jpg",
+      "md5": "d8035763e7dc3e95a090696603171078",
+      "width": 1810,
+      "height": 810,
+      "size": 339215,
+      "uploadedDate": "2019-10-25T13:05:46.950Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/wombat/item/EN_EGS_WWZ_TrialWeekend-600x363-9ce3d5833bc874dc0b9ec24d61d18aa6.png",
+      "md5": "9ce3d5833bc874dc0b9ec24d61d18aa6",
+      "width": 600,
+      "height": 363,
+      "size": 92046,
+      "uploadedDate": "2019-10-25T13:06:00.560Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wombat",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-26T20:22:12.231Z",
+  "lastModifiedDate": "2020-04-09T01:06:17.024Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "folderName": {
+      "type": "STRING",
+      "value": "WWZTrial"
+    }
+  },
+  "entitlementName": "aa091be827714c738c89cfe7236516e1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c87290a0cf2f4113895ed5ae20d391de",
+      "appId": "WombatTrial",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-01-29T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

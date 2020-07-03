@@ -1,0 +1,24 @@
+{
+  "id": "f69b0d69f1a04ab2928ae48e302b381e",
+  "title": "Batman Comic Book Cape",
+  "description": "Cloak yourself in darkness.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-20T18:03:52.567Z",
+  "lastModifiedDate": "2019-09-21T13:38:17.767Z",
+  "entitlementName": "AthenaBackpack:bid_362_blackmondayhouston_2i53g",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

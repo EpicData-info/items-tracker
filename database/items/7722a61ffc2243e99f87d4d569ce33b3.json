@@ -1,0 +1,29 @@
+{
+  "id": "7722a61ffc2243e99f87d4d569ce33b3",
+  "title": "LarkspurDevAudience",
+  "description": "LarkspurDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "larkspur",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-10T17:12:01.264Z",
+  "lastModifiedDate": "2019-03-15T22:07:14.939Z",
+  "entitlementName": "7722a61ffc2243e99f87d4d569ce33b3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,54 @@
+{
+  "id": "09aa2ee4d88f4fb3a7f0f785cb19467e",
+  "title": "Hoopoe General Pre-Purchase Audience",
+  "description": "Hoopoe General Pre-Purchase Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/RP_FOR_E-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-07-24T21:07:05.943Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/S2-Store-Primary-Promo-1280x1440-9ed9999a41eda751681e392016d636ba.jpg",
+      "md5": "9ed9999a41eda751681e392016d636ba",
+      "width": 1280,
+      "height": 1440,
+      "size": 381963,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "b9def67e597b4be7a16146146a044d02",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-14T20:52:06.725Z",
+  "lastModifiedDate": "2019-12-10T13:53:12.211Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "09aa2ee4d88f4fb3a7f0f785cb19467e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Piranha Games",
+  "developerId": "o-muad9pj32k67stc4ycpgpplwq84sgq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

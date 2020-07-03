@@ -1,0 +1,34 @@
+{
+  "id": "76cc56614cb24bfa8eb0ad8e10275602",
+  "title": "IronstoneGeneralAudience",
+  "description": "IronstoneGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "7051eadbb8c2435caf32a9bc0dc17936",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-02T21:46:13.718Z",
+  "lastModifiedDate": "2020-06-09T16:29:19.892Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "76cc56614cb24bfa8eb0ad8e10275602",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ludeon Studios",
+  "developerId": "o-hsdwarj24e4ntqdnvu83854narhusv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,71 @@
+{
+  "id": "5039810677ba47b4bf63dec4db6fb6a9",
+  "title": "Citrine",
+  "description": "Citrine",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0a4fc789eb0143c29296de79df5387ab",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T15:50:20.468Z",
+  "lastModifiedDate": "2020-07-02T19:38:31.883Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "0a4fc789eb0143c29296de79df5387ab"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Citrine"
+    }
+  },
+  "entitlementName": "5039810677ba47b4bf63dec4db6fb6a9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "934d22ccb93d4a2da2aa78194026be23",
+      "appId": "18fafa2d70d64831ab500a9d65ba9ab8",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-30T19:51:24.663Z"
+    }
+  ],
+  "developer": "Humble Bundle",
+  "developerId": "o-pldxyabsslnt6jth2z634mmr2pw8lu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

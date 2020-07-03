@@ -1,0 +1,36 @@
+{
+  "id": "db5bc93261094a268a53156466a4c8d9",
+  "title": "Dragon Rider Pack Audience",
+  "description": "Dragon Rider Pack Audience",
+  "longDescription": "Dragon Rider Pack Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-18T02:53:06.288Z",
+  "lastModifiedDate": "2020-03-20T14:41:47.162Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "db5bc93261094a268a53156466a4c8d9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

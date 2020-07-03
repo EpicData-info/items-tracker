@@ -1,0 +1,34 @@
+{
+  "id": "a6ee83b1c34f439ebb86c386750bf615",
+  "title": "FlierGeneralAudience",
+  "description": "FlierGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "52326e805bac4619a4a8fac165363a42",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-05T18:21:47.943Z",
+  "lastModifiedDate": "2020-03-26T14:34:42.133Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac,Win32"
+    }
+  },
+  "entitlementName": "a6ee83b1c34f439ebb86c386750bf615",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

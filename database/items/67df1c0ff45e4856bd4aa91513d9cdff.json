@@ -1,0 +1,24 @@
+{
+  "id": "67df1c0ff45e4856bd4aa91513d9cdff",
+  "title": "TestJan",
+  "description": "TestJan",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "assets"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-20T03:17:48.757Z",
+  "lastModifiedDate": "2020-01-20T03:20:39.958Z",
+  "entitlementName": "67df1c0ff45e4856bd4aa91513d9cdff",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a2bbf88ae8984535916c289613a7b6e6",
+  "title": "PochardDevAudience",
+  "description": "PochardDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "25ef88acc7f34afc8ac6669e11573882",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-29T00:10:01.548Z",
+  "lastModifiedDate": "2020-02-28T16:00:07.961Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a2bbf88ae8984535916c289613a7b6e6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

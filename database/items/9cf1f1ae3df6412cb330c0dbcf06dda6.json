@@ -1,0 +1,33 @@
+{
+  "id": "9cf1f1ae3df6412cb330c0dbcf06dda6",
+  "title": "DabDevAudience",
+  "description": "DabDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "a40f6c03e1374358809ec38c999059c0",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-22T20:46:59.200Z",
+  "lastModifiedDate": "2020-02-06T20:42:42.011Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9cf1f1ae3df6412cb330c0dbcf06dda6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Big Blue Bubble, Inc.",
+  "developerId": "o-r7nfesqr4qcafkmfwmp9hpu492f228",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

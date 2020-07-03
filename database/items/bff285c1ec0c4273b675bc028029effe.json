@@ -1,0 +1,47 @@
+{
+  "id": "bff285c1ec0c4273b675bc028029effe",
+  "title": "LupineGeneralAudience",
+  "description": "LupineGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/lupine/item/ESRB_Wattam-842x404-0f8ac7f5e92a089f7745ed7659402019.jpg",
+      "md5": "0f8ac7f5e92a089f7745ed7659402019",
+      "width": 842,
+      "height": 404,
+      "size": 23273,
+      "uploadedDate": "2019-11-08T19:20:19.160Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "lupine",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-27T01:38:50.922Z",
+  "lastModifiedDate": "2019-12-17T15:58:49.485Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "bff285c1ec0c4273b675bc028029effe",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "selfRefundable": true,
+  "unsearchable": false
+}

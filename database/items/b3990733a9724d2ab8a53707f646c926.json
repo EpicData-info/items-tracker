@@ -1,0 +1,47 @@
+{
+  "id": "b3990733a9724d2ab8a53707f646c926",
+  "title": "CarnationDeluxeAudience",
+  "description": "CarnationDeluxeAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/carnation/item/Rainbow-6-Rating-842x485-fb8a0c88b2b8c750bbb3acc701f1f141.png",
+      "md5": "fb8a0c88b2b8c750bbb3acc701f1f141",
+      "width": 842,
+      "height": 485,
+      "size": 64629,
+      "uploadedDate": "2020-01-14T19:17:55.737Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "carnation",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-13T01:59:09.574Z",
+  "lastModifiedDate": "2020-01-14T19:17:58.890Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b3990733a9724d2ab8a53707f646c926",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

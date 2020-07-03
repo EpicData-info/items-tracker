@@ -1,0 +1,86 @@
+{
+  "id": "5cfcf62ae54744d194e45f666e1eadd4",
+  "title": "Chivalry 2 - Alpha",
+  "description": "Chivalry 2 - Alpha",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/item/Wishlist-Landscape-2560x1440-a48745f2dde9b492b4100291e23bba10.jpg",
+      "md5": "a48745f2dde9b492b4100291e23bba10",
+      "width": 2560,
+      "height": 1440,
+      "size": 2043381,
+      "uploadedDate": "2020-03-11T18:31:34.035Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/item/Wishlist Portrait -860x1148-7dc5fac63862874e86ebbbdaa6683660.jpg",
+      "md5": "7dc5fac63862874e86ebbbdaa6683660",
+      "width": 860,
+      "height": 1148,
+      "size": 749128,
+      "uploadedDate": "2020-03-11T18:31:45.982Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bd46d4ce259349e5bd8b3ded20274737",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-08T22:00:09.022Z",
+  "lastModifiedDate": "2020-03-11T18:32:40.762Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "bd46d4ce259349e5bd8b3ded20274737"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PeppermintBeta"
+    }
+  },
+  "entitlementName": "5cfcf62ae54744d194e45f666e1eadd4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "497efe73bce8448d87341f9eeadd5c63",
+      "appId": "PeppermintBeta",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-16T00:00:00.000Z"
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

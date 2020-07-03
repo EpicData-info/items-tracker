@@ -1,0 +1,71 @@
+{
+  "id": "8305005e71a94726ad9c9575d22979aa",
+  "title": "geumStaging",
+  "description": "geumStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/item/thepathless_StorePrimaryPromo-1800x1012-6c37c31d560f010e2b4cee5c362d5b6d.jpg",
+      "md5": "6c37c31d560f010e2b4cee5c362d5b6d",
+      "width": 1800,
+      "height": 1012,
+      "size": 545305,
+      "uploadedDate": "2019-05-13T21:01:18.065Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/item/ThePathlessLogoWhite-5464x1384-17233834e8ab0e7d32da3c12465a80bd.png",
+      "md5": "17233834e8ab0e7d32da3c12465a80bd",
+      "width": 5464,
+      "height": 1384,
+      "size": 757008,
+      "uploadedDate": "2019-05-13T21:01:26.201Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a9dad8af015a422eb89a5f88e6def923",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-02T19:22:07.903Z",
+  "lastModifiedDate": "2019-05-20T14:55:11.910Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "geumStaging"
+    }
+  },
+  "entitlementName": "8305005e71a94726ad9c9575d22979aa",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5f55ce99b95f427a8a28e882fb2a71e6",
+      "appId": "geumStaging",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-05-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

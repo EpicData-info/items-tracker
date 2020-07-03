@@ -1,0 +1,27 @@
+{
+  "id": "f10a94828e5740f3ac653a546affcdde",
+  "title": "SpellbreakBetaPurchase",
+  "description": "SpellbreakBetaPurchase",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-24T12:27:41.164Z",
+  "lastModifiedDate": "2019-10-24T12:27:41.164Z",
+  "entitlementName": "f10a94828e5740f3ac653a546affcdde",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

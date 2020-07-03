@@ -1,0 +1,46 @@
+{
+  "id": "c22f3d72e09847ecb5d3fd4369e5e213",
+  "title": "CatnipStaging2 Audience",
+  "description": "CatnipStaging2 Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-398x190-16bd32be8aea54545f11dcea9d14243c.jpg",
+      "md5": "16bd32be8aea54545f11dcea9d14243c",
+      "width": 398,
+      "height": 190,
+      "size": 11537,
+      "uploadedDate": "2019-09-12T18:56:48.073Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "catnip",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-14T19:39:31.580Z",
+  "lastModifiedDate": "2020-06-15T20:52:55.766Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c22f3d72e09847ecb5d3fd4369e5e213",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "87baf2e1782a40d9ba85e6e1795e03f8",
+  "title": "Pewee Duo Audience",
+  "description": "Pewee Duo Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-21T19:07:22.964Z",
+  "lastModifiedDate": "2020-05-08T22:33:14.145Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "87baf2e1782a40d9ba85e6e1795e03f8",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

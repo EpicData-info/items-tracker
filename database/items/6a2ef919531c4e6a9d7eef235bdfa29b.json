@@ -1,0 +1,31 @@
+{
+  "id": "6a2ef919531c4e6a9d7eef235bdfa29b",
+  "title": "Fortnite Employees&Contractors App Bundle",
+  "description": "Fortnite Employees&Contractors App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-16T20:58:48.630Z",
+  "lastModifiedDate": "2020-05-27T22:09:39.716Z",
+  "customAttributes": {
+    "ActionSetName": {
+      "type": "STRING",
+      "value": "Fortnite-Employees&Contractors-App-Bundle"
+    }
+  },
+  "entitlementName": "6a2ef919531c4e6a9d7eef235bdfa29b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

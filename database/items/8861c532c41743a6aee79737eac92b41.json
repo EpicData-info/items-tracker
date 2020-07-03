@@ -1,0 +1,33 @@
+{
+  "id": "8861c532c41743a6aee79737eac92b41",
+  "title": "DevKingdomAudience",
+  "description": "DevKingdomAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "400347196e674de89c23cc2a7f2121db",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-28T17:48:55.638Z",
+  "lastModifiedDate": "2020-04-30T15:02:26.957Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "8861c532c41743a6aee79737eac92b41",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "78666355c7824dbc8bf79b9a76a69d11",
+  "title": "OwlGeneralAudience",
+  "description": "OwlGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "fe5a2e3e842a4394938a81f3308df2ed",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-06T19:35:47.247Z",
+  "lastModifiedDate": "2019-06-10T18:55:39.954Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": ""
+    }
+  },
+  "entitlementName": "78666355c7824dbc8bf79b9a76a69d11",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

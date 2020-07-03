@@ -1,0 +1,68 @@
+{
+  "id": "29952abb60f04e57af15a4b4ddd26ea5",
+  "title": "World War Z Press Build",
+  "description": "World War Z Press Build",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/wombat/item/wwz_logo_400x400-400x400-0dc2a56a36635998206f055028192c7a-400x400-0dc2a56a36635998206f055028192c7a-400x400-0dc2a56a36635998206f055028192c7a.png",
+      "md5": "0dc2a56a36635998206f055028192c7a",
+      "width": 400,
+      "height": 400,
+      "size": 36562,
+      "uploadedDate": "2019-04-01T18:56:54.159Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wombat/item/PrimaryPromoImage_2580x1450-2580x1450-5e1361a6f3375c53f02c60efb73cdf4d-2580x1450-5e1361a6f3375c53f02c60efb73cdf4d.jpg",
+      "md5": "5e1361a6f3375c53f02c60efb73cdf4d",
+      "width": 2580,
+      "height": 1450,
+      "size": 121342,
+      "uploadedDate": "2019-04-01T18:57:11.798Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wombat",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-01T18:45:02.474Z",
+  "lastModifiedDate": "2020-04-09T01:06:17.024Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WWZPress"
+    }
+  },
+  "entitlementName": "29952abb60f04e57af15a4b4ddd26ea5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7b5edc78fdae489699380078504cda85",
+      "appId": "WombatPress",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-01T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

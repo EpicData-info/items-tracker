@@ -1,0 +1,35 @@
+{
+  "id": "aeb35e07369d47e5bfbfe7c69560b329",
+  "title": "StandardAccessOneAudience_Redeemable",
+  "description": "StandardAccessOneAudience_Redeemable",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "b04882669b2e495e9f747c8560488c93",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-11T20:38:48.313Z",
+  "lastModifiedDate": "2020-07-01T22:01:18.275Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "aeb35e07369d47e5bfbfe7c69560b329",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,91 @@
+{
+  "id": "c9ee30083d61418aadcd34504a49d2b8",
+  "title": "Necris - High Poly character",
+  "description": "Create Custom Chatacters",
+  "longDescription": "This download gives you the high poly Z-brush file of Unreal Tournament's male Necris character. You can use this download to create custom skins and variant characters for use in Unreal Tournament,",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ut/item/Necris_sm1-300x250-30b28aecc079dc8f91e15ed1516b5f0e.png",
+      "md5": "30b28aecc079dc8f91e15ed1516b5f0e",
+      "width": 300,
+      "height": 250,
+      "size": 56264,
+      "uploadedDate": "2015-06-30T21:13:39.021Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/1080pNecris-1920x1080-cad135fd07be227ecd3286ee72ba8768.png",
+      "md5": "cad135fd07be227ecd3286ee72ba8768",
+      "width": 1920,
+      "height": 1080,
+      "size": 788480,
+      "uploadedDate": "2015-06-30T21:13:47.646Z"
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ut/item/Necris_Header1-1400x300-600f226b2e5523ac352cd2ba4fcfe690.png",
+      "md5": "600f226b2e5523ac352cd2ba4fcfe690",
+      "width": 1400,
+      "height": 300,
+      "size": 314365,
+      "uploadedDate": "2015-06-30T21:13:43.341Z"
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ut/item/Necris_sm1-300x250-30b28aecc079dc8f91e15ed1516b5f0e.png",
+      "md5": "30b28aecc079dc8f91e15ed1516b5f0e",
+      "width": 300,
+      "height": 250,
+      "size": 56264,
+      "uploadedDate": "2015-09-16T00:44:22.366Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/1080pNecris2-1920x1080-1de67d73aa4ffdb79bada3a1cea7cb03.png",
+      "md5": "1de67d73aa4ffdb79bada3a1cea7cb03",
+      "width": 1920,
+      "height": 1080,
+      "size": 977702,
+      "uploadedDate": "2015-06-30T21:13:51.809Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/devcontent"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-06-17T13:46:17.615Z",
+  "lastModifiedDate": "2019-05-13T14:32:30.584Z",
+  "customAttributes": {
+    "TechnicalType": {
+      "type": "STRING",
+      "value": "externalcontent"
+    }
+  },
+  "entitlementName": "NecrisHighPoly",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a3007f39eb894977a47e94cab1ea6c55",
+      "appId": "UT4Necris",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2015-06-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

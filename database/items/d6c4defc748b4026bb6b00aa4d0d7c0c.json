@@ -1,0 +1,109 @@
+{
+  "id": "d6c4defc748b4026bb6b00aa4d0d7c0c",
+  "title": "This War of Mine",
+  "description": "This War of Mine",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/item/EGS_11bitstudios_TWOM_L1-2560x1440-d08b1d2f6ebc1963f159db8debf35990.jpg",
+      "md5": "d08b1d2f6ebc1963f159db8debf35990",
+      "width": 2560,
+      "height": 1440,
+      "size": 350058,
+      "uploadedDate": "2019-07-17T17:55:17.354Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/item/EGS_11bitstudios_TWOM_IC2-400x400-bd7b04915cccc18df7d5a81c8716fbb0.png",
+      "md5": "bd7b04915cccc18df7d5a81c8716fbb0",
+      "width": 400,
+      "height": 400,
+      "size": 84805,
+      "uploadedDate": "2019-07-17T17:55:26.661Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/item/EGS_11bitstudios_TWOM_S3-1280x1440-05072c2b43427a358c5bd0306840179c.jpg",
+      "md5": "05072c2b43427a358c5bd0306840179c",
+      "width": 1280,
+      "height": 1440,
+      "size": 142489,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "91189432bbad4478afd611edff7f0339",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-10T17:36:07.016Z",
+  "lastModifiedDate": "2019-11-19T17:04:06.116Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "91189432bbad4478afd611edff7f0339"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../Roaming/11BitStudios/This War Of Mine/iPhoneDefUser/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ThisWarOfMine"
+    }
+  },
+  "entitlementName": "d6c4defc748b4026bb6b00aa4d0d7c0c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e81a45f4293f425d9fb891a3c0a2d96e",
+      "appId": "Cardinal",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-07-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "11 Bit Studios",
+  "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

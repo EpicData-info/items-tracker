@@ -1,0 +1,48 @@
+{
+  "id": "0e8e72eea62747729d9d6caf40623df9",
+  "title": "CatnipGbxUserResearch2",
+  "description": "CatnipGbxUserResearch2",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "catnip",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-19T22:16:08.057Z",
+  "lastModifiedDate": "2020-06-15T20:52:55.764Z",
+  "customAttributes": {
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "0e8e72eea62747729d9d6caf40623df9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "de0fcc56dd05480ab2600e5b61e9c82f",
+      "appId": "CatnipGbxUserResearch2",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-01-08T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

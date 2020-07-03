@@ -1,0 +1,35 @@
+{
+  "id": "accd23b295784ef4b34e3864468ff839",
+  "title": "item title a",
+  "description": "item description",
+  "longDescription": "long item description",
+  "technicalDetails": "technical information",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/YughuesGroundMatsFeatured-476x248-7f1a2ff0eefe285cce5dc8af4305d02b.png",
+      "md5": "7f1a2ff0eefe285cce5dc8af4305d02b",
+      "width": 476,
+      "height": 248,
+      "size": 213686,
+      "uploadedDate": "2014-10-14T22:02:07.830Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "projects"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-20T04:38:13.155Z",
+  "lastModifiedDate": "2014-10-20T05:43:05.513Z",
+  "entitlementName": "ENTITLEMENT_NAME",
+  "entitlementType": "TEST",
+  "entitlementEndDate": "2014-12-12T00:00:00.000Z",
+  "itemType": "SUBSCRIPTION",
+  "developer": "Epic Games",
+  "useCount": 3,
+  "endOfSupport": false,
+  "unsearchable": false
+}

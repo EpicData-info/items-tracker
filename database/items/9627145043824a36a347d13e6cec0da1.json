@@ -1,0 +1,35 @@
+{
+  "id": "9627145043824a36a347d13e6cec0da1",
+  "title": "RMG Test Audience",
+  "description": "RMG Test Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "deab864e1abf4357b303bcd5ff6fe8da",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-28T19:40:43.549Z",
+  "lastModifiedDate": "2020-06-29T18:20:48.434Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9627145043824a36a347d13e6cec0da1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Activision Publishing, Inc",
+  "developerId": "o-s5myyzhdfhxwftmvf55ph3eu6fbqpz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

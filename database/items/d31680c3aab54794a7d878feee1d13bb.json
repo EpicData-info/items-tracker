@@ -1,0 +1,52 @@
+{
+  "id": "d31680c3aab54794a7d878feee1d13bb",
+  "title": "Water",
+  "description": "Water",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T17:23:14.568Z",
+  "lastModifiedDate": "2020-06-23T14:36:54.911Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Water"
+    }
+  },
+  "entitlementName": "d31680c3aab54794a7d878feee1d13bb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e5bea0f683f345918aeb03a62970e691",
+      "appId": "524307d3d9bd411e9532560e35ce4759",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

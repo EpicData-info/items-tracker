@@ -1,0 +1,75 @@
+{
+  "id": "cd739c8d21834b43b0c8e4d9fc185b0b",
+  "title": "CatnipStable2DLC4",
+  "description": "CatnipStable2DLC4",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/catnip/item/Oak_StandardEdition_S1-1920x1080-b2150080aa64b013ac8171622ddbcfd8.jpg",
+      "md5": "b2150080aa64b013ac8171622ddbcfd8",
+      "width": 1920,
+      "height": 1080,
+      "size": 219579,
+      "uploadedDate": "2019-05-17T19:33:26.565Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/catnip/item/Oak_Logo_Standard-720x209-8373e0df5612a9952fe79defb32e1322.png",
+      "md5": "8373e0df5612a9952fe79defb32e1322",
+      "width": 720,
+      "height": 209,
+      "size": 192732,
+      "uploadedDate": "2019-05-17T19:33:37.384Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "catnip",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-28T21:11:18.822Z",
+  "lastModifiedDate": "2020-06-15T20:52:55.766Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CatnipStable2DLC4"
+    }
+  },
+  "entitlementName": "cd739c8d21834b43b0c8e4d9fc185b0b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "64b28443d0b6429a964a9e0b5edb9858",
+      "appId": "b7ecede2e42048db892e4ca35c744535",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-05-17T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

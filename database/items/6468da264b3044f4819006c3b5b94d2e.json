@@ -1,0 +1,58 @@
+{
+  "id": "6468da264b3044f4819006c3b5b94d2e",
+  "title": "CuskStaging",
+  "description": "CuskStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "23f3da2016b94461a7bd7e2eb46aa0f9",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-12T13:19:45.821Z",
+  "lastModifiedDate": "2020-04-03T00:24:14.188Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/Sherlock Holmes - Crimes and Punishments/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CuskStaging"
+    }
+  },
+  "entitlementName": "6468da264b3044f4819006c3b5b94d2e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e0d509b14aa44977b187811ab7ffa9f4",
+      "appId": "9920f0ce15b341ccbfbfd46ea548404c",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-02-26T00:00:00.000Z"
+    }
+  ],
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

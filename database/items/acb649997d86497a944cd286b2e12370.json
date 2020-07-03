@@ -1,0 +1,33 @@
+{
+  "id": "acb649997d86497a944cd286b2e12370",
+  "title": "DevMorganiteAudience",
+  "description": "DevMorganiteAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "158a0eaa18574bb39347c04286d118c7",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-18T21:49:47.486Z",
+  "lastModifiedDate": "2020-05-28T13:21:50.745Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "acb649997d86497a944cd286b2e12370",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

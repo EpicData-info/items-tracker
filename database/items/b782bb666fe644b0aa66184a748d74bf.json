@@ -1,0 +1,29 @@
+{
+  "id": "b782bb666fe644b0aa66184a748d74bf",
+  "title": "AlbacoreTLMAudience_Marker",
+  "description": "AlbacoreTLMAudience_Marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c9be94273fe244c08032ca493ad87434",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-10T04:32:36.977Z",
+  "lastModifiedDate": "2020-02-20T15:15:16.031Z",
+  "customAttributes": {},
+  "entitlementName": "b782bb666fe644b0aa66184a748d74bf",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

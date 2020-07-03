@@ -1,0 +1,101 @@
+{
+  "id": "4e34799e7e7d4101b25fc274ea68487e",
+  "title": "The End is Nigh",
+  "description": "The End is Nigh",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/item/N2-2560x1440-f1875f631fc6870253c48d26a7175c86.jpg",
+      "md5": "f1875f631fc6870253c48d26a7175c86",
+      "width": 2560,
+      "height": 1440,
+      "size": 724915,
+      "uploadedDate": "2019-08-27T20:02:58.886Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/item/GameLogo-200x76-61e3c50fa63f74e5575a08ab4718b8a7.png",
+      "md5": "61e3c50fa63f74e5575a08ab4718b8a7",
+      "width": 200,
+      "height": 76,
+      "size": 1140,
+      "uploadedDate": "2019-09-05T15:02:52.953Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/item/S2-1280x1440-6cebdc0fe45b9fde09a786506a7f5c6e.jpg",
+      "md5": "6cebdc0fe45b9fde09a786506a7f5c6e",
+      "width": 1280,
+      "height": 1440,
+      "size": 313611,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "530eeeaffca14275a451d7cff61ee6bb",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-24T06:23:20.946Z",
+  "lastModifiedDate": "2019-11-19T17:03:49.164Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "530eeeaffca14275a451d7cff61ee6bb"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheEndIsNigh"
+    }
+  },
+  "entitlementName": "4e34799e7e7d4101b25fc274ea68487e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8f080e5c17924322b989dab183811f84",
+      "appId": "Statice",
+      "platform": [
+        "Windows",
+        "Win32"
+      ],
+      "dateAdded": "2019-08-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Edmund McMillen, Tyler Glaiel",
+  "developerId": "o-h8c7zcwt24ey84nvxfbgzqpvth9vpz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

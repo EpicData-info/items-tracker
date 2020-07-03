@@ -1,0 +1,53 @@
+{
+  "id": "9decaf63022a4c72bd9897f7f8713f3e",
+  "title": "Offworld Trading Company: The Patron and the Patriot DLC",
+  "description": "The Patron and the Patriot",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyThePatronthePatriot_MohawkGames_DLC_IC1_A-320x180-c3bae6d0e00c417c6d4029a515adc8df.jpg",
+      "md5": "1880662344239d2caa93c339ce7c182c",
+      "width": 320,
+      "height": 180,
+      "size": 84921,
+      "uploadedDate": "2020-03-05T15:13:59.637Z"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyThePatronthePatriot_MohawkGames_DLC_IC1_A-320x180-c3bae6d0e00c417c6d4029a515adc8df.jpg",
+      "md5": "1880662344239d2caa93c339ce7c182c",
+      "width": 320,
+      "height": 180,
+      "size": 84921,
+      "uploadedDate": "2020-03-05T15:15:15.030Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-17T22:09:14.640Z",
+  "lastModifiedDate": "2020-04-07T16:50:17.301Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9decaf63022a4c72bd9897f7f8713f3e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "af1142559e5c4c8189886eba90693baa",
+  "title": "Kinglet_NubiaDLC_Audience",
+  "description": "Kinglet_NubiaDLC_Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-16T20:24:36.875Z",
+  "lastModifiedDate": "2020-06-04T19:03:27.930Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "af1142559e5c4c8189886eba90693baa",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

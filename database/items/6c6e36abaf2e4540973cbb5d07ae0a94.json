@@ -1,0 +1,34 @@
+{
+  "id": "6c6e36abaf2e4540973cbb5d07ae0a94",
+  "title": "KakopoGeneralAudience",
+  "description": "KakopoGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-11T21:16:27.717Z",
+  "lastModifiedDate": "2020-04-23T15:00:07.418Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6c6e36abaf2e4540973cbb5d07ae0a94",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Square Enix",
+  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

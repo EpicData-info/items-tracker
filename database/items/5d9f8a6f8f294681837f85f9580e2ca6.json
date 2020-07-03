@@ -1,0 +1,35 @@
+{
+  "id": "5d9f8a6f8f294681837f85f9580e2ca6",
+  "title": "Battalion Dev Kit",
+  "description": "BATTALION 1944 Development Toolkit",
+  "longDescription": "\"Enlist today to become a part of the Battalion 1944 modding community! The Toolkit comes with all the tools players will need to start creating their own levels - along with direct integration with the Steam Workshop & the BATTALION 1944 server browser so other players can help you play test your creations! If you've ever wanted to get into games development, hone your creativity or share your budding level design skills - The BATTALION 1944 Development Toolkit is the place to get you started.\"",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/battalion/item/B44_ModdingMainHeader-1920x983-78bc9718cca0d3fb49a1c433853c31b4.png",
+      "md5": "78bc9718cca0d3fb49a1c433853c31b4",
+      "width": 1920,
+      "height": 983,
+      "size": 2222950,
+      "uploadedDate": "2018-07-09T19:36:42.826Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "battalion",
+  "status": "ACTIVE",
+  "creationDate": "2018-07-06T15:43:26.386Z",
+  "lastModifiedDate": "2019-01-02T22:00:28.167Z",
+  "entitlementName": "5d9f8a6f8f294681837f85f9580e2ca6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

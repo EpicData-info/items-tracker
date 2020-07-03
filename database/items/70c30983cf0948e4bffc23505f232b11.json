@@ -1,0 +1,36 @@
+{
+  "id": "70c30983cf0948e4bffc23505f232b11",
+  "title": "Cosmos Pre-Purchase Audience",
+  "description": "Cosmos Pre-Purchase Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "cosmos",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-18T00:24:14.767Z",
+  "lastModifiedDate": "2020-01-08T14:41:12.215Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "70c30983cf0948e4bffc23505f232b11",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ragnarok Game, LLC",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

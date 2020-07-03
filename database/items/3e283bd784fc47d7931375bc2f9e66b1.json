@@ -1,0 +1,25 @@
+{
+  "id": "3e283bd784fc47d7931375bc2f9e66b1",
+  "title": "Fortnite Internal - Localization Team",
+  "description": "Fortnite Internal - Localization Team",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-10T20:51:55.785Z",
+  "lastModifiedDate": "2020-02-10T20:51:55.785Z",
+  "entitlementName": "3e283bd784fc47d7931375bc2f9e66b1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

@@ -1,0 +1,74 @@
+{
+  "id": "b14b5060e1ea44ccbc2dd9b3aa841463",
+  "title": "ColumbineDemoStaging",
+  "description": "ColumbineDemoStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "columbine",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-04T11:38:52.311Z",
+  "lastModifiedDate": "2020-06-26T20:57:42.975Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/Quantic Dream/Detroit Become Human/"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "INTER_2/,JPN_2/"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "250"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ColumbineDemoStaging"
+    }
+  },
+  "entitlementName": "b14b5060e1ea44ccbc2dd9b3aa841463",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f436b447dde34f5ba25f3a17944a5d7f",
+      "appId": "ColumbineDemoStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-04T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

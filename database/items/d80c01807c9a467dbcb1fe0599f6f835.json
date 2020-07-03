@@ -1,0 +1,79 @@
+{
+  "id": "d80c01807c9a467dbcb1fe0599f6f835",
+  "title": "Vanilla Soundtrack",
+  "description": "Vanilla Soundtrack",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "digitalextras"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a9cb15d3362d43d585b8a5b13b8a4513",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-24T17:14:36.687Z",
+  "lastModifiedDate": "2020-05-26T20:42:10.195Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "a9cb15d3362d43d585b8a5b13b8a4513"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "VanillaSoundtrack"
+    }
+  },
+  "entitlementName": "d80c01807c9a467dbcb1fe0599f6f835",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "788f93899bb34bd3b0236e28b9ae9c39",
+      "appId": "VanillaSoundtrack",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-24T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

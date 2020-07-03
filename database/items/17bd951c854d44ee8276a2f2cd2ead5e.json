@@ -1,0 +1,24 @@
+{
+  "id": "17bd951c854d44ee8276a2f2cd2ead5e",
+  "title": "Wonder",
+  "description": "Inspire wonder.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-04T19:28:02.555Z",
+  "lastModifiedDate": "2019-06-04T20:24:13.522Z",
+  "entitlementName": "Wonder_out",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

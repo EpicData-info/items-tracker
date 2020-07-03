@@ -1,0 +1,35 @@
+{
+  "id": "fe8aaeb8356a43cf9b161c8b5a84260a",
+  "title": "Hoopoe Press Audience",
+  "description": "Hoopoe Press Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "b9def67e597b4be7a16146146a044d02",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-18T19:12:00.260Z",
+  "lastModifiedDate": "2019-12-10T13:53:12.211Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "fe8aaeb8356a43cf9b161c8b5a84260a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Piranha Games",
+  "developerId": "o-muad9pj32k67stc4ycpgpplwq84sgq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

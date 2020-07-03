@@ -1,0 +1,34 @@
+{
+  "id": "e0462ea7617a4855a38d196e9be5bb28",
+  "title": "VR Funhouse",
+  "description": "VR FUNHOUSE",
+  "longDescription": "Step right up to VR Funhouse mods!  Download the VR Funhouse Mod Kit, create your own mods, and share them with the world.  We can’t wait to see the amazing experiences you’ll create!",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/vrfunhouse/item/header_vrfunhouse-1440x810-2c63d9a62d3aa8855ef825251c59d2e0.png",
+      "md5": "2c63d9a62d3aa8855ef825251c59d2e0",
+      "width": 1440,
+      "height": 810,
+      "size": 242481,
+      "uploadedDate": "2017-02-24T02:44:23.757Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "vrfunhouse",
+  "status": "ACTIVE",
+  "creationDate": "2016-08-18T14:54:51.418Z",
+  "lastModifiedDate": "2018-11-13T21:25:03.181Z",
+  "entitlementName": "e0462ea7617a4855a38d196e9be5bb28",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

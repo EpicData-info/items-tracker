@@ -1,0 +1,97 @@
+{
+  "id": "11fa5d6106524a3fa600b111ac243f58",
+  "title": "Just Cause 4",
+  "description": "Just Cause 4",
+  "longDescription": "Just Cause 4",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/item/EGS_JustCause4StandardEdition_AvalancheStudios_Editions_S1-2560x1440-5c3b5edf8cb8b166fbc08b80df974f5f.jpg",
+      "md5": "5c3b5edf8cb8b166fbc08b80df974f5f",
+      "width": 2560,
+      "height": 1440,
+      "size": 621232,
+      "uploadedDate": "2020-04-16T15:05:21.456Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/item/EGS_JustCause4StandardEdition_AvalancheStudios_Editions_S2-860x1148-63070ca3b25f0ad2ada1fe99a0a0e2c4.jpg",
+      "md5": "63070ca3b25f0ad2ada1fe99a0a0e2c4",
+      "width": 860,
+      "height": 1148,
+      "size": 200847,
+      "uploadedDate": "2020-04-16T15:05:33.890Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-11T21:16:27.789Z",
+  "lastModifiedDate": "2020-04-16T15:05:37.928Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ba8062bdcc1342c0b78743e3c6242575"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "JustCause4"
+    }
+  },
+  "entitlementName": "11fa5d6106524a3fa600b111ac243f58",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f78926fd95554895b601f9c4e7c59c7c",
+      "appId": "Kakopo",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix",
+  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "eulaIds": [
+    "egstore && JC4"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

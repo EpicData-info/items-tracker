@@ -1,0 +1,33 @@
+{
+  "id": "b9f25d5ffbb44dfe86c2d54aad5d19cf",
+  "title": "Kakopo Brawler Audience",
+  "description": "Kakopo Brawler Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-16T19:00:16.568Z",
+  "lastModifiedDate": "2020-04-09T14:22:00.648Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b9f25d5ffbb44dfe86c2d54aad5d19cf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Square Enix",
+  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

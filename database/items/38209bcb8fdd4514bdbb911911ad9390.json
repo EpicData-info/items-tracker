@@ -1,0 +1,24 @@
+{
+  "id": "38209bcb8fdd4514bdbb911911ad9390",
+  "title": "MooseDevAudience",
+  "description": "MooseDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "moose",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-12T17:27:07.174Z",
+  "lastModifiedDate": "2019-05-13T14:38:13.589Z",
+  "entitlementName": "38209bcb8fdd4514bdbb911911ad9390",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Team Meat",
+  "developerId": "o-mj7q3aaq5djq6wuddnrr5mgqjsk2da",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

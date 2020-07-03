@@ -1,0 +1,70 @@
+{
+  "id": "0bbfda9fd278420db9edf22157570c2a",
+  "title": "OstrichStaging",
+  "description": "OstrichStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/413361d2d5db4912ac2dfbcf27a38141/item/EGS_GLUMBERLAND_OOBLETS_IC1_COLOUR-958x279-03d7224e09b4a949a8e4b2e589e172a0.png",
+      "md5": "03d7224e09b4a949a8e4b2e589e172a0",
+      "width": 958,
+      "height": 279,
+      "size": 20910,
+      "uploadedDate": "2019-08-19T18:24:16.906Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/413361d2d5db4912ac2dfbcf27a38141/item/EGS_GLUMBERLAND_OOBLETS_L1_noLogo-2560x1440-95e762adeee5d9d533cf2c1cc2b26ea1.jpg",
+      "md5": "95e762adeee5d9d533cf2c1cc2b26ea1",
+      "width": 2560,
+      "height": 1440,
+      "size": 243358,
+      "uploadedDate": "2019-08-19T18:24:37.294Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "413361d2d5db4912ac2dfbcf27a38141",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-01T20:44:27.093Z",
+  "lastModifiedDate": "2019-08-29T13:29:10.603Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OstrichStaging"
+    }
+  },
+  "entitlementName": "0bbfda9fd278420db9edf22157570c2a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e71c190ef0c5425ab9bee6550911ad74",
+      "appId": "OstrichStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-19T18:24:07.464Z"
+    }
+  ],
+  "developer": "Glumberland",
+  "developerId": "o-q293du8hx3hhcjbqzrmfz6cz48hk6x",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

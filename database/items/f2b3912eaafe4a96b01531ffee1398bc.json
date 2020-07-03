@@ -1,0 +1,47 @@
+{
+  "id": "f2b3912eaafe4a96b01531ffee1398bc",
+  "title": "FennelGeneralAudience",
+  "description": "FennelGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/fennel/item/ESRB_Michonne-842x404-a3ad3c876e7693d054b9ed7e50e45e3a.jpg",
+      "md5": "a3ad3c876e7693d054b9ed7e50e45e3a",
+      "width": 842,
+      "height": 404,
+      "size": 95443,
+      "uploadedDate": "2020-01-07T18:24:04.714Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "fennel",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-22T22:12:05.235Z",
+  "lastModifiedDate": "2020-01-07T18:24:07.472Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f2b3912eaafe4a96b01531ffee1398bc",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

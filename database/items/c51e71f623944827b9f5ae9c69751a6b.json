@@ -1,0 +1,56 @@
+{
+  "id": "c51e71f623944827b9f5ae9c69751a6b",
+  "title": "IrisDLC4Staging",
+  "description": "IrisDLC4Staging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-14T17:38:04.029Z",
+  "lastModifiedDate": "2020-02-14T18:07:17.182Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DLC4"
+    }
+  },
+  "entitlementName": "c51e71f623944827b9f5ae9c69751a6b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ea9bbc15bb3a4916bdea1ac830970b12",
+      "appId": "IrisDLC4Staging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-11-12T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

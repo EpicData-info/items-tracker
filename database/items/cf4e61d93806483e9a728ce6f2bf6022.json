@@ -1,0 +1,35 @@
+{
+  "id": "cf4e61d93806483e9a728ce6f2bf6022",
+  "title": "SweetpeaDevAudience",
+  "description": "SweetpeaDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "sweetpea",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-18T19:59:31.193Z",
+  "lastModifiedDate": "2019-06-04T12:59:01.699Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "cf4e61d93806483e9a728ce6f2bf6022",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Squanch Games",
+  "developerId": "o-n2p7jejpaawba9jzcfpryscpj3uh6w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

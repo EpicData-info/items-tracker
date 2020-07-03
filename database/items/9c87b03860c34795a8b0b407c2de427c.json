@@ -1,0 +1,92 @@
+{
+  "id": "9c87b03860c34795a8b0b407c2de427c",
+  "title": "Oxygen Not Included Public Testing",
+  "description": "Oxygen Not Included Public Testing",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lotus/item/OxygenNotIncluded_GameIcon-400x400-0ca35ebc6f717bb02db4a46d0b596dd3.png",
+      "md5": "0ca35ebc6f717bb02db4a46d0b596dd3",
+      "width": 400,
+      "height": 400,
+      "size": 66351,
+      "uploadedDate": "2019-02-18T14:47:52.349Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/lotus/item/OxygenNotIncluded_PrimaryPromo-1281x720-661875a06ca152a669ca2056080da18c-1281x720-661875a06ca152a669ca2056080da18c.jpg",
+      "md5": "661875a06ca152a669ca2056080da18c",
+      "width": 1281,
+      "height": 720,
+      "size": 291290,
+      "uploadedDate": "2019-03-18T22:14:52.510Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/lotus/item/Game Logo - Oxygen Not Included [Large]-3951x1922-954a8ccacf405ed97c7dd05c55605c19.png",
+      "md5": "954a8ccacf405ed97c7dd05c55605c19",
+      "width": 3951,
+      "height": 1922,
+      "size": 84315,
+      "uploadedDate": "2019-07-29T20:55:23.242Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "lotus",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-01T19:20:22.730Z",
+  "lastModifiedDate": "2019-07-30T16:01:19.414Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "lotus"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OxygenNotIncludedTesting"
+    }
+  },
+  "entitlementName": "9c87b03860c34795a8b0b407c2de427c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7f44dbf3cf98471f81e0014e1eb3b461",
+      "appId": "LotusPublicTesting",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-02-01T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Klei Entertainment",
+  "developerId": "o-6v5su732w3tnzud9lque2m7s4qzvjx",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

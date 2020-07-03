@@ -1,0 +1,41 @@
+{
+  "id": "fc4cbd8add2447418f70b25e3dca69d9",
+  "title": "Gold Pack 01 Audience",
+  "description": "Gold Pack 01 Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-04-23T19:23:42.731Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-09T13:57:39.638Z",
+  "lastModifiedDate": "2020-04-10T14:26:56.506Z",
+  "entitlementName": "fc4cbd8add2447418f70b25e3dca69d9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "useCount": 100,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "RATING_PENDING",
+  "unsearchable": false
+}

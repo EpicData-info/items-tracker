@@ -1,0 +1,44 @@
+{
+  "id": "bb0084a063504ec6872a126b3d81184a",
+  "title": "Mars 2030 Editor",
+  "description": "MARS 2030 EDITOR",
+  "longDescription": "The Mars 2030 Editor is an open source version of Mars 2030 that contains all of the content and systems found in the VR project to develop your own space concepts using real NASA data! Build your own space habitat designs, create your own robotic NPC companion using NASA’s Valkyrie, or use the 40 sq.km of Mars Reconnaissance Orbiter Martian terrain data to design your own mission to the Red Planet.",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/mars2030/item/habimag-2500x1258-16431b5967ab33dd55ce0ab7faa47b4d.png",
+      "md5": "16431b5967ab33dd55ce0ab7faa47b4d",
+      "width": 2500,
+      "height": 1258,
+      "size": 2847525,
+      "uploadedDate": "2018-04-12T17:58:04.988Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "mars2030",
+  "status": "ACTIVE",
+  "creationDate": "2018-02-08T16:22:30.636Z",
+  "lastModifiedDate": "2018-12-12T15:14:42.668Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "bb0084a063504ec6872a126b3d81184a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Fusion Media Group",
+  "developerId": "o-v8ctg8jgjafjpj27mwqxqzcmgmkzrf",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}
