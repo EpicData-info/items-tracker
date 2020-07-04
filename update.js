@@ -85,6 +85,7 @@ class Main {
           Array.isArray(item.categories) && item.categories.map(c => c.path) || [],
           item.developer || '',
           item.creationDate && Math.floor((new Date(item.creationDate)).getTime() / 1000) || 0,
+          item.lastModifiedDate && Math.floor((new Date(item.lastModifiedDate)).getTime() / 1000) || 0,
         ]);
       } catch (error) {
         console.error(error);
