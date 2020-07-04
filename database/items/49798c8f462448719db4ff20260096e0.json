@@ -1,0 +1,69 @@
+{
+  "id": "49798c8f462448719db4ff20260096e0",
+  "title": "Battle Breakers Pre Deploy A",
+  "description": "Battle Breakers Pre Deploy A",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wex/item/wex_bg-430x250-7ff217599bc08d57744a959ff00ec48c.png",
+      "md5": "dca0827cd41aa825572a9037d423461f",
+      "width": 430,
+      "height": 250,
+      "size": 224112,
+      "uploadedDate": "2020-01-18T03:03:42.914Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/wex/item/BBLogo-625x408-34f5e3a41a380a7dba705ba302b9ffd0.png",
+      "md5": "7fbc1b75ceca9710822f87edbaf57aa3",
+      "width": 625,
+      "height": 408,
+      "size": 58151,
+      "uploadedDate": "2020-01-18T03:04:03.558Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-18T03:05:16.456Z",
+  "lastModifiedDate": "2020-01-27T17:09:08.206Z",
+  "customAttributes": {
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BattleBreakersPDA"
+    }
+  },
+  "entitlementName": "WorldExplorersPreDeployA",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cad62376a21748a2a93c2c49f62d7096",
+      "appId": "WorldExplorersPreDeployA",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-01-18T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

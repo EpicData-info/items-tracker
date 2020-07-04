@@ -1,0 +1,24 @@
+{
+  "id": "df028607645a4c72902799cfed229c24",
+  "title": "Fortnite External Hardware Partner",
+  "description": "Fortnite External Hardware Partner",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-18T22:08:20.482Z",
+  "lastModifiedDate": "2019-04-18T22:08:20.482Z",
+  "entitlementName": "df028607645a4c72902799cfed229c24",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

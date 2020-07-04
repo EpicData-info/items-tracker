@@ -1,0 +1,74 @@
+{
+  "id": "5d62b8481fa9452491828f1933d32ddb",
+  "title": "Tom Clancy's Ghost Recon Wildlands - Test Weekend",
+  "description": "Tom Clancy's Ghost Recon Wildlands - Test Weekend",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/hyacinth/item/GhostReconWildlands_GamePagePromo-1920x1080-f0e23870dd6468664ad99339e75086c2.jpg",
+      "md5": "f0e23870dd6468664ad99339e75086c2",
+      "width": 1920,
+      "height": 1080,
+      "size": 443304,
+      "uploadedDate": "2019-04-30T17:12:42.074Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/hyacinth/item/GhostReconWildlands_GameLogo-1920x454-8e94e01a4a07a0667705af81313d2f56.png",
+      "md5": "8e94e01a4a07a0667705af81313d2f56",
+      "width": 1920,
+      "height": 454,
+      "size": 1916094,
+      "uploadedDate": "2019-04-30T17:12:53.756Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "hyacinth",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-30T17:14:17.167Z",
+  "lastModifiedDate": "2020-01-28T15:58:59.365Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "hyacinth"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GhostReconWildlandsTest"
+    }
+  },
+  "entitlementName": "5d62b8481fa9452491828f1933d32ddb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

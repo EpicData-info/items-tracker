@@ -1,0 +1,47 @@
+{
+  "id": "d7ef79ff2f0e4934a6dc1bb15d681aa0",
+  "title": "LoonStaging",
+  "description": "LoonStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3928fd8975b2437d894bbc5cd21de9a0",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-15T17:09:28.572Z",
+  "lastModifiedDate": "2020-05-26T15:08:12.197Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LoonStaging"
+    }
+  },
+  "entitlementName": "d7ef79ff2f0e4934a6dc1bb15d681aa0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "002e5368dd5d4b6693832656ca2ce17e",
+      "appId": "LoonStaging"
+    }
+  ],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

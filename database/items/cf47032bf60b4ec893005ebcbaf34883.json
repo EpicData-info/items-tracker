@@ -1,0 +1,36 @@
+{
+  "id": "cf47032bf60b4ec893005ebcbaf34883",
+  "title": "RoseGeneralAudience",
+  "description": "RoseGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "rose",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-18T15:24:40.631Z",
+  "lastModifiedDate": "2020-01-07T16:33:15.943Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "cf47032bf60b4ec893005ebcbaf34883",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Gwen Frey",
+  "developerId": "o-na388hs5k2ak86akfejt2es246vaa2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

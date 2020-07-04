@@ -1,0 +1,29 @@
+{
+  "id": "a816f967405946599b73165c552310d3",
+  "title": "MarmosetDevAudience",
+  "description": "MarmosetDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "marmoset",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-14T03:31:01.709Z",
+  "lastModifiedDate": "2019-08-13T14:55:54.901Z",
+  "entitlementName": "a816f967405946599b73165c552310d3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Double Damage Games, Inc",
+  "developerId": "o-7kk95dlwa9mep5kfkubrgmp9qkwbt4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

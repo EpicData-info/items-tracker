@@ -1,0 +1,53 @@
+{
+  "id": "c9e8b71c8bb94c358c2f8c415de6d676",
+  "title": "MoonstoneStaging",
+  "description": "MoonstoneStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d33c2a64808e434b85eb1329f65431b1",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-16T20:13:52.949Z",
+  "lastModifiedDate": "2020-05-19T00:46:29.550Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MoonstoneStaging"
+    }
+  },
+  "entitlementName": "c9e8b71c8bb94c358c2f8c415de6d676",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8bedd6de0703476ca19dea1cbebf7f36",
+      "appId": "3b3fab7d77e747b78286098105ccc4e5",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-04-03T00:00:00.000Z"
+    }
+  ],
+  "developer": "Butterscotch Shenanigans",
+  "developerId": "o-nl9ywem28pes9amuwp2jqrey4zxjpf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567aDvsr73lzbZgD51CEVXcW7MR",
+  "unsearchable": false
+}

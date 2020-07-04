@@ -1,0 +1,23 @@
+{
+  "id": "18dab90658c24dd482d687503fb96be4",
+  "title": "Skill XP Bundle",
+  "description": "A pile of Skill XP and other resources!",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "starter_packs"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2017-07-25T18:52:45.648Z",
+  "lastModifiedDate": "2017-07-25T19:22:49.597Z",
+  "entitlementName": "18dab90658c24dd482d687503fb96be4",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

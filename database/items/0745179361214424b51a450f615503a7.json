@@ -1,0 +1,24 @@
+{
+  "id": "0745179361214424b51a450f615503a7",
+  "title": "Batman Logo",
+  "description": "Batman Logo Banner",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-20T20:58:13.690Z",
+  "lastModifiedDate": "2019-09-21T13:38:17.767Z",
+  "entitlementName": "HomebaseBannerIcon:brs10blackmonday",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

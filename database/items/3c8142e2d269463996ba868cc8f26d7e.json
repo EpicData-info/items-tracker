@@ -1,0 +1,100 @@
+{
+  "id": "3c8142e2d269463996ba868cc8f26d7e",
+  "title": "Hyper Light Drifter",
+  "description": "Hyper Light Drifter",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/62d6f15b1bb345f6a42585b4c8c847a0/item/EGS_HeartMachine_HyperLightDrifter_Social_Landscape-1920x1080-311a8f7f974fdf4d1fb94284601abffc.jpg",
+      "md5": "311a8f7f974fdf4d1fb94284601abffc",
+      "width": 1920,
+      "height": 1080,
+      "size": 147394,
+      "uploadedDate": "2019-08-09T13:02:08.847Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/62d6f15b1bb345f6a42585b4c8c847a0/item/EGS_HeartMachine_HyperLightDrifter_IC1_Logo_White-1316x720-e8c1800fcc3481465e34432c0ce5ab6f.png",
+      "md5": "e8c1800fcc3481465e34432c0ce5ab6f",
+      "width": 1316,
+      "height": 720,
+      "size": 1575,
+      "uploadedDate": "2019-08-09T13:02:17.873Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/62d6f15b1bb345f6a42585b4c8c847a0/item/EGS_HeartMachine_HyperLightDrifter_S2_StorePrimaryPromo_Portrait-1280x1440-5f0395b1be0e4b71c45ad057e0243cec.jpg",
+      "md5": "5f0395b1be0e4b71c45ad057e0243cec",
+      "width": 1280,
+      "height": 1440,
+      "size": 139507,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "62d6f15b1bb345f6a42585b4c8c847a0",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-06T20:39:38.029Z",
+  "lastModifiedDate": "2019-11-19T17:02:56.895Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "62d6f15b1bb345f6a42585b4c8c847a0"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HyperLightDrifter"
+    }
+  },
+  "entitlementName": "3c8142e2d269463996ba868cc8f26d7e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4fa9329665504c57996b1ad08e6287d5",
+      "appId": "Parakeet",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-06T00:00:00.000Z"
+    }
+  ],
+  "developer": "Heart Machine",
+  "developerId": "o-sa7ewerl9ha4ddzrjkjac7rh8sjgyc",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

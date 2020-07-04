@@ -1,0 +1,35 @@
+{
+  "id": "dea54639fd1d485aa97165a97875bfbb",
+  "title": "DaceStagingAudience",
+  "description": "DaceStagingAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "ace4435645d9489cacfbb422b7c1c817",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-29T21:04:49.415Z",
+  "lastModifiedDate": "2020-05-05T18:07:20.087Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "dea54639fd1d485aa97165a97875bfbb",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

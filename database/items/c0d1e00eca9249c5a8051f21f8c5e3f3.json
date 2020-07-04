@@ -1,0 +1,95 @@
+{
+  "id": "c0d1e00eca9249c5a8051f21f8c5e3f3",
+  "title": "Iron Harvest Pre-Purchase",
+  "description": "Iron Harvest Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/item/Featured_Carousel_Mobile_vertical-510x680-510x680-103c530e3b4d46872f751573330b8ba9.png",
+      "md5": "103c530e3b4d46872f751573330b8ba9",
+      "width": 510,
+      "height": 680,
+      "size": 728579,
+      "uploadedDate": "2020-06-13T19:45:04.832Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/item/Featured_Carousel_Desktop_horizontal-1360x766-1360x766-522930670eb70ba6cb36e20c7306dd93.png",
+      "md5": "522930670eb70ba6cb36e20c7306dd93",
+      "width": 1360,
+      "height": 766,
+      "size": 2034857,
+      "uploadedDate": "2020-06-13T19:45:17.010Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f312bc218b1d46f7921619cc9f3bf3c7",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-09T18:07:19.182Z",
+  "lastModifiedDate": "2020-06-13T19:57:57.154Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "f312bc218b1d46f7921619cc9f3bf3c7"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1598958000"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "IronharvestPP"
+    }
+  },
+  "entitlementName": "c0d1e00eca9249c5a8051f21f8c5e3f3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6dc6fcc5c200491788611c8d7490da56",
+      "appId": "IronharvestPrePurchase",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

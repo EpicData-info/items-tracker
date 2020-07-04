@@ -1,0 +1,59 @@
+{
+  "id": "2914af7cb48e41f4b5440e9f96e0b7c6",
+  "title": "KingdomUltimateDLC",
+  "description": "KingdomUltimateDLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "400347196e674de89c23cc2a7f2121db",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-29T22:04:20.091Z",
+  "lastModifiedDate": "2020-04-30T15:01:42.184Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "2914af7cb48e41f4b5440e9f96e0b7c6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "15612d67a64f4a88ba6b62449ae5fd6b",
+      "appId": "KingdomUltimateDLC",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-04-29T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

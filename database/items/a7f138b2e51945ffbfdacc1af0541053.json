@@ -1,0 +1,24 @@
+{
+  "id": "a7f138b2e51945ffbfdacc1af0541053",
+  "title": "LightSwitch Override",
+  "description": "Allows access to applications during LightSwitch maintenance windows",
+  "longDescription": "Allows access to applications during LightSwitch maintenance windows",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2014-11-18T03:26:26.519Z",
+  "lastModifiedDate": "2019-10-29T13:17:31.498Z",
+  "entitlementName": "LightSwitchOverride",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

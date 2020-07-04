@@ -1,0 +1,34 @@
+{
+  "id": "ca1d191bd4564c6c95993593b9fd3fe7",
+  "title": "Tanzanite Soundtrack Audience",
+  "description": "Tanzanite Soundtrack Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "395be8a9aed24142b30b6abb2778e995",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-21T17:05:51.061Z",
+  "lastModifiedDate": "2020-03-12T14:40:11.268Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ca1d191bd4564c6c95993593b9fd3fe7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Analgesic Productions",
+  "developerId": "o-lj8mtqmxvzj3vay37vhmwu2ptycae8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

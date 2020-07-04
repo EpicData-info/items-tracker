@@ -1,0 +1,39 @@
+{
+  "id": "120e1eeb2e4f4cc6a20cd8f90f84f7e2",
+  "title": "Launcher_logo_small",
+  "description": "small ut logo",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/UT_Icon-79x84-0b4c28b8628232f7691969806a469c51.png",
+      "md5": "0b4c28b8628232f7691969806a469c51",
+      "width": 79,
+      "height": 84,
+      "size": 5325,
+      "uploadedDate": "2017-06-12T21:12:33.967Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2017-06-08T20:46:05.672Z",
+  "lastModifiedDate": "2017-06-12T21:12:43.007Z",
+  "entitlementName": "120e1eeb2e4f4cc6a20cd8f90f84f7e2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

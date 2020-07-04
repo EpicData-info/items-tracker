@@ -1,0 +1,99 @@
+{
+  "id": "d19abbc0bc1042aaa729f70b584400e0",
+  "title": "Surviving Mars Soundtrack",
+  "description": "Surviving Mars Soundtrack",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/item/surviving-mars_promo-1920x1080-e999bcc02209c48a229f3008fd726833.jpg",
+      "md5": "e999bcc02209c48a229f3008fd726833",
+      "width": 1920,
+      "height": 1080,
+      "size": 293181,
+      "uploadedDate": "2019-10-10T15:16:18.782Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/item/surviving-mars_Logo-2560x844-e1896a459f62cb9782b6e69b9dab914b.png",
+      "md5": "e1896a459f62cb9782b6e69b9dab914b",
+      "width": 2560,
+      "height": 844,
+      "size": 86318,
+      "uploadedDate": "2019-10-10T15:16:26.206Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d759128018124dcabb1fbee9bb28e178",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-05T17:44:04.231Z",
+  "lastModifiedDate": "2019-12-09T14:39:37.680Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "d759128018124dcabb1fbee9bb28e178"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Surviving Mars/Save/"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../roaming/Surviving Mars/Save/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SurvivingMarsSoundtrack"
+    }
+  },
+  "entitlementName": "d19abbc0bc1042aaa729f70b584400e0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1a8e51bfd2d243c7b84220fc2cf1b1df",
+      "appId": "OvenbirdSoundtrack",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-10-01T00:00:00.000Z"
+    }
+  ],
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "040cd736dab24ba9ba0d4181e78b2117",
+  "title": "Influencer Banner - Ionix",
+  "description": "Influencer Banner - Ionix",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-07-14T15:43:42.606Z",
+  "lastModifiedDate": "2017-07-14T15:51:16.918Z",
+  "entitlementName": "INFLUENCERBANNER_Ionix",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cb6daf9a6f684a989cc71e5dff529d20",
+  "title": "Counterattack Bundle",
+  "description": "Includes:\n\n- Reflex outfit\n- Response Unit backbling\n- Angular Axe pickaxe\n- Pivot glider",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-11-14T22:57:03.253Z",
+  "lastModifiedDate": "2018-11-21T21:19:52.282Z",
+  "entitlementName": "Street_Ops_Set",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

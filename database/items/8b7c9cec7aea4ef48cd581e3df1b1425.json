@@ -1,0 +1,35 @@
+{
+  "id": "8b7c9cec7aea4ef48cd581e3df1b1425",
+  "title": "Call_To_Action_03",
+  "description": "Community Forums",
+  "technicalDetails": "https://forums.dovetailgames.com/forums/trainsimworld/",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/trainsimworld/item/Community-Forums-960x500-eee99e49af12e2f4d1fbeb89e164c718.png",
+      "md5": "eee99e49af12e2f4d1fbeb89e164c718",
+      "width": 960,
+      "height": 500,
+      "size": 756860,
+      "uploadedDate": "2018-11-01T00:00:51.011Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "trainsimworld",
+  "status": "ACTIVE",
+  "creationDate": "2018-09-26T19:35:04.084Z",
+  "lastModifiedDate": "2018-11-01T00:00:59.021Z",
+  "entitlementName": "8b7c9cec7aea4ef48cd581e3df1b1425",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": "9a7d2966ccdd436482b308718c06f751",
+  "title": "DevTurquoiseAudience",
+  "description": "DevTurquoiseAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "8767c1c91fc847cbafbfa232c695276f",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-24T00:47:42.212Z",
+  "lastModifiedDate": "2020-06-04T14:33:24.683Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9a7d2966ccdd436482b308718c06f751",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

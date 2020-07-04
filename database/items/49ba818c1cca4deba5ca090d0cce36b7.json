@@ -1,0 +1,35 @@
+{
+  "id": "49ba818c1cca4deba5ca090d0cce36b7",
+  "title": "Dauntless Community Audience",
+  "description": "Dauntless Community Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "jackal",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-19T02:28:52.817Z",
+  "lastModifiedDate": "2020-06-11T16:55:23.414Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "49ba818c1cca4deba5ca090d0cce36b7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

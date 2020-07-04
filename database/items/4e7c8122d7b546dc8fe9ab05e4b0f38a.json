@@ -1,0 +1,100 @@
+{
+  "id": "4e7c8122d7b546dc8fe9ab05e4b0f38a",
+  "title": "Totally Accurate Battle Simulator",
+  "description": "Totally Accurate Battle Simulator",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/item/EGS_LandfallGames_TotallyAccurateBattleSimulator_S1-2560x1440-6041f9e5f1e30fc01dafd9dd11999732.jpg",
+      "md5": "6041f9e5f1e30fc01dafd9dd11999732",
+      "width": 2560,
+      "height": 1440,
+      "size": 469269,
+      "uploadedDate": "2019-12-18T13:53:33.288Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/item/EGS_LandfallGames_TotallyAccurateBattleSimulator_S2-860x1148-c8fc9233bb0adbca2d4faf6b802f3529.jpg",
+      "md5": "c8fc9233bb0adbca2d4faf6b802f3529",
+      "width": 860,
+      "height": 1148,
+      "size": 364049,
+      "uploadedDate": "2019-12-18T13:53:43.743Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/item/EGS_LandfallGames_TotallyAccurateBattleSimulator_IC1-200x91-6ccdb8fc1ece9c7bf55129561cb65d14.png",
+      "md5": "6ccdb8fc1ece9c7bf55129561cb65d14",
+      "width": 200,
+      "height": 91,
+      "size": 28567,
+      "uploadedDate": "2019-12-18T13:53:56.613Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ffe512fa1e594ee6a75d4643d1e21b43",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-16T16:58:30.243Z",
+  "lastModifiedDate": "2020-02-04T15:18:57.937Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ffe512fa1e594ee6a75d4643d1e21b43"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TABS"
+    }
+  },
+  "entitlementName": "4e7c8122d7b546dc8fe9ab05e4b0f38a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fee6d6de56474e73a35a63c56cbe3f88",
+      "appId": "Driftfish",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-12-18T00:00:00.000Z"
+    }
+  ],
+  "developer": "Landfall Games",
+  "developerId": "o-davtxzvpdnjmd82c247y6zdxg7wabq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

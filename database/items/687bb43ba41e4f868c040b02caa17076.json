@@ -1,0 +1,26 @@
+{
+  "id": "687bb43ba41e4f868c040b02caa17076",
+  "title": "Boogie spray",
+  "description": "Boogie spray",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-10-30T23:48:33.729Z",
+  "lastModifiedDate": "2018-10-30T23:50:18.034Z",
+  "entitlementName": "Boogie18_Spray",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2018-10-30T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,92 @@
+{
+  "id": "75e740783b2f496ab7f6f8ecf546c702",
+  "title": "Jotun Valhalla Edition",
+  "description": "Jotun Valhalla Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ba3149b6d7a7488ab5cc674154458757/item/EGS_ThunderLotus_JotunValhallaEdition_S1-2560x1440-3de6d0151b1c97a08a8579167814682c.jpg",
+      "md5": "3de6d0151b1c97a08a8579167814682c",
+      "width": 2560,
+      "height": 1440,
+      "size": 504256,
+      "uploadedDate": "2019-11-26T15:56:35.627Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ba3149b6d7a7488ab5cc674154458757/item/EGS_ThunderLotus_JotunValhallaEdition_S2-1280x1440-eceef05b236cf920e419b4004d4993e7.jpg",
+      "md5": "eceef05b236cf920e419b4004d4993e7",
+      "width": 1280,
+      "height": 1440,
+      "size": 343052,
+      "uploadedDate": "2019-11-26T15:56:50.928Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ba3149b6d7a7488ab5cc674154458757",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-12T17:03:30.030Z",
+  "lastModifiedDate": "2019-12-05T15:55:14.711Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ba3149b6d7a7488ab5cc674154458757"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Jotun"
+    }
+  },
+  "entitlementName": "75e740783b2f496ab7f6f8ecf546c702",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "08cbfa64190a404d996ecdd49de98de8",
+      "appId": "Grouse",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-09-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "Thunder Lotus Games",
+  "developerId": "o-k5nhue2lw5nkaqutyhkwrdl5qjkcd5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

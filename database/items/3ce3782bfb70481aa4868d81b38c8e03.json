@@ -1,0 +1,47 @@
+{
+  "id": "3ce3782bfb70481aa4868d81b38c8e03",
+  "title": "Investigator Pack DLC Entitlement",
+  "description": "Investigator Pack DLC Entitlement",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/middlemist/item/the-sinking-city_ESRB_M-4905x2280-a6ffeae05a215ef4b08575ac8eb0ef4f.png",
+      "md5": "a6ffeae05a215ef4b08575ac8eb0ef4f",
+      "width": 4905,
+      "height": 2280,
+      "size": 101372,
+      "uploadedDate": "2019-06-26T15:08:24.448Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "dlc"
+    }
+  ],
+  "namespace": "middlemist",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-19T01:37:19.436Z",
+  "lastModifiedDate": "2019-06-27T07:53:49.799Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3ce3782bfb70481aa4868d81b38c8e03",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

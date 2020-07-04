@@ -1,0 +1,35 @@
+{
+  "id": "4af3857c6b0144a9be5618d255e99049",
+  "title": "GeraniumDevAudience",
+  "description": "GeraniumDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "geranium",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-16T14:08:25.416Z",
+  "lastModifiedDate": "2019-05-13T14:41:55.147Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "4af3857c6b0144a9be5618d255e99049",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

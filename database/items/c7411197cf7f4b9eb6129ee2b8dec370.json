@@ -1,0 +1,34 @@
+{
+  "id": "c7411197cf7f4b9eb6129ee2b8dec370",
+  "title": "SunbirdDevAudience",
+  "description": "SunbirdDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "d5ee752640ef4cee8b7f5364410ba41f",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-23T17:53:15.505Z",
+  "lastModifiedDate": "2020-01-16T15:30:10.215Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c7411197cf7f4b9eb6129ee2b8dec370",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

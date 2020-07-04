@@ -1,0 +1,83 @@
+{
+  "id": "1bf7f86d7e0d4e16bc1747f574e32f12",
+  "title": "GarlicStaging",
+  "description": "GarlicStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/Gungeon_PrimaryPromo-2560x1440-a34ca96251763ff6deb8529a4a39d0a8.jpg",
+      "md5": "a34ca96251763ff6deb8529a4a39d0a8",
+      "width": 2560,
+      "height": 1440,
+      "size": 1003833,
+      "uploadedDate": "2019-06-11T07:14:40.962Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/item/EnterTheGungeon_GameLogo-1031x353-bedda5b87f979bea3218672710f766b3.png",
+      "md5": "bedda5b87f979bea3218672710f766b3",
+      "width": 1031,
+      "height": 353,
+      "size": 76525,
+      "uploadedDate": "2019-06-11T07:15:04.008Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "be13f6c4fb11427fbf3313ce93b97cc0",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-30T21:56:59.398Z",
+  "lastModifiedDate": "2019-10-09T15:21:50.636Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Dodge Roll/Enter the Gungeon"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.save,*.backup.*,*.game"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GarlicStaging"
+    }
+  },
+  "entitlementName": "1bf7f86d7e0d4e16bc1747f574e32f12",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "05ff67545365454fbc21261763cdd2c3",
+      "appId": "GarlicStaging",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-06-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

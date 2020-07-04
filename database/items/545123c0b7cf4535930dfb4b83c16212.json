@@ -1,0 +1,23 @@
+{
+  "id": "545123c0b7cf4535930dfb4b83c16212",
+  "title": "Fortnite Android Audience",
+  "description": "Android audience entitlement for access to Fortnite during Invite-only period for Android platform",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-04-30T20:51:17.154Z",
+  "lastModifiedDate": "2018-07-10T15:07:49.730Z",
+  "entitlementName": "Fortnite_Android",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

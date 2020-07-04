@@ -1,0 +1,49 @@
+{
+  "id": "c407abf7a72a461aa9e802705fb15384",
+  "title": "LemurStaging",
+  "description": "LemurStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "lemur",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-12T20:50:46.614Z",
+  "lastModifiedDate": "2019-08-07T13:04:54.147Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Journey/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "Journey.cfg"
+    }
+  },
+  "entitlementName": "c407abf7a72a461aa9e802705fb15384",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ead8c3b4a6904d8095f6998efe59d181",
+      "appId": "LemurStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2018-12-12T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

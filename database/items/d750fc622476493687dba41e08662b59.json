@@ -1,0 +1,44 @@
+{
+  "id": "d750fc622476493687dba41e08662b59",
+  "title": "Wombat Dev Audience",
+  "description": "Wombat Dev Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/wombat/item/Diesel_product_ratings_WWZ-ESRB-842x404-594cfb6eef57d34c86a259ce28a7eb0c113ebf35-842x404-816f6c7f1140d5d08750de13e3d81d9c.jpg",
+      "md5": "816f6c7f1140d5d08750de13e3d81d9c",
+      "width": 842,
+      "height": 404,
+      "size": 80166,
+      "uploadedDate": "2019-04-23T21:10:21.718Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "wombat",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-12T17:33:58.745Z",
+  "lastModifiedDate": "2020-04-09T01:06:17.024Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d750fc622476493687dba41e08662b59",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

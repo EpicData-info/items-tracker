@@ -1,0 +1,47 @@
+{
+  "id": "3692212dcb774d06a647a3a3f44ae301",
+  "title": "For Honor Complete Edition Audience",
+  "description": "For Honor Complete Edition Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/sundrop/item/For-Honor-Rating-842x485-0403999c9eaf5de174c21f42638305df.png",
+      "md5": "0403999c9eaf5de174c21f42638305df",
+      "width": 842,
+      "height": 485,
+      "size": 19647,
+      "uploadedDate": "2020-01-14T19:01:19.708Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "sundrop",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-01T17:01:05.821Z",
+  "lastModifiedDate": "2020-01-14T19:01:22.637Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3692212dcb774d06a647a3a3f44ae301",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

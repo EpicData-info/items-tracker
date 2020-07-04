@@ -1,0 +1,109 @@
+{
+  "id": "a53bee4f52cc46a583d8a40217b8ab27",
+  "title": "Untitled Goose Game",
+  "description": "Untitled Goose Game",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/f7e06ee3d0c1491094cc0215859f0120/item/EGS_HouseHouse_UntitledGooseGame_N2-2560x1440-8775074f5ffa3c991ce9c8ef9faab690.jpg",
+      "md5": "8775074f5ffa3c991ce9c8ef9faab690",
+      "width": 2560,
+      "height": 1440,
+      "size": 103965,
+      "uploadedDate": "2019-06-06T18:33:54.906Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/f7e06ee3d0c1491094cc0215859f0120/item/EGS_HouseHouse_UntitledGooseGame_IC1_SVGColourLight-1108x367-ae5e6b33b09a3924991b2ff29fd57891.png",
+      "md5": "ae5e6b33b09a3924991b2ff29fd57891",
+      "width": 1108,
+      "height": 367,
+      "size": 24281,
+      "uploadedDate": "2019-06-07T16:17:20.902Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/f7e06ee3d0c1491094cc0215859f0120/item/EGS_HouseHouse_UntitledGooseGame_S3-1280x1440-63aaed5f67d9e82f8443211c5089d2b3.jpg",
+      "md5": "63aaed5f67d9e82f8443211c5089d2b3",
+      "width": 1280,
+      "height": 1440,
+      "size": 325779,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f7e06ee3d0c1491094cc0215859f0120",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-06T18:11:04.872Z",
+  "lastModifiedDate": "2019-11-19T17:04:12.093Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "f7e06ee3d0c1491094cc0215859f0120"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/se.househou.untitled-goose-game/"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/House House/Untitled Goose Game/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "UntitledGooseGame"
+    }
+  },
+  "entitlementName": "a53bee4f52cc46a583d8a40217b8ab27",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "597117c2c08e4a289923bea09fe448ce",
+      "appId": "Flour",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-09-18T00:00:00.000Z"
+    }
+  ],
+  "developer": "Panic",
+  "developerId": "o-a62axwpwx275msq4yzhdhk9acaf8x3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

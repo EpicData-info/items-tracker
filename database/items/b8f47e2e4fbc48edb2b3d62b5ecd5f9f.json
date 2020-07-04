@@ -1,0 +1,58 @@
+{
+  "id": "b8f47e2e4fbc48edb2b3d62b5ecd5f9f",
+  "title": "Hussar RTC DLC",
+  "description": "Hussar RTC DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ca93b6d41a4e41af864942d8f0a2a826",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-17T23:25:25.074Z",
+  "lastModifiedDate": "2020-03-17T14:25:49.491Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "0f066b80cdf64c7abded795b78f8b04c"
+    },
+    "partnerType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "d44250d548cb44bfbdf0d3ff690dec12"
+    }
+  },
+  "entitlementName": "b8f47e2e4fbc48edb2b3d62b5ecd5f9f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fa82e6dcf26d40e8b283d4157bfc3a44",
+      "appId": "HussarRTCDLC",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-01-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

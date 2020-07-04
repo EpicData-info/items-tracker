@@ -1,0 +1,58 @@
+{
+  "id": "96ced8854d0d472ab231c482a6c2c339",
+  "title": "Anno 1800 Season Pass",
+  "description": "Anno 1800 Season Pass",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "oregano",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-15T18:27:04.271Z",
+  "lastModifiedDate": "2020-05-27T21:47:43.336Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "1ff283ce9e054747abe9ac66074c7ebc"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "2dd540880b97473b85c084f24a3eb4ac"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "96ced8854d0d472ab231c482a6c2c339",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a380c20ec0774e2698f077fba754a428",
+      "appId": "SeasonPassTest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-16T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

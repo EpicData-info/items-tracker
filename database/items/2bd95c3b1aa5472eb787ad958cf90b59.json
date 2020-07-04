@@ -1,0 +1,33 @@
+{
+  "id": "2bd95c3b1aa5472eb787ad958cf90b59",
+  "title": "DevPeridotAudience",
+  "description": "DevPeridotAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "1b8a504ec52d4430b65cca2990ad6c7f",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-16T16:10:40.944Z",
+  "lastModifiedDate": "2020-03-27T16:30:59.955Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "2bd95c3b1aa5472eb787ad958cf90b59",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Butterscotch Shenanigans",
+  "developerId": "o-nl9ywem28pes9amuwp2jqrey4zxjpf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

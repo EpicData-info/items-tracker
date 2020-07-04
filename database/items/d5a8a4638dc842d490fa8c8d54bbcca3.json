@@ -1,0 +1,29 @@
+{
+  "id": "d5a8a4638dc842d490fa8c8d54bbcca3",
+  "title": "CallunaQAAudience",
+  "description": "CallunaQAAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "calluna",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-01T18:59:45.225Z",
+  "lastModifiedDate": "2020-02-25T16:08:15.217Z",
+  "entitlementName": "d5a8a4638dc842d490fa8c8d54bbcca3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

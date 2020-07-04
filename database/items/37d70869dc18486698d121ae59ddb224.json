@@ -1,0 +1,43 @@
+{
+  "id": "37d70869dc18486698d121ae59ddb224",
+  "title": "HelloNeighborDemoGeneralAudience",
+  "description": "HelloNeighborDemoGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/morpho/item/HN_HideNSeak-842x404-3551cd52f85392f8ba5ea5f2abf0d29b.png",
+      "md5": "3551cd52f85392f8ba5ea5f2abf0d29b",
+      "width": 842,
+      "height": 404,
+      "size": 40843,
+      "uploadedDate": "2019-04-23T21:12:35.396Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "morpho",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-11T15:49:32.600Z",
+  "lastModifiedDate": "2019-05-13T14:39:19.433Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "37d70869dc18486698d121ae59ddb224",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "unsearchable": false
+}

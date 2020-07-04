@@ -1,0 +1,59 @@
+{
+  "id": "cb74dba8d00646c49e493e0eb2a7c074",
+  "title": "AniseStaging",
+  "description": "AniseStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "anise",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-02T19:24:50.231Z",
+  "lastModifiedDate": "2019-10-22T14:02:12.209Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-launchMode=liberation"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch Liberation"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AniseStaging"
+    }
+  },
+  "entitlementName": "cb74dba8d00646c49e493e0eb2a7c074",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ec05b4aef7b94556a867dfb09e74185a",
+      "appId": "AniseStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-02T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,74 @@
+{
+  "id": "811632e0a81645d4855f397991a0864b",
+  "title": "CosmosStaging",
+  "description": "CosmosStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/cosmos/item/RUNEII_Logo_Hi-Res_Final_BW-600x332-8df457da6760b2e1f2d11077dc9f0738.png",
+      "md5": "8df457da6760b2e1f2d11077dc9f0738",
+      "width": 600,
+      "height": 332,
+      "size": 56727,
+      "uploadedDate": "2019-07-02T14:36:41.235Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cosmos/item/EGS_HumanHead_RuneII_2560x1440_v2-2560x1440-51b8a8c813b65e90783cfefc37281ba6.jpg",
+      "md5": "51b8a8c813b65e90783cfefc37281ba6",
+      "width": 2560,
+      "height": 1440,
+      "size": 229586,
+      "uploadedDate": "2019-07-02T14:36:56.381Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cosmos",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-04T20:16:02.207Z",
+  "lastModifiedDate": "2019-11-12T17:58:47.653Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/Rune/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CosmosStaging"
+    }
+  },
+  "entitlementName": "811632e0a81645d4855f397991a0864b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a9a086d2400f4d3396c39f3ba1c8449d",
+      "appId": "CosmosStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-04T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Human Head Studios, Inc.",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

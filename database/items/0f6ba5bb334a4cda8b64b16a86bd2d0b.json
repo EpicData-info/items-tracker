@@ -1,0 +1,59 @@
+{
+  "id": "0f6ba5bb334a4cda8b64b16a86bd2d0b",
+  "title": "KurilianStaging",
+  "description": "KurilianStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "14ee004dadc142faaaece5a6270fb628",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-28T15:35:25.775Z",
+  "lastModifiedDate": "2020-05-13T16:53:25.493Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/The Witcher 3/gamesaves/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KurilianStaging"
+    }
+  },
+  "entitlementName": "0f6ba5bb334a4cda8b64b16a86bd2d0b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "45bd64aec56b4657a35533b22000f92a",
+      "appId": "4e9c4724dd5d499e80f81d7c902489f9",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-04-29T00:00:00.000Z"
+    }
+  ],
+  "developer": "CD PROJEKT RED",
+  "developerId": "o-x2vdjaf7cfakvlsgz8qf2gx8bkplcc",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

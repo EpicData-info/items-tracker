@@ -1,0 +1,27 @@
+{
+  "id": "b897a51e5bc2457188b34e5c64576969",
+  "title": "Auto Chess Currency",
+  "description": "Auto Chess Currency",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "37baf50c268d47779020d73143bb02b0",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-13T18:38:00.356Z",
+  "lastModifiedDate": "2019-09-13T18:38:00.356Z",
+  "entitlementName": "b897a51e5bc2457188b34e5c64576969",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Test Organization",
+  "developerId": "o-jwuggxrvjq99seqnvcrzckgm6e8jtr",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

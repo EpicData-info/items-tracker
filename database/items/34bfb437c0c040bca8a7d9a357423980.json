@@ -1,0 +1,46 @@
+{
+  "id": "34bfb437c0c040bca8a7d9a357423980",
+  "title": "FennelDevAudience",
+  "description": "FennelDevAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/fennel/item/WalkingDeadMishonne-842x404-4d5851d83dbdb7f21b88806426389ab0.png",
+      "md5": "4d5851d83dbdb7f21b88806426389ab0",
+      "width": 842,
+      "height": 404,
+      "size": 57636,
+      "uploadedDate": "2019-04-23T20:35:53.514Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "fennel",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-22T22:13:18.135Z",
+  "lastModifiedDate": "2019-05-13T14:16:45.497Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "34bfb437c0c040bca8a7d9a357423980",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

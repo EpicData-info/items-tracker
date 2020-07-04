@@ -1,0 +1,58 @@
+{
+  "id": "bc810b7f733e41789da4c87cba58d836",
+  "title": "Sunken Treasures - DLC",
+  "description": "Sunken Treasures - DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "oregano",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-25T23:53:15.626Z",
+  "lastModifiedDate": "2020-05-27T21:47:43.337Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "1ff283ce9e054747abe9ac66074c7ebc"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "d72f612e95f84b918a23514d6d125785"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "bc810b7f733e41789da4c87cba58d836",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5509c3f95618469885ea9ba6dbc686af",
+      "appId": "STP",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-25T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

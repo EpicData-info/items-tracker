@@ -1,0 +1,67 @@
+{
+  "id": "5beededaad9743df90e8f07d92df153f",
+  "title": "Cyberpunk 2077",
+  "description": "Cyberpunk 2077",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "77f2b98e2cef40c8a7437518bf420e47",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-07T19:03:29.226Z",
+  "lastModifiedDate": "2019-06-14T12:11:14.187Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "77f2b98e2cef40c8a7437518bf420e47"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Cyberpunk 2077"
+    }
+  },
+  "entitlementName": "5beededaad9743df90e8f07d92df153f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9b8641b9bbb941269f91b40bce913816",
+      "appId": "Ginger"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

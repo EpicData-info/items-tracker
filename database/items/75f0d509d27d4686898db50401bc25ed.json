@@ -1,0 +1,54 @@
+{
+  "id": "75f0d509d27d4686898db50401bc25ed",
+  "title": "FinchStaging",
+  "description": "FinchStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-17T00:08:56.745Z",
+  "lastModifiedDate": "2020-01-27T13:42:56.138Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../Roaming/KF2/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FinchStaging"
+    }
+  },
+  "entitlementName": "75f0d509d27d4686898db50401bc25ed",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7aab58ee5ba3447a8fa870cf241d5065",
+      "appId": "FinchStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

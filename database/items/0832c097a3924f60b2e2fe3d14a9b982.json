@@ -1,0 +1,78 @@
+{
+  "id": "0832c097a3924f60b2e2fe3d14a9b982",
+  "title": "Rebel Galaxy Outlaw Pre-Purchase",
+  "description": "Rebel Galaxy Outlaw Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/marmoset/item/rebelgalaxyoutlaw_promo-2580x1456-040476dcdba00aab56b2c5dfc8d1c5a9.jpg",
+      "md5": "040476dcdba00aab56b2c5dfc8d1c5a9",
+      "width": 2580,
+      "height": 1456,
+      "size": 154479,
+      "uploadedDate": "2019-07-17T18:35:58.918Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/marmoset/item/rebelgalaxy-logo-437x491-f3d26bcb4e9f443031eb0bc29494f18e.png",
+      "md5": "f3d26bcb4e9f443031eb0bc29494f18e",
+      "width": 437,
+      "height": 491,
+      "size": 22750,
+      "uploadedDate": "2019-07-17T18:36:08.352Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "marmoset",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-16T02:48:03.952Z",
+  "lastModifiedDate": "2019-08-13T15:21:50.993Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "marmoset"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    }
+  },
+  "entitlementName": "0832c097a3924f60b2e2fe3d14a9b982",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b667bbb4275c4b52a6d9f3333991481d",
+      "appId": "MarmosetDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-07-16T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Double Damage Games, Inc",
+  "developerId": "o-7kk95dlwa9mep5kfkubrgmp9qkwbt4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

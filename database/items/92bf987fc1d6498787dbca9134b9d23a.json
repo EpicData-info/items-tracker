@@ -1,0 +1,48 @@
+{
+  "id": "92bf987fc1d6498787dbca9134b9d23a",
+  "title": "Message of the Day",
+  "description": "Powered by Unreal Engine 4, Battle Breakers is a frenetic tactical role playing collector from Epic Games. A vibrant fantasy sci-fi cartoon adventure, Battle Breakers is free-to-play and features cross-platform play across PC and mobile devices.",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/wex/item/BBLogo-625x408-34f5e3a41a380a7dba705ba302b9ffd0.png",
+      "md5": "34f5e3a41a380a7dba705ba302b9ffd0",
+      "width": 625,
+      "height": 408,
+      "size": 58151,
+      "uploadedDate": "2016-08-10T21:43:27.918Z"
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/wex/item/BBBackground-1429x808-405ee718330e8337e28a9be146054e8e.png",
+      "md5": "405ee718330e8337e28a9be146054e8e",
+      "width": 1429,
+      "height": 808,
+      "size": 196381,
+      "uploadedDate": "2016-08-10T22:04:20.493Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2016-08-10T21:14:33.117Z",
+  "lastModifiedDate": "2017-03-17T18:09:24.987Z",
+  "entitlementName": "92bf987fc1d6498787dbca9134b9d23a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

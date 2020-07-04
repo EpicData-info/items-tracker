@@ -1,0 +1,34 @@
+{
+  "id": "00e562b27d3b4fef972cdbd1ca3d7fee",
+  "title": "MarsGeneralAudience",
+  "description": "MarsGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "f312bc218b1d46f7921619cc9f3bf3c7",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-12T13:04:58.774Z",
+  "lastModifiedDate": "2020-06-13T19:45:50.023Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "00e562b27d3b4fef972cdbd1ca3d7fee",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

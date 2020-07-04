@@ -1,0 +1,25 @@
+{
+  "id": "d1070b3194d64d5eb69c1ac223daf19d",
+  "title": "Major Lazer",
+  "description": "Peace is the mission.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-23T14:44:10.797Z",
+  "lastModifiedDate": "2019-08-23T14:44:10.797Z",
+  "entitlementName": "AthenaCharacter:cid_474_athena_commando_m_lasagna",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

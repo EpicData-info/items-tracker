@@ -1,0 +1,25 @@
+{
+  "id": "4643fb0ee41348c9b2f1ac96ae3c6f49",
+  "title": "Complimentary Battle Pass",
+  "description": "Do not use this. This is a test.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-01-08T20:29:45.394Z",
+  "lastModifiedDate": "2018-02-09T00:00:31.393Z",
+  "entitlementName": "BATTLEPASS_Season2",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementEndDate": "2018-02-20T00:00:00.000Z",
+  "entitlementStartDate": "2018-01-08T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "944b4f4e28234ee48807fe1cb6b66035",
+  "title": "Influencer Banner - Draegast",
+  "description": "Influencer Banner - Draegast",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-07-14T15:46:43.426Z",
+  "lastModifiedDate": "2017-07-14T15:51:16.918Z",
+  "entitlementName": "INFLUENCERBANNER_Draegast",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

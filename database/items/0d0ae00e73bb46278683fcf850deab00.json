@@ -1,0 +1,59 @@
+{
+  "id": "0d0ae00e73bb46278683fcf850deab00",
+  "title": "SnapperBlueStaging",
+  "description": "SnapperBlueStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-13T19:47:39.725Z",
+  "lastModifiedDate": "2020-03-13T20:50:27.034Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/Offworld/EpicCloud/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.bin,*.map,*.xml"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SnapperBlueStaging"
+    }
+  },
+  "entitlementName": "0d0ae00e73bb46278683fcf850deab00",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "91b3040c92d6454e8825299c88c12cd2",
+      "appId": "829ab54cb4cd427cad8a41daeb967953",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-03-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

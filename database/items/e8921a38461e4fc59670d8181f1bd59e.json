@@ -1,0 +1,33 @@
+{
+  "id": "e8921a38461e4fc59670d8181f1bd59e",
+  "title": "PheasantDevAudience",
+  "description": "PheasantDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "4b35838425c74992ad42e1276b2161ca",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-08T17:13:02.428Z",
+  "lastModifiedDate": "2019-06-14T20:58:40.318Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e8921a38461e4fc59670d8181f1bd59e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

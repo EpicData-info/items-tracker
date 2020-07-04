@@ -1,0 +1,59 @@
+{
+  "id": "afd8b1af120a4a708e864a171a78485c",
+  "title": "SnapperToolStaging",
+  "description": "SnapperToolStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-13T19:43:28.276Z",
+  "lastModifiedDate": "2020-03-13T20:51:04.448Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/Offworld/EpicCloud/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.bin,*.map,*.xml"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SnapperToolStaging"
+    }
+  },
+  "entitlementName": "afd8b1af120a4a708e864a171a78485c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cace72c3c36a437bb0737feac1924dbb",
+      "appId": "e8a3e91fd8de4f299eceb120c2006edf",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-03-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

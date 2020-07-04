@@ -1,0 +1,34 @@
+{
+  "id": "568e1ec73eed45e0a1fad05de0d0a7af",
+  "title": "PublicTestAudience",
+  "description": "PublicTestAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-30T19:35:29.373Z",
+  "lastModifiedDate": "2020-03-20T14:41:47.161Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "568e1ec73eed45e0a1fad05de0d0a7af",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

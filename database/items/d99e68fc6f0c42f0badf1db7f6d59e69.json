@@ -1,0 +1,58 @@
+{
+  "id": "d99e68fc6f0c42f0badf1db7f6d59e69",
+  "title": "Watch Dogs Season Pass",
+  "description": "Watch Dogs Season Pass",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-10T03:22:00.010Z",
+  "lastModifiedDate": "2020-03-19T13:50:25.787Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "afdd0a52d9e745ff8f79258a3cca003a"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "78e9ca89e8684afe8757761cdb204b83"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "d99e68fc6f0c42f0badf1db7f6d59e69",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "40e31341d62045c1836b704aa5be7349",
+      "appId": "JasperSP",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-03-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

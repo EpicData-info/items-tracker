@@ -1,0 +1,24 @@
+{
+  "id": "fa04e0412ef24fa68b73cc09aee29aec",
+  "title": "The Bat And The Cat",
+  "description": "Out of the Batcave and into the Battle Bus.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-20T18:26:03.297Z",
+  "lastModifiedDate": "2019-09-21T13:38:17.767Z",
+  "entitlementName": "AthenaLoadingScreen:lsid_178_blackmonday_s815x",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

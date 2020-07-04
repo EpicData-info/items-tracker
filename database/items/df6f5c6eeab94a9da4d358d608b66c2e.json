@@ -1,0 +1,36 @@
+{
+  "id": "df6f5c6eeab94a9da4d358d608b66c2e",
+  "title": "DLC59 Audience",
+  "description": "DLC59 (Horzine Supply Weapon Crate | Series #14 Gold Bundle Pack)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T18:21:57.565Z",
+  "lastModifiedDate": "2020-07-02T00:46:31.569Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "df6f5c6eeab94a9da4d358d608b66c2e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

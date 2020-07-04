@@ -1,0 +1,71 @@
+{
+  "id": "4057f1ac1bf547c2b80e0efe3bf5fa17",
+  "title": "HD Voice Pack - German",
+  "description": "HD Voice Pack - German",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-04T04:40:53.215Z",
+  "lastModifiedDate": "2020-03-31T16:22:41.060Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ca4058f18b0a4a9e9e2ccc28f7f33000"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HDVoiceGerman"
+    }
+  },
+  "entitlementName": "4057f1ac1bf547c2b80e0efe3bf5fa17",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ad24ec7357274a15b695e1ca29e0b5da",
+      "appId": "EelVoiceGerman",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-01-04T00:00:00.000Z"
+    }
+  ],
+  "developer": "Warhorse Studios",
+  "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

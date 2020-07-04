@@ -1,0 +1,23 @@
+{
+  "id": "a6e8a495e982462c802d833219421a0e",
+  "title": "Starter Pack",
+  "description": "Contains an agent and defense pack, as well as a fixed agent.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "mtx-packages"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2017-05-10T17:15:11.489Z",
+  "lastModifiedDate": "2017-05-10T17:15:11.489Z",
+  "entitlementName": "a6e8a495e982462c802d833219421a0e",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

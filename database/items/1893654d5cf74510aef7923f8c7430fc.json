@@ -1,0 +1,29 @@
+{
+  "id": "1893654d5cf74510aef7923f8c7430fc",
+  "title": "Saffron_ORPackAudience_redeemable",
+  "description": "Saffron_ORPackAudience_redeemable",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-08T07:31:01.121Z",
+  "lastModifiedDate": "2019-05-09T19:00:20.254Z",
+  "entitlementName": "1893654d5cf74510aef7923f8c7430fc",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

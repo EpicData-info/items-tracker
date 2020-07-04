@@ -1,0 +1,35 @@
+{
+  "id": "73654ffba761439d835553f4091e3fd6",
+  "title": "Metro Exodus Humble Bundle Gold Audience",
+  "description": "Metro Exodus Humble Bundle Gold Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "snapdragon",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-11T17:34:00.759Z",
+  "lastModifiedDate": "2019-05-30T17:00:58.754Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "73654ffba761439d835553f4091e3fd6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

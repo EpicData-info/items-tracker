@@ -1,0 +1,35 @@
+{
+  "id": "8f89861572b44b5f870ff193b6d224a3",
+  "title": "Sound Track Audience",
+  "description": "Sound Track Audience",
+  "longDescription": "Classic DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-04T05:10:21.297Z",
+  "lastModifiedDate": "2020-02-26T16:37:09.364Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "8f89861572b44b5f870ff193b6d224a3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Warhorse Studios",
+  "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

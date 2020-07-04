@@ -1,0 +1,69 @@
+{
+  "id": "8e33c53071864e9bb04d09b411f003ce",
+  "title": "Cobbler",
+  "description": "Cobbler",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a8f9fb4a881e47b489715f18f7d08e2f",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-26T23:51:38.044Z",
+  "lastModifiedDate": "2019-12-03T22:22:43.721Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "a8f9fb4a881e47b489715f18f7d08e2f"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Cobbler"
+    }
+  },
+  "entitlementName": "8e33c53071864e9bb04d09b411f003ce",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c1ec44608ff546b8a755e1476695d617",
+      "appId": "Cobbler",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Athlon Games",
+  "developerId": "o-pak9zrvrvpnc8qtwjx3z6pllyzph4q",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

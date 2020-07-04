@@ -1,0 +1,40 @@
+{
+  "id": "49befbbf6eb249ec8099b3181cd1239f",
+  "title": "PrePurchase Staging DLC001",
+  "description": "PrePurchase Staging DLC001",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/calluna/item/Control_Esrb-340x163-450592beba2d7746e4f1a364e976f82a.png",
+      "md5": "450592beba2d7746e4f1a364e976f82a",
+      "width": 340,
+      "height": 163,
+      "size": 34084,
+      "uploadedDate": "2019-04-23T19:55:53.706Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "calluna",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-06T14:07:14.717Z",
+  "lastModifiedDate": "2020-04-30T12:58:35.259Z",
+  "entitlementName": "49befbbf6eb249ec8099b3181cd1239f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,100 @@
+{
+  "id": "a3361123cbb5436ab8630caea6e1d39a",
+  "title": "Batman™ Arkham Asylum Game of the Year Edition",
+  "description": "Batman™ Arkham Asylum Game of the Year Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/5f7c811695f14b8fa3a8e1ea35713d23/item/batman-arkham-asylum-209x100-96dd802d2adb46614b82db64a6b72abf.png",
+      "md5": "96dd802d2adb46614b82db64a6b72abf",
+      "width": 209,
+      "height": 100,
+      "size": 22781,
+      "uploadedDate": "2019-09-16T21:25:20.208Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/5f7c811695f14b8fa3a8e1ea35713d23/item/batman-arkham-asylum_promo-1704x866-f145139d16a584ae891b77bb0300e373.jpg",
+      "md5": "f145139d16a584ae891b77bb0300e373",
+      "width": 1704,
+      "height": 866,
+      "size": 398134,
+      "uploadedDate": "2019-09-16T21:26:02.283Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/5f7c811695f14b8fa3a8e1ea35713d23/item/batman-arkham-asylum_portrait-1093x1267-5d89c5e6b96ba2db5e607521b2d0ae3e.jpg",
+      "md5": "5d89c5e6b96ba2db5e607521b2d0ae3e",
+      "width": 1093,
+      "height": 1267,
+      "size": 401333,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5f7c811695f14b8fa3a8e1ea35713d23",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-27T22:18:50.207Z",
+  "lastModifiedDate": "2020-01-07T18:14:40.392Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "5f7c811695f14b8fa3a8e1ea35713d23"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BatmanArkhamAsylum"
+    }
+  },
+  "entitlementName": "a3361123cbb5436ab8630caea6e1d39a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "45e4c4db530a422f931338f6d5b3c254",
+      "appId": "Godwit",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

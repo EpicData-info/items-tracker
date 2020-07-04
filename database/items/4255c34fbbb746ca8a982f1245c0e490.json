@@ -1,0 +1,109 @@
+{
+  "id": "4255c34fbbb746ca8a982f1245c0e490",
+  "title": "Moonlighter",
+  "description": "Moonlighter",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/item/EGS_11bitstudios_Moonlighter_L1-2560x1440-3ef51db7fab2fde76235495edf783ed6.jpg",
+      "md5": "3ef51db7fab2fde76235495edf783ed6",
+      "width": 2560,
+      "height": 1440,
+      "size": 208094,
+      "uploadedDate": "2019-07-16T15:39:33.343Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/item/EGS_11bitstudios_Moonlighter_IC1_White-9543x2160-8aa3fa0a9a8adc6e29104c3a628ba92d.png",
+      "md5": "8aa3fa0a9a8adc6e29104c3a628ba92d",
+      "width": 9543,
+      "height": 2160,
+      "size": 12466,
+      "uploadedDate": "2019-07-16T15:39:42.363Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/item/EGS_11bitstudios_Moonlighter_S3-1280x1440-6b0e3a622433e936274fa8866063faa1.jpg",
+      "md5": "6b0e3a622433e936274fa8866063faa1",
+      "width": 1280,
+      "height": 1440,
+      "size": 155189,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bec822fb982843c3be794d440728336b",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-09T15:35:38.259Z",
+  "lastModifiedDate": "2019-11-19T17:03:14.013Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "bec822fb982843c3be794d440728336b"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/11BitStudios/Moonlighter/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Moonlighter"
+    }
+  },
+  "entitlementName": "4255c34fbbb746ca8a982f1245c0e490",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "095f8fdc376247ff9cc454f5be43fc8e",
+      "appId": "Eagle",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-07-16T00:00:00.000Z"
+    }
+  ],
+  "developer": "11 Bit Studios",
+  "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

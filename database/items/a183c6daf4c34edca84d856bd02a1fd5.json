@@ -1,0 +1,59 @@
+{
+  "id": "a183c6daf4c34edca84d856bd02a1fd5",
+  "title": "HermitTrialDev",
+  "description": "HermitTrialDev",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "599d248ca46b45a8b40a3b4e484712cb",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T21:24:49.713Z",
+  "lastModifiedDate": "2020-02-11T18:02:54.532Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HermitTrialDev"
+    }
+  },
+  "entitlementName": "a183c6daf4c34edca84d856bd02a1fd5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d8289e6581254f62b9a7a5e7f4956bf9",
+      "appId": "HermitTrialDev",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-01T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

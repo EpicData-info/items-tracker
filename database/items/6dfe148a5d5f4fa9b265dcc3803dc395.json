@@ -1,0 +1,91 @@
+{
+  "id": "6dfe148a5d5f4fa9b265dcc3803dc395",
+  "title": "Surviving the Aftermath",
+  "description": "Surviving the Aftermath",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/item/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S1-2560x1440-276c68f829d71be4e902d258448d223a.jpg",
+      "md5": "276c68f829d71be4e902d258448d223a",
+      "width": 2560,
+      "height": 1440,
+      "size": 899204,
+      "uploadedDate": "2020-06-16T15:16:37.005Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/item/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-95795b4b450e976e814192e5250ba124.jpg",
+      "md5": "95795b4b450e976e814192e5250ba124",
+      "width": 1200,
+      "height": 1600,
+      "size": 916441,
+      "uploadedDate": "2020-06-16T15:16:47.543Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-03T15:22:15.253Z",
+  "lastModifiedDate": "2020-06-18T11:59:41.897Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "95b4d5a753d042678f775d5e1eb5ab25"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SurvivingTheAftermath"
+    }
+  },
+  "entitlementName": "6dfe148a5d5f4fa9b265dcc3803dc395",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "769280b8b46a4fed895a09d307f3cf1d",
+      "appId": "Muscovy",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-04T00:00:00.000Z"
+    }
+  ],
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

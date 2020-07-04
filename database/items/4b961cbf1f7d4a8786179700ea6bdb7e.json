@@ -1,0 +1,71 @@
+{
+  "id": "4b961cbf1f7d4a8786179700ea6bdb7e",
+  "title": "DEV KingletAztecStaging",
+  "description": "DEV KingletAztecStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "dlc"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-24T16:08:09.976Z",
+  "lastModifiedDate": "2020-06-04T19:03:27.929Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "cd14dcaa4f3443f19f7169a980559c62"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KingletAztecStaging"
+    }
+  },
+  "entitlementName": "4b961cbf1f7d4a8786179700ea6bdb7e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a4541b09ffa04579929d89405de97a3a",
+      "appId": "KingletAztecStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

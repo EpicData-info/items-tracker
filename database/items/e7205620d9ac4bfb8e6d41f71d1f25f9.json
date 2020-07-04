@@ -1,0 +1,58 @@
+{
+  "id": "e7205620d9ac4bfb8e6d41f71d1f25f9",
+  "title": "Anise L",
+  "description": "Anise L",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "anise",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-13T02:40:18.939Z",
+  "lastModifiedDate": "2019-08-13T02:43:58.330Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "[]"
+    }
+  },
+  "entitlementName": "e7205620d9ac4bfb8e6d41f71d1f25f9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "517f2df933d44ae3bdecfdfe41a22a5a",
+      "appId": "AniseLTest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-13T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

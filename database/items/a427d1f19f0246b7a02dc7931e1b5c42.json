@@ -1,0 +1,39 @@
+{
+  "id": "a427d1f19f0246b7a02dc7931e1b5c42",
+  "title": "test compatible list 4.1",
+  "description": "description",
+  "longDescription": "long description",
+  "technicalDetails": "info",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-20T08:39:20.069Z",
+  "lastModifiedDate": "2016-08-29T11:44:48.753Z",
+  "entitlementName": "a427d1f19f0246b7a02dc7931e1b5c42",
+  "entitlementType": "EXECUTABLE",
+  "entitlementEndDate": "2018-10-17T00:00:00.000Z",
+  "itemType": "SUBSCRIPTION",
+  "releaseInfo": [
+    {
+      "id": "17b40553802045919f7a028d46ea9fc4",
+      "appId": "1",
+      "compatibleApps": [
+        "UE_4.1"
+      ],
+      "platform": [
+        "Mac"
+      ],
+      "dateAdded": "2016-08-29T00:00:00.000Z"
+    }
+  ],
+  "developer": "Landy Tian",
+  "developerId": "o-dc32abc22b45c7ab6a291d60d51863",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

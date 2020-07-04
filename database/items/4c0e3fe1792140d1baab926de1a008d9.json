@@ -1,0 +1,35 @@
+{
+  "id": "4c0e3fe1792140d1baab926de1a008d9",
+  "title": "DLC60 Audience",
+  "description": "DLC60 (Horzine Supply Weapon Crate | Series #14 Silver Bundle Pack)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T18:22:49.287Z",
+  "lastModifiedDate": "2019-11-27T20:09:52.727Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4c0e3fe1792140d1baab926de1a008d9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

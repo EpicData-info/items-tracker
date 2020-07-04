@@ -1,0 +1,33 @@
+{
+  "id": "0532848c852449f283ec16c7330aaa88",
+  "title": "MoaDevAudience",
+  "description": "MoaDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "ca8077d80493497188e0ca5bca3ebe60",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-12T18:10:13.595Z",
+  "lastModifiedDate": "2020-01-06T18:44:15.386Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "0532848c852449f283ec16c7330aaa88",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

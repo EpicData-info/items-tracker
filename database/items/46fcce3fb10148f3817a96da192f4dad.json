@@ -1,0 +1,24 @@
+{
+  "id": "46fcce3fb10148f3817a96da192f4dad",
+  "title": "Catwoman Comic Book Outfit",
+  "description": "Gotham’s Feline Femme Fatale.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-20T18:00:50.721Z",
+  "lastModifiedDate": "2019-09-21T13:38:17.767Z",
+  "entitlementName": "AthenaCharacter:cid_530_athena_commando_f_blackmonday_1bv6j",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

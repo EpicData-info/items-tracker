@@ -1,0 +1,77 @@
+{
+  "id": "4c224a7755cc46b69d9d2127a0e9c2ed",
+  "title": "For Honor Marching Fire Expansion Pack",
+  "description": "For Honor Marching Fire Expansion Pack",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/sundrop/item/FH_Background-1298x809-22f5217701a68ad96ff5dcf26d1dc9d3.png",
+      "md5": "22f5217701a68ad96ff5dcf26d1dc9d3",
+      "width": 1298,
+      "height": 809,
+      "size": 626179,
+      "uploadedDate": "2019-07-26T19:24:39.288Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/sundrop/item/fh-logo-1900x1825-efb91b2fc8c56c1c698471472f244150.png",
+      "md5": "efb91b2fc8c56c1c698471472f244150",
+      "width": 1900,
+      "height": 1825,
+      "size": 282425,
+      "uploadedDate": "2019-07-26T19:24:45.875Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "sundrop",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-26T20:02:18.764Z",
+  "lastModifiedDate": "2019-08-09T15:59:49.207Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "91808802f644410d8b5b58b2e0ca36cf"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "6f84b313a2f7413e9ad09c6bf77a605e"
+    }
+  },
+  "entitlementName": "4c224a7755cc46b69d9d2127a0e9c2ed",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6ac046f5fd194c42889bb6b92a3b6e7e",
+      "appId": "SundropFirePack",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-11T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

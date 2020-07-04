@@ -1,0 +1,57 @@
+{
+  "id": "11e7470c111d4812b114348da3f7abd0",
+  "title": "WolffishStaging",
+  "description": "WolffishStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "34f7e1e275924bb6a90074920f9c1696",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-24T17:50:05.229Z",
+  "lastModifiedDate": "2020-03-25T14:53:53.722Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "5921b043ea014154b9e4295747cf0a39"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WolffishStaging"
+    }
+  },
+  "entitlementName": "11e7470c111d4812b114348da3f7abd0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "85f01dafd9b04b6bb1cc71295b012830",
+      "appId": "WolffishStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

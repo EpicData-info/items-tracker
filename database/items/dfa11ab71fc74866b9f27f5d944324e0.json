@@ -1,0 +1,113 @@
+{
+  "id": "dfa11ab71fc74866b9f27f5d944324e0",
+  "title": "Rayman Legends",
+  "description": "Rayman Legends",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fc8d1547232045f6a23257cfd04ef3e8/item/RL---S1-2560x1440-c48bf9188347f38f16e976e2b777a249.jpg",
+      "md5": "c48bf9188347f38f16e976e2b777a249",
+      "width": 2560,
+      "height": 1440,
+      "size": 524230,
+      "uploadedDate": "2019-11-18T23:00:38.419Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/fc8d1547232045f6a23257cfd04ef3e8/item/Rayman_Legends_LOGO-2812x1200-beb70037bd57853efe5daa651ffd9a89.png",
+      "md5": "beb70037bd57853efe5daa651ffd9a89",
+      "width": 2812,
+      "height": 1200,
+      "size": 439002,
+      "uploadedDate": "2019-11-18T23:01:01.128Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/fc8d1547232045f6a23257cfd04ef3e8/item/RL---S2-1280x1440-43c9f252840c081e58f80134f17da19f.jpg",
+      "md5": "43c9f252840c081e58f80134f17da19f",
+      "width": 1280,
+      "height": 1440,
+      "size": 495610,
+      "uploadedDate": "2019-11-21T14:04:34.595Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fc8d1547232045f6a23257cfd04ef3e8",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-23T17:43:37.434Z",
+  "lastModifiedDate": "2019-11-21T15:45:04.755Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "fc8d1547232045f6a23257cfd04ef3e8"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "f667bb94543e43eb87ca008f497df782"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RaymanLegends"
+    }
+  },
+  "entitlementName": "dfa11ab71fc74866b9f27f5d944324e0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6aac648b8d8844829f97e9954e31d2cf",
+      "appId": "Anchovy",
+      "platform": [
+        "Windows",
+        "Win32"
+      ],
+      "dateAdded": "2019-11-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

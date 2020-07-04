@@ -1,0 +1,24 @@
+{
+  "id": "5e4352b3f26543c9ba0572aa742d335a",
+  "title": "Fortnite Samsung Audience",
+  "description": "Access entitlement given to users playing on Samsung devices",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-07-25T14:46:21.522Z",
+  "lastModifiedDate": "2018-07-25T14:46:59.883Z",
+  "entitlementName": "Fortnite_Samsung",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

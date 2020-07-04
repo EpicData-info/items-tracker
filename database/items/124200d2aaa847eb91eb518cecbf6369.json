@@ -1,0 +1,58 @@
+{
+  "id": "124200d2aaa847eb91eb518cecbf6369",
+  "title": "DLC1 - Legacy of the First Blade",
+  "description": "DLC1 - Legacy of the First Blade",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "clary",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-08T20:05:28.297Z",
+  "lastModifiedDate": "2019-10-22T14:44:03.066Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "50db96ebcaea4fbbac705da4f6d8e8dd"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "62e03904f386427ba571c4635f8637dc"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "124200d2aaa847eb91eb518cecbf6369",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4e59222a7c65409aaf95d309aeb4149e",
+      "appId": "LOTFB",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-08T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

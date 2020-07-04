@@ -1,0 +1,24 @@
+{
+  "id": "529865f4d6d1416ea50329cc0d83adb1",
+  "title": "Blitz",
+  "description": "Catch 'em off guard.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-11-01T20:39:34.906Z",
+  "lastModifiedDate": "2018-11-05T19:58:27.728Z",
+  "entitlementName": "AthenaCharacter:cid_210_athena_commando_f_footballgirla",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

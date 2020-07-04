@@ -1,0 +1,35 @@
+{
+  "id": "f1dce65c4bf34b93bdaf2c2ef785c1cc",
+  "title": "Dev QA Audience",
+  "description": "Dev QA Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "fa0c74ef7780498fb222dcd099bf82a2",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-19T17:24:59.849Z",
+  "lastModifiedDate": "2020-06-01T02:33:50.803Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f1dce65c4bf34b93bdaf2c2ef785c1cc",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Good Shepherd Entertainment",
+  "developerId": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

@@ -1,0 +1,91 @@
+{
+  "id": "90e34c8526da4756a1c2ebea3488edc3",
+  "title": "Heavy Rain (Demo)",
+  "description": "Heavy Rain (Demo)",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/aster/item/AsterDemo-2560x1440-a1fa80abd715b161ac8b71007d1bbf7d.png",
+      "md5": "a1fa80abd715b161ac8b71007d1bbf7d",
+      "width": 2560,
+      "height": 1440,
+      "size": 1234424,
+      "uploadedDate": "2019-05-23T20:59:18.357Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/aster/item/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462-860x1148-1bbec73268268bf6901efc1206f46462.jpg",
+      "md5": "1bbec73268268bf6901efc1206f46462",
+      "width": 860,
+      "height": 1148,
+      "size": 165439,
+      "uploadedDate": "2020-05-13T20:10:32.019Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "aster",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-18T18:59:10.346Z",
+  "lastModifiedDate": "2020-05-13T20:10:36.408Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HeavyRainDemo"
+    }
+  },
+  "entitlementName": "90e34c8526da4756a1c2ebea3488edc3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e9ddf8f3747747d4abd12b7f0bb855c7",
+      "appId": "AsterDemo",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-18T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,82 @@
+{
+  "id": "59db8ac5a82f4c18b6483cea135f6948",
+  "title": "AdeniumQA",
+  "description": "AdeniumQA",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/adenium/item/EGS_NightSchoolStudio_Afterparty_S2_2580x1450-2580x1450-be4bf4f974e89762d519cc2f2a289d3a.jpg",
+      "md5": "be4bf4f974e89762d519cc2f2a289d3a",
+      "width": 2580,
+      "height": 1450,
+      "size": 278370,
+      "uploadedDate": "2019-03-19T21:04:12.572Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/adenium/item/AfterpartyLogo_wSkull_DarkVersion_RGB-1184x567-c56f496e37c57229fb5649a99b6b323c.png",
+      "md5": "c56f496e37c57229fb5649a99b6b323c",
+      "width": 1184,
+      "height": 567,
+      "size": 117422,
+      "uploadedDate": "2019-05-15T15:09:21.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "adenium",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-13T17:31:02.662Z",
+  "lastModifiedDate": "2019-10-29T13:00:02.669Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Night School Studio/Afterparty/Saves/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Night School Studio/Afterparty/Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AdeniumQA"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "59db8ac5a82f4c18b6483cea135f6948",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "81ef16c596554a919f22a54373aed911",
+      "appId": "AdeniumQA",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-15T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Night School Studio, LLC",
+  "developerId": "o-8bhctnyt9qetgnjd4nssqse58c2589",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

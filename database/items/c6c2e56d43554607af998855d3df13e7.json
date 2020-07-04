@@ -1,0 +1,58 @@
+{
+  "id": "c6c2e56d43554607af998855d3df13e7",
+  "title": "Hours Of Darkness DLC",
+  "description": "Hours Of Darkness DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "coriander",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-21T17:39:03.860Z",
+  "lastModifiedDate": "2020-02-18T15:53:15.273Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "afcac729418b4d4a9532bc53831c09d5"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "0b85b7d21f434a958028c3a1b00cfd64"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "c6c2e56d43554607af998855d3df13e7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1f406db267f648c2b610900e5d7b990a",
+      "appId": "CorianderHOD_DLC",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-21T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

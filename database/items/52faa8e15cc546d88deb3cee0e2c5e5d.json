@@ -1,0 +1,24 @@
+{
+  "id": "52faa8e15cc546d88deb3cee0e2c5e5d",
+  "title": "Fortnite Internal CN Dev&QA",
+  "description": "Fortnite Internal CN Dev&QA",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-22T14:43:11.009Z",
+  "lastModifiedDate": "2019-04-22T14:43:11.009Z",
+  "entitlementName": "52faa8e15cc546d88deb3cee0e2c5e5d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

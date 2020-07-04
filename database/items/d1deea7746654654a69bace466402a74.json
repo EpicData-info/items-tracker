@@ -1,0 +1,45 @@
+{
+  "id": "d1deea7746654654a69bace466402a74",
+  "title": "SerpentineGeneralAudience",
+  "description": "SerpentineGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/item/GTAV_EGS_Artwork_1000x200_ESRB-1000x200-2052370da0aba7f10f6bb005ce8e9162.png",
+      "md5": "2052370da0aba7f10f6bb005ce8e9162",
+      "width": 1000,
+      "height": 200,
+      "size": 82248,
+      "uploadedDate": "2020-05-14T01:12:16.433Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "0584d2013f0149a791e7b9bad0eec102",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-20T00:38:55.791Z",
+  "lastModifiedDate": "2020-05-14T15:04:21.533Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d1deea7746654654a69bace466402a74",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Rockstar Games",
+  "developerId": "o-dhz7kpvrvqngzdpnx5vn3jrljj53ca",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "21df848a246b4444ad6906d778832b1c",
+  "title": "Entitlement-11",
+  "description": "Entitlement type is entitlement and item type is durable",
+  "longDescription": "Long description here",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-27T17:48:31.251Z",
+  "lastModifiedDate": "2015-07-27T21:02:52.573Z",
+  "entitlementName": "21df848a246b4444ad6906d778832b1c",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementEndDate": "2016-10-28T00:00:00.000Z",
+  "entitlementStartDate": "2014-10-27T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "developer": "SeaTest1",
+  "endOfSupport": false,
+  "unsearchable": false
+}

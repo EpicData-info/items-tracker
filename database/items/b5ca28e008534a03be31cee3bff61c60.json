@@ -1,0 +1,33 @@
+{
+  "id": "b5ca28e008534a03be31cee3bff61c60",
+  "title": "MayflowerDevAudience",
+  "description": "MayflowerDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-13T17:18:24.213Z",
+  "lastModifiedDate": "2020-04-27T21:59:40.998Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b5ca28e008534a03be31cee3bff61c60",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

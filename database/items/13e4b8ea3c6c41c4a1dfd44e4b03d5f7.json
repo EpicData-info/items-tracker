@@ -1,0 +1,34 @@
+{
+  "id": "13e4b8ea3c6c41c4a1dfd44e4b03d5f7",
+  "title": "48 hours Double XP",
+  "description": "48 hours Double XP",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-12T20:35:04.985Z",
+  "lastModifiedDate": "2020-04-24T03:59:22.768Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "13e4b8ea3c6c41c4a1dfd44e4b03d5f7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

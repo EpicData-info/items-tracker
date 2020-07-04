@@ -1,0 +1,33 @@
+{
+  "id": "d10c006911064ac5af29e60409d6afcb",
+  "title": "DevOberonAudience",
+  "description": "DevOberonAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "3e7e7c2bc1644a25a99b3a4c4ef1ff33",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-02T15:12:40.913Z",
+  "lastModifiedDate": "2020-07-03T12:40:18.309Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d10c006911064ac5af29e60409d6afcb",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Fabraz LLC",
+  "developerId": "o-458ql9emykk38kpq6fh5qhfb52efyx",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

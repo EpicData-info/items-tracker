@@ -1,0 +1,35 @@
+{
+  "id": "68e10b72781d46e0a22c2d1e44f39594",
+  "title": "SnowdropDevAudience",
+  "description": "SnowdropDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "snowdrop",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-16T13:58:14.930Z",
+  "lastModifiedDate": "2019-05-13T14:41:41.268Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "68e10b72781d46e0a22c2d1e44f39594",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

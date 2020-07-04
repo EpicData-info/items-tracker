@@ -1,0 +1,35 @@
+{
+  "id": "397d3839135749728538f569a124bba9",
+  "title": "DEV HD Texture Pack Audience",
+  "description": "DEV HD Texture Pack Audience",
+  "longDescription": "DEV HD Texture Pack Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-11T13:15:39.683Z",
+  "lastModifiedDate": "2020-02-11T14:11:47.793Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "397d3839135749728538f569a124bba9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Warhorse Studios",
+  "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

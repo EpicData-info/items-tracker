@@ -1,0 +1,28 @@
+{
+  "id": "33f5ecd5d7294cca81b69eee3314cfe0",
+  "title": "Entitlement for spectator feature",
+  "description": "This is an entitlement for the spectator and broadcast feature.",
+  "longDescription": "",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-12T15:54:18.573Z",
+  "lastModifiedDate": "2019-02-12T15:56:25.209Z",
+  "entitlementName": "Fortnite_Broadcast",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

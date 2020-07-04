@@ -1,0 +1,105 @@
+{
+  "id": "83802f6bd9a74f1e88af9a667a12602a",
+  "title": "FortniteExtQAReleaseTestingA",
+  "description": "Maecenas non malesuada sem. Quisque aliquet porta imperdiet. Morbi eu nunc leo. Aliquam accumsan mauris quis nisl dapibus euismod.",
+  "longDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ex elit, sollicitudin vel eros et, aliquet tempus felis. Etiam et nisi vitae nisi suscipit fringilla. Fusce eu orci non tellus porttitor volutpat. Fusce vel euismod ligula. Vestibulum sit amet odio mi. Pellentesque facilisis, risus quis congue feugiat, mi lacus facilisis tortor, id posuere justo ante luctus erat. Vivamus vitae condimentum nulla, id placerat justo. Suspendisse a augue nec libero posuere posuere a nec sem. Maecenas ullamcorper justo eget libero consequat venenatis. Donec est dui, gravida quis congue ac, malesuada eget mi. Proin faucibus vehicula enim, sed ultrices magna ultrices ac.\n\nNunc molestie ornare felis, vel accumsan arcu consectetur et. Quisque condimentum malesuada ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed interdum nibh. Praesent accumsan accumsan ante viverra ullamcorper. Nulla varius ante iaculis velit tempor, vel finibus quam faucibus. Sed at nisl vitae tortor consectetur sagittis. Praesent hendrerit tincidunt urna et tincidunt. Vestibulum leo erat, lobortis eget mauris in, varius posuere enim. Mauris sed orci et dolor feugiat imperdiet id vulputate dolor. Phasellus imperdiet ac risus ut gravida. Nam feugiat, sapien sit amet luctus dictum, nulla velit feugiat lorem, nec tempus dui lorem ac tortor.\n\nIn tellus nisl, fermentum et mauris non, placerat volutpat dolor. Duis quis dolor ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ut ligula porta, commodo ante dapibus, venenatis erat. Nulla ultrices, odio ut varius finibus, ex ex tristique lorem, non egestas tellus erat fermentum nisl. Aenean sed sapien orci. Praesent nunc turpis, facilisis sit amet turpis commodo, ultricies volutpat nisi. Mauris quis gravida turpis. Aliquam iaculis aliquet nisl, a consectetur arcu euismod sollicitudin. Suspendisse at libero mauris. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;",
+  "technicalDetails": "**OS**: 64-bit Android 4.4 or Higher\n**RAM**:  3GB or Higher\n**GPU Type**: One of the below \n- Adreno 630\n- Adreno 540\n- Mali-G72 MP18\n- Mali-G72 MP12\n- Adreno 530\n- Mali-G71 MP20\n- Mali-T880 MP12\n- Mali-G71 MP8\n- Mali-T760 MP8",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/fn/item/Fortnite-Season-3-1920x1080-3dccec7c05b5ebad9302f002aef9189d.png",
+      "md5": "3dccec7c05b5ebad9302f002aef9189d",
+      "width": 1920,
+      "height": 1080,
+      "size": 1873772,
+      "uploadedDate": "2018-05-26T11:23:51.597Z"
+    },
+    {
+      "type": "AndroidIcon",
+      "url": "https://cdn1.epicgames.com/fn/item/fortniteAppIcon3-690x690-65eb793caab6dd9eb2ddb57714cb4dd6.png",
+      "md5": "65eb793caab6dd9eb2ddb57714cb4dd6",
+      "width": 690,
+      "height": 690,
+      "size": 582022,
+      "uploadedDate": "2018-05-26T11:34:37.083Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/fn/item/blank_logo-1x1-1b95550641d28d4e076bc9111ce9f533.png",
+      "md5": "1b95550641d28d4e076bc9111ce9f533",
+      "width": 1,
+      "height": 1,
+      "size": 928,
+      "uploadedDate": "2018-11-06T21:36:10.169Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fn/item/Fortnite_llamacorn_bg-430x250-ba52f51868240271251851bc83010ec8.png",
+      "md5": "ba52f51868240271251851bc83010ec8",
+      "width": 430,
+      "height": 250,
+      "size": 90716,
+      "uploadedDate": "2018-11-06T22:14:08.658Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-01-24T18:41:59.218Z",
+  "lastModifiedDate": "2019-11-08T19:44:29.516Z",
+  "customAttributes": {
+    "AndroidCommandLine": {
+      "type": "STRING",
+      "value": "../../../FortniteGame/FortniteGame.uproject -epicapp=ExtQAReleaseTestingA -epicenv=Prod -logpso -skippatchcheck"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UE4ProjectName": {
+      "type": "STRING",
+      "value": "FortniteGame"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FnExtQaReleaseTesting"
+    },
+    "HasGateKeeper": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "FortniteExtQAReleaseTestingA",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "92afee7b93ac4c37b253a5bab09258b9",
+      "appId": "FortniteExtQAReleaseTesting",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2018-01-24T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

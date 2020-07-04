@@ -1,0 +1,23 @@
+{
+  "id": "e78d1268471745e7835e6c18218574d6",
+  "title": "Starter Pack 1",
+  "description": "Starter Pack 1",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "starter_packs"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2016-09-12T15:15:26.693Z",
+  "lastModifiedDate": "2020-02-04T18:22:13.044Z",
+  "entitlementName": "e78d1268471745e7835e6c18218574d6",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

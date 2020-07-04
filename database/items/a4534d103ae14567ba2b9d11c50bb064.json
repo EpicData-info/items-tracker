@@ -1,0 +1,36 @@
+{
+  "id": "a4534d103ae14567ba2b9d11c50bb064",
+  "title": "DLC75 Audience",
+  "description": "DLC75 (Horzine Supply Weapon Crate | Series #8 Silver Bundle Pack)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T19:11:35.513Z",
+  "lastModifiedDate": "2020-07-02T01:15:21.053Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a4534d103ae14567ba2b9d11c50bb064",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

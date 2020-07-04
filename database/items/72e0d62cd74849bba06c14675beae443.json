@@ -1,0 +1,57 @@
+{
+  "id": "72e0d62cd74849bba06c14675beae443",
+  "title": "AlbacoreStaging",
+  "description": "AlbacoreStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c9be94273fe244c08032ca493ad87434",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-06T21:37:52.130Z",
+  "lastModifiedDate": "2020-02-20T15:17:28.094Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "b42a9c0cfde443aea33f312d60bf1d8f"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AlbacoreStaging"
+    }
+  },
+  "entitlementName": "72e0d62cd74849bba06c14675beae443",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "870430a7291646cb995bfdc850cd83bf",
+      "appId": "AlbacoreStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ea662b19b7a647148d43e14ad7db2f53",
+  "title": "Whipcrack",
+  "description": "Whip up some action.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-20T17:56:40.109Z",
+  "lastModifiedDate": "2019-09-21T14:09:37.827Z",
+  "entitlementName": "AthenaDance:eid_blackmondayfemale_6ho4l",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

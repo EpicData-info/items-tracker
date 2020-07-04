@@ -1,0 +1,35 @@
+{
+  "id": "994d7e025d864527a86ef79aaa0c7e1d",
+  "title": "DLC71 Audience",
+  "description": "DLC71 (Horzine Supply Weapon Crate | Series #7 Gold Bundle Pack)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T18:39:42.620Z",
+  "lastModifiedDate": "2019-11-27T20:13:03.587Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "994d7e025d864527a86ef79aaa0c7e1d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

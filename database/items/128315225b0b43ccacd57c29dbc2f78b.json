@@ -1,0 +1,55 @@
+{
+  "id": "128315225b0b43ccacd57c29dbc2f78b",
+  "title": "TanagerKoopa",
+  "description": "TanagerKoopa",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-23T16:19:55.462Z",
+  "lastModifiedDate": "2020-03-23T17:19:27.741Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TanagerKoopa"
+    }
+  },
+  "entitlementName": "128315225b0b43ccacd57c29dbc2f78b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "be1561ce4f9d4073b6057447e70183eb",
+      "appId": "f0774de606654872a77e9d6d1e3df642",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

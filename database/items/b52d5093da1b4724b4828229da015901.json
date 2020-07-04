@@ -1,0 +1,40 @@
+{
+  "id": "b52d5093da1b4724b4828229da015901",
+  "title": "Call_To_Action_01",
+  "description": "PRE-ALPHA SEASON INFO\n<inverted-tiny-body>READ MORE</>",
+  "technicalDetails": "https://www.unrealtournament.com/",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/a_SeasonInfo-1024x512-0f9623fd8e27c97b2ef8737daf007a7a.png",
+      "md5": "0f9623fd8e27c97b2ef8737daf007a7a",
+      "width": 1024,
+      "height": 512,
+      "size": 241377,
+      "uploadedDate": "2017-02-23T22:11:36.807Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2017-02-23T22:11:53.274Z",
+  "lastModifiedDate": "2017-02-23T22:11:53.274Z",
+  "entitlementName": "UnrealTournament",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

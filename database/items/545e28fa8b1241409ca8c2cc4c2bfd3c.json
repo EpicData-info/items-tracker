@@ -1,0 +1,63 @@
+{
+  "id": "545e28fa8b1241409ca8c2cc4c2bfd3c",
+  "title": "Phoenix Point Festering Skies Pre-Purchase",
+  "description": "Phoenix Point Festering Skies Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/iris/item/phoenix-point_festering-skies-2560x1440-19375a710dda85676eadb4e9b226f9e7.png",
+      "md5": "19375a710dda85676eadb4e9b226f9e7",
+      "width": 2560,
+      "height": 1440,
+      "size": 1053408,
+      "uploadedDate": "2019-12-03T19:00:29.834Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-12T19:53:24.725Z",
+  "lastModifiedDate": "2020-06-19T18:50:58.209Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FesteringSkies"
+    }
+  },
+  "entitlementName": "545e28fa8b1241409ca8c2cc4c2bfd3c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "268668d0a80c49e0880992b22b5ec922",
+      "appId": "IrisDLC3",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-11-12T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

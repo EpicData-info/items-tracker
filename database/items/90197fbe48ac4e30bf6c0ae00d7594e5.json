@@ -1,0 +1,33 @@
+{
+  "id": "90197fbe48ac4e30bf6c0ae00d7594e5",
+  "title": "BoxfishDevAudience",
+  "description": "BoxfishDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-12T21:56:02.584Z",
+  "lastModifiedDate": "2020-06-30T15:00:32.083Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "90197fbe48ac4e30bf6c0ae00d7594e5",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

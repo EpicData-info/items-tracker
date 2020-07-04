@@ -1,0 +1,94 @@
+{
+  "id": "f12018275f484aec97c88976269cb83d",
+  "title": "7 Billion Humans",
+  "description": "7 Billion Humans",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/holly/item/7BH_logo-916x417-f5b12df5dd8eb402ebbcae215c0a9d84.png",
+      "md5": "f5b12df5dd8eb402ebbcae215c0a9d84",
+      "width": 916,
+      "height": 417,
+      "size": 46498,
+      "uploadedDate": "2019-05-13T19:46:45.175Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/holly/item/7BH_promo-2580x1450-98efbc73514cc06e25a235861c6f9200.jpg",
+      "md5": "98efbc73514cc06e25a235861c6f9200",
+      "width": 2580,
+      "height": 1450,
+      "size": 423190,
+      "uploadedDate": "2019-05-13T19:46:38.359Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/holly/item/7-Billion-Humans-Portrait-Promo-1280x1420-8c0606684b5de75fc4d9ca623512a930.jpg",
+      "md5": "8c0606684b5de75fc4d9ca623512a930",
+      "width": 1280,
+      "height": 1420,
+      "size": 204142,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "holly",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-15T14:49:59.748Z",
+  "lastModifiedDate": "2019-11-19T17:02:07.396Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "holly"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SevenBillionHumans"
+    }
+  },
+  "entitlementName": "f12018275f484aec97c88976269cb83d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "157f150ede7a4144bf99fb7f14d2ddb1",
+      "appId": "Holly",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-02-15T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Tomorrow Corporation",
+  "developerId": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

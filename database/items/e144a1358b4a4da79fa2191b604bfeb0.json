@@ -1,0 +1,52 @@
+{
+  "id": "e144a1358b4a4da79fa2191b604bfeb0",
+  "title": "CatnipDLC4",
+  "description": "CatnipDLC4",
+  "longDescription": "",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "catnip",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-19T22:50:03.541Z",
+  "lastModifiedDate": "2020-02-19T22:50:56.062Z",
+  "customAttributes": {
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DLC4"
+    }
+  },
+  "entitlementName": "e144a1358b4a4da79fa2191b604bfeb0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "df2274c6adaf46ccaf7883d4a9d7148a",
+      "appId": "CatnipDLC4",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-12-06T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

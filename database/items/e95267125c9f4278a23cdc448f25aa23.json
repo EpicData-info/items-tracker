@@ -1,0 +1,56 @@
+{
+  "id": "e95267125c9f4278a23cdc448f25aa23",
+  "title": "Tom Clancy's The Division 2 - Y1 Season Pass",
+  "description": "Tom Clancy's The Division 2 - Y1 Season Pass",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "impala",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-13T17:54:06.153Z",
+  "lastModifiedDate": "2020-02-06T23:11:56.708Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "666f319539c748fb860a419233a9921e"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "e9d4b8cc9581441bb44f67167c8c9d84"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "e95267125c9f4278a23cdc448f25aa23",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a49776f1ad5d42eea57e109b40626971",
+      "appId": "SeasonPassTest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-13T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

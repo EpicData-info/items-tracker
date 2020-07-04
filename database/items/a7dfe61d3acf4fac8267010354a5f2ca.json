@@ -1,0 +1,51 @@
+{
+  "id": "a7dfe61d3acf4fac8267010354a5f2ca",
+  "title": "BurbotStaging",
+  "description": "BurbotStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "58c35a214bbb4656a536126ad1552d42",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-12T19:35:15.852Z",
+  "lastModifiedDate": "2020-05-07T04:58:56.819Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BurbotStaging"
+    }
+  },
+  "entitlementName": "a7dfe61d3acf4fac8267010354a5f2ca",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b01d82854e6f4c0ca4abc029590619aa",
+      "appId": "c6a394f0e5c64c078c450f10557b7fe6",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-04-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "Tencent Technology Company Limited",
+  "developerId": "o-knwuvnlwzekqppkq2rj2snvys69l5g",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

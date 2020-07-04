@@ -1,0 +1,34 @@
+{
+  "id": "f79f995e66474bf7a790d0323d518b49",
+  "title": "Call_To_Action_02",
+  "description": "BATTLE BREAKERS FORUMS\n<inverted-tiny-body>READ MORE</>",
+  "technicalDetails": "https://www.epicgames.com/battlebreakers/forums/",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/wex/item/bb_img3-554x314-82d5f83ba3717bb1434f1e21ab9f0a93.png",
+      "md5": "82d5f83ba3717bb1434f1e21ab9f0a93",
+      "width": 554,
+      "height": 314,
+      "size": 338210,
+      "uploadedDate": "2017-03-14T16:56:18.752Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layout"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2017-03-14T16:51:48.989Z",
+  "lastModifiedDate": "2017-06-26T18:24:52.335Z",
+  "entitlementName": "f79f995e66474bf7a790d0323d518b49",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

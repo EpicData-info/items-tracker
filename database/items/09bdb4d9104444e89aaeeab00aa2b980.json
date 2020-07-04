@@ -1,0 +1,46 @@
+{
+  "id": "09bdb4d9104444e89aaeeab00aa2b980",
+  "title": "AnemoneDevAudience",
+  "description": "AnemoneDevAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/anemone/item/RollerCoasterTycoon-842x404-52e812ebed0f51a944b182c0d0ad54ee-842x404-52e812ebed0f51a944b182c0d0ad54ee.png",
+      "md5": "52e812ebed0f51a944b182c0d0ad54ee",
+      "width": 842,
+      "height": 404,
+      "size": 42303,
+      "uploadedDate": "2019-04-29T15:15:29.652Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "anemone",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-14T19:12:10.813Z",
+  "lastModifiedDate": "2019-05-13T14:48:18.244Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "09bdb4d9104444e89aaeeab00aa2b980",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "2D Boy",
+  "developerId": "o-fdxn5bcapezptpk6s97ksd6hg6rkls",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE",
+  "unsearchable": false
+}

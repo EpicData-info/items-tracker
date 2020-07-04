@@ -1,0 +1,103 @@
+{
+  "id": "3debdea646834df18a900bcbe76b9013",
+  "title": "Magic The Gathering Arena",
+  "description": "Magic The Gathering Arena",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/5fdcc0dc67294af3be740f362bd976fd/item/MTG_Store-2560x1440-8c5241cf0d667c3fdb33e83a7ae2dca4.jpg",
+      "md5": "8c5241cf0d667c3fdb33e83a7ae2dca4",
+      "width": 2560,
+      "height": 1440,
+      "size": 596987,
+      "uploadedDate": "2020-01-16T20:57:11.113Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/5fdcc0dc67294af3be740f362bd976fd/item/MTG_Store-2560x1440-8c5241cf0d667c3fdb33e83a7ae2dca4.jpg",
+      "md5": "8c5241cf0d667c3fdb33e83a7ae2dca4",
+      "width": 2560,
+      "height": 1440,
+      "size": 596987,
+      "uploadedDate": "2020-01-16T20:57:22.384Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/5fdcc0dc67294af3be740f362bd976fd/item/MTG_logo-260x200-2398d066e3fc892e44d8aabbbba911ed.png",
+      "md5": "2398d066e3fc892e44d8aabbbba911ed",
+      "width": 260,
+      "height": 200,
+      "size": 3408,
+      "uploadedDate": "2020-01-16T20:57:39.899Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5fdcc0dc67294af3be740f362bd976fd",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-20T18:23:14.550Z",
+  "lastModifiedDate": "2020-06-25T15:49:47.159Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "5fdcc0dc67294af3be740f362bd976fd"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MagicTheGathering"
+    }
+  },
+  "entitlementName": "3debdea646834df18a900bcbe76b9013",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "93a743a675d0498d92116582f0a737ff",
+      "appId": "stargazer",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-08-15T00:00:00.000Z"
+    }
+  ],
+  "developer": "Wizards of the Coast",
+  "developerId": "o-xlb74ml56wsa5dcfcgrpvu4ywndlmm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

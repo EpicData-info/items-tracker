@@ -1,0 +1,29 @@
+{
+  "id": "1c4e5064c92644a2983a0f4dcbddd3a2",
+  "title": "Anise L Audience redeemable",
+  "description": "Anise L Audience redeemable",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "anise",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-13T02:41:31.502Z",
+  "lastModifiedDate": "2019-10-22T14:02:12.209Z",
+  "entitlementName": "1c4e5064c92644a2983a0f4dcbddd3a2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

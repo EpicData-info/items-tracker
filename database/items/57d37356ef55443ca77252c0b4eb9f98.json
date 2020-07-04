@@ -1,0 +1,46 @@
+{
+  "id": "57d37356ef55443ca77252c0b4eb9f98",
+  "title": "item title",
+  "description": "description",
+  "longDescription": "long description",
+  "technicalDetails": "technical information",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/SeaQA/item/Hydrangeas-1024x768-bdf3bf1da3405725be763540d6601144.jpg",
+      "md5": "bdf3bf1da3405725be763540d6601144",
+      "width": 1024,
+      "height": 768,
+      "size": 595284,
+      "uploadedDate": "2014-10-20T07:16:49.869Z"
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/SeaQA/item/Desert-1024x768-ba45c8f60456a672e003a875e469d0eb.jpg",
+      "md5": "ba45c8f60456a672e003a875e469d0eb",
+      "width": 1024,
+      "height": 768,
+      "size": 845941,
+      "uploadedDate": "2014-10-20T07:15:09.073Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-20T07:15:41.959Z",
+  "lastModifiedDate": "2017-03-21T03:24:40.271Z",
+  "entitlementName": "seaqatest",
+  "entitlementType": "EXECUTABLE",
+  "entitlementEndDate": "2017-10-31T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "developer": "Landy Tian",
+  "developerId": "o-dc32abc22b45c7ab6a291d60d51863",
+  "useCount": 3,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

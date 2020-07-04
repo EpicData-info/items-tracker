@@ -1,0 +1,34 @@
+{
+  "id": "e140b41d354942a0a4084abe5e6bbacd",
+  "title": "DLC20 Audience",
+  "description": "DLC20 (Dragon & Koi Tier 4 Weapon Skin Bundle)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T02:01:52.040Z",
+  "lastModifiedDate": "2019-12-09T18:27:40.600Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e140b41d354942a0a4084abe5e6bbacd",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

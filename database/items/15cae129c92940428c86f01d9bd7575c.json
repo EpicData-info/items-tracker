@@ -1,0 +1,75 @@
+{
+  "id": "15cae129c92940428c86f01d9bd7575c",
+  "title": "VioletearStaging",
+  "description": "VioletearStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/d1479d6f93fa4e6ca4415e83a7a5d703/item/EGS_DoubleFineProductions_CostumeQuest_S1-2560x1440-8fd5dffea0d4b2636b69ad6289d3eb30.jpg",
+      "md5": "8fd5dffea0d4b2636b69ad6289d3eb30",
+      "width": 2560,
+      "height": 1440,
+      "size": 506902,
+      "uploadedDate": "2019-10-22T18:08:18.453Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/d1479d6f93fa4e6ca4415e83a7a5d703/item/EGS_DoubleFineProductions_CostumeQuest_IC1-200x96-ba58fd803a38131e48669b856b2e58f3.png",
+      "md5": "ba58fd803a38131e48669b856b2e58f3",
+      "width": 200,
+      "height": 96,
+      "size": 29319,
+      "uploadedDate": "2019-10-22T18:08:25.832Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d1479d6f93fa4e6ca4415e83a7a5d703",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-04T22:04:57.997Z",
+  "lastModifiedDate": "2019-10-31T14:33:11.651Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CLoudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../roaming/doublefine/CostumeQuest/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "VioletearStaging"
+    }
+  },
+  "entitlementName": "15cae129c92940428c86f01d9bd7575c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9b1eebbdb32d4df29b0f02840bc93cdf",
+      "appId": "VioletearStaging",
+      "platform": [
+        "Windows",
+        "Win32"
+      ],
+      "dateAdded": "2019-10-14T00:00:00.000Z"
+    }
+  ],
+  "developer": "Double Fine",
+  "developerId": "o-5a763b52xcghd2yclvn8t5jdlfhlrv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

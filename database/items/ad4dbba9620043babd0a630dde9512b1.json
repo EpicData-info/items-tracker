@@ -1,0 +1,23 @@
+{
+  "id": "ad4dbba9620043babd0a630dde9512b1",
+  "title": "Fortnite Retail Audience",
+  "description": "Fortnite Retail Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-05-12T23:58:18.803Z",
+  "lastModifiedDate": "2017-12-06T19:56:42.223Z",
+  "entitlementName": "Fortnite_Retail",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

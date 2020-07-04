@@ -1,0 +1,69 @@
+{
+  "id": "88ec3422a6364d1188ec2f949ea5fb60",
+  "title": "Ursus",
+  "description": "Ursus",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "770e960d43c040db9d74e2311a8eb8c5",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-16T16:29:50.922Z",
+  "lastModifiedDate": "2019-12-16T16:33:16.433Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "770e960d43c040db9d74e2311a8eb8c5"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Ursus"
+    }
+  },
+  "entitlementName": "88ec3422a6364d1188ec2f949ea5fb60",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "933277141c88491ea0e00cb4678facab",
+      "appId": "Ursus",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

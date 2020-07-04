@@ -1,0 +1,34 @@
+{
+  "id": "b1de6ecb5b0d41378723d880026c873d",
+  "title": "GreenbulTestingAudience",
+  "description": "GreenbulTestingAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "076207fa2b5c4803a636af606c3c28b7",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-30T19:57:48.597Z",
+  "lastModifiedDate": "2020-04-09T16:34:25.011Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b1de6ecb5b0d41378723d880026c873d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

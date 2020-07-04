@@ -1,0 +1,37 @@
+{
+  "id": "c77bbf6a991a4a9da878917f6fe8724c",
+  "title": "GuppyDeluxeAudience",
+  "description": "GuppyDeluxeAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "deab864e1abf4357b303bcd5ff6fe8da",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-11T17:33:43.111Z",
+  "lastModifiedDate": "2020-06-29T18:22:12.530Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c77bbf6a991a4a9da878917f6fe8724c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Activision Publishing, Inc",
+  "developerId": "o-s5myyzhdfhxwftmvf55ph3eu6fbqpz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

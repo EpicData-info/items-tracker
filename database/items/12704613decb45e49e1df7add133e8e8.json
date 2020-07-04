@@ -1,0 +1,35 @@
+{
+  "id": "12704613decb45e49e1df7add133e8e8",
+  "title": "Observation Influencer Audience",
+  "description": "Observation Influencer Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "allium",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-02T20:47:33.335Z",
+  "lastModifiedDate": "2019-05-21T13:57:02.145Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "12704613decb45e49e1df7add133e8e8",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

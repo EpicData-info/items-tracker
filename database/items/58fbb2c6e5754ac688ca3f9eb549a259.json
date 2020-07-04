@@ -1,0 +1,95 @@
+{
+  "id": "58fbb2c6e5754ac688ca3f9eb549a259",
+  "title": "Old World Pre-Purchase",
+  "description": "Old World Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/item/EGS_OldWorld_MohawkGames_S1-2560x1440-9f8de361a5835c8c32754f1e2d7c0084.jpg",
+      "md5": "9f8de361a5835c8c32754f1e2d7c0084",
+      "width": 2560,
+      "height": 1440,
+      "size": 2070193,
+      "uploadedDate": "2020-04-13T23:29:20.685Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/item/EGS_OldWorld_MohawkGames_S2-860x1148-0e077ae9572c911683633fa9b19bd5c5.jpg",
+      "md5": "0e077ae9572c911683633fa9b19bd5c5",
+      "width": 860,
+      "height": 1148,
+      "size": 696045,
+      "uploadedDate": "2020-04-13T23:29:32.342Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "07f4a7dd3c884e5d87e9a209716962ca",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-13T17:30:07.880Z",
+  "lastModifiedDate": "2020-05-05T14:46:04.782Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "07f4a7dd3c884e5d87e9a209716962ca"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1588690800"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OldWorldDummy"
+    }
+  },
+  "entitlementName": "58fbb2c6e5754ac688ca3f9eb549a259",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "71d6f5b469344ce2aec5703c9560cf3e",
+      "appId": "NightjarDummy",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-04-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "Mohawk Games",
+  "developerId": "o-uw2qbn4nh26vxscergml2f7du26bvk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

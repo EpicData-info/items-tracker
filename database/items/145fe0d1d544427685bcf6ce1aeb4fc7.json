@@ -1,0 +1,35 @@
+{
+  "id": "145fe0d1d544427685bcf6ce1aeb4fc7",
+  "title": "DLC47 Audience",
+  "description": "DLC47 (Horzine Supply Emote Crate | Series #2 Gold Bundle Pack)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T03:05:42.025Z",
+  "lastModifiedDate": "2019-11-27T20:07:48.627Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "145fe0d1d544427685bcf6ce1aeb4fc7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

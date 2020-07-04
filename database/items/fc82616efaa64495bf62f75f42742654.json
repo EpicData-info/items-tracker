@@ -1,0 +1,33 @@
+{
+  "id": "fc82616efaa64495bf62f75f42742654",
+  "title": "FangtoothDevAudience",
+  "description": "FangtoothDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "2f215955790d456b80c291bc2feaf7f7",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-18T10:01:23.628Z",
+  "lastModifiedDate": "2019-12-28T16:26:20.627Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "fc82616efaa64495bf62f75f42742654",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

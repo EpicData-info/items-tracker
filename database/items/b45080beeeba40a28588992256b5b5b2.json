@@ -1,0 +1,26 @@
+{
+  "id": "b45080beeeba40a28588992256b5b5b2",
+  "title": "BattleBreakers Anti-Cheat App Bundle",
+  "description": "BattleBreakers Anti-Cheat App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "wex",
+  "status": "SUNSET",
+  "creationDate": "2020-01-29T17:30:51.342Z",
+  "lastModifiedDate": "2020-02-04T17:01:48.740Z",
+  "entitlementName": "b45080beeeba40a28588992256b5b5b2",
+  "entitlementType": "AUDIENCE",
+  "entitlementEndDate": "2020-02-05T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

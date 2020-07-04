@@ -1,0 +1,47 @@
+{
+  "id": "008db17880fd440fbf5d6227330463ee",
+  "title": "FoxgloveGeneralAudience",
+  "description": "FoxgloveGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/foxglove/item/ESRB_SubnauticaBelowZero_RP-842x404-c0a6d440a41de3aa8d3e8ba3044bf4fc.png",
+      "md5": "c0a6d440a41de3aa8d3e8ba3044bf4fc",
+      "width": 842,
+      "height": 404,
+      "size": 60499,
+      "uploadedDate": "2019-04-23T19:01:37.581Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "foxglove",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-24T20:04:00.639Z",
+  "lastModifiedDate": "2019-05-13T14:36:41.635Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "FoxgloveGeneralAudience",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Unknown Worlds Entertainment",
+  "developerId": "o-g4s9pbd6mu9e8uqn539s3xqk9yex92",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "RATING_PENDING",
+  "selfRefundable": true,
+  "unsearchable": false
+}

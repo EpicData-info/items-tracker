@@ -1,0 +1,23 @@
+{
+  "id": "7a2fd19a4dc44e689f477db83f0cca3b",
+  "title": "Test  Item For Price Engine Junit Smoke Test(Don't Delete)",
+  "description": "Test  Item For Price Engine Junit Smoke Test(Don't Delete)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "assets"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2016-08-16T06:12:50.548Z",
+  "lastModifiedDate": "2019-11-07T09:33:42.283Z",
+  "entitlementName": "7a2fd19a4dc44e689f477db83f0cca3b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Changyu",
+  "developerId": "o-3dc272215a40f1b217332dd191b39d",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

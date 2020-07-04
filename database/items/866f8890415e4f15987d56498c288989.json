@@ -1,0 +1,77 @@
+{
+  "id": "866f8890415e4f15987d56498c288989",
+  "title": "Trials Rising Sixty-Six DLC",
+  "description": "Trials Rising Sixty-Six DLC",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/argyle/item/trials-rising_sixty-six-2580x1450-c068a5fb7b89d4e88ada02f4df4e17a2.jpg",
+      "md5": "c068a5fb7b89d4e88ada02f4df4e17a2",
+      "width": 2580,
+      "height": 1450,
+      "size": 464758,
+      "uploadedDate": "2019-09-11T15:01:13.389Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/argyle/item/trials-rising_home_TRR-1000x375-943595a848bbfab92d2b83c5511beefc.png",
+      "md5": "943595a848bbfab92d2b83c5511beefc",
+      "width": 1000,
+      "height": 375,
+      "size": 53317,
+      "uploadedDate": "2019-09-11T15:06:19.748Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "argyle",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-03T21:51:58.089Z",
+  "lastModifiedDate": "2019-09-13T14:57:52.811Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "4de9dc7c31c94ac4a62dd6f09de9424f"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "2e6816188ff5428faecbb8247c001251"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "866f8890415e4f15987d56498c288989",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3860d120a58942f0b5987b2544a27360",
+      "appId": "SSDDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-03T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": "64ad394c9e46455a99b8003f9154bdc2",
+  "title": "SaffronSLPackAudience_marker",
+  "description": "SaffronSLPackAudience_marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-08T07:35:10.976Z",
+  "lastModifiedDate": "2019-06-14T12:25:05.941Z",
+  "entitlementName": "64ad394c9e46455a99b8003f9154bdc2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

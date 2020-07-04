@@ -1,0 +1,23 @@
+{
+  "id": "1412d144a01040a58906b0a1018eb621",
+  "title": "Castle Treasury",
+  "description": "Castle Treasury",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "mtx packages"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2016-03-29T02:16:00.487Z",
+  "lastModifiedDate": "2016-12-07T22:39:15.920Z",
+  "entitlementName": "1412d144a01040a58906b0a1018eb621",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

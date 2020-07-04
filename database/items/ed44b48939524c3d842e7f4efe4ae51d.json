@@ -1,0 +1,25 @@
+{
+  "id": "ed44b48939524c3d842e7f4efe4ae51d",
+  "title": "Tiger",
+  "description": "Tiger",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-27T23:45:22.765Z",
+  "lastModifiedDate": "2019-10-18T01:23:45.175Z",
+  "entitlementName": "FN_Ospray_6",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

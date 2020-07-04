@@ -1,0 +1,66 @@
+{
+  "id": "5607521430c7490f85d5562c4ce9831a",
+  "title": "Falcon Age Pre-Purchase",
+  "description": "Falcon Age Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/28dde12d84ef45b8b321dbc962c1b217/item/FalconAge_PrimaryPromo-1440x810-ec150940eff3a87737a2ccf4c1230570.jpg",
+      "md5": "ec150940eff3a87737a2ccf4c1230570",
+      "width": 1440,
+      "height": 810,
+      "size": 360581,
+      "uploadedDate": "2019-06-13T19:30:34.572Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/28dde12d84ef45b8b321dbc962c1b217/item/FalconAge_Logo-5992x2046-4fe04939f495f7a607095287804ab9d8.png",
+      "md5": "4fe04939f495f7a607095287804ab9d8",
+      "width": 5992,
+      "height": 2046,
+      "size": 278999,
+      "uploadedDate": "2019-06-13T19:30:45.651Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "28dde12d84ef45b8b321dbc962c1b217",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-13T19:31:08.811Z",
+  "lastModifiedDate": "2019-09-06T13:03:39.558Z",
+  "customAttributes": {
+    "availableDate": {
+      "type": "STRING",
+      "value": "{}"
+    }
+  },
+  "entitlementName": "5607521430c7490f85d5562c4ce9831a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b2516190c32a4f1da3f3b624c52a65d3",
+      "appId": "ParrotDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-13T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Outerloop Games LLC",
+  "developerId": "o-jp8nn3fnwlecen2ew5l6fv8agjzaf7",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

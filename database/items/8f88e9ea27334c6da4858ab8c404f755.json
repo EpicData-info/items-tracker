@@ -1,0 +1,91 @@
+{
+  "id": "8f88e9ea27334c6da4858ab8c404f755",
+  "title": "Demon Turf",
+  "description": "Demon Turf",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/3e7e7c2bc1644a25a99b3a4c4ef1ff33/item/EGS_DemonTurf_Fabraz_S5-1920x1080-c09db5839bf7849cf9b08ff7c8b3a6bc.jpg",
+      "md5": "c09db5839bf7849cf9b08ff7c8b3a6bc",
+      "width": 1920,
+      "height": 1080,
+      "size": 440850,
+      "uploadedDate": "2020-06-15T21:41:52.590Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/3e7e7c2bc1644a25a99b3a4c4ef1ff33/item/EGS_DemonTurf_Fabraz_S6-1200x1600-e20159aab1337b05fb4cbc9b8158d230.jpg",
+      "md5": "e20159aab1337b05fb4cbc9b8158d230",
+      "width": 1200,
+      "height": 1600,
+      "size": 472529,
+      "uploadedDate": "2020-06-15T21:42:04.511Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3e7e7c2bc1644a25a99b3a4c4ef1ff33",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-02T15:12:40.991Z",
+  "lastModifiedDate": "2020-07-03T12:40:18.295Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "3e7e7c2bc1644a25a99b3a4c4ef1ff33"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemonTurf"
+    }
+  },
+  "entitlementName": "8f88e9ea27334c6da4858ab8c404f755",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "92d8b2bd87ce4ea19d63fa49de712b27",
+      "appId": "e6cc23f646e24540bcdee0b02bad017a",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-02T00:00:00.000Z"
+    }
+  ],
+  "developer": "Fabraz LLC",
+  "developerId": "o-458ql9emykk38kpq6fh5qhfb52efyx",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

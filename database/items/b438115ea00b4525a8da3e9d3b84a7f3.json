@@ -1,0 +1,41 @@
+{
+  "id": "b438115ea00b4525a8da3e9d3b84a7f3",
+  "title": "Ryos Flight Jacket Audience",
+  "description": "Ryos Flight Jacket Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/item/ESRB_Shenmue3-842x404-b3b61b50e41756a3c15abdbd27349ce9.jpg",
+      "md5": "b3b61b50e41756a3c15abdbd27349ce9",
+      "width": 842,
+      "height": 404,
+      "size": 114627,
+      "uploadedDate": "2019-07-29T16:22:52.144Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-03T20:54:25.985Z",
+  "lastModifiedDate": "2019-11-19T13:01:16.340Z",
+  "entitlementName": "b438115ea00b4525a8da3e9d3b84a7f3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "selfRefundable": false,
+  "unsearchable": false
+}

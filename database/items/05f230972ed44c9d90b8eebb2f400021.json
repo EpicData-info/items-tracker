@@ -1,0 +1,27 @@
+{
+  "id": "05f230972ed44c9d90b8eebb2f400021",
+  "title": "Season 5 starter kit",
+  "description": "Season 5 starter kit",
+  "longDescription": "",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-08-09T19:18:57.821Z",
+  "lastModifiedDate": "2018-08-27T23:41:32.844Z",
+  "entitlementName": "S5_StarterPack",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2018-08-09T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "badf9d7a290d4b379ea3e8d150076aa4",
+  "title": "No Straight Roads Pre-Purchase Audience",
+  "description": "No Straight Roads Pre-Purchase Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c0783fd957634390af33808d1a1f56dd",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-28T17:38:18.537Z",
+  "lastModifiedDate": "2019-11-04T21:26:41.612Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "badf9d7a290d4b379ea3e8d150076aa4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Sold-Out Software",
+  "developerId": "o-gcm88kddcs2t3gtypyq9tvlx64bzyw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,101 @@
+{
+  "id": "17d118fa574c48d9b678d3e9003f129e",
+  "title": "Ooblets",
+  "description": "Ooblets",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/413361d2d5db4912ac2dfbcf27a38141/item/EGS_GLUMBERLAND_OOBLETS_L1_noLogo-2560x1440-95e762adeee5d9d533cf2c1cc2b26ea1.jpg",
+      "md5": "95e762adeee5d9d533cf2c1cc2b26ea1",
+      "width": 2560,
+      "height": 1440,
+      "size": 243358,
+      "uploadedDate": "2019-08-19T18:22:45.918Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/413361d2d5db4912ac2dfbcf27a38141/item/EGS_GLUMBERLAND_OOBLETS_IC1_COLOUR-958x279-03d7224e09b4a949a8e4b2e589e172a0.png",
+      "md5": "03d7224e09b4a949a8e4b2e589e172a0",
+      "width": 958,
+      "height": 279,
+      "size": 20910,
+      "uploadedDate": "2019-08-19T18:23:03.637Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/413361d2d5db4912ac2dfbcf27a38141/item/EGS_GLUMBERLAND_OOBLETS_S2_noLogo-1280x1440-60852bbb6032743cc2e4c78f0e5b2d38.jpg",
+      "md5": "60852bbb6032743cc2e4c78f0e5b2d38",
+      "width": 1280,
+      "height": 1440,
+      "size": 129314,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "413361d2d5db4912ac2dfbcf27a38141",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-01T20:44:27.027Z",
+  "lastModifiedDate": "2020-05-14T23:57:25.827Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "413361d2d5db4912ac2dfbcf27a38141"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Ooblets"
+    }
+  },
+  "entitlementName": "17d118fa574c48d9b678d3e9003f129e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7351d30e303445388a30546a72aba667",
+      "appId": "Ostrich",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "Glumberland",
+  "developerId": "o-q293du8hx3hhcjbqzrmfz6cz48hk6x",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "95a9b50044414b17946f273848af608f",
+  "title": "SwanGeneralAudience",
+  "description": "SwanGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-06T19:39:05.281Z",
+  "lastModifiedDate": "2020-05-28T11:50:10.493Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "95a9b50044414b17946f273848af608f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

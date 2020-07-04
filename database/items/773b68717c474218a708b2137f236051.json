@@ -1,0 +1,75 @@
+{
+  "id": "773b68717c474218a708b2137f236051",
+  "title": "Sound Track",
+  "description": "Sound Track",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "digitalextras"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-04T05:37:39.942Z",
+  "lastModifiedDate": "2020-05-26T20:41:08.735Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ca4058f18b0a4a9e9e2ccc28f7f33000"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SoundTrack"
+    }
+  },
+  "entitlementName": "773b68717c474218a708b2137f236051",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4c300d146deb4c0eb5b00fc089d75c70",
+      "appId": "EelSoundTrack",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-01-04T00:00:00.000Z"
+    }
+  ],
+  "developer": "Warhorse Studios",
+  "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

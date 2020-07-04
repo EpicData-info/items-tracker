@@ -1,0 +1,76 @@
+{
+  "id": "16f0f6f5f52c46b4a7aff29d9d55927f",
+  "title": "Landy Test Item",
+  "description": "This is a test items created by Landy",
+  "longDescription": "This is a test items created by Landy",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/SeaQA/item/Desert-1024x768-ba45c8f60456a672e003a875e469d0eb.jpg",
+      "md5": "ba45c8f60456a672e003a875e469d0eb",
+      "width": 1024,
+      "height": 768,
+      "size": 845941,
+      "uploadedDate": "2016-11-08T08:42:17.612Z"
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/SeaQA/item/Chrysanthemum-1024x768-076e3caed758a1c18c91a0e9cae3368f.jpg",
+      "md5": "076e3caed758a1c18c91a0e9cae3368f",
+      "width": 1024,
+      "height": 768,
+      "size": 879394,
+      "uploadedDate": "2016-11-08T08:42:46.983Z"
+    },
+    {
+      "type": "ComingSoon_Small",
+      "url": "https://cdn1.epicgames.com/SeaQA/item/Hydrangeas-1024x768-bdf3bf1da3405725be763540d6601144.jpg",
+      "md5": "bdf3bf1da3405725be763540d6601144",
+      "width": 1024,
+      "height": 768,
+      "size": 595284,
+      "uploadedDate": "2016-11-08T08:42:56.483Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "engines"
+    },
+    {
+      "path": "engines/ue4"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-20T07:55:50.195Z",
+  "lastModifiedDate": "2020-05-18T04:07:46.612Z",
+  "entitlementName": "16f0f6f5f52c46b4a7aff29d9d55927f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ccbe6c86782c48d99876ab53fa8eea7e",
+      "appId": "a",
+      "compatibleApps": [
+        "UE_4.0",
+        "UE_4.1",
+        "UE_4.2"
+      ],
+      "platform": [
+        "Mac",
+        "PS4"
+      ],
+      "dateAdded": "2018-02-09T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "useCount": 100,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

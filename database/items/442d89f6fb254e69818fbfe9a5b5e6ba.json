@@ -1,0 +1,24 @@
+{
+  "id": "442d89f6fb254e69818fbfe9a5b5e6ba",
+  "title": "Rush",
+  "description": "Just keep running.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-11-01T20:40:20.777Z",
+  "lastModifiedDate": "2018-11-05T19:58:27.728Z",
+  "entitlementName": "AthenaCharacter:cid_211_athena_commando_f_footballgirlb",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

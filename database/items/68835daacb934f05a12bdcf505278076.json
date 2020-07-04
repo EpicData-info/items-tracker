@@ -1,0 +1,81 @@
+{
+  "id": "68835daacb934f05a12bdcf505278076",
+  "title": "Borderlands 3 Guns, Love, and Tentacles The Marriage of Wainwright & Hammerlock",
+  "description": "Borderlands 3 Guns, Love, and Tentacles The Marriage of Wainwright & Hammerlock",
+  "longDescription": "Reference:  Borderlands 3 Moxxi's Heist of the Handsome Jackpot",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/catnip/item/2KGMKT_BL3_DLC2_Hammerlock_Key_Art_Logo_1080x1920_EN-1080x1920-3b9a848a9f2162d3b0ed9c2353008859.png",
+      "md5": "3b9a848a9f2162d3b0ed9c2353008859",
+      "width": 1080,
+      "height": 1920,
+      "size": 4059665,
+      "uploadedDate": "2020-03-26T17:03:44.495Z"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/catnip/item/2KGMKT_BL3_DLC2_Hammerlock_Key_Art_Logo_1920x1080_EN-1920x1080-3002ee73c45f0d12901f8d1e721964d3.png",
+      "md5": "3002ee73c45f0d12901f8d1e721964d3",
+      "width": 1920,
+      "height": 1080,
+      "size": 3914545,
+      "uploadedDate": "2020-03-26T17:04:01.471Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/catnip/item/2KGMKT_BL3_DLC2_Hammerlock_Key_Art_Logo_1920x1080_EN-1920x1080-3002ee73c45f0d12901f8d1e721964d3.png",
+      "md5": "3002ee73c45f0d12901f8d1e721964d3",
+      "width": 1920,
+      "height": 1080,
+      "size": 3914545,
+      "uploadedDate": "2020-03-26T17:04:29.583Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "catnip",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-13T18:42:33.072Z",
+  "lastModifiedDate": "2020-03-30T21:34:02.818Z",
+  "customAttributes": {
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MarriageOfWainwright"
+    }
+  },
+  "entitlementName": "68835daacb934f05a12bdcf505278076",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "19bbc7f2162b4e1aa083f8356e2f959f",
+      "appId": "CatnipDLC2",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-12-06T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

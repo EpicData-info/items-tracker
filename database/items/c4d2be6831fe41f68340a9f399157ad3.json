@@ -1,0 +1,38 @@
+{
+  "id": "c4d2be6831fe41f68340a9f399157ad3",
+  "title": "Create_CommunitySpotlight_01",
+  "description": "Sniper Rifle by Aberiu",
+  "longDescription": "",
+  "technicalDetails": "https://www.epicgames.com/unrealtournament/community-contributors?utm_source=launcher&utm_medium=software&utm_campaign=utcreatetab",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/sniper_rifle-686x346-ab9fd5d3306dc1773c547cca0b8d61f3.png",
+      "md5": "ab9fd5d3306dc1773c547cca0b8d61f3",
+      "width": 686,
+      "height": 346,
+      "size": 64553,
+      "uploadedDate": "2017-02-24T20:48:14.076Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "projects"
+    },
+    {
+      "path": "projects/showcases"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-02-03T14:49:22.756Z",
+  "lastModifiedDate": "2017-02-24T20:48:59.130Z",
+  "entitlementName": "c4d2be6831fe41f68340a9f399157ad3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "85852c75a6be49c1bc222556a14d2e1a",
+  "title": "PumaDevLiveTestAudience",
+  "description": "PumaDevLiveTestAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "puma",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-18T15:09:20.092Z",
+  "lastModifiedDate": "2019-05-13T14:24:17.974Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "85852c75a6be49c1bc222556a14d2e1a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "27f9eed1c8e2485e85d92fd6abd2d496",
+  "title": "Fortnite External Dev - Stray Kite",
+  "description": "Fortnite External Dev - Stray Kite",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-26T18:45:29.295Z",
+  "lastModifiedDate": "2019-11-26T18:45:29.295Z",
+  "entitlementName": "27f9eed1c8e2485e85d92fd6abd2d496",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

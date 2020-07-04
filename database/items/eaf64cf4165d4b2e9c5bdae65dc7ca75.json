@@ -1,0 +1,26 @@
+{
+  "id": "eaf64cf4165d4b2e9c5bdae65dc7ca75",
+  "title": "2800 Fortnite Points (POSA PC, IOS, Android)",
+  "description": "2800 Fortnite Points (POSA PC, IOS, Android)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-12T21:21:37.188Z",
+  "lastModifiedDate": "2019-10-21T16:23:17.496Z",
+  "entitlementName": "FN_2800_POSA_PCIOSAndroid",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2019-08-12T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

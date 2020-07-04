@@ -1,0 +1,110 @@
+{
+  "id": "d6eb8a730cf74101a8f9cc74f94a68ac",
+  "title": "Rainbow Six Siege Trial [Dev]",
+  "description": "Rainbow Six Siege Trial [Dev]",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/carnation/item/PrimaryPromo-2580x1450-98dab23be171fab753c54e811fecf075.jpg",
+      "md5": "98dab23be171fab753c54e811fecf075",
+      "width": 2580,
+      "height": 1450,
+      "size": 283768,
+      "uploadedDate": "2019-08-19T19:44:49.993Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/carnation/item/R6S_Logo_Color_1000x375-1000x375-8e2b21c06400f36fae8d6a6695cd7155.png",
+      "md5": "8e2b21c06400f36fae8d6a6695cd7155",
+      "width": 1000,
+      "height": 375,
+      "size": 24730,
+      "uploadedDate": "2019-08-19T19:44:59.592Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "carnation",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-22T19:27:50.438Z",
+  "lastModifiedDate": "2019-08-27T16:14:32.002Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "carnation"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Ubisoft"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "db8aa85ad4044a9f9c9978bd29ff5894"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CarnationWeekStaging"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d6eb8a730cf74101a8f9cc74f94a68ac",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "63791ae15c554be49977093912bed996",
+      "appId": "CarnationWeekStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-11T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

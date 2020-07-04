@@ -1,0 +1,83 @@
+{
+  "id": "8747335f79dd4bec8ddc03214c307950",
+  "title": "The Money Hat",
+  "description": "The prize pool gets bigger with every purchase.",
+  "longDescription": "This cap is for the player who starts incognito but flips that brim around when it's go time. At first it's just a cap, but when you tie or take the lead it turns to gold. Epic is putting 100 percent of the proceeds from this hat into the prize pool for the first competitive season of Unreal Tournament.",
+  "technicalDetails": "",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/1920x1080_GOLD-1920x1080-f5691dc2ba2c4b217420c28b396c0e7e.png",
+      "md5": "f5691dc2ba2c4b217420c28b396c0e7e",
+      "width": 1920,
+      "height": 1080,
+      "size": 8314613,
+      "uploadedDate": "2015-02-28T02:57:43.297Z"
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ut/item/1400x300DetailHeader-1400x300-5e33c217ca5ef52740cf7aa89b46b3c6.png",
+      "md5": "5e33c217ca5ef52740cf7aa89b46b3c6",
+      "width": 1400,
+      "height": 300,
+      "size": 1698897,
+      "uploadedDate": "2015-02-28T02:56:11.848Z"
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ut/item/500x500-550x550-8fd28457e070a16a03d2a38d6e644047.png",
+      "md5": "8fd28457e070a16a03d2a38d6e644047",
+      "width": 550,
+      "height": 550,
+      "size": 1228856,
+      "uploadedDate": "2015-02-28T02:55:55.034Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ut/item/300X250Thumbnail-300x250-7141f7cf3c3cad0ff38ae272a3f2404c.png",
+      "md5": "7141f7cf3c3cad0ff38ae272a3f2404c",
+      "width": 300,
+      "height": 250,
+      "size": 318636,
+      "uploadedDate": "2015-02-28T02:56:01.891Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/1920x1080-1920x1080-f4ce0c3dd37a7ed64feb5c7c81752cfd.png",
+      "md5": "f4ce0c3dd37a7ed64feb5c7c81752cfd",
+      "width": 1920,
+      "height": 1080,
+      "size": 8314613,
+      "uploadedDate": "2015-02-28T02:57:32.452Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/1920x1080_2-1920x1080-48f8b18a829e90d9a9c3a471843b8cc5.png",
+      "md5": "48f8b18a829e90d9a9c3a471843b8cc5",
+      "width": 1920,
+      "height": 1080,
+      "size": 8314613,
+      "uploadedDate": "2015-02-28T02:57:56.375Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-02-27T02:57:32.393Z",
+  "lastModifiedDate": "2019-05-13T14:32:30.584Z",
+  "entitlementName": "0d5e275ca99d4cf0b03c518a6b275g77",
+  "entitlementType": "EXECUTABLE",
+  "entitlementStartDate": "2015-01-22T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "developer": "Mike Kime",
+  "developerId": "o-7e212f3ac3418eacc3de08c76e18c1",
+  "endOfSupport": false,
+  "unsearchable": false
+}

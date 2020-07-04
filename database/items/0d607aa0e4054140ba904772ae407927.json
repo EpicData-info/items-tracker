@@ -1,0 +1,35 @@
+{
+  "id": "0d607aa0e4054140ba904772ae407927",
+  "title": "Heavy Rain Demo Staging Audience",
+  "description": "Heavy Rain Demo Staging Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "aster",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-13T16:13:52.288Z",
+  "lastModifiedDate": "2019-10-16T14:38:42.278Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0d607aa0e4054140ba904772ae407927",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

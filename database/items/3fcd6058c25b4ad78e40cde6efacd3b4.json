@@ -1,0 +1,57 @@
+{
+  "id": "3fcd6058c25b4ad78e40cde6efacd3b4",
+  "title": "HapukaStaging",
+  "description": "HapukaStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8b9fc0e3ee7d478abc047d1a3596c568",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-24T17:48:52.253Z",
+  "lastModifiedDate": "2020-02-18T22:13:37.959Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "bbff397cbb324451aa2ca8c997e870f1"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HapukaStaging"
+    }
+  },
+  "entitlementName": "3fcd6058c25b4ad78e40cde6efacd3b4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "81974b7b8ff945efa1be1feaa49ce919",
+      "appId": "HapukaStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

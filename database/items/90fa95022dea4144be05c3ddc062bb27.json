@@ -1,0 +1,24 @@
+{
+  "id": "90fa95022dea4144be05c3ddc062bb27",
+  "title": "Fortnite External Dev - Sprung",
+  "description": "Fortnite External Dev - Sprung",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-16T21:56:31.899Z",
+  "lastModifiedDate": "2019-04-16T21:56:31.899Z",
+  "entitlementName": "90fa95022dea4144be05c3ddc062bb27",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

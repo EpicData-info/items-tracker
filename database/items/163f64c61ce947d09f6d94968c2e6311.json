@@ -1,0 +1,35 @@
+{
+  "id": "163f64c61ce947d09f6d94968c2e6311",
+  "title": "Heavy Rain Press Audience",
+  "description": "Heavy Rain Press Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "aster",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-12T14:16:12.459Z",
+  "lastModifiedDate": "2019-10-16T14:38:42.278Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "163f64c61ce947d09f6d94968c2e6311",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

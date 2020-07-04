@@ -1,0 +1,26 @@
+{
+  "id": "2e2e40423334434bab860a924c00fbc1",
+  "title": "World Cup 2019 Attendee",
+  "description": "World Cup 2019 Attendee",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-13T18:51:37.297Z",
+  "lastModifiedDate": "2019-07-24T14:11:07.571Z",
+  "entitlementName": "fn_WC_2019",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2019-06-13T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

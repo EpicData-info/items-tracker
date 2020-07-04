@@ -1,0 +1,39 @@
+{
+  "id": "696575dac32946f8bd0d0ddeb0d9c596",
+  "title": "ShoebillDummy",
+  "description": "ShoebillDummy",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e509c16d53714b13ba8e393966507255",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-17T22:22:21.379Z",
+  "lastModifiedDate": "2019-11-12T14:40:29.281Z",
+  "entitlementName": "696575dac32946f8bd0d0ddeb0d9c596",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b548062385e34c0faac0e486581efc0f",
+      "appId": "shoebillDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-17T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

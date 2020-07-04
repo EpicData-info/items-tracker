@@ -1,0 +1,41 @@
+{
+  "id": "00811f9a226848fa9ef1926579a462b5",
+  "title": "Call_To_Action_Unentitled_01",
+  "description": "PLAY FREE SEPTEMBER 26\n<inverted-tiny-body>Read More</>",
+  "longDescription": "",
+  "technicalDetails": "https://www.epicgames.com/fortnite/news/fortnite-battle-royale-goes-free",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/fn/item/Launcher_Fortnite_Battle-Royale_448x260-448x260-52aa51dca46bb0ce23d83a0a194fa723.png",
+      "md5": "52aa51dca46bb0ce23d83a0a194fa723",
+      "width": 448,
+      "height": 260,
+      "size": 205815,
+      "uploadedDate": "2017-09-11T16:20:47.008Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-04-04T19:36:21.899Z",
+  "lastModifiedDate": "2017-09-20T20:45:24.014Z",
+  "entitlementName": "00811f9a226848fa9ef1926579a462b5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

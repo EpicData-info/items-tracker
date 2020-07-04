@@ -1,0 +1,51 @@
+{
+  "id": "9151a59c2782453ca9fb488d86c44505",
+  "title": "TanagerStaging3",
+  "description": "TanagerStaging3",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-11T18:24:12.216Z",
+  "lastModifiedDate": "2020-02-11T18:24:46.431Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TanagerStaging3"
+    }
+  },
+  "entitlementName": "9151a59c2782453ca9fb488d86c44505",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "df58423191e245b48ba9faa7ea5ac5d2",
+      "appId": "TanagerStaging3",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Bossa Studios",
+  "developerId": "o-2xhhr8jdtcqt7uprgbpvf7g9k2vppu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

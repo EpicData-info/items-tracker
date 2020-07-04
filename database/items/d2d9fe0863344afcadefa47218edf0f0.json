@@ -1,0 +1,34 @@
+{
+  "id": "d2d9fe0863344afcadefa47218edf0f0",
+  "title": "Play_Header",
+  "description": "SHADOW COMPLEX",
+  "longDescription": "Powered by Unreal Engine 3 and winner of 50+ Game of the Year and Editor's Choice Awards, Shadow Complex is back for more!\n\nShadow Complex Remastered features all the great gameplay from the award-winning classic, updated with exciting new enhancements and achievements to support its debut on PC, PlayStation 4, and Xbox One.",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/vpr/item/VPR_header-1920x694-1b78c63921a89f2252e3c76450333680.png",
+      "md5": "1b78c63921a89f2252e3c76450333680",
+      "width": 1920,
+      "height": 694,
+      "size": 1118659,
+      "uploadedDate": "2017-06-05T22:22:10.534Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layout"
+    }
+  ],
+  "namespace": "vpr",
+  "status": "ACTIVE",
+  "creationDate": "2017-03-15T19:43:18.358Z",
+  "lastModifiedDate": "2017-12-04T22:06:33.858Z",
+  "entitlementName": "d2d9fe0863344afcadefa47218edf0f0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

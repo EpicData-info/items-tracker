@@ -1,0 +1,41 @@
+{
+  "id": "365b7fe19c65417fa61230d92ba8b223",
+  "title": "TestSeaQA-10",
+  "description": "Entitlement Start Date test",
+  "longDescription": "Entitlement type is entitlement, item type is durable, entitlement start date is in past",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-27T18:15:20.928Z",
+  "lastModifiedDate": "2016-09-08T05:57:42.019Z",
+  "entitlementName": "EntitlmentType-1",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementEndDate": "2019-10-17T00:00:00.000Z",
+  "entitlementStartDate": "2013-10-25T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d686faf0aea943dcb4c4d0f0b9d29c30",
+      "appId": "12",
+      "compatibleApps": [
+        "UE_4.1",
+        "UE_4.2",
+        "UE_4.3"
+      ],
+      "platform": [
+        "PS4"
+      ],
+      "dateAdded": "2016-09-08T05:57:23.913Z"
+    }
+  ],
+  "developer": "Landy Tian",
+  "developerId": "o-dc32abc22b45c7ab6a291d60d51863",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

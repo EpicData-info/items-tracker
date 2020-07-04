@@ -1,0 +1,27 @@
+{
+  "id": "433fac1a5f9744e5a12f7162b6888d7c",
+  "title": "400 V-Bucks (Comp)",
+  "description": "400 V-Bucks (Comp)",
+  "longDescription": "Spend V-bucks in the loot store for heroes, schematics, upgrades and more!",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-09-18T18:21:54.863Z",
+  "lastModifiedDate": "2018-09-18T18:41:29.382Z",
+  "entitlementName": "FN_400_POINTS_COMP",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2018-09-18T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

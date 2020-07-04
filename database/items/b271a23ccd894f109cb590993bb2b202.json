@@ -1,0 +1,33 @@
+{
+  "id": "b271a23ccd894f109cb590993bb2b202",
+  "title": "HakeDevAudience",
+  "description": "HakeDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "2bc23fc2438c47ec8acb0641980f50c1",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-13T02:51:13.575Z",
+  "lastModifiedDate": "2020-01-01T15:22:32.789Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b271a23ccd894f109cb590993bb2b202",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

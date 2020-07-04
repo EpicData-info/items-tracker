@@ -1,0 +1,23 @@
+{
+  "id": "26becb41fe6b4a8db3253056dc67652f",
+  "title": "Twitch Prime Promotion Item",
+  "description": "Twitch Prime Promotion Item",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-01-25T00:54:45.763Z",
+  "lastModifiedDate": "2018-02-13T17:12:21.896Z",
+  "entitlementName": "TWITCH_PRIME_PROMO",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

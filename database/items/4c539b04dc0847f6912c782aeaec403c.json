@@ -1,0 +1,58 @@
+{
+  "id": "4c539b04dc0847f6912c782aeaec403c",
+  "title": "The Curse of the Pharaohs DLC",
+  "description": "The Curse of the Pharaohs DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "camellia",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-28T15:04:27.210Z",
+  "lastModifiedDate": "2019-11-27T15:28:33.806Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "1fc05256dc1c4c00818a1a52dd519f01"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "0dd9342a2a554460bf7da589bdd6fbb4"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "4c539b04dc0847f6912c782aeaec403c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "376eec5a504948bcb7d4cc2b1327b9cd",
+      "appId": "TCOP_DLC_Test",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-28T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,45 @@
+{
+  "id": "427404a3dfca47018ebf50851e528ef8",
+  "title": "Marsvision Song Contest Audience",
+  "description": "Marsvision Song Contest Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/item/ESRB_SurvivingMars-842x485-622107fc6de41234aa85e91e25e2795b.jpg",
+      "md5": "622107fc6de41234aa85e91e25e2795b",
+      "width": 842,
+      "height": 485,
+      "size": 123217,
+      "uploadedDate": "2020-01-07T14:46:01.827Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "d759128018124dcabb1fbee9bb28e178",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-12T20:07:32.030Z",
+  "lastModifiedDate": "2020-01-07T14:46:12.022Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "427404a3dfca47018ebf50851e528ef8",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "unsearchable": false
+}

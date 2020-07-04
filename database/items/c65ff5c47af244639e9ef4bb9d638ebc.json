@@ -1,0 +1,35 @@
+{
+  "id": "c65ff5c47af244639e9ef4bb9d638ebc",
+  "title": "Lorikeet Pre-Purchase Audience",
+  "description": "Lorikeet Pre-Purchase Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "015763e579d4479cb1ef7780bf91804f",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-20T12:32:24.102Z",
+  "lastModifiedDate": "2019-10-18T12:58:56.349Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c65ff5c47af244639e9ef4bb9d638ebc",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "William Chyr Studio",
+  "developerId": "o-9j6lnh9adzvfntd9d8ypjc39wb9d3k",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

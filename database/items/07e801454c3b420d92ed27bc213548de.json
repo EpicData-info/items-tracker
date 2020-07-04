@@ -1,0 +1,34 @@
+{
+  "id": "07e801454c3b420d92ed27bc213548de",
+  "title": "FreesiaGeneralAudience",
+  "description": "FreesiaGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "4c00c7506c4b4fa695f749bd6bb07ff6",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-19T13:35:15.207Z",
+  "lastModifiedDate": "2020-03-19T13:43:52.292Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "07e801454c3b420d92ed27bc213548de",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Galactic Cafe",
+  "developerId": "o-yrlbfhj5bvd3fce3zfcq47jev35gx4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,68 @@
+{
+  "id": "eb3fe22f7ea84684b847f50d5a703cf7",
+  "title": "test offer for upgrading common 2+",
+  "description": "test offer for upgrading common 2+",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/SeaQA/item/Mekke-fashion_screenshot1-1920x1080-a534b391e73a09cd68735f909227649a.png",
+      "md5": "a534b391e73a09cd68735f909227649a",
+      "width": 1920,
+      "height": 1080,
+      "size": 201234,
+      "uploadedDate": "2018-11-13T06:18:08.432Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2017-11-01T10:24:06.870Z",
+  "lastModifiedDate": "2018-11-13T06:18:14.064Z",
+  "entitlementName": "eb3fe22f7ea84684b847f50d5a703cf7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ece1272a9e8645c68998364dc41db637",
+      "appId": "1",
+      "compatibleApps": [
+        "UE_4.1",
+        "UE_4.2",
+        "UE_4.3",
+        "UE_4.4",
+        "UE_4.5",
+        "UE_4.6",
+        "UE_4.7",
+        "UE_4.8",
+        "UE_4.9",
+        "UE_4.10",
+        "UE_4.11",
+        "UE_4.12",
+        "UE_4.13",
+        "UE_4.14",
+        "UE_4.15",
+        "UE_4.16",
+        "UE_4.17",
+        "UE_4.18"
+      ],
+      "platform": [
+        "PS4"
+      ],
+      "dateAdded": "2017-11-01T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "landytianfr",
+  "developerId": "o-569b3b228844a48801edff12bc30cb",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

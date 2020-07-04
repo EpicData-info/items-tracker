@@ -1,0 +1,55 @@
+{
+  "id": "46bebb0cc1834b38beae6cb09a1227fb",
+  "title": "HermitSeasonPass",
+  "description": "HermitSeasonPass",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "599d248ca46b45a8b40a3b4e484712cb",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T21:26:40.784Z",
+  "lastModifiedDate": "2019-12-05T12:53:40.500Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "da62a74ae14140408dd9ce46b2c55d5e"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "29c4db1f8c9f44149e73f51e842baacf"
+    }
+  },
+  "entitlementName": "46bebb0cc1834b38beae6cb09a1227fb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a1b312882c5f428f873453d79e3a0558",
+      "appId": "HermitSeasonPass",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-01T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,59 @@
+{
+  "id": "433eca43847d4fb1914abd07a313d71b",
+  "title": "Watch Dogs Legion Season Pass",
+  "description": "Watch Dogs Legion Season Pass",
+  "technicalDetails": "Granted if you must call Partner Integration to redeem season pass separately from the game. Not necessary if the edition you buy already includes it",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0a84818055e740a7be21a2e5b6162703",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-05T20:13:00.243Z",
+  "lastModifiedDate": "2019-06-14T21:04:26.354Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "8b8f06972f83447e81935780e4d1d202"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "433eca43847d4fb1914abd07a313d71b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cb23bf04eacc4a14bbb42656f850e9a5",
+      "appId": "HawkSeasonPassTest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-08T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

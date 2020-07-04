@@ -1,0 +1,58 @@
+{
+  "id": "07025e724b49449eaa689d173e1bd5e3",
+  "title": "Carnation Year 4",
+  "description": "Carnation Year 4",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "carnation",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-13T02:06:40.540Z",
+  "lastModifiedDate": "2019-08-27T16:14:32.002Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "2e92d360488445048933157725e02c5e"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "18f905d1615e43339288d7f59956c020"
+    }
+  },
+  "entitlementName": "07025e724b49449eaa689d173e1bd5e3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d14c3ab82bf5428b9e7c0a5d6c3437b4",
+      "appId": "CarnationYear4",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-13T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

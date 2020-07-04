@@ -1,0 +1,34 @@
+{
+  "id": "157c66b9ce374bc898ffa6749bb5122d",
+  "title": "CockatooDevAudience",
+  "description": "CockatooDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "c77e320376c14aa68121bffb108721c7",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-05T16:48:31.081Z",
+  "lastModifiedDate": "2019-10-10T12:59:54.936Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "157c66b9ce374bc898ffa6749bb5122d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Curve Digital",
+  "developerId": "o-ws89bsbfb8trgdl3zmerugg4rsuvvt",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "d4e0a082c0c2416cade5e1e697e603e7",
+  "title": "MeerkatDevAudience",
+  "description": "MeerkatDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "meerkat",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-17T17:32:51.079Z",
+  "lastModifiedDate": "2019-01-08T13:40:05.037Z",
+  "entitlementName": "d4e0a082c0c2416cade5e1e697e603e7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

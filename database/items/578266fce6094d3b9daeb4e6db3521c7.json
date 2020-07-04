@@ -1,0 +1,33 @@
+{
+  "id": "578266fce6094d3b9daeb4e6db3521c7",
+  "title": "BatfishDevAudience",
+  "description": "BatfishDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "f2bfff793b224f6190a394f461c9a4b8",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-16T03:43:47.563Z",
+  "lastModifiedDate": "2019-12-17T13:42:35.715Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "578266fce6094d3b9daeb4e6db3521c7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Athlon Games",
+  "developerId": "o-pak9zrvrvpnc8qtwjx3z6pllyzph4q",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

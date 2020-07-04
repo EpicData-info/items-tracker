@@ -1,0 +1,99 @@
+{
+  "id": "dc5f4b418cd24b8c8f0d1da18f3a5525",
+  "title": "AsterDenuvo",
+  "description": "AsterDenuvo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/aster/item/HeavyRain_PrimaryPromo-2580x1450-db16cce61af8f1e3daa73ce3ba6b002b.jpg",
+      "md5": "db16cce61af8f1e3daa73ce3ba6b002b",
+      "width": 2580,
+      "height": 1450,
+      "size": 137730,
+      "uploadedDate": "2019-04-24T17:38:29.243Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/aster/item/HeavyRain_Logo-1920x315-0940421774203f1c2a2c31be98945626.png",
+      "md5": "0940421774203f1c2a2c31be98945626",
+      "width": 1920,
+      "height": 315,
+      "size": 101216,
+      "uploadedDate": "2019-04-24T17:38:36.240Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/aster/item/HeavyRain_GameIcon-400x400-d6532494c9e1c90d07f2fcabf20e00b3.png",
+      "md5": "d6532494c9e1c90d07f2fcabf20e00b3",
+      "width": 400,
+      "height": 400,
+      "size": 102366,
+      "uploadedDate": "2019-04-24T17:38:53.047Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "aster",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-29T21:10:56.824Z",
+  "lastModifiedDate": "2019-10-16T14:38:42.278Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "aster"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AsterDenuvo"
+    }
+  },
+  "entitlementName": "dc5f4b418cd24b8c8f0d1da18f3a5525",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "20b1e02397e84679a5b8962bfcd8e2c1",
+      "appId": "AsterDenuvo",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-29T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

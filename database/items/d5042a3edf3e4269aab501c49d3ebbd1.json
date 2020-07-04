@@ -1,0 +1,36 @@
+{
+  "id": "d5042a3edf3e4269aab501c49d3ebbd1",
+  "title": "DLC31 Audience",
+  "description": "DLC31 (Horzine Supply Cosmetic Crate | Series #4 Bronze Bundle Pack)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T02:28:36.397Z",
+  "lastModifiedDate": "2020-07-01T23:36:06.561Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d5042a3edf3e4269aab501c49d3ebbd1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

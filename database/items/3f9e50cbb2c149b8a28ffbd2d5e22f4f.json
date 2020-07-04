@@ -1,0 +1,92 @@
+{
+  "id": "3f9e50cbb2c149b8a28ffbd2d5e22f4f",
+  "title": "Levelhead",
+  "description": "Levelhead",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/d33c2a64808e434b85eb1329f65431b1/item/EGS_Levelhead_ButterscotchShenanigans_S1-2560x1440-f16c24aa439cba43fd18b9f0df8e98f7.jpg",
+      "md5": "f16c24aa439cba43fd18b9f0df8e98f7",
+      "width": 2560,
+      "height": 1440,
+      "size": 473795,
+      "uploadedDate": "2020-03-17T00:52:19.445Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/d33c2a64808e434b85eb1329f65431b1/item/EGS_Levelhead_ButterscotchShenanigans_S2-860x1148-b04fcfdf525dd935e68556f031d3b971.jpg",
+      "md5": "b04fcfdf525dd935e68556f031d3b971",
+      "width": 860,
+      "height": 1148,
+      "size": 274519,
+      "uploadedDate": "2020-03-17T00:52:32.533Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d33c2a64808e434b85eb1329f65431b1",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-16T20:13:52.879Z",
+  "lastModifiedDate": "2020-04-30T14:52:55.428Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "d33c2a64808e434b85eb1329f65431b1"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Levelhead"
+    }
+  },
+  "entitlementName": "3f9e50cbb2c149b8a28ffbd2d5e22f4f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a4975198da0f480b955e79ab9c281a12",
+      "appId": "196ba0d44d914ef69499877e53fa500d",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-04-03T00:00:00.000Z"
+    }
+  ],
+  "developer": "Butterscotch Shenanigans",
+  "developerId": "o-nl9ywem28pes9amuwp2jqrey4zxjpf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

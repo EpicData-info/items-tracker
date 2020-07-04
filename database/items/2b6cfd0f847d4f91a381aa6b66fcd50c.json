@@ -1,0 +1,46 @@
+{
+  "id": "2b6cfd0f847d4f91a381aa6b66fcd50c",
+  "title": "For Honor Marching Fire Expansion Pack Audience Redeemable",
+  "description": "For Honor Marching Fire Expansion Pack Audience Redeemable",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/sundrop/item/For-Honor-Rating-842x404-d8c5be8969e73cd52549e48359133f9b.png",
+      "md5": "d8c5be8969e73cd52549e48359133f9b",
+      "width": 842,
+      "height": 404,
+      "size": 60171,
+      "uploadedDate": "2019-07-26T19:28:39.593Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "sundrop",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-26T19:45:31.511Z",
+  "lastModifiedDate": "2019-08-09T15:59:56.090Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "2b6cfd0f847d4f91a381aa6b66fcd50c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

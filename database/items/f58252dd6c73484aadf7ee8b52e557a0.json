@@ -1,0 +1,33 @@
+{
+  "id": "f58252dd6c73484aadf7ee8b52e557a0",
+  "title": "DevKurilianAudience",
+  "description": "DevKurilianAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "14ee004dadc142faaaece5a6270fb628",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-28T15:35:25.695Z",
+  "lastModifiedDate": "2020-05-13T16:53:25.493Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f58252dd6c73484aadf7ee8b52e557a0",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "CD PROJEKT RED",
+  "developerId": "o-x2vdjaf7cfakvlsgz8qf2gx8bkplcc",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

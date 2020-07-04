@@ -1,0 +1,46 @@
+{
+  "id": "2bbe5588e18540aca9d9d86485adf65c",
+  "title": "BatfishGeneralAudience",
+  "description": "BatfishGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f2bfff793b224f6190a394f461c9a4b8/item/ESRB_TelltaleBatman-842x404-01c1237c63a092ac76f31073553287b6.jpg",
+      "md5": "01c1237c63a092ac76f31073553287b6",
+      "width": 842,
+      "height": 404,
+      "size": 103711,
+      "uploadedDate": "2019-12-16T16:34:08.644Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "f2bfff793b224f6190a394f461c9a4b8",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-16T03:43:47.513Z",
+  "lastModifiedDate": "2019-12-17T13:42:35.714Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "2bbe5588e18540aca9d9d86485adf65c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Athlon Games",
+  "developerId": "o-pak9zrvrvpnc8qtwjx3z6pllyzph4q",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

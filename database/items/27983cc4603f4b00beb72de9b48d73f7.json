@@ -1,0 +1,35 @@
+{
+  "id": "27983cc4603f4b00beb72de9b48d73f7",
+  "title": "AdeniumDevAudience",
+  "description": "AdeniumDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "adenium",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-15T15:39:38.554Z",
+  "lastModifiedDate": "2019-10-29T13:00:02.669Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "27983cc4603f4b00beb72de9b48d73f7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Night School Studio, LLC",
+  "developerId": "o-8bhctnyt9qetgnjd4nssqse58c2589",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

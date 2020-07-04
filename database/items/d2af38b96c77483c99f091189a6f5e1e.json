@@ -1,0 +1,59 @@
+{
+  "id": "d2af38b96c77483c99f091189a6f5e1e",
+  "title": "AlligatorStaging",
+  "description": "AlligatorStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8f8bddb3ff464536984ce8e945cb5f8c",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-28T21:42:56.992Z",
+  "lastModifiedDate": "2019-12-20T15:17:52.110Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "01ec14a03c714794a7c04195ee521f95"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AlligatorStaging"
+    }
+  },
+  "entitlementName": "d2af38b96c77483c99f091189a6f5e1e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f17ea4385b21453085537faa2e474ce8",
+      "appId": "AlligatorStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-28T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

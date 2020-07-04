@@ -1,0 +1,47 @@
+{
+  "id": "579f4386c0824cd48aa3c9a0ed6b54d8",
+  "title": "KiwiDLC1 Audience",
+  "description": "KiwiDLC1 Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/item/ESRB_NoDescriptors-330x156-064a681be6664ae15e19d4d7186c53ab.jpg",
+      "md5": "064a681be6664ae15e19d4d7186c53ab",
+      "width": 330,
+      "height": 156,
+      "size": 9509,
+      "uploadedDate": "2019-07-16T14:53:49.298Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "76339caf9e8e4d24b62761c736e82b42",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-12T19:52:59.252Z",
+  "lastModifiedDate": "2019-07-23T13:00:06.553Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "579f4386c0824cd48aa3c9a0ed6b54d8",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Enhance, Inc.",
+  "developerId": "o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE",
+  "selfRefundable": false,
+  "unsearchable": false
+}

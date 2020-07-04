@@ -1,0 +1,35 @@
+{
+  "id": "c1b80bbf1dc1434ab1fa515fa2c25c50",
+  "title": "NautilusDevAudience",
+  "description": "NautilusDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "nautilus",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-04T19:58:08.413Z",
+  "lastModifiedDate": "2019-05-13T14:46:58.196Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c1b80bbf1dc1434ab1fa515fa2c25c50",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

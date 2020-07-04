@@ -1,0 +1,49 @@
+{
+  "id": "f2913a668c4a4ecc82189a68de3ed362",
+  "title": "EmperorStaging",
+  "description": "EmperorStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "109273d8719f46b9b89cb912a6649e5c",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-18T15:32:41.060Z",
+  "lastModifiedDate": "2020-03-05T18:21:07.173Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EmperorStaging"
+    }
+  },
+  "entitlementName": "f2913a668c4a4ecc82189a68de3ed362",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "05f2083d1487490f8e00fc576ee73a12",
+      "appId": "EmperorStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "eulaIds": [
+    "[egstore && rawfury]"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

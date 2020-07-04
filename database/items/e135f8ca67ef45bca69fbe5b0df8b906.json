@@ -1,0 +1,35 @@
+{
+  "id": "e135f8ca67ef45bca69fbe5b0df8b906",
+  "title": "DLC72 Audience",
+  "description": "DLC72 (Horzine Supply Weapon Crate | Series #7 Silver Bundle Pack)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T18:40:21.460Z",
+  "lastModifiedDate": "2019-11-27T20:13:09.227Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e135f8ca67ef45bca69fbe5b0df8b906",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "8458b1400ab646078ba55fa55722d5b8",
+  "title": "SmokeTest",
+  "description": "SmokeTest",
+  "longDescription": "SmokeTest",
+  "technicalDetails": "technical information",
+  "keyImages": [
+    {
+      "type": "image name",
+      "url": "url",
+      "md5": "ed076287532e86365e841e92bfc50d8c",
+      "width": 100,
+      "height": 120,
+      "size": 12000,
+      "uploadedDate": "2020-05-20T06:52:00.931Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "DELETED",
+  "creationDate": "2020-05-20T06:52:00.987Z",
+  "lastModifiedDate": "2020-05-20T06:52:09.225Z",
+  "entitlementName": "8458b1400ab646078ba55fa55722d5b8",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "161cef63e50f4fe596255442d690df50",
+      "appId": "testappid"
+    }
+  ],
+  "developer": "landy tian",
+  "developerId": "9cdc32abc22b45c7ab6a291d60d51863",
+  "endOfSupport": false,
+  "unsearchable": false
+}

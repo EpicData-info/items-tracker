@@ -1,0 +1,97 @@
+{
+  "id": "5cd953a3341b43b791fcee6739b7e665",
+  "title": "Hades Tech Beta",
+  "description": "Hades Tech Beta",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/min/item/image (1)-5000x2200-be8b98d686ce8b06d94cb4d26134f03c.png",
+      "md5": "be8b98d686ce8b06d94cb4d26134f03c",
+      "width": 5000,
+      "height": 2200,
+      "size": 405668,
+      "uploadedDate": "2020-06-10T15:29:00.287Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/min/item/image-1280x1420-8d1e567ab349f228bdcc94766c89244e.png",
+      "md5": "8d1e567ab349f228bdcc94766c89244e",
+      "width": 1280,
+      "height": 1420,
+      "size": 2203939,
+      "uploadedDate": "2020-06-10T15:29:34.050Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/min/item/Hades_PrimaryPromo_Nighty_02-2580x1450-bae136fc72a0a757905b58b19bce23a6-2580x1450-bae136fc72a0a757905b58b19bce23a6-2580x1450-bae136fc72a0a757905b58b19bce23a6.jpg",
+      "md5": "bae136fc72a0a757905b58b19bce23a6",
+      "width": 2580,
+      "height": 1450,
+      "size": 1550182,
+      "uploadedDate": "2020-06-10T15:30:23.341Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "min",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-09T19:17:19.629Z",
+  "lastModifiedDate": "2020-06-23T17:42:45.297Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "min"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.whitelist": {
+      "type": "STRING",
+      "value": "US"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{\"Requirements\": {\"DirectX\": {\"FeatureLevels\": \"D3D_FEATURE_LEVEL_11_0\"}}}"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HadesTechBeta"
+    }
+  },
+  "entitlementName": "5cd953a3341b43b791fcee6739b7e665",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e4bcca5128c348a1bc5f79fe87e5828d",
+      "appId": "3b586acd98e146ee9a92549c158d870f",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Win32"
+      ],
+      "dateAdded": "2018-11-28T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Supergiant Games LLC",
+  "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

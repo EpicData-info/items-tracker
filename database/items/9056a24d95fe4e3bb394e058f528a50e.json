@@ -1,0 +1,25 @@
+{
+  "id": "9056a24d95fe4e3bb394e058f528a50e",
+  "title": "Default Vibe",
+  "description": "Lazerism Remix by Major Lazer.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-23T14:41:07.804Z",
+  "lastModifiedDate": "2019-08-23T14:41:07.804Z",
+  "entitlementName": "AthenaMusicPack:musicpack_026_lasagnachill",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

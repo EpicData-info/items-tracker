@@ -1,0 +1,41 @@
+{
+  "id": "76725692f54f42ed91b24a042ab536c2",
+  "title": "A_PreAlpha",
+  "description": "Learn About the Pre-Alpha Season",
+  "longDescription": "",
+  "technicalDetails": "https://www.unrealtournament.com/",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/PASeason_Launcher-400x120-d7663cb46d1e43b45f3c398b57bd80e6.png",
+      "md5": "d7663cb46d1e43b45f3c398b57bd80e6",
+      "width": 400,
+      "height": 120,
+      "size": 21039,
+      "uploadedDate": "2015-10-22T19:05:24.688Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2014-11-07T19:32:32.882Z",
+  "lastModifiedDate": "2017-02-23T21:58:47.534Z",
+  "entitlementName": "UnrealTournament",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

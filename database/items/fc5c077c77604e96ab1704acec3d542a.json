@@ -1,0 +1,46 @@
+{
+  "id": "fc5c077c77604e96ab1704acec3d542a",
+  "title": "GruntGeneralAudience",
+  "description": "GruntGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/5b325322a4c04b9e9e780b9a1e9b2d70/item/ESRB_Aztez-842x404-de7f7ed594532196bec824695639a921.jpg",
+      "md5": "de7f7ed594532196bec824695639a921",
+      "width": 842,
+      "height": 404,
+      "size": 55113,
+      "uploadedDate": "2020-02-05T17:37:19.323Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5b325322a4c04b9e9e780b9a1e9b2d70",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-05T20:51:43.684Z",
+  "lastModifiedDate": "2020-02-06T15:12:04.166Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "fc5c077c77604e96ab1704acec3d542a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Team Colorblind",
+  "developerId": "o-ndzqj36dmhqmfklcq44yywpgfnbmbd",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "selfRefundable": true,
+  "unsearchable": false
+}

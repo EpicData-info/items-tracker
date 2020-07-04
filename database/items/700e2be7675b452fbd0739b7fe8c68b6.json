@@ -1,0 +1,23 @@
+{
+  "id": "700e2be7675b452fbd0739b7fe8c68b6",
+  "title": "Update",
+  "description": "Updating the item",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-20T17:32:06.618Z",
+  "lastModifiedDate": "2014-10-20T17:38:25.842Z",
+  "entitlementName": "Something",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "SUBSCRIPTION",
+  "endOfSupport": false,
+  "unsearchable": false
+}

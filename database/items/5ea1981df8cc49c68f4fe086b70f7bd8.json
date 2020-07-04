@@ -1,0 +1,41 @@
+{
+  "id": "5ea1981df8cc49c68f4fe086b70f7bd8",
+  "title": "Neon Cosmetic Pack Audience",
+  "description": "Neon Cosmetic Pack Audience",
+  "longDescription": "Content Pack 2",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/catnip/item/ESRB_M_Borderlands3-842x485-275d74057f4825477e1f7f17f8cf0abc.jpg",
+      "md5": "275d74057f4825477e1f7f17f8cf0abc",
+      "width": 842,
+      "height": 485,
+      "size": 134137,
+      "uploadedDate": "2020-01-07T22:54:48.310Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "catnip",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-02T22:29:46.762Z",
+  "lastModifiedDate": "2020-06-15T20:52:55.764Z",
+  "entitlementName": "5ea1981df8cc49c68f4fe086b70f7bd8",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

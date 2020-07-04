@@ -1,0 +1,34 @@
+{
+  "id": "e3dd074a3915451da237e23b7c63e5a6",
+  "title": "DLC 2 Audience",
+  "description": "Sgt Joe's Support Bundle Cosmetic DLC Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-21T22:23:08.869Z",
+  "lastModifiedDate": "2020-03-03T19:03:50.849Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e3dd074a3915451da237e23b7c63e5a6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

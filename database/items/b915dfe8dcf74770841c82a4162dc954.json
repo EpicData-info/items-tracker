@@ -1,0 +1,112 @@
+{
+  "id": "b915dfe8dcf74770841c82a4162dc954",
+  "title": "Satisfactory Early Access",
+  "description": "Satisfactory Early Access",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/crab/item/Satisfactory_GameIcon-400x400-c26af13d061267aac29fe1284093fa6c.png",
+      "md5": "c26af13d061267aac29fe1284093fa6c",
+      "width": 400,
+      "height": 400,
+      "size": 26081,
+      "uploadedDate": "2019-03-06T16:49:58.869Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/crab/item/1920x1080_blog_post_logo-1920x1080-76293790eea7cac48894e08d72ae6ee5.png",
+      "md5": "76293790eea7cac48894e08d72ae6ee5",
+      "width": 1920,
+      "height": 1080,
+      "size": 2878396,
+      "uploadedDate": "2020-03-12T13:42:39.496Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/crab/item/portrait_image_SF3-860x1148-2efdc29df66376ec40c7b5020bf3e3ce.jpg",
+      "md5": "2efdc29df66376ec40c7b5020bf3e3ce",
+      "width": 860,
+      "height": 1148,
+      "size": 390962,
+      "uploadedDate": "2020-03-12T13:43:22.400Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "crab",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-26T15:59:56.670Z",
+  "lastModifiedDate": "2020-03-12T13:43:29.358Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "crab"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/FactoryGame/Saved/SaveGames/{EpicID}/"
+    },
+    "DisablePresenceWhileRunning": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1553011200"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SatisfactoryEarlyAccess"
+    }
+  },
+  "entitlementName": "b915dfe8dcf74770841c82a4162dc954",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ad62bf526c264f9c9bfffdaf2dfa60ff",
+      "appId": "CrabEA",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-26T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Coffee Stain Studios",
+  "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": "818d50d8bef5490495f980dc1ca40374",
+  "title": "Dark Reflections Pack",
+  "description": "Dark Reflections Pack",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-05T21:37:46.964Z",
+  "lastModifiedDate": "2019-09-11T15:18:47.206Z",
+  "entitlementName": "DarkReflect_legends",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2019-08-05T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

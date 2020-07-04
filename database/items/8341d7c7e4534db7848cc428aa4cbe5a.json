@@ -1,0 +1,30 @@
+{
+  "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+  "title": "Atmosphere Dummy",
+  "description": "Atmosphere Dummy",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d5241c76f178492ea1540fce45616757",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-05T15:39:39.301Z",
+  "lastModifiedDate": "2020-06-11T14:24:07.212Z",
+  "customAttributes": {},
+  "entitlementName": "8341d7c7e4534db7848cc428aa4cbe5a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

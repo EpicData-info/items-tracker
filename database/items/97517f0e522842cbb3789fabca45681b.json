@@ -1,0 +1,33 @@
+{
+  "id": "97517f0e522842cbb3789fabca45681b",
+  "title": "EscolarSoundTrackGeneralAudience",
+  "description": "EscolarSoundTrackGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "f5d58106a0e143758ddf2bb30dd72ae2",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-10T20:01:09.744Z",
+  "lastModifiedDate": "2020-04-23T15:00:32.049Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "97517f0e522842cbb3789fabca45681b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Santa Ragione",
+  "developerId": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "122fa4034457419d943afe298b7a0d0d",
+  "title": "Junit Smoke Test FulfillOfferForGift",
+  "description": "JunitTestFulfillOfferForGift",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2016-08-04T08:39:23.843Z",
+  "lastModifiedDate": "2016-08-04T08:39:23.843Z",
+  "entitlementName": "122fa4034457419d943afe298b7a0d0d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "harinirao testtttttt",
+  "developerId": "o-48fdeb720e4875863337a6f5bb8c48",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,70 @@
+{
+  "id": "4eb2698c843544fa9a61f0960bb39442",
+  "title": "Before We Leave Alpha",
+  "description": "Before We Leave Alpha",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/61449320f87347a8bf02159cbf8adb7f/item/EGS_BalancingMonkeyGames_BeforeWeLeave_S4-510x680-e99086b2cd816c9110f0c43843e3f515.jpg",
+      "md5": "e99086b2cd816c9110f0c43843e3f515",
+      "width": 510,
+      "height": 680,
+      "size": 59224,
+      "uploadedDate": "2019-12-16T03:01:42.518Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/61449320f87347a8bf02159cbf8adb7f/item/EGS_BalancingMonkeyGames_BeforeWeLeave_S3-1360x766-d5faf87922fb2c74689ef73b52b10df1.jpg",
+      "md5": "d5faf87922fb2c74689ef73b52b10df1",
+      "width": 1360,
+      "height": 766,
+      "size": 158485,
+      "uploadedDate": "2019-12-16T03:01:53.815Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "61449320f87347a8bf02159cbf8adb7f",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-04T16:50:04.415Z",
+  "lastModifiedDate": "2019-12-16T03:02:41.317Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BeforeWeLeaveAlpha"
+    }
+  },
+  "entitlementName": "4eb2698c843544fa9a61f0960bb39442",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "da4c11a1b493409dba3f78d00c44d84c",
+      "appId": "SalmonAlpha",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-12-04T00:00:00.000Z"
+    }
+  ],
+  "developer": "Balancing Monkey Games",
+  "developerId": "o-4tx8h9e6ugw2546feb637euqzbmkpa",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

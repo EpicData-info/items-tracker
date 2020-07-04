@@ -1,0 +1,52 @@
+{
+  "id": "84d82c35645e49d2877c345bc9ed5c2c",
+  "title": "Cosmos Playtest 1",
+  "description": "Cosmos Playtest 1",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cosmos",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-26T01:56:43.470Z",
+  "lastModifiedDate": "2020-05-18T17:07:53.132Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RuneII_Playtest1"
+    }
+  },
+  "entitlementName": "84d82c35645e49d2877c345bc9ed5c2c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "83628262a23a4b64b77603c3ed998eba",
+      "appId": "CosmosPlaytest1",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-07-26T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ragnarok Game, LLC",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

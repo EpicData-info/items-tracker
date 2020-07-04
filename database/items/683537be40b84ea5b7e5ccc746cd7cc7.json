@@ -1,0 +1,35 @@
+{
+  "id": "683537be40b84ea5b7e5ccc746cd7cc7",
+  "title": "DaffodilDevAudience",
+  "description": "DaffodilDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "daffodil",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-22T22:57:34.049Z",
+  "lastModifiedDate": "2019-06-20T14:59:01.889Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "683537be40b84ea5b7e5ccc746cd7cc7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "AOne Games",
+  "developerId": "o-ee2mpv5fbfg9j22arjrh7vjmypew5q",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

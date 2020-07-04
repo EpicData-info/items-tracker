@@ -1,0 +1,25 @@
+{
+  "id": "365820f8db864960b3e5c03bc9138916",
+  "title": "Lazer Axe",
+  "description": "Music is the weapon.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-23T14:36:13.883Z",
+  "lastModifiedDate": "2019-08-23T14:36:13.883Z",
+  "entitlementName": "AthenaPickaxe:pickaxe_id_235_lasagna",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

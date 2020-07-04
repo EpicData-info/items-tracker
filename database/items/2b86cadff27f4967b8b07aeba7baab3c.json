@@ -1,0 +1,63 @@
+{
+  "id": "2b86cadff27f4967b8b07aeba7baab3c",
+  "title": "BlobfishStaging",
+  "description": "BlobfishStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5c0d568c71174cff8026db2606771d96",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-03T17:47:19.854Z",
+  "lastModifiedDate": "2020-01-13T14:44:19.330Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Library/Application Support/IntoTheBreach/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/Into The Breach/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "settings.lua,.log,.txt"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BlobfishStaging"
+    }
+  },
+  "entitlementName": "2b86cadff27f4967b8b07aeba7baab3c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6f3bba9abb684909ab843fcd3dddcb82",
+      "appId": "BlobfishStaging",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-01-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "Subset Games",
+  "developerId": "o-y2xjbnp5qy433qzldqbvncb3n8z3l6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

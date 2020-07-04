@@ -1,0 +1,66 @@
+{
+  "id": "d7933b221e924059a1a9454488848d15",
+  "title": "WombatDLC  Upgrade Audience",
+  "description": "WombatDLC  Upgrade Audience",
+  "longDescription": "WombatDLC  Upgrade Audience",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/wombat/item/WWZ-GOTY-Edition_EpicGames_Desktop-Vertical-510x680-updatev1-510x680-ff7696791c5ccdb6edd09d78159289c2.jpg",
+      "md5": "ff7696791c5ccdb6edd09d78159289c2",
+      "width": 510,
+      "height": 680,
+      "size": 69104,
+      "uploadedDate": "2020-05-04T14:26:33.340Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wombat/item/WWZ-GOTY-Edition_EpicGames_Desktop-Horizontal-1360x766-updatev1-1360x766-3addca3f7160d1cc98bcd9abe2221e6d.jpg",
+      "md5": "3addca3f7160d1cc98bcd9abe2221e6d",
+      "width": 1360,
+      "height": 766,
+      "size": 617188,
+      "uploadedDate": "2020-05-04T14:26:58.377Z"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/wombat/item/Rating_WWZ-842x404-816f6c7f1140d5d08750de13e3d81d9c-842x404-816f6c7f1140d5d08750de13e3d81d9c.jpg",
+      "md5": "816f6c7f1140d5d08750de13e3d81d9c",
+      "width": 842,
+      "height": 404,
+      "size": 80166,
+      "uploadedDate": "2020-05-04T14:28:32.198Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "wombat",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-24T14:59:28.124Z",
+  "lastModifiedDate": "2020-05-05T10:00:00.222Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d7933b221e924059a1a9454488848d15",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

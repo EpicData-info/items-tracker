@@ -1,0 +1,52 @@
+{
+  "id": "bb35ecedfbdc4f5fa2f10d2c6f66d17f",
+  "title": "Venture",
+  "description": "Venture",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T17:23:16.547Z",
+  "lastModifiedDate": "2020-06-23T14:37:23.408Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Venture"
+    }
+  },
+  "entitlementName": "bb35ecedfbdc4f5fa2f10d2c6f66d17f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e5bea0f683f345918aeb03a62970e691",
+      "appId": "32cc4dca28054bd68e3caf47c5442403",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

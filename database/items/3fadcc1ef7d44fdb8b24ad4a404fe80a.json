@@ -1,0 +1,34 @@
+{
+  "id": "3fadcc1ef7d44fdb8b24ad4a404fe80a",
+  "title": "DLC7 - PHASE 2 Explore and Expand Audience",
+  "description": "DLC7 - PHASE 2 Explore and Expand Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-09T22:28:20.317Z",
+  "lastModifiedDate": "2020-04-27T21:59:40.998Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3fadcc1ef7d44fdb8b24ad4a404fe80a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

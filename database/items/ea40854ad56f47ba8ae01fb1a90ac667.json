@@ -1,0 +1,68 @@
+{
+  "id": "ea40854ad56f47ba8ae01fb1a90ac667",
+  "title": "SnapdragonInternal",
+  "description": "SnapdragonInternal",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/Game-Logo_Metro-Exodus_white-1920x840-fb7a33658fdfb167359dd9aa87a32f48.png",
+      "md5": "fb7a33658fdfb167359dd9aa87a32f48",
+      "width": 1920,
+      "height": 840,
+      "size": 166960,
+      "uploadedDate": "2019-01-30T15:55:59.330Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/ME_box-2580x1450-de2ad75a8e828b1b8f7820a4ddb18219.jpg",
+      "md5": "de2ad75a8e828b1b8f7820a4ddb18219",
+      "width": 2580,
+      "height": 1450,
+      "size": 399290,
+      "uploadedDate": "2019-01-30T15:56:06.648Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "snapdragon",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-30T15:56:27.125Z",
+  "lastModifiedDate": "2019-08-23T20:22:31.212Z",
+  "customAttributes": {
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SnapdragonInternal"
+    }
+  },
+  "entitlementName": "ea40854ad56f47ba8ae01fb1a90ac667",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "93891153fa8e425fbe5a349a515fa8f8",
+      "appId": "SnapdragonInternal",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-01-30T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

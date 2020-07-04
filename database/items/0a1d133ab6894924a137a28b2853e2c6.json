@@ -1,0 +1,89 @@
+{
+  "id": "0a1d133ab6894924a137a28b2853e2c6",
+  "title": "Foregone",
+  "description": "Foregone",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/item/EGS_BigBlueBubble_Foregone_S3-1360x766-98788636a8c0f9a6a50534d50c420683.jpg",
+      "md5": "98788636a8c0f9a6a50534d50c420683",
+      "width": 1360,
+      "height": 766,
+      "size": 501303,
+      "uploadedDate": "2019-12-11T18:31:49.624Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/item/EGS_BigBlueBubble_Foregone_S4-510x680-d2ea24d44a409f9f1cba0db7b4d6d930.jpg",
+      "md5": "d2ea24d44a409f9f1cba0db7b4d6d930",
+      "width": 510,
+      "height": 680,
+      "size": 345019,
+      "uploadedDate": "2019-12-11T18:32:00.992Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a40f6c03e1374358809ec38c999059c0",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-22T20:46:59.260Z",
+  "lastModifiedDate": "2020-06-09T20:08:51.328Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "a40f6c03e1374358809ec38c999059c0"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Foregone"
+    }
+  },
+  "entitlementName": "0a1d133ab6894924a137a28b2853e2c6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "171211de7b484b3d865ed3d14d753047",
+      "appId": "Dab",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Big Blue Bubble, Inc.",
+  "developerId": "o-r7nfesqr4qcafkmfwmp9hpu492f228",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

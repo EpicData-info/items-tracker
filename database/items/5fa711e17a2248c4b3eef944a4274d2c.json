@@ -1,0 +1,35 @@
+{
+  "id": "5fa711e17a2248c4b3eef944a4274d2c",
+  "title": "AstrapiaGeneralAudience",
+  "description": "AstrapiaGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "4fece418b513465d9416a700db869585",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-03T21:16:36.844Z",
+  "lastModifiedDate": "2020-01-06T19:17:40.080Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "5fa711e17a2248c4b3eef944a4274d2c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

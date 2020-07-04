@@ -1,0 +1,71 @@
+{
+  "id": "6f8da58694dc4624876024ccc91b1c54",
+  "title": "Moscow",
+  "description": "Moscow",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-16T17:49:58.945Z",
+  "lastModifiedDate": "2020-06-30T13:00:35.391Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "6af58339c2424644988e0fb83dfd9bd5"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Moscow"
+    }
+  },
+  "entitlementName": "6f8da58694dc4624876024ccc91b1c54",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "47d8cb3b3ce4457bab8e95897be9426f",
+      "appId": "2939f4752d4b4ace95a8e1b16e79d3f5",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-19T20:58:32.210Z"
+    }
+  ],
+  "developer": "NCSoft",
+  "developerId": "o-k8ltvz7rz3r7b29xdtafqvdkhnj2ux",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

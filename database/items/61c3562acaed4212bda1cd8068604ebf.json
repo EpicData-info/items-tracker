@@ -1,0 +1,36 @@
+{
+  "id": "61c3562acaed4212bda1cd8068604ebf",
+  "title": "Dragon Rider Pack Marker",
+  "description": "Dragon Rider Pack Marker",
+  "longDescription": "Dragon Rider Pack Marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-27T01:41:10.761Z",
+  "lastModifiedDate": "2020-05-27T01:41:10.761Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "61c3562acaed4212bda1cd8068604ebf",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

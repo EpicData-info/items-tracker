@@ -1,0 +1,24 @@
+{
+  "id": "5bccc6db87d244e9b328c40da0f8b938",
+  "title": "Strong Guard",
+  "description": "Protect the blind side.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-11-01T20:38:55.673Z",
+  "lastModifiedDate": "2018-11-05T19:58:27.728Z",
+  "entitlementName": "AthenaCharacter:cid_239_athena_commando_m_footballduded",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

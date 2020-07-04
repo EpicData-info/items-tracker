@@ -1,0 +1,46 @@
+{
+  "id": "37679c2fc06542d7bdf12f71a26e5876",
+  "title": "DLC02 Pack Audience",
+  "description": "DLC02 Pack Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Rating-601x351-a9daf67157ca27a17a95af8558b212ff.jpg",
+      "md5": "a9daf67157ca27a17a95af8558b212ff",
+      "width": 601,
+      "height": 351,
+      "size": 54004,
+      "uploadedDate": "2020-06-26T20:39:27.346Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-09T00:55:51.965Z",
+  "lastModifiedDate": "2020-06-30T15:00:32.083Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "37679c2fc06542d7bdf12f71a26e5876",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "unsearchable": false
+}

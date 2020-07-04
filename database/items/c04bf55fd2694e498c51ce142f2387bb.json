@@ -1,0 +1,52 @@
+{
+  "id": "c04bf55fd2694e498c51ce142f2387bb",
+  "title": "VultureStaging",
+  "description": "VultureStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-14T18:16:34.866Z",
+  "lastModifiedDate": "2020-02-26T16:09:04.554Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "VultureStaging"
+    }
+  },
+  "entitlementName": "c04bf55fd2694e498c51ce142f2387bb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b0fd9b29473548dab5cc400635fed0d4",
+      "appId": "VultureStaging",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-06-14T00:00:00.000Z"
+    }
+  ],
+  "developer": "Abrakam",
+  "developerId": "o-7e471071ca794f1abc81c7430b7e8f",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

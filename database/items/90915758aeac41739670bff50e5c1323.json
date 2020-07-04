@@ -1,0 +1,124 @@
+{
+  "id": "90915758aeac41739670bff50e5c1323",
+  "title": "Assassin's Creed III Remastered",
+  "description": "Assassin's Creed III Remastered",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/anise/item/AC3R_Epic_Store_Primary_Promo_2580x1450-2580x1450-590d41fd0a42cd431142275088642e0e.jpg",
+      "md5": "590d41fd0a42cd431142275088642e0e",
+      "width": 2580,
+      "height": 1450,
+      "size": 366330,
+      "uploadedDate": "2019-08-26T14:21:15.461Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/anise/item/Helix_AC3r_Logo_Vertical_White_NoCrest-2500x781-118d92fac38c11d52d6fb1cf159022d6.png",
+      "md5": "118d92fac38c11d52d6fb1cf159022d6",
+      "width": 2500,
+      "height": 781,
+      "size": 427730,
+      "uploadedDate": "2019-08-26T14:21:28.589Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/anise/item/AC3R_Epic_Store_Portrait_Promo_1280x1420-1280x1420-ac0b4f85c023a2bacb1ebf0510a8c1d3.jpg",
+      "md5": "ac0b4f85c023a2bacb1ebf0510a8c1d3",
+      "width": 1280,
+      "height": 1420,
+      "size": 252693,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "anise",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-02T19:23:29.881Z",
+  "lastModifiedDate": "2020-02-05T18:05:59.442Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "d8f33af32e2249478561b193790e170d"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch Assassin's Creed® Liberation Remastered"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AssassinsCreed3"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "anise"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-ExeId 1"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "90915758aeac41739670bff50e5c1323",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f406c7e357fd4d7e9bdd9a3a8c7cac0b",
+      "appId": "Anise",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-02T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

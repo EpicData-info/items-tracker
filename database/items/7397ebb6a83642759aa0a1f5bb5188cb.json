@@ -1,0 +1,24 @@
+{
+  "id": "7397ebb6a83642759aa0a1f5bb5188cb",
+  "title": "CrabDevAudience",
+  "description": "CrabDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "crab",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-12T16:44:11.961Z",
+  "lastModifiedDate": "2019-05-14T17:02:13.352Z",
+  "entitlementName": "7397ebb6a83642759aa0a1f5bb5188cb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Coffee Stain Studios",
+  "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

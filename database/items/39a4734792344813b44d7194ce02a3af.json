@@ -1,0 +1,28 @@
+{
+  "id": "39a4734792344813b44d7194ce02a3af",
+  "title": "Columbus",
+  "description": "Columbus",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-17T18:44:51.721Z",
+  "lastModifiedDate": "2019-11-15T05:01:11.038Z",
+  "entitlementName": "Columbus",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementEndDate": "2020-12-31T00:00:00.000Z",
+  "entitlementStartDate": "2019-10-17T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "fd111211ad544e8ea35d9b40b6b62cd2",
+  "title": "Epic Games Full Time Employee",
+  "description": "Epic Games Full Time Employee",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-09T15:53:56.601Z",
+  "lastModifiedDate": "2019-05-09T15:54:26.445Z",
+  "entitlementName": "Epic_Employee_FT",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

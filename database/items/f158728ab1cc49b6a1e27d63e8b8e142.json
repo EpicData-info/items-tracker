@@ -1,0 +1,57 @@
+{
+  "id": "f158728ab1cc49b6a1e27d63e8b8e142",
+  "title": "FreesiaStaging",
+  "description": "FreesiaStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4c00c7506c4b4fa695f749bd6bb07ff6",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-19T13:38:23.177Z",
+  "lastModifiedDate": "2020-03-19T13:43:39.444Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "save/,cfg/,stats.vdf,stats_sv.vdf,language.txt"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FreesiaStaging"
+    }
+  },
+  "entitlementName": "f158728ab1cc49b6a1e27d63e8b8e142",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3ef8a4070f4147e6ac2860379adef80c",
+      "appId": "FreesiaStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Galactic Cafe",
+  "developerId": "o-yrlbfhj5bvd3fce3zfcq47jev35gx4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

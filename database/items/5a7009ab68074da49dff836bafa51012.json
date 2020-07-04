@@ -1,0 +1,51 @@
+{
+  "id": "5a7009ab68074da49dff836bafa51012",
+  "title": "LarkspurStaging",
+  "description": "LarkspurStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "larkspur",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-10T17:13:15.931Z",
+  "lastModifiedDate": "2019-05-06T16:57:14.481Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LarkspurStaging"
+    }
+  },
+  "entitlementName": "5a7009ab68074da49dff836bafa51012",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "706fd991815a45a683677c73d495484b",
+      "appId": "LarkspurStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-10T17:12:38.579Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

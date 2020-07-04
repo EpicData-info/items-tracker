@@ -1,0 +1,30 @@
+{
+  "id": "f24e7af8b06a4e6a8c03f23fccdc7bfd",
+  "title": "Ocean Playtest App Bundle",
+  "description": "Ocean Playtest App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-20T03:44:04.050Z",
+  "lastModifiedDate": "2020-04-02T15:33:52.428Z",
+  "customAttributes": {
+    "ActionSetName": {
+      "type": "STRING",
+      "value": "Ocean-Playtest-App-Bundle"
+    }
+  },
+  "entitlementName": "f24e7af8b06a4e6a8c03f23fccdc7bfd",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "fa4adb1e772f43abaf5dd21342ec1f13",
+  "title": "Duckbill DLC1 Audience",
+  "description": "Duckbill DLC1 Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "fa11862b1cfd42e3b3c6395af46efe3e",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-03T03:54:12.920Z",
+  "lastModifiedDate": "2020-01-07T18:08:39.937Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "fa4adb1e772f43abaf5dd21342ec1f13",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

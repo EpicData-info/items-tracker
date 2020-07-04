@@ -1,0 +1,24 @@
+{
+  "id": "4e60304a55cf4d02b0e4912af5738ea5",
+  "title": "Juke",
+  "description": "Leave them in your dust.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-11-01T20:41:44.449Z",
+  "lastModifiedDate": "2018-11-05T19:58:27.728Z",
+  "entitlementName": "AthenaCharacter:cid_238_athena_commando_f_footballgirld",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

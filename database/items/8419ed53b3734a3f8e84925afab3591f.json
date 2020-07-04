@@ -1,0 +1,58 @@
+{
+  "id": "8419ed53b3734a3f8e84925afab3591f",
+  "title": "Gulper Season Pass",
+  "description": "Gulper Season Pass",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-24T19:44:25.197Z",
+  "lastModifiedDate": "2020-02-19T15:39:46.930Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "5911ba0c4b9d4a258df2130d56e18573"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "de262830d13a41bab393507372d7f0fe"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "8419ed53b3734a3f8e84925afab3591f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b2b21b19b54345958bd0d374264ab5ec",
+      "appId": "GulperSeasonPass",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-01-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

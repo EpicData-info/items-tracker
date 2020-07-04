@@ -1,0 +1,46 @@
+{
+  "id": "9b6991eafab14d20bea2b3faf91cbd11",
+  "title": "MoscowGeneralAudience",
+  "description": "MoscowGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/item/RPending-388x190-2b6aa92035599db2ca1517a036cb974a.png",
+      "md5": "2b6aa92035599db2ca1517a036cb974a",
+      "width": 388,
+      "height": 190,
+      "size": 4433,
+      "uploadedDate": "2020-06-30T12:54:50.128Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-16T17:49:58.821Z",
+  "lastModifiedDate": "2020-06-30T13:00:35.391Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9b6991eafab14d20bea2b3faf91cbd11",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "NCSoft",
+  "developerId": "o-k8ltvz7rz3r7b29xdtafqvdkhnj2ux",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "RATING_PENDING",
+  "ageGatings": {},
+  "unsearchable": false
+}

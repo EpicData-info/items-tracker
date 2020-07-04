@@ -1,0 +1,25 @@
+{
+  "id": "d4c1b61b19854f279b7572e624fb02a5",
+  "title": "Marvel Outfit P#1",
+  "description": "Marvel Outfit P#1",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-25T14:49:02.316Z",
+  "lastModifiedDate": "2019-04-25T14:49:02.316Z",
+  "entitlementName": "AthenaPickaxe:pickaxe_id_202_ashtonboardwalk",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "09282f3b0e744805a74fac140d05274e",
+  "title": "TestSDKDLCAudience",
+  "description": "TestSDKDLCAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "b761d934acc84232bd91cd5358e030f9",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-17T21:44:08.479Z",
+  "lastModifiedDate": "2019-08-22T18:53:19.240Z",
+  "entitlementName": "09282f3b0e744805a74fac140d05274e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": "0c2bab29e6804e31a6467ef59d298eba",
+  "title": "Glider m",
+  "description": "Glider m",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-23T21:37:04.358Z",
+  "lastModifiedDate": "2019-07-23T21:37:04.358Z",
+  "entitlementName": "AthenaGlider:glider_id_118_squishy",
+  "entitlementType": "INGAMEITEM",
+  "entitlementStartDate": "2019-07-23T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

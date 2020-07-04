@@ -1,0 +1,78 @@
+{
+  "id": "15ab22712f324304a97ebcb201cb1afa",
+  "title": "Shakedown Hawaii Pre-Purchase",
+  "description": "Shakedown Hawaii Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/plumeria/item/ShakedownHawaii-Logo-1459x600-3d7a42af873503ae6c55e2083c1e5537.png",
+      "md5": "3d7a42af873503ae6c55e2083c1e5537",
+      "width": 1459,
+      "height": 600,
+      "size": 104786,
+      "uploadedDate": "2019-05-06T19:50:14.662Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/plumeria/item/ShakedownHawaii_Promo-2580x1450-5b87fc84c5720ea869db7e18dd746a3b.jpg",
+      "md5": "5b87fc84c5720ea869db7e18dd746a3b",
+      "width": 2580,
+      "height": 1450,
+      "size": 312038,
+      "uploadedDate": "2019-05-06T19:50:22.735Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "dummy"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "plumeria",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-06T19:53:57.120Z",
+  "lastModifiedDate": "2019-05-08T08:55:50.382Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1557244800"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ShakedownPreview"
+    }
+  },
+  "entitlementName": "15ab22712f324304a97ebcb201cb1afa",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fbb3a8a6bbd54612925dacf45092d981",
+      "appId": "PlumeriaDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Win32"
+      ],
+      "dateAdded": "2019-05-06T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Vblank Entertainment",
+  "developerId": "o-xyhkq3r6skdr6tbhalgcbp3264asl3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

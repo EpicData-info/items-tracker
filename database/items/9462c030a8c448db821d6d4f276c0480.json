@@ -1,0 +1,33 @@
+{
+  "id": "9462c030a8c448db821d6d4f276c0480",
+  "title": "DevBurbotAudience",
+  "description": "DevBurbotAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "58c35a214bbb4656a536126ad1552d42",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-12T19:35:15.725Z",
+  "lastModifiedDate": "2020-04-30T13:58:28.192Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9462c030a8c448db821d6d4f276c0480",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tencent Technology Company Limited",
+  "developerId": "o-knwuvnlwzekqppkq2rj2snvys69l5g",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

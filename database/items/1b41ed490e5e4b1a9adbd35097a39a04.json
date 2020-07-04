@@ -1,0 +1,63 @@
+{
+  "id": "1b41ed490e5e4b1a9adbd35097a39a04",
+  "title": "BlowfishStaging",
+  "description": "BlowfishStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f7dc1618d0bd4810a61f50d44333900e",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-03T17:46:26.585Z",
+  "lastModifiedDate": "2020-01-10T21:40:43.454Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/FasterThanLight/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/FasterThanLight/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "settings.ini,FTL.log"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BlowfishStaging"
+    }
+  },
+  "entitlementName": "1b41ed490e5e4b1a9adbd35097a39a04",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5975c739c22a43cea022ddc35d9a01e6",
+      "appId": "BlowfishStaging",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-01-10T21:40:40.849Z"
+    }
+  ],
+  "developer": "Subset Games",
+  "developerId": "o-y2xjbnp5qy433qzldqbvncb3n8z3l6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

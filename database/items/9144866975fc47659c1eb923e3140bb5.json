@@ -1,0 +1,26 @@
+{
+  "id": "9144866975fc47659c1eb923e3140bb5",
+  "title": "1000 Fortnite Points (POSA Switch)",
+  "description": "1000 Fortnite Points (POSA Switch)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-12T21:13:09.133Z",
+  "lastModifiedDate": "2019-10-21T16:23:17.496Z",
+  "entitlementName": "FN_1000_POSA_Switch",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2019-08-12T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

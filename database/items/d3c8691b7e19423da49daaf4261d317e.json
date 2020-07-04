@@ -1,0 +1,29 @@
+{
+  "id": "d3c8691b7e19423da49daaf4261d317e",
+  "title": "SaffronUltimatePack_redeemable",
+  "description": "SaffronUltimatePack_redeemable",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-09T17:46:08.019Z",
+  "lastModifiedDate": "2019-05-09T19:00:20.254Z",
+  "entitlementName": "d3c8691b7e19423da49daaf4261d317e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

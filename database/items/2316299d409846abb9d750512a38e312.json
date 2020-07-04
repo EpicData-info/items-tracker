@@ -1,0 +1,61 @@
+{
+  "id": "2316299d409846abb9d750512a38e312",
+  "title": "FoxgloveStaging",
+  "description": "FoxgloveStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/foxglove/item/20190119_SN_BZ_Logo_Horizontal-2767x838-3a270bbd782f1b867bd43bc25905cd73.png",
+      "md5": "3a270bbd782f1b867bd43bc25905cd73",
+      "width": 2767,
+      "height": 838,
+      "size": 515171,
+      "uploadedDate": "2019-01-24T20:12:41.231Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/foxglove/item/SNBZ_PDP_EpicStoreBanner-1920x804-691420fdf9f2cf8fa0ea672e0fe96a9f.jpg",
+      "md5": "691420fdf9f2cf8fa0ea672e0fe96a9f",
+      "width": 1920,
+      "height": 804,
+      "size": 171518,
+      "uploadedDate": "2019-01-30T17:41:34.475Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "foxglove",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-24T20:01:09.806Z",
+  "lastModifiedDate": "2019-05-06T16:57:11.374Z",
+  "entitlementName": "FoxgloveStaging",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ab56831757ed4030a459baffae370780",
+      "appId": "FoxgloveStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-01-31T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Unknown Worlds Entertainment",
+  "developerId": "o-g4s9pbd6mu9e8uqn539s3xqk9yex92",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

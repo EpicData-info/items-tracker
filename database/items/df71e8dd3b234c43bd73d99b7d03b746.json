@@ -1,0 +1,36 @@
+{
+  "id": "df71e8dd3b234c43bd73d99b7d03b746",
+  "title": "800 Crystals Audience",
+  "description": "800 Crystals Audience",
+  "longDescription": "800 Crystals Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-17T19:51:15.515Z",
+  "lastModifiedDate": "2020-03-20T14:41:47.162Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "df71e8dd3b234c43bd73d99b7d03b746",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

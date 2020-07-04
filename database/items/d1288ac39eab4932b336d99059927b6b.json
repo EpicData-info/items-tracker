@@ -1,0 +1,36 @@
+{
+  "id": "d1288ac39eab4932b336d99059927b6b",
+  "title": "AlbatrossPromoAudience",
+  "description": "AlbatrossPromoAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "78de1f402ddf486ebcbf9ba3009d6198",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-04T16:15:51.200Z",
+  "lastModifiedDate": "2020-05-04T16:15:51.200Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d1288ac39eab4932b336d99059927b6b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Coffee Stain Studios",
+  "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

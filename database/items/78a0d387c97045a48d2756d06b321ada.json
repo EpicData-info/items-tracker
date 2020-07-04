@@ -1,0 +1,77 @@
+{
+  "id": "78a0d387c97045a48d2756d06b321ada",
+  "title": "Solar Ash Kingdom",
+  "description": "Solar Ash Kingdom",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/fe5a2e3e842a4394938a81f3308df2ed/item/SolarAshKingdomPortraitTemp-260x360-aa2bafd84794601939e96b3eec7fdd05-260x360-aa2bafd84794601939e96b3eec7fdd05.jpeg",
+      "md5": "aa2bafd84794601939e96b3eec7fdd05",
+      "width": 260,
+      "height": 360,
+      "size": 9917,
+      "uploadedDate": "2019-11-20T17:01:25.759Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fe5a2e3e842a4394938a81f3308df2ed",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-06T19:35:47.322Z",
+  "lastModifiedDate": "2019-11-20T17:01:33.382Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "fe5a2e3e842a4394938a81f3308df2ed"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Owl"
+    }
+  },
+  "entitlementName": "78a0d387c97045a48d2756d06b321ada",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9f73e134c86544358447ca35d4d72082",
+      "appId": "Owl"
+    }
+  ],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

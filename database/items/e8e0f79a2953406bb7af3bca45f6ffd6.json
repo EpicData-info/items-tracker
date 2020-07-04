@@ -1,0 +1,74 @@
+{
+  "id": "e8e0f79a2953406bb7af3bca45f6ffd6",
+  "title": "LorikeetSoundStaging",
+  "description": "LorikeetSoundStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/item/ManifoldGarden_S1_PrimaryPromoImage-2560x1440-0f1b461b6649fe9334e6dcae2bff5ee5.jpg",
+      "md5": "0f1b461b6649fe9334e6dcae2bff5ee5",
+      "width": 2560,
+      "height": 1440,
+      "size": 532212,
+      "uploadedDate": "2019-08-28T15:06:25.259Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/item/ManifoldGarden_IC1_GameLogo-2827x200-1f48759d0f4cd703122d0e38be48dce2.png",
+      "md5": "1f48759d0f4cd703122d0e38be48dce2",
+      "width": 2827,
+      "height": 200,
+      "size": 12304,
+      "uploadedDate": "2019-08-28T15:06:42.125Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "015763e579d4479cb1ef7780bf91804f",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-16T15:20:25.655Z",
+  "lastModifiedDate": "2020-03-16T17:18:43.638Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/William Chyr Studio/Manifold Garden/Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LorikeetSoundStaging"
+    }
+  },
+  "entitlementName": "e8e0f79a2953406bb7af3bca45f6ffd6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b52669a46907400e8c2a9c14404c76f8",
+      "appId": "6e64f316f3884b58a36bf6d5452be608",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-07-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "William Chyr Studio",
+  "developerId": "o-9j6lnh9adzvfntd9d8ypjc39wb9d3k",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

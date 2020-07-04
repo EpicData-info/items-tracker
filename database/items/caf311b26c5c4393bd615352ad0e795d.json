@@ -1,0 +1,86 @@
+{
+  "id": "caf311b26c5c4393bd615352ad0e795d",
+  "title": "Satisfactory Test Weekend [Closed]",
+  "description": "Satisfactory Test Weekend [Closed]",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/crab/item/Satisfactory_Logo-6281x1122-33a4e042e6146e480b62bb439cab480d.png",
+      "md5": "33a4e042e6146e480b62bb439cab480d",
+      "width": 6281,
+      "height": 1122,
+      "size": 71574,
+      "uploadedDate": "2019-03-04T23:25:21.296Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/crab/item/Satisfactory_Promo-2580x1450-cfb93b5c4382217400a357bc88d24b72.jpg",
+      "md5": "cfb93b5c4382217400a357bc88d24b72",
+      "width": 2580,
+      "height": 1450,
+      "size": 254741,
+      "uploadedDate": "2019-03-04T23:25:10.013Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "crab",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-26T15:57:31.150Z",
+  "lastModifiedDate": "2019-05-14T17:02:13.352Z",
+  "customAttributes": {
+    "PresenceID": {
+      "type": "STRING",
+      "value": "crab"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "SupportedPlatform": {
+      "type": "STRING",
+      "value": "Windows"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SatisfactoryTestWeekend"
+    }
+  },
+  "entitlementName": "caf311b26c5c4393bd615352ad0e795d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3badccc615b3435099eb357ae7879471",
+      "appId": "CrabTestWeekend",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-26T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Coffee Stain Studios",
+  "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": "881c85658fd148cd9526d02dde2e32f8",
+  "title": "BuffaloStaging",
+  "description": "BuffaloStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "buffalo",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-14T14:56:31.251Z",
+  "lastModifiedDate": "2018-12-14T14:56:31.251Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BuffaloStaging"
+    }
+  },
+  "entitlementName": "881c85658fd148cd9526d02dde2e32f8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "215f3fb6be464cf18a10b3089acfb4a8",
+      "appId": "BuffaloStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2018-12-14T14:55:46.632Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Team Meat",
+  "developerId": "o-mj7q3aaq5djq6wuddnrr5mgqjsk2da",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

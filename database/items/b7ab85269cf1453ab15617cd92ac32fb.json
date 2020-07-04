@@ -1,0 +1,90 @@
+{
+  "id": "b7ab85269cf1453ab15617cd92ac32fb",
+  "title": "Kine Pre-Purchase",
+  "description": "Kine Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/rose/item/EGS_CS_Kine_IC1_White-1181x651-d5d82b37397158bd63866bb9ad1c8adb.png",
+      "md5": "d5d82b37397158bd63866bb9ad1c8adb",
+      "width": 1181,
+      "height": 651,
+      "size": 19522,
+      "uploadedDate": "2019-08-01T18:02:01.024Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/rose/item/EGS_CS_Kine_N1_Quat-2560x1440-fbf3a74178a709192c9f90b1214f4dc3.jpg",
+      "md5": "fbf3a74178a709192c9f90b1214f4dc3",
+      "width": 2560,
+      "height": 1440,
+      "size": 1197831,
+      "uploadedDate": "2019-08-13T18:43:57.555Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "rose",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-01T15:30:53.500Z",
+  "lastModifiedDate": "2019-10-17T16:59:27.363Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "rose"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Gwen Frey"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KinePrePurchase"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b7ab85269cf1453ab15617cd92ac32fb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ee69b6d034904fccb55b8bbce766dbdc",
+      "appId": "RoseDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-18T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Gwen Frey",
+  "developerId": "o-na388hs5k2ak86akfejt2es246vaa2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

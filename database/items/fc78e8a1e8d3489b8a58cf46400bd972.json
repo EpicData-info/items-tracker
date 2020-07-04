@@ -1,0 +1,56 @@
+{
+  "id": "fc78e8a1e8d3489b8a58cf46400bd972",
+  "title": "Steep 90s DLC",
+  "description": "Steep 90s DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a646020cb93b4ea995cda70647bbe001",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-09T19:33:23.348Z",
+  "lastModifiedDate": "2020-01-01T15:33:35.900Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "e9c436b4e1474e6daa4a4ec5bd19fba2"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "036d47c2fa4940bfb0bd41a69c2dc186"
+    }
+  },
+  "entitlementName": "fc78e8a1e8d3489b8a58cf46400bd972",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1e0b08edc7b84cb389ac7eabeb21cd87",
+      "appId": "Barracuda90DLCDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-12-09T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

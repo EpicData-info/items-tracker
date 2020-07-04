@@ -1,0 +1,26 @@
+{
+  "id": "ef587942fc694d77b0e7366a46b3c302",
+  "title": "5000 Fortnite Points (POSA Switch)",
+  "description": "5000 Fortnite Points (POSA Switch)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-12T21:15:44.983Z",
+  "lastModifiedDate": "2019-10-21T16:23:17.496Z",
+  "entitlementName": "FN_5000_POSA_Switch",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2019-08-12T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

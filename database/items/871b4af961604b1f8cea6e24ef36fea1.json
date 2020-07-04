@@ -1,0 +1,58 @@
+{
+  "id": "871b4af961604b1f8cea6e24ef36fea1",
+  "title": "Hussar JDTC DLC",
+  "description": "Hussar JDTC DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ca93b6d41a4e41af864942d8f0a2a826",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-17T23:25:20.181Z",
+  "lastModifiedDate": "2020-03-17T14:25:49.491Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "0f066b80cdf64c7abded795b78f8b04c"
+    },
+    "partnerType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "815dd911d28a474493680ec68e03cc37"
+    }
+  },
+  "entitlementName": "871b4af961604b1f8cea6e24ef36fea1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0b563af08b1a45c7acc1deeb293305b2",
+      "appId": "HussarJDTCDLC",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-01-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2378c3a8d1214e25b54cdf9383e844e2",
+  "title": "Create_Header",
+  "description": "UNREAL TOURNAMENT EDITOR",
+  "longDescription": "Unreal® Tournament is being developed as a collaboration between gamers, developers and Epic Games. The community can not only play the game while it is being developed, but share also ideas, make mods or even help with development.",
+  "technicalDetails": "Install the Unreal Tournament editor to start creating your own maps, mods and content.",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/UT_Create_Header-1600x900-293c1287474cd7d65523241048b92fe5.png",
+      "md5": "293c1287474cd7d65523241048b92fe5",
+      "width": 1600,
+      "height": 900,
+      "size": 2621202,
+      "uploadedDate": "2017-02-24T20:08:23.279Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layout"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-02-03T22:44:27.839Z",
+  "lastModifiedDate": "2017-06-13T14:48:12.955Z",
+  "entitlementName": "c4d2be6831fe41f68340a9f399157ad3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

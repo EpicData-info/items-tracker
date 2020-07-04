@@ -1,0 +1,35 @@
+{
+  "id": "857e80debe844cf5a86a8ac010554848",
+  "title": "SoundtrackAudience",
+  "description": "SoundtrackAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "8b8fd2fe87a04bbab2eca292e71b5e2c",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-08T13:27:43.170Z",
+  "lastModifiedDate": "2020-06-16T16:47:39.051Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "857e80debe844cf5a86a8ac010554848",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a492dd908f4f46048d5356d730a174ab",
+  "title": "item title a",
+  "description": "item description",
+  "longDescription": "long item description",
+  "technicalDetails": "technical information",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "projects"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-20T04:32:23.751Z",
+  "lastModifiedDate": "2014-10-20T04:32:23.751Z",
+  "entitlementName": "ENTITLEMENT_NAME",
+  "entitlementType": "TEST",
+  "entitlementEndDate": "2014-12-12T00:00:00.000Z",
+  "itemType": "SUBSCRIPTION",
+  "developer": "Epic Games",
+  "useCount": 2,
+  "endOfSupport": false,
+  "unsearchable": false
+}

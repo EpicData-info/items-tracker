@@ -1,0 +1,24 @@
+{
+  "id": "10e9b46cbba448c79b3888e916cabac2",
+  "title": "Fortnite Play For OTZ",
+  "description": "Entitlement to enable OTZ user to play Fortnite",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "SUNSET",
+  "creationDate": "2014-11-11T23:32:52.083Z",
+  "lastModifiedDate": "2019-05-16T21:16:26.223Z",
+  "entitlementName": "Fortnite_Play",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementEndDate": "2019-05-17T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

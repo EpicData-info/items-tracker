@@ -1,0 +1,27 @@
+{
+  "id": "8967ef4fa6c546dda4000824dfcefc8b",
+  "title": "item title a",
+  "description": "item description",
+  "longDescription": "long item description",
+  "technicalDetails": "technical information",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "projects"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-20T05:46:05.737Z",
+  "lastModifiedDate": "2019-05-13T17:38:19.847Z",
+  "entitlementName": "8967ef4fa6c546dda4000824dfcefc8b",
+  "entitlementType": "TEST",
+  "entitlementEndDate": "2020-12-08T00:00:00.000Z",
+  "itemType": "SUBSCRIPTION",
+  "developer": "epic seller",
+  "developerId": "o-4zmjmft6kbeexuhpk39pcxvdwapa8x",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

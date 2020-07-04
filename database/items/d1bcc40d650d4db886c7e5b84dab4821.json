@@ -1,0 +1,33 @@
+{
+  "id": "d1bcc40d650d4db886c7e5b84dab4821",
+  "title": "EscolarDevAudience",
+  "description": "EscolarDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "f5d58106a0e143758ddf2bb30dd72ae2",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-10T20:00:28.424Z",
+  "lastModifiedDate": "2020-04-09T14:33:29.238Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d1bcc40d650d4db886c7e5b84dab4821",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Santa Ragione",
+  "developerId": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

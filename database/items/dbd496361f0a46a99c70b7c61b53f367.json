@@ -1,0 +1,124 @@
+{
+  "id": "dbd496361f0a46a99c70b7c61b53f367",
+  "title": "Gods & Monsters",
+  "description": "Gods & Monsters",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/item/Game_Logo_Color_1000x375-1000x375-f06242470286a2db34d7015ad8fc65f7.png",
+      "md5": "f06242470286a2db34d7015ad8fc65f7",
+      "width": 1000,
+      "height": 375,
+      "size": 33259,
+      "uploadedDate": "2019-06-14T12:28:05.730Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/item/02_Orpheus_Landscape_FINAL-1920x1080-37b55ec93144f8018e50249923ec354e.jpg",
+      "md5": "37b55ec93144f8018e50249923ec354e",
+      "width": 1920,
+      "height": 1080,
+      "size": 298836,
+      "uploadedDate": "2019-06-14T12:28:15.563Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/item/Store_Portrait_Promo_1280x1420-1280x1420-3c052689f4d8c008ef7c10594d1fe895.jpg",
+      "md5": "3c052689f4d8c008ef7c10594d1fe895",
+      "width": 1280,
+      "height": 1420,
+      "size": 195445,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4b35838425c74992ad42e1276b2161ca",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-08T17:13:02.483Z",
+  "lastModifiedDate": "2019-11-19T17:02:48.474Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "releaseDate": {
+      "type": "STRING",
+      "value": "1582642800"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "e4afbc10480d4afd97465e4aea194a73"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GodsAndMonsters"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "4b35838425c74992ad42e1276b2161ca"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "dbd496361f0a46a99c70b7c61b53f367",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ca5606455aa44ce9ad86f7c39a5c848a",
+      "appId": "Pheasant",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

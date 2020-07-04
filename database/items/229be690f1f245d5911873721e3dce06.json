@@ -1,0 +1,30 @@
+{
+  "id": "229be690f1f245d5911873721e3dce06",
+  "title": "PassageDLCAudience_redeemable",
+  "description": "PassageDLCAudience_redeemable",
+  "technicalDetails": "Granted if you must call Partner Integration to redeem season pass separately from the game. Not necessary if the edition you buy already includes it",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "oregano",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-04T15:23:31.079Z",
+  "lastModifiedDate": "2020-05-27T21:47:43.336Z",
+  "entitlementName": "229be690f1f245d5911873721e3dce06",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

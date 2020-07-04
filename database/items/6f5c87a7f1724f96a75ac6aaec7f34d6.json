@@ -1,0 +1,103 @@
+{
+  "id": "6f5c87a7f1724f96a75ac6aaec7f34d6",
+  "title": "Trackmania Turbo",
+  "description": "Trackmania Turbo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/8bd4f3286d414820bc7cbcbb849b1f72/item/TM2C_Store_Landscape_2580x1450-2580x1450-83d02c833425736410c8d9a95b2164b9.png",
+      "md5": "83d02c833425736410c8d9a95b2164b9",
+      "width": 2580,
+      "height": 1450,
+      "size": 8220320,
+      "uploadedDate": "2020-03-26T23:44:28.570Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/8bd4f3286d414820bc7cbcbb849b1f72/item/TM2C_Store_Portrait_1280x1420-1280x1420-4cd4eff606caa725b4c1eb43735d41b8.png",
+      "md5": "4cd4eff606caa725b4c1eb43735d41b8",
+      "width": 1280,
+      "height": 1420,
+      "size": 3941452,
+      "uploadedDate": "2020-03-26T23:44:40.295Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8bd4f3286d414820bc7cbcbb849b1f72",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-24T04:34:27.671Z",
+  "lastModifiedDate": "2020-04-08T14:42:12.692Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "8bd4f3286d414820bc7cbcbb849b1f72"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "b150822842e14a6ba58699c33a16fd85"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TrackmaniaTurbo"
+    },
+    "neverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "6f5c87a7f1724f96a75ac6aaec7f34d6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5d95d8e9ebfc412f9e1baea3645f91b3",
+      "appId": "a18915c48f584670bd236ce3031d63d9",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

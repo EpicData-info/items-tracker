@@ -1,0 +1,35 @@
+{
+  "id": "a62fd64ba9d741afb4a6c66d51f6ddad",
+  "title": "Renew Battlegroundpack Audience",
+  "description": "Renew Battlegroundpack Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "37baf50c268d47779020d73143bb02b0",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-08T14:43:22.357Z",
+  "lastModifiedDate": "2020-01-08T17:26:06.624Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Win32"
+    }
+  },
+  "entitlementName": "a62fd64ba9d741afb4a6c66d51f6ddad",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Dragonest Game",
+  "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

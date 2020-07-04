@@ -1,0 +1,23 @@
+{
+  "id": "24bfb03f6ae74bf69ea515d50269fb2e",
+  "title": "Tier 4 to Tier 5 Founder’s Pack Upgrade",
+  "description": "Tier 4 to Tier 5 Founder’s Pack Upgrade",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-04-17T02:54:22.419Z",
+  "lastModifiedDate": "2018-07-17T01:21:48.593Z",
+  "entitlementName": "FoundersPack_4_5",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

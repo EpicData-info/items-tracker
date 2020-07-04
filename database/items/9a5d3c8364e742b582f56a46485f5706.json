@@ -1,0 +1,51 @@
+{
+  "id": "9a5d3c8364e742b582f56a46485f5706",
+  "title": "GruntStaging",
+  "description": "GruntStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5b325322a4c04b9e9e780b9a1e9b2d70",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-05T20:51:43.872Z",
+  "lastModifiedDate": "2020-02-06T15:11:50.571Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GruntStaging"
+    }
+  },
+  "entitlementName": "9a5d3c8364e742b582f56a46485f5706",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3e623e07fed34326bf5ecdbd9e4809f1",
+      "appId": "GruntStaging",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-02-04T22:33:17.675Z"
+    }
+  ],
+  "developer": "Team Colorblind",
+  "developerId": "o-ndzqj36dmhqmfklcq44yywpgfnbmbd",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

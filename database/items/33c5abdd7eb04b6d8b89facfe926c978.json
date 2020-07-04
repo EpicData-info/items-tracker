@@ -1,0 +1,37 @@
+{
+  "id": "33c5abdd7eb04b6d8b89facfe926c978",
+  "title": "LotusReleaseAudience",
+  "description": "LotusReleaseAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/lotus/item/OxygenNotIncluded-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-04-23T20:50:07.495Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "lotus",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-04T20:21:03.799Z",
+  "lastModifiedDate": "2019-07-30T16:01:26.108Z",
+  "entitlementName": "33c5abdd7eb04b6d8b89facfe926c978",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Klei Entertainment",
+  "developerId": "o-6v5su732w3tnzud9lque2m7s4qzvjx",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "RATING_PENDING",
+  "unsearchable": false
+}

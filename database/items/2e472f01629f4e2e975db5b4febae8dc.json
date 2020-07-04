@@ -1,0 +1,33 @@
+{
+  "id": "2e472f01629f4e2e975db5b4febae8dc",
+  "title": "HeatherDevAudience",
+  "description": "HeatherDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-24T21:49:28.547Z",
+  "lastModifiedDate": "2019-10-23T12:58:37.723Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "2e472f01629f4e2e975db5b4febae8dc",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Rockstar Games",
+  "developerId": "o-dhz7kpvrvqngzdpnx5vn3jrljj53ca",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

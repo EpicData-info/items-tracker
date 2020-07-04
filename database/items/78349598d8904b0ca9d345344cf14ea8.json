@@ -1,0 +1,23 @@
+{
+  "id": "78349598d8904b0ca9d345344cf14ea8",
+  "title": "OT Banner 1",
+  "description": "OT Banner 1",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-06-13T20:26:03.097Z",
+  "lastModifiedDate": "2017-06-13T23:29:31.962Z",
+  "entitlementName": "OTBanner_1",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

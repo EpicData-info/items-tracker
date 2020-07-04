@@ -1,0 +1,47 @@
+{
+  "id": "1482e73b68494b3c86137b62b65567a4",
+  "title": "Beyond Two Souls General Audience",
+  "description": "Beyond Two Souls General Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/lavender/item/ESRB_BeyondTwoSouls-842x404-e918930fa7a0d52460c8996f39d3cca8.jpg",
+      "md5": "e918930fa7a0d52460c8996f39d3cca8",
+      "width": 842,
+      "height": 404,
+      "size": 116644,
+      "uploadedDate": "2019-07-29T15:23:57.631Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "lavender",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-29T17:37:40.018Z",
+  "lastModifiedDate": "2019-10-16T14:25:56.303Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1482e73b68494b3c86137b62b65567a4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": "0b7d7a8e466a4a8faa9a8f25e4a86c71",
+  "title": "The Sojourn Pre-Purchase Audience",
+  "description": "The Sojourn Pre-Purchase Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ada169f07b81464a9fc06a7d6896101d",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-13T18:28:33.352Z",
+  "lastModifiedDate": "2019-10-18T17:15:25.464Z",
+  "entitlementName": "0b7d7a8e466a4a8faa9a8f25e4a86c71",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Iceberg Interactive",
+  "developerId": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

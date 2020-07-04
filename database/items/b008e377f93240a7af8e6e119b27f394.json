@@ -1,0 +1,100 @@
+{
+  "id": "b008e377f93240a7af8e6e119b27f394",
+  "title": "Journey To The Savage Planet",
+  "description": "Journey To The Savage Planet",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oleander/item/JTTSP_image-340x440-9ea78ab53cc23c54bd3f7d574c19e0de.jpg",
+      "md5": "9ea78ab53cc23c54bd3f7d574c19e0de",
+      "width": 340,
+      "height": 440,
+      "size": 151857,
+      "uploadedDate": "2019-12-20T00:16:53.635Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/oleander/item/JTTSP_image-340x440-9ea78ab53cc23c54bd3f7d574c19e0de.jpg",
+      "md5": "9ea78ab53cc23c54bd3f7d574c19e0de",
+      "width": 340,
+      "height": 440,
+      "size": 151857,
+      "uploadedDate": "2019-12-20T00:17:09.210Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/oleander/item/JTTSP_image-340x440-9ea78ab53cc23c54bd3f7d574c19e0de.jpg",
+      "md5": "9ea78ab53cc23c54bd3f7d574c19e0de",
+      "width": 340,
+      "height": 440,
+      "size": 151857,
+      "uploadedDate": "2019-12-20T00:17:43.148Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "oleander",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-11T18:40:01.143Z",
+  "lastModifiedDate": "2020-03-18T18:54:42.287Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "oleander"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Towers/Saved/SaveGames/{EpicID}/"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "505 Games"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "JourneyToTheSavagePlanet"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b008e377f93240a7af8e6e119b27f394",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "686da1bf86ae4c9fa2ef21219c208918",
+      "appId": "Oleander",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-11T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

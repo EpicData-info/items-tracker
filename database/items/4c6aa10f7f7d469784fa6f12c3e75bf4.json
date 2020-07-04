@@ -1,0 +1,70 @@
+{
+  "id": "4c6aa10f7f7d469784fa6f12c3e75bf4",
+  "title": "Bee Simulator Review",
+  "description": "Bee Simulator Review",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b69961c88cb446a395ace83341dd94cc/item/EGS_Bigben_BeeSimulator_L1_Library_Promo-2560x1440-2eb98aa8b29f111801f44b1d2cc9e4a0.jpg",
+      "md5": "2eb98aa8b29f111801f44b1d2cc9e4a0",
+      "width": 2560,
+      "height": 1440,
+      "size": 288331,
+      "uploadedDate": "2019-10-08T17:16:59.139Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/b69961c88cb446a395ace83341dd94cc/item/EGS_Bigben_BeeSimulator_IC1_GameLogo-200x110-a8585fbe9746c4572d086f59fe3ff8bf.png",
+      "md5": "a8585fbe9746c4572d086f59fe3ff8bf",
+      "width": 200,
+      "height": 110,
+      "size": 10828,
+      "uploadedDate": "2019-10-08T17:17:09.145Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b69961c88cb446a395ace83341dd94cc",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-24T22:28:18.579Z",
+  "lastModifiedDate": "2019-10-24T22:31:35.738Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BeeSimulatorReview"
+    }
+  },
+  "entitlementName": "4c6aa10f7f7d469784fa6f12c3e75bf4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "edc82374ab3f49e395f5374eb37a315b",
+      "appId": "SpoonbillReview",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

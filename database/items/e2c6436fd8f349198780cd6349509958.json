@@ -1,0 +1,23 @@
+{
+  "id": "e2c6436fd8f349198780cd6349509958",
+  "title": "Free offer for Junit Smoke Test(Don't delete)",
+  "description": "Free offer for Junit Smoke Test(Don't delete)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2016-08-11T09:36:52.746Z",
+  "lastModifiedDate": "2016-08-11T09:36:52.746Z",
+  "entitlementName": "e2c6436fd8f349198780cd6349509958",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "landy tian",
+  "developerId": "o-8608427dbe4f56aff852058892f3de",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

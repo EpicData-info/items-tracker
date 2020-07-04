@@ -1,0 +1,57 @@
+{
+  "id": "20e515a8a14c4ce99daedd5d51293f38",
+  "title": "The Dreadful Crimes - DLC",
+  "description": "The Dreadful Crimes - DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c9be94273fe244c08032ca493ad87434",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-04T18:29:24.846Z",
+  "lastModifiedDate": "2020-02-20T15:16:30.894Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "e9f9422804f54ef59dcec8e01aba8786"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "06c2e16e41774211852194fc1e232383"
+    }
+  },
+  "entitlementName": "20e515a8a14c4ce99daedd5d51293f38",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2b095fcb1bc34245b07011bdce3c71b7",
+      "appId": "AlbacoreTDC",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

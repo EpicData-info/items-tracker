@@ -1,0 +1,100 @@
+{
+  "id": "1fb6c44c29e84dd2a2e2c877d406f857",
+  "title": "CastleStorm 2",
+  "description": "CastleStorm 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/item/EGS_ZenStudios_CastleStorm2_Carousel_2560x1440-2560x1440-833c50d1ef9112b04192df46afe41802.jpg",
+      "md5": "833c50d1ef9112b04192df46afe41802",
+      "width": 2560,
+      "height": 1440,
+      "size": 196869,
+      "uploadedDate": "2019-06-03T18:47:51.156Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/item/EGS_ZenStudios_CastleStorm2_IC1_GameLogo_White-6521x2488-a91b21a9823e9339423c1c6557243513.png",
+      "md5": "a91b21a9823e9339423c1c6557243513",
+      "width": 6521,
+      "height": 2488,
+      "size": 121958,
+      "uploadedDate": "2019-06-03T18:48:13.936Z"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/item/EGS_ZenStudios_CastleStorm2_S3_PortraitPromo-1280x1440-bed5781dffbc9a57df5d92810ed0c1c9-1280x1440-bed5781dffbc9a57df5d92810ed0c1c9.jpg",
+      "md5": "bed5781dffbc9a57df5d92810ed0c1c9",
+      "width": 1280,
+      "height": 1440,
+      "size": 109595,
+      "uploadedDate": "2019-11-20T16:20:12.090Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed355406eacb4633a648f682ddb492b8",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-03T18:28:26.803Z",
+  "lastModifiedDate": "2020-07-03T18:25:17.734Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ed355406eacb4633a648f682ddb492b8"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CastleStorm2"
+    }
+  },
+  "entitlementName": "1fb6c44c29e84dd2a2e2c877d406f857",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d15c8c0a3a8d4e5db651d8b147fc8b35",
+      "appId": "dove",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

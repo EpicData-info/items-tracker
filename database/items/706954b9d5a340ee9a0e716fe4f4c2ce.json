@@ -1,0 +1,26 @@
+{
+  "id": "706954b9d5a340ee9a0e716fe4f4c2ce",
+  "title": "Xbox Founder Audience Access",
+  "description": "Xbox Founder Audience Access",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-06-01T21:26:19.713Z",
+  "lastModifiedDate": "2017-06-06T19:51:40.828Z",
+  "entitlementName": "Fortnite_Xbox_Founder",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

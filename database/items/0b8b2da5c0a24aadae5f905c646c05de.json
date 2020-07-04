@@ -1,0 +1,35 @@
+{
+  "id": "0b8b2da5c0a24aadae5f905c646c05de",
+  "title": "PansyDevAudience",
+  "description": "PansyDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "pansy",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-04T18:13:38.421Z",
+  "lastModifiedDate": "2019-05-14T17:38:59.633Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0b8b2da5c0a24aadae5f905c646c05de",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Three Fields Entertainment",
+  "developerId": "o-f82s3dr485xfmhuuzc2ubtc2j2mdpj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

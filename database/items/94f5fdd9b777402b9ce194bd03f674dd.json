@@ -1,0 +1,30 @@
+{
+  "id": "94f5fdd9b777402b9ce194bd03f674dd",
+  "title": "SeasonPassAudience_marker",
+  "description": "SeasonPassAudience_marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "764eb429792649e4a606413cd649de2c",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-20T20:19:47.200Z",
+  "lastModifiedDate": "2019-12-20T15:33:58.102Z",
+  "customAttributes": {},
+  "entitlementName": "94f5fdd9b777402b9ce194bd03f674dd",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,52 @@
+{
+  "id": "a20571bf81e849888c2ce3881e3ed627",
+  "title": "Tanager_Waluigi",
+  "description": "Tanager_Waluigi",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-19T15:40:59.083Z",
+  "lastModifiedDate": "2020-06-19T16:34:29.457Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TanagerWaluigi"
+    }
+  },
+  "entitlementName": "a20571bf81e849888c2ce3881e3ed627",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "608c5f358b5245bab8aa3dbb21882260",
+      "appId": "b4b1dd6187e34acf9c8e67c75d8f8ebc",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

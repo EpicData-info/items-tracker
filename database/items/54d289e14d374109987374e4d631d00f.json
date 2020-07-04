@@ -1,0 +1,35 @@
+{
+  "id": "54d289e14d374109987374e4d631d00f",
+  "title": "RailGeneralAudience",
+  "description": "RailGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "0fb229f35a3f4eb788b05ae91419a214",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-22T22:25:56.002Z",
+  "lastModifiedDate": "2020-01-06T15:58:34.276Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "54d289e14d374109987374e4d631d00f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Techland",
+  "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

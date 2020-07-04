@@ -1,0 +1,35 @@
+{
+  "id": "62653217af1d4cdb80b2aa973d6a8eef",
+  "title": "RavenDemoAudience",
+  "description": "RavenDemoAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c0783fd957634390af33808d1a1f56dd",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-26T19:51:56.088Z",
+  "lastModifiedDate": "2020-03-26T19:58:29.439Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "62653217af1d4cdb80b2aa973d6a8eef",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Sold Out",
+  "developerId": "o-gcm88kddcs2t3gtypyq9tvlx64bzyw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

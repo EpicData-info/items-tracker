@@ -1,0 +1,59 @@
+{
+  "id": "e15ec1c3b368474a861fa8c79d52164e",
+  "title": "TonkineseStaging",
+  "description": "TonkineseStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "82225e5cb4714006b335a50d840208c6",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-09T19:27:45.781Z",
+  "lastModifiedDate": "2020-05-05T14:39:24.045Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "9237eed8b3494d579e58a85eb80180db"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TonkineseStaging"
+    }
+  },
+  "entitlementName": "e15ec1c3b368474a861fa8c79d52164e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "73210aa1b4164fa4886290ec91e0e857",
+      "appId": "fcfe6766cc7f4f698599837a19184dd8",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-04-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

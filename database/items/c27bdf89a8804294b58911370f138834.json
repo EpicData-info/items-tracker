@@ -1,0 +1,29 @@
+{
+  "id": "c27bdf89a8804294b58911370f138834",
+  "title": "CorianderDevAudience",
+  "description": "CorianderDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "coriander",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-02T20:27:28.100Z",
+  "lastModifiedDate": "2020-02-18T15:52:25.070Z",
+  "entitlementName": "c27bdf89a8804294b58911370f138834",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

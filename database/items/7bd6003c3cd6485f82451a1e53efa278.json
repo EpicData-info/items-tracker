@@ -1,0 +1,39 @@
+{
+  "id": "7bd6003c3cd6485f82451a1e53efa278",
+  "title": "Fhurst Peak Correctional Facility DLC",
+  "description": "Fhurst Peak Correctional Facility DLC 1",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    },
+    {
+      "path": "dlc"
+    }
+  ],
+  "namespace": "61bc780f42f84fe29e6dfee957ab82de",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-21T13:47:57.491Z",
+  "lastModifiedDate": "2020-06-04T17:23:28.537Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7bd6003c3cd6485f82451a1e53efa278",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

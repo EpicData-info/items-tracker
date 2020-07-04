@@ -1,0 +1,46 @@
+{
+  "id": "3b896b8190134b17b3195fc5baed2ada",
+  "title": "GullGeneralAudience",
+  "description": "GullGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/83022e1b4c304addb2aadee1db854f8d/item/ESRB_ALLLegoBatmans-842x404-25f0f00d3972052769b678863abd5fb7.jpg",
+      "md5": "25f0f00d3972052769b678863abd5fb7",
+      "width": 842,
+      "height": 404,
+      "size": 78164,
+      "uploadedDate": "2019-09-19T14:38:43.971Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "83022e1b4c304addb2aadee1db854f8d",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-27T22:19:30.272Z",
+  "lastModifiedDate": "2019-09-19T14:38:50.211Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3b896b8190134b17b3195fc5baed2ada",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Warner Brothers",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "selfRefundable": true,
+  "unsearchable": false
+}

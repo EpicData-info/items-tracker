@@ -1,0 +1,29 @@
+{
+  "id": "358d24e217834941af5aeca0de40e4b7",
+  "title": "AMD Skin DLC 1",
+  "description": "AMD Skin DLC 1",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "dlc"
+    }
+  ],
+  "namespace": "wombat",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-25T22:28:19.615Z",
+  "lastModifiedDate": "2019-12-17T13:50:30.004Z",
+  "entitlementName": "358d24e217834941af5aeca0de40e4b7",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

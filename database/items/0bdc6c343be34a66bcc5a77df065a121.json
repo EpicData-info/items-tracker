@@ -1,0 +1,91 @@
+{
+  "id": "0bdc6c343be34a66bcc5a77df065a121",
+  "title": "RUNE II Pre-Purchase",
+  "description": "RUNE II Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cosmos/item/EGS_HumanHead_RuneII_2560x1440_v2-2560x1440-51b8a8c813b65e90783cfefc37281ba6.jpg",
+      "md5": "51b8a8c813b65e90783cfefc37281ba6",
+      "width": 2560,
+      "height": 1440,
+      "size": 229586,
+      "uploadedDate": "2019-07-02T14:28:46.791Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/cosmos/item/RUNEII_Logo_Hi-Res_Final_BW-600x332-8df457da6760b2e1f2d11077dc9f0738.png",
+      "md5": "8df457da6760b2e1f2d11077dc9f0738",
+      "width": 600,
+      "height": 332,
+      "size": 56727,
+      "uploadedDate": "2019-07-02T14:28:57.399Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/cosmos/item/EGS_HumanHead_RuneII_1280x1440-1280x1440-9e4732bf868484e37fa378c60b15e286.jpg",
+      "md5": "9e4732bf868484e37fa378c60b15e286",
+      "width": 1280,
+      "height": 1440,
+      "size": 156313,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cosmos",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-15T17:00:28.209Z",
+  "lastModifiedDate": "2019-11-12T17:58:47.654Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "cosmos"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "0bdc6c343be34a66bcc5a77df065a121",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6101096b19f24b68b3b364aecb9dadf1",
+      "appId": "CosmosDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-04T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Human Head Studios, Inc.",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

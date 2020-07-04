@@ -1,0 +1,36 @@
+{
+  "id": "d3bc73b102a44a0c8e495f1e7c01f232",
+  "title": "MSI Bundle Audience",
+  "description": "MSI Bundle Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "wombat",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-13T21:20:11.079Z",
+  "lastModifiedDate": "2019-12-17T13:50:30.004Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d3bc73b102a44a0c8e495f1e7c01f232",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

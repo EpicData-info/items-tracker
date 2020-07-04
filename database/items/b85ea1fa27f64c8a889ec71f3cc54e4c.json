@@ -1,0 +1,103 @@
+{
+  "id": "b85ea1fa27f64c8a889ec71f3cc54e4c",
+  "title": "Detroit Become Human (Demo)",
+  "description": "Detroit Become Human (Demo)",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/columbine/item/DETROIT_LOGO-1920x623-8dca9dfb6641fc2909bcbad7cdc46286.png",
+      "md5": "8dca9dfb6641fc2909bcbad7cdc46286",
+      "width": 1920,
+      "height": 623,
+      "size": 292075,
+      "uploadedDate": "2019-03-19T23:07:22.372Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/columbine/item/001_DETROIT_GAMEPAGE_PROMOIMAGE-1920x1080-4e8996468c53706dc02c21d5e51d5b45.jpg",
+      "md5": "4e8996468c53706dc02c21d5e51d5b45",
+      "width": 1920,
+      "height": 1080,
+      "size": 230840,
+      "uploadedDate": "2019-03-20T13:03:08.534Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/columbine/item/002_DETROIT_STOREPORTRAIT-1280x1420-1280x1420-7cec122a58dacf56e47ad7478468d9e3.jpg",
+      "md5": "7cec122a58dacf56e47ad7478468d9e3",
+      "width": 1280,
+      "height": 1420,
+      "size": 162726,
+      "uploadedDate": "2019-12-11T23:30:43.312Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "columbine",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-18T18:48:29.463Z",
+  "lastModifiedDate": "2019-12-13T16:15:38.922Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "columbine"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DetroitBecomeHumanDemo"
+    }
+  },
+  "entitlementName": "b85ea1fa27f64c8a889ec71f3cc54e4c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5e716b14a0974b66a937185d8115b25a",
+      "appId": "ColumbineDemo",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-18T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

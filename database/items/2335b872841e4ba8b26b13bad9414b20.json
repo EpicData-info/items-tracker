@@ -1,0 +1,33 @@
+{
+  "id": "2335b872841e4ba8b26b13bad9414b20",
+  "title": "HapukaDevAudience",
+  "description": "HapukaDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "8b9fc0e3ee7d478abc047d1a3596c568",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-24T17:48:52.134Z",
+  "lastModifiedDate": "2020-01-28T23:52:20.741Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "2335b872841e4ba8b26b13bad9414b20",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "bea874eb8b344e9f8f29f009bec31e57",
+  "title": "WEX NoodleHaus Audience",
+  "description": "WEX NoodleHaus Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-20T22:56:58.480Z",
+  "lastModifiedDate": "2020-01-20T22:56:58.480Z",
+  "entitlementName": "bea874eb8b344e9f8f29f009bec31e57",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

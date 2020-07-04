@@ -1,0 +1,51 @@
+{
+  "id": "a740636431f34480b32ae2ef1646e84b",
+  "title": "TritonStaging",
+  "description": "TritonStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "be4b391bc31d465ebeba92b9b822b798",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-02T16:06:39.398Z",
+  "lastModifiedDate": "2020-06-12T12:49:18.003Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TritonStaging"
+    }
+  },
+  "entitlementName": "a740636431f34480b32ae2ef1646e84b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "eed4d32e55b74eb5a079b9c8f76336a0",
+      "appId": "ce390bcb425b43c6a2065056a2016a7e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-03T16:54:09.916Z"
+    }
+  ],
+  "developer": "Santa Ragione",
+  "developerId": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

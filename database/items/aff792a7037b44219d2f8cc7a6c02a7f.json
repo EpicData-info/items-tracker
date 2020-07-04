@@ -1,0 +1,26 @@
+{
+  "id": "aff792a7037b44219d2f8cc7a6c02a7f",
+  "title": "Glacial Legends Pack",
+  "description": "Glacial Legends Pack",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-31T17:12:39.794Z",
+  "lastModifiedDate": "2019-12-20T15:08:15.277Z",
+  "entitlementName": "Glacial_Legends",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2019-10-31T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

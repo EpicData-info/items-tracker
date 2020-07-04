@@ -1,0 +1,26 @@
+{
+  "id": "20e02ccb2bbd40f8ac11265d0d58eb30",
+  "title": "Fortnite Event - Australian Open Participant",
+  "description": "Fortnite Event - Australian Open Participant",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-08T21:13:56.327Z",
+  "lastModifiedDate": "2020-01-08T21:18:52.309Z",
+  "entitlementName": "20e02ccb2bbd40f8ac11265d0d58eb30",
+  "entitlementType": "AUDIENCE",
+  "entitlementEndDate": "2020-02-04T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

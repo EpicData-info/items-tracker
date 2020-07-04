@@ -1,0 +1,77 @@
+{
+  "id": "8cd2fb30213d41f0afebf5976c041c46",
+  "title": "Metro Exodus Pre-Purchase Extras",
+  "description": "Metro Exodus Pre-Purchase Extras",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/game-logo_metro-exodus_white-2850x1450-b14f454728dc4a768250d3bd6f6bb05f.png",
+      "md5": "b14f454728dc4a768250d3bd6f6bb05f",
+      "width": 2850,
+      "height": 1450,
+      "size": 605487,
+      "uploadedDate": "2019-02-12T15:40:47.658Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/ME_icon-400x400-732cd6de7626f196b52c3675520f704b.png",
+      "md5": "732cd6de7626f196b52c3675520f704b",
+      "width": 400,
+      "height": 400,
+      "size": 68919,
+      "uploadedDate": "2019-02-12T15:43:03.682Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/MetroExodus_PrimaryPromo_Update-2580x1450-0e5b7a55fb64f2b4ab1a46455a9293e0.jpg",
+      "md5": "0e5b7a55fb64f2b4ab1a46455a9293e0",
+      "width": 2580,
+      "height": 1450,
+      "size": 580337,
+      "uploadedDate": "2019-02-25T00:24:17.293Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "snapdragon",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-11T16:30:55.083Z",
+  "lastModifiedDate": "2019-07-09T18:44:38.469Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MetroExodusExtras"
+    }
+  },
+  "entitlementName": "8cd2fb30213d41f0afebf5976c041c46",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c448df5548e64560bb959832c7b27682",
+      "appId": "SnapdragonPreOrder",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-11T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a5c2c2420a1e4085ac44f03f2e7a47a2",
+  "title": "LavenderDenuvoAudience",
+  "description": "LavenderDenuvoAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "lavender",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-29T21:51:02.850Z",
+  "lastModifiedDate": "2019-10-16T14:25:56.303Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a5c2c2420a1e4085ac44f03f2e7a47a2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

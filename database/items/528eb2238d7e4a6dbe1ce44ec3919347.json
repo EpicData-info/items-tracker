@@ -1,0 +1,83 @@
+{
+  "id": "528eb2238d7e4a6dbe1ce44ec3919347",
+  "title": "Phoenix Point Preview",
+  "description": "Phoenix Point Preview",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_NEWPROMO-2048x1151-a5d45cf0f70a168b0c1f7eae142a3397.jpg",
+      "md5": "a5d45cf0f70a168b0c1f7eae142a3397",
+      "width": 2048,
+      "height": 1151,
+      "size": 2147087,
+      "uploadedDate": "2019-11-12T21:49:33.209Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_whitePNG-3220x432-72c3516e13c5ae6b2c89e568b77973c0.png",
+      "md5": "72c3516e13c5ae6b2c89e568b77973c0",
+      "width": 3220,
+      "height": 432,
+      "size": 68148,
+      "uploadedDate": "2019-11-12T21:49:52.490Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-12T21:48:14.170Z",
+  "lastModifiedDate": "2019-12-05T16:12:19.812Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.snapshotgames.phoenixpoint/EGS/{EpicID}"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Snapshot Games Inc/Phoenix Point/EGS/{EpicID}"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "LocalData/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PhoenixPointPreivew"
+    }
+  },
+  "entitlementName": "528eb2238d7e4a6dbe1ce44ec3919347",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f166288d950740a48ca7d2fd1c03d647",
+      "appId": "IrisPreview",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-11-12T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "0ca78d1857a4411b98bf5af87815bcfa",
+  "title": "SnowRunner Pre Release Audience",
+  "description": "SnowRunner Pre Release Audience",
+  "longDescription": "Formally SnowRunner Press Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-24T15:16:57.919Z",
+  "lastModifiedDate": "2020-04-28T18:29:13.992Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0ca78d1857a4411b98bf5af87815bcfa",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

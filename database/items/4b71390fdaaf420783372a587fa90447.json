@@ -1,0 +1,25 @@
+{
+  "id": "4b71390fdaaf420783372a587fa90447",
+  "title": "300 V-Bucks (Comp)",
+  "description": "300 V-Bucks (Comp)",
+  "longDescription": "Spend V-bucks in the loot store for heroes, schematics, upgrades and more!",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "points"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-01-10T23:43:08.305Z",
+  "lastModifiedDate": "2018-01-25T19:53:05.193Z",
+  "entitlementName": "FN_300_POINTS_COMP",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

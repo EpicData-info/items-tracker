@@ -1,0 +1,39 @@
+{
+  "id": "2c7975f9973c447492ada59fc971f0c8",
+  "title": "CallunaDLC002 TF Demo Audience",
+  "description": "CallunaDLC002 TF Demo Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/calluna/item/Control_Esrb-340x163-450592beba2d7746e4f1a364e976f82a.png",
+      "md5": "450592beba2d7746e4f1a364e976f82a",
+      "width": 340,
+      "height": 163,
+      "size": 34084,
+      "uploadedDate": "2019-04-23T19:55:53.706Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "calluna",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-11T23:58:06.221Z",
+  "lastModifiedDate": "2020-03-12T00:47:39.853Z",
+  "entitlementName": "2c7975f9973c447492ada59fc971f0c8",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

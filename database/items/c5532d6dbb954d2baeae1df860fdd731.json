@@ -1,0 +1,34 @@
+{
+  "id": "c5532d6dbb954d2baeae1df860fdd731",
+  "title": "CardinalDevAudience",
+  "description": "CardinalDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "91189432bbad4478afd611edff7f0339",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-10T17:36:06.942Z",
+  "lastModifiedDate": "2019-08-06T13:01:15.312Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "c5532d6dbb954d2baeae1df860fdd731",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "11 Bit Studios",
+  "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

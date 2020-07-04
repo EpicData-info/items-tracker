@@ -1,0 +1,82 @@
+{
+  "id": "47b61bcadc9c42aba565d633ddbca1ee",
+  "title": "ReadySet Heroes Pre-Purchase",
+  "description": "ReadySet Heroes Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/item/ReadySetHeroes_PROMO-1920x720-82f0aaa89063b0296d7996b67d0a2a0f.jpg",
+      "md5": "82f0aaa89063b0296d7996b67d0a2a0f",
+      "width": 1920,
+      "height": 720,
+      "size": 1146027,
+      "uploadedDate": "2019-08-14T15:42:02.475Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/item/ReadySet-Hereos-Logo RGB TM-1250x697-75c956a9ec331a1f83470d879a62bb5f.png",
+      "md5": "75c956a9ec331a1f83470d879a62bb5f",
+      "width": 1250,
+      "height": 697,
+      "size": 60439,
+      "uploadedDate": "2019-08-14T15:42:11.026Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f498fbf0a4e43239d58eee6615ae806",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-14T21:14:58.248Z",
+  "lastModifiedDate": "2019-12-19T15:57:49.211Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "7f498fbf0a4e43239d58eee6615ae806"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "47b61bcadc9c42aba565d633ddbca1ee",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fbd966e36bc44de18004a4d1f156acfa",
+      "appId": "PeacockDummy",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-07-25T00:00:00.000Z"
+    }
+  ],
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

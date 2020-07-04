@@ -1,0 +1,29 @@
+{
+  "id": "d90f1828c6e6467087fc79c53a7b2746",
+  "title": "WolffishTemplarLegacyDLCAudience_Redeemable",
+  "description": "WolffishTemplarLegacyDLCAudience_Redeemable",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "34f7e1e275924bb6a90074920f9c1696",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-21T20:59:34.916Z",
+  "lastModifiedDate": "2020-03-25T14:53:53.722Z",
+  "customAttributes": {},
+  "entitlementName": "d90f1828c6e6467087fc79c53a7b2746",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

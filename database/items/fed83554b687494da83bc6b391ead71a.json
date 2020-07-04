@@ -1,0 +1,56 @@
+{
+  "id": "fed83554b687494da83bc6b391ead71a",
+  "title": "Surgeon Simulator 1 & 2 - OST",
+  "description": "Surgeon Simulator 1 & 2 - OST",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-01T18:14:17.393Z",
+  "lastModifiedDate": "2020-06-13T19:33:54.321Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SurgeonSimOST"
+    }
+  },
+  "entitlementName": "fed83554b687494da83bc6b391ead71a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e3516ff1d5df422fa291e672c217f835",
+      "appId": "1fbc8e096f3443dcbfe35caa4c1f3b47",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Bossa Studios",
+  "developerId": "o-2xhhr8jdtcqt7uprgbpvf7g9k2vppu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

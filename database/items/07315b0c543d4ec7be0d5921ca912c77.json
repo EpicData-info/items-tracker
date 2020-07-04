@@ -1,0 +1,34 @@
+{
+  "id": "07315b0c543d4ec7be0d5921ca912c77",
+  "title": "HussarUltimateEdition_Audience_Marker",
+  "description": "HussarUltimateEdition_Audience_Marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ca93b6d41a4e41af864942d8f0a2a826",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-13T01:12:15.362Z",
+  "lastModifiedDate": "2020-03-13T01:12:39.615Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "07315b0c543d4ec7be0d5921ca912c77",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

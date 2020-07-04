@@ -1,0 +1,30 @@
+{
+  "id": "b61bc70641044a3c97f3b233c0d32a55",
+  "title": "SaffronUltimatePack_marker",
+  "description": "SaffronUltimatePack_marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-09T17:44:25.543Z",
+  "lastModifiedDate": "2019-06-14T12:25:05.941Z",
+  "entitlementName": "b61bc70641044a3c97f3b233c0d32a55",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

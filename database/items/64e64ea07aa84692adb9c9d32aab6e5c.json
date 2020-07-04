@@ -1,0 +1,56 @@
+{
+  "id": "64e64ea07aa84692adb9c9d32aab6e5c",
+  "title": "IrisDLC2Staging",
+  "description": "IrisDLC2Staging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-14T17:36:58.939Z",
+  "lastModifiedDate": "2020-02-14T18:06:34.325Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LegacyoftheAncients"
+    }
+  },
+  "entitlementName": "64e64ea07aa84692adb9c9d32aab6e5c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1fc0972324a24de68d55f45fd0ea19e8",
+      "appId": "IrisDLC2Staging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-11-12T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

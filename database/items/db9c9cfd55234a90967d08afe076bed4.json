@@ -1,0 +1,77 @@
+{
+  "id": "db9c9cfd55234a90967d08afe076bed4",
+  "title": "RUNE II World Map",
+  "description": "RUNE II World Map",
+  "longDescription": "Digital Download",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/cosmos/item/RUNE II World Map Box Art-1280x1440-45eb7574f60315a6fec6d20cff3420b8.jpg",
+      "md5": "45eb7574f60315a6fec6d20cff3420b8",
+      "width": 1280,
+      "height": 1440,
+      "size": 1350488,
+      "uploadedDate": "2020-04-30T19:04:49.235Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cosmos/item/RUNE II World Map Quick Launch-1920x1080-e590939c02607ae1148769f6e87daa15.jpg",
+      "md5": "e590939c02607ae1148769f6e87daa15",
+      "width": 1920,
+      "height": 1080,
+      "size": 1439648,
+      "uploadedDate": "2020-04-30T19:05:15.488Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cosmos",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-06T19:10:46.410Z",
+  "lastModifiedDate": "2020-04-30T19:05:21.725Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RuneIIWorldMap"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "db9c9cfd55234a90967d08afe076bed4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "635919f6e4bf43acae7b6535598bed59",
+      "appId": "CosmosWorldMap",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-27T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ragnarok Game, LLC",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

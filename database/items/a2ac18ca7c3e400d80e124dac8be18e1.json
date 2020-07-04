@@ -1,0 +1,38 @@
+{
+  "id": "a2ac18ca7c3e400d80e124dac8be18e1",
+  "title": "Create_CommunitySpotlight_03",
+  "description": "CTF-Pistola by Jayoplus",
+  "longDescription": "",
+  "technicalDetails": "https://www.epicgames.com/unrealtournament/community-contributors?utm_source=launcher&utm_medium=software&utm_campaign=utcreatetab",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/pistola-1920x1080-90bb38d103ae392b02d1c3a9d068be4e.png",
+      "md5": "90bb38d103ae392b02d1c3a9d068be4e",
+      "width": 1920,
+      "height": 1080,
+      "size": 3868468,
+      "uploadedDate": "2017-02-24T21:56:17.806Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "projects"
+    },
+    {
+      "path": "projects/showcases"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-02-03T20:22:50.255Z",
+  "lastModifiedDate": "2017-02-24T21:57:06.727Z",
+  "entitlementName": "c4d2be6831fe41f68340a9f399157ad3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

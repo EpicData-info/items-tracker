@@ -1,0 +1,111 @@
+{
+  "id": "8fa9386dd762471187d468823cbe1f3d",
+  "title": "The Jackbox Party Pack 5",
+  "description": "The Jackbox Party Pack 5",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/geranium/item/JackboxPartyPack5_Hero-2580x1450-a31ed86be178b54ce04567b1baa6184f.jpg",
+      "md5": "a31ed86be178b54ce04567b1baa6184f",
+      "width": 2580,
+      "height": 1450,
+      "size": 365931,
+      "uploadedDate": "2019-02-06T15:21:27.285Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/geranium/item/TJBPP5_Game Icon-400x400-83b64b456879949176c498467a656d3a.png",
+      "md5": "83b64b456879949176c498467a656d3a",
+      "width": 400,
+      "height": 400,
+      "size": 68320,
+      "uploadedDate": "2019-02-06T15:33:40.750Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/geranium/item/tjbpp5_logo-1248x711-7421831144cbd106ef73a2dd879a3073.png",
+      "md5": "7421831144cbd106ef73a2dd879a3073",
+      "width": 1248,
+      "height": 711,
+      "size": 71942,
+      "uploadedDate": "2019-02-07T15:58:13.630Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/geranium/item/JackboxPartyPack5_Hero_Portrait-1280x1420-4743b0b7c13a617cd491dde051168f99.jpg",
+      "md5": "4743b0b7c13a617cd491dde051168f99",
+      "width": 1280,
+      "height": 1420,
+      "size": 249125,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "geranium",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-16T14:07:14.766Z",
+  "lastModifiedDate": "2019-11-19T17:03:53.839Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "geranium"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Jackbox Games"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "JackboxPartyPack5"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac,Win32"
+    }
+  },
+  "entitlementName": "8fa9386dd762471187d468823cbe1f3d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "df052317f212403cbb5215d5b2ff5f40",
+      "appId": "Geranium",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-01-16T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

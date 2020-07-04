@@ -1,0 +1,55 @@
+{
+  "id": "d8c4afa980164ddcafbf3e1d6e1e7783",
+  "title": "Hello Mod Kit Dev",
+  "description": "Hello Mod Kit Dev",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "engines"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "helloneighbor",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-19T00:13:53.915Z",
+  "lastModifiedDate": "2020-01-30T14:26:28.506Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HelloNeighborModKitStage"
+    }
+  },
+  "entitlementName": "d8c4afa980164ddcafbf3e1d6e1e7783",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "792efc35bca9405d978a97d60b7c23d6",
+      "appId": "HelloNeighborEditorStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2017-09-25T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "eulaIds": [
+    "(helloneighbor && ue_games)"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

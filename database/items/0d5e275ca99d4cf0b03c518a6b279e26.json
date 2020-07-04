@@ -1,0 +1,107 @@
+{
+  "id": "0d5e275ca99d4cf0b03c518a6b279e26",
+  "title": "Lea Observatory",
+  "description": "A new Deathmatch level from community developer Neil Moore.",
+  "longDescription": "Lea is a Deathmatch map that is ideally suited for 2-to-4 players.  Its compact layout and use of advanced movement systems make for competitive Duel matches and intense Deathmatch gameplay.  This map is based on a design by Cédric \"HTK\" Mourouvin.\n\n Located in the constellation Lyra, about 1,200 light years from Earth and orbiting Kepler-62, lies the blue gem known as Lea. Though tropical storms often rage on the surface, interesting aquatic life has been discovered in the depths of Lea's oceans. Pure Labs, backed by funding from the Liandri Corporation, built this deep sea observatory that doubles as an Arena for the Grand Tournament.",
+  "technicalDetails": "",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ut/item/LEA_Thumbnail-300x250-ed5a0f330863a86904f6e6c8e8da0e6f.png",
+      "md5": "ed5a0f330863a86904f6e6c8e8da0e6f",
+      "width": 300,
+      "height": 250,
+      "size": 130712,
+      "uploadedDate": "2015-02-26T20:45:32.490Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/LEA_Shot02-1920x1080-91fbf144d342530b29dc457e8d4475d6.png",
+      "md5": "91fbf144d342530b29dc457e8d4475d6",
+      "width": 1920,
+      "height": 1080,
+      "size": 2853770,
+      "uploadedDate": "2015-02-26T20:45:51.744Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/LEA_Shot01-1920x1080-5eb969717db4b873d95464b75085ef41.png",
+      "md5": "5eb969717db4b873d95464b75085ef41",
+      "width": 1920,
+      "height": 1080,
+      "size": 2663629,
+      "uploadedDate": "2015-02-26T20:45:43.911Z"
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ut/item/LEA_Header-1400x300-328d532a7844137c66f652897ca0f6d8.png",
+      "md5": "328d532a7844137c66f652897ca0f6d8",
+      "width": 1400,
+      "height": 300,
+      "size": 614019,
+      "uploadedDate": "2015-02-26T20:45:37.616Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/LEA_Shot05-1920x1080-c571cff339eb0663277adda0c7b478df.png",
+      "md5": "c571cff339eb0663277adda0c7b478df",
+      "width": 1920,
+      "height": 1080,
+      "size": 2473721,
+      "uploadedDate": "2015-02-26T20:46:16.230Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/LEA_Shot03-1920x1080-4d2f2f52925856a29e9fe22f6f2ddaf0.png",
+      "md5": "4d2f2f52925856a29e9fe22f6f2ddaf0",
+      "width": 1920,
+      "height": 1080,
+      "size": 2590055,
+      "uploadedDate": "2015-02-26T20:45:59.409Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/LEA_Shot04-1920x1080-099400a322933fe45655b0fd5ca1008c.png",
+      "md5": "099400a322933fe45655b0fd5ca1008c",
+      "width": 1920,
+      "height": 1080,
+      "size": 2698817,
+      "uploadedDate": "2015-02-26T20:46:05.104Z"
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ut/item/LEA_Featured-600x600-b831f8a99670e56cf5c98ada2255c773.png",
+      "md5": "b831f8a99670e56cf5c98ada2255c773",
+      "width": 600,
+      "height": 600,
+      "size": 536654,
+      "uploadedDate": "2015-02-26T20:44:47.637Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-01-23T14:57:14.067Z",
+  "lastModifiedDate": "2019-05-13T14:32:30.584Z",
+  "customAttributes": {
+    "Type": {
+      "type": "STRING",
+      "value": "Map"
+    }
+  },
+  "entitlementName": "0d5e275ca99d4cf0b03c518a6b279y77",
+  "entitlementType": "EXECUTABLE",
+  "entitlementStartDate": "2015-01-22T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "developer": "Neil \"CaptainMigraine\" Moore",
+  "developerId": "o-7cafe6eb18498da8b8d8c22b9a0069",
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,80 @@
+{
+  "id": "c9924443d06e4b9bb8a67eee7ab0b4e4",
+  "title": "Maneater Pre-Purchase",
+  "description": "Maneater Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/turtle/item/ManEater_Logo__White_Red1-637x355-15c73709b3a9ca0defd6dcdff1078883.png",
+      "md5": "15c73709b3a9ca0defd6dcdff1078883",
+      "width": 637,
+      "height": 355,
+      "size": 39707,
+      "uploadedDate": "2018-11-30T01:27:08.723Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/turtle/item/maneaterWide-2580x1456-a66dd2422bbbb9feef9304933254bb78.jpg",
+      "md5": "a66dd2422bbbb9feef9304933254bb78",
+      "width": 2580,
+      "height": 1456,
+      "size": 414334,
+      "uploadedDate": "2019-10-24T22:24:45.573Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/turtle/item/Manater_Epic_PortraitPromo1288x1450 (1)-1288x1450-3f3224ed80617513f63a140ee53a4aff.jpg",
+      "md5": "3f3224ed80617513f63a140ee53a4aff",
+      "width": 1288,
+      "height": 1450,
+      "size": 233776,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "turtle",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-25T17:29:32.836Z",
+  "lastModifiedDate": "2020-05-22T12:50:13.773Z",
+  "customAttributes": {
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "{}"
+    }
+  },
+  "entitlementName": "c9924443d06e4b9bb8a67eee7ab0b4e4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4f1d06f5c4a94e99b946c593180b4b66",
+      "appId": "TurtleDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2018-12-06T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

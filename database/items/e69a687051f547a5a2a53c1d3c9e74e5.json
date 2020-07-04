@@ -1,0 +1,23 @@
+{
+  "id": "e69a687051f547a5a2a53c1d3c9e74e5",
+  "title": "Starter Pack C",
+  "description": "Contains an agent and defense pack, as well as a fixed agent.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "starter-packs"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2017-05-25T23:16:42.230Z",
+  "lastModifiedDate": "2017-06-20T17:56:02.788Z",
+  "entitlementName": "e69a687051f547a5a2a53c1d3c9e74e5",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

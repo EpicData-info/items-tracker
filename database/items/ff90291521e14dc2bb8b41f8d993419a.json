@@ -1,0 +1,35 @@
+{
+  "id": "ff90291521e14dc2bb8b41f8d993419a",
+  "title": "DLC 12 Audience",
+  "description": "Digital Deluxe Edition Upgrade (not an edition, the DLC included in the Deluxe Edition)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-03T18:42:57.351Z",
+  "lastModifiedDate": "2020-06-24T18:58:14.246Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ff90291521e14dc2bb8b41f8d993419a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

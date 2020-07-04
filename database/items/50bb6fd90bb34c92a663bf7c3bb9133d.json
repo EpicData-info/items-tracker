@@ -1,0 +1,52 @@
+{
+  "id": "50bb6fd90bb34c92a663bf7c3bb9133d",
+  "title": "Gener",
+  "description": "Gener",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T17:23:18.159Z",
+  "lastModifiedDate": "2020-06-23T14:39:05.581Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Gener"
+    }
+  },
+  "entitlementName": "50bb6fd90bb34c92a663bf7c3bb9133d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e5bea0f683f345918aeb03a62970e691",
+      "appId": "4ddac058fd31424aa5daf21fd388dc1b",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

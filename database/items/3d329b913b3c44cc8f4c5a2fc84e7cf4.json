@@ -1,0 +1,24 @@
+{
+  "id": "3d329b913b3c44cc8f4c5a2fc84e7cf4",
+  "title": "FN Jess",
+  "description": "FN Jess",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "cross_promo"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-11T16:00:56.443Z",
+  "lastModifiedDate": "2019-11-20T18:15:25.452Z",
+  "entitlementName": "FN_BB_Jess",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

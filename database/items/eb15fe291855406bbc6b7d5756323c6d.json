@@ -1,0 +1,24 @@
+{
+  "id": "eb15fe291855406bbc6b7d5756323c6d",
+  "title": "MinDevAudience",
+  "description": "MinDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "min",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-12T16:23:06.479Z",
+  "lastModifiedDate": "2019-12-09T22:50:19.264Z",
+  "entitlementName": "eb15fe291855406bbc6b7d5756323c6d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Supergiant Games LLC",
+  "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

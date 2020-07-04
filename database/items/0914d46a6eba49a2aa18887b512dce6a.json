@@ -1,0 +1,96 @@
+{
+  "id": "0914d46a6eba49a2aa18887b512dce6a",
+  "title": "Manifold Garden",
+  "description": "Manifold Garden",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/item/ManifoldGarden-Epic-LandscapeOfferImage-2560x1400-bddfeccde52befafbed3ed90d47a8e50-2560x1400-bddfeccde52befafbed3ed90d47a8e50.png",
+      "md5": "bddfeccde52befafbed3ed90d47a8e50",
+      "width": 2560,
+      "height": 1400,
+      "size": 6228001,
+      "uploadedDate": "2020-06-11T19:19:35.572Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/item/ManifoldGarden-EpicGames-BoxArt-860x1148-00858458c54412b369455ba5b7a40c9a.png",
+      "md5": "00858458c54412b369455ba5b7a40c9a",
+      "width": 860,
+      "height": 1148,
+      "size": 1920711,
+      "uploadedDate": "2020-06-11T19:19:51.485Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "015763e579d4479cb1ef7780bf91804f",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-12T21:26:47.629Z",
+  "lastModifiedDate": "2020-06-11T19:20:13.965Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "015763e579d4479cb1ef7780bf91804f"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/William Chyr Studio/Manifold Garden/Saves/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ManifoldGarden"
+    }
+  },
+  "entitlementName": "0914d46a6eba49a2aa18887b512dce6a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0fc736e852b34388bff2aba8aa8a866e",
+      "appId": "Lorikeet",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-07-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "William Chyr Studio",
+  "developerId": "o-9j6lnh9adzvfntd9d8ypjc39wb9d3k",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

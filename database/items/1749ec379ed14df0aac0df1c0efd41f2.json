@@ -1,0 +1,82 @@
+{
+  "id": "1749ec379ed14df0aac0df1c0efd41f2",
+  "title": "Create_Tutorial_01",
+  "description": "Build Your Own Weapon",
+  "longDescription": "Customize properties, add your own unique functionality.",
+  "technicalDetails": "https://www.epicgames.com/unrealtournament/tutorials/custom-weapon?utm_source=launcher&utm_medium=software&utm_campaign=utcreatetab",
+  "keyImages": [
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ut/item/Icon_WeaponTut06-64x64-4bab93c92494c932216885b3a53e452c.png",
+      "md5": "4bab93c92494c932216885b3a53e452c",
+      "width": 64,
+      "height": 64,
+      "size": 7970,
+      "uploadedDate": "2015-02-26T21:30:29.331Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/WeapontutorialImage-450x350-b0d54234628715ce9a62d50e118d0fb6.png",
+      "md5": "b0d54234628715ce9a62d50e118d0fb6",
+      "width": 450,
+      "height": 350,
+      "size": 231845,
+      "uploadedDate": "2015-02-26T21:32:59.891Z"
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ut/item/Icon_WeaponTut01-64x64-cf9cd2244d72cc4f515db7e8f8579185.png",
+      "md5": "cf9cd2244d72cc4f515db7e8f8579185",
+      "width": 64,
+      "height": 64,
+      "size": 7112,
+      "uploadedDate": "2015-02-26T21:30:24.418Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "projects/tutorials"
+    },
+    {
+      "path": "projects"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-02-03T00:08:35.553Z",
+  "lastModifiedDate": "2016-04-22T18:42:41.907Z",
+  "customAttributes": {
+    "TutorialDifficultly": {
+      "type": "STRING",
+      "value": "beginner"
+    },
+    "FollowUpTutorial01": {
+      "type": "STRING",
+      "value": "Crazy Weapon Skins"
+    },
+    "FollowUpTutorial02Link": {
+      "type": "STRING",
+      "value": "http://learn.unrealtournament.com/tutorials/custom-impact-effect?utm_source=launcher&utm_medium=software&utm_campaign=utcreatetab"
+    },
+    "FollowUpTutorial02": {
+      "type": "STRING",
+      "value": "Set Targets on Fire"
+    },
+    "TutorialLength": {
+      "type": "STRING",
+      "value": "15 min"
+    },
+    "FollowUpTutorial01Link": {
+      "type": "STRING",
+      "value": "http://learn.unrealtournament.com/tutorials/weapon-cosmetics?utm_source=launcher&utm_medium=software&utm_campaign=utcreatetab"
+    }
+  },
+  "entitlementName": "1749ec379ed14df0aac0df1c0efd41f2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

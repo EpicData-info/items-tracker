@@ -1,0 +1,25 @@
+{
+  "id": "a9f95b60e365472f86bb6b81b8cbb1ae",
+  "title": "Fortnite External Dev - NGD",
+  "description": "Fortnite External Dev - NGD",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-26T18:27:39.636Z",
+  "lastModifiedDate": "2019-11-26T18:27:39.636Z",
+  "entitlementName": "a9f95b60e365472f86bb6b81b8cbb1ae",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

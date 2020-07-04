@@ -1,0 +1,36 @@
+{
+  "id": "f830d85ccf344ef1857d73248e75b85d",
+  "title": "Epic Store Exclusive Audience",
+  "description": "Epic Store Exclusive Audience",
+  "longDescription": "Epic Store Exclusive Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "076207fa2b5c4803a636af606c3c28b7",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-18T02:11:44.986Z",
+  "lastModifiedDate": "2020-04-28T14:44:28.426Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f830d85ccf344ef1857d73248e75b85d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

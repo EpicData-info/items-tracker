@@ -1,0 +1,33 @@
+{
+  "id": "b013aca6347d4e198a0494cd92301918",
+  "title": "DevJacinthAudience",
+  "description": "DevJacinthAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "conanexiles",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-09T19:51:59.370Z",
+  "lastModifiedDate": "2020-06-25T14:28:27.423Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b013aca6347d4e198a0494cd92301918",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Funcom",
+  "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

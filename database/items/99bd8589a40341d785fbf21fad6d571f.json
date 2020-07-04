@@ -1,0 +1,51 @@
+{
+  "id": "99bd8589a40341d785fbf21fad6d571f",
+  "title": "BoxfishPlaytest",
+  "description": "BoxfishPlaytest",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-20T15:09:16.789Z",
+  "lastModifiedDate": "2020-04-24T03:59:22.778Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BoxfishPlaytest"
+    }
+  },
+  "entitlementName": "99bd8589a40341d785fbf21fad6d571f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ff72966ece804060b93d819874ac516b",
+      "appId": "63a8531d46eb49a9a4ddb04d89d089be",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-03-20T15:14:49.434Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": "1b249225411b4ba2bbeb8ccdba4fbc4e",
+  "title": "Anno Pre-Load Test Audience",
+  "description": "Anno Pre-Load Test Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "oregano",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-10T16:14:43.541Z",
+  "lastModifiedDate": "2019-12-10T16:48:35.367Z",
+  "entitlementName": "1b249225411b4ba2bbeb8ccdba4fbc4e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

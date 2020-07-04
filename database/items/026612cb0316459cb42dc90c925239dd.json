@@ -1,0 +1,35 @@
+{
+  "id": "026612cb0316459cb42dc90c925239dd",
+  "title": "Play_Header",
+  "description": "UNREAL TOURNAMENT",
+  "longDescription": "Challenge other players or Unreal Tournament’s legendary AI opponents in fast, skill-based competition.  This reimagining of the classic first person shooter is being developed by Epic Games with the help of the community.",
+  "technicalDetails": "The Pre-Alpha Season has been extended.  Unlock new content now!",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/UT_Play_Header-1920x1200-74c5108b2459047a082e1b5615fc86be.png",
+      "md5": "74c5108b2459047a082e1b5615fc86be",
+      "width": 1920,
+      "height": 1200,
+      "size": 646847,
+      "uploadedDate": "2017-02-23T20:38:18.605Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layout"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2017-02-23T20:40:44.242Z",
+  "lastModifiedDate": "2017-12-04T21:38:15.623Z",
+  "entitlementName": "026612cb0316459cb42dc90c925239dd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

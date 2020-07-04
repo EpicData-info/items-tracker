@@ -1,0 +1,35 @@
+{
+  "id": "d069133b62da478e9cdef994bdb22f14",
+  "title": "Call_To_Action_01",
+  "description": "Report Bugs Here!",
+  "technicalDetails": "https://qa.satisfactorygame.com/",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/crab/item/ResourceImage1_QA-960x497-15d43cfdc5e03cff547c97c4343d6508.png",
+      "md5": "15d43cfdc5e03cff547c97c4343d6508",
+      "width": 960,
+      "height": 497,
+      "size": 372798,
+      "uploadedDate": "2018-10-17T14:04:17.017Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "crab",
+  "status": "ACTIVE",
+  "creationDate": "2018-10-17T14:04:25.128Z",
+  "lastModifiedDate": "2019-05-14T17:02:13.352Z",
+  "entitlementName": "d069133b62da478e9cdef994bdb22f14",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

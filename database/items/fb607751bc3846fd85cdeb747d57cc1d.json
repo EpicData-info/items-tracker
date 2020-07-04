@@ -1,0 +1,46 @@
+{
+  "id": "fb607751bc3846fd85cdeb747d57cc1d",
+  "title": "VioletearGeneralAudience",
+  "description": "VioletearGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/d1479d6f93fa4e6ca4415e83a7a5d703/item/ESRB_CostumeQuest-842x404-c9654452ed4c0d2fa9dab08b11f9db1e.jpg",
+      "md5": "c9654452ed4c0d2fa9dab08b11f9db1e",
+      "width": 842,
+      "height": 404,
+      "size": 85888,
+      "uploadedDate": "2020-01-08T01:45:25.749Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "d1479d6f93fa4e6ca4415e83a7a5d703",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-04T22:04:57.919Z",
+  "lastModifiedDate": "2020-01-08T01:45:40.232Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Win32"
+    }
+  },
+  "entitlementName": "fb607751bc3846fd85cdeb747d57cc1d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Double Fine",
+  "developerId": "o-5a763b52xcghd2yclvn8t5jdlfhlrv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "selfRefundable": true,
+  "unsearchable": false
+}

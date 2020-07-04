@@ -1,0 +1,49 @@
+{
+  "id": "3a3161c15a41416e935094525033b4c1",
+  "title": "Train Sim World Dev Kit",
+  "description": "Train Sim World Dev Kit",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/trainsimworld/item/TSW_White-868x350-1ff3d28c6dbe14c3a8bcd671b5aae82f.png",
+      "md5": "1ff3d28c6dbe14c3a8bcd671b5aae82f",
+      "width": 868,
+      "height": 350,
+      "size": 33182,
+      "uploadedDate": "2018-11-15T18:45:11.640Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "engines"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "trainsimworld",
+  "status": "ACTIVE",
+  "creationDate": "2018-09-26T19:32:36.089Z",
+  "lastModifiedDate": "2019-05-02T18:01:31.330Z",
+  "entitlementName": "trainsimworld",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d4411d6fb33e4d21b364fca8816aca7a",
+      "appId": "TrainSim",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2018-10-26T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

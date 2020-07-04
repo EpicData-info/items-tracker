@@ -1,0 +1,55 @@
+{
+  "id": "666f0af7bdab424883336dcfc1ec60c2",
+  "title": "TanagerWario",
+  "description": "TanagerWario",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-23T16:19:37.196Z",
+  "lastModifiedDate": "2020-03-23T17:19:27.741Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TanagerWario"
+    }
+  },
+  "entitlementName": "666f0af7bdab424883336dcfc1ec60c2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "90c1887c4b1f4e458eb2e89f817f999e",
+      "appId": "82c2aab9653a47d290f8eafe5e28ea2a",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

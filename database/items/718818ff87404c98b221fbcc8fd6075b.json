@@ -1,0 +1,61 @@
+{
+  "id": "718818ff87404c98b221fbcc8fd6075b",
+  "title": "AlbatrossStaging",
+  "description": "AlbatrossStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "78de1f402ddf486ebcbf9ba3009d6198",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-10T19:30:12.075Z",
+  "lastModifiedDate": "2020-05-12T16:59:03.481Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Coffee Stain Publishing/Huntdown/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Coffee Stain Publishing/Huntdown/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AlbatrossStaging"
+    }
+  },
+  "entitlementName": "718818ff87404c98b221fbcc8fd6075b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ceb62f38108649d68ee393c4cc4081be",
+      "appId": "624215703bb24346afe52c963e4bd06c",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-09-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Coffee Stain Studios",
+  "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

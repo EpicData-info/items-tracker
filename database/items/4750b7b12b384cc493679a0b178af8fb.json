@@ -1,0 +1,29 @@
+{
+  "id": "4750b7b12b384cc493679a0b178af8fb",
+  "title": "ANNO1800DeluxeEditionAudience",
+  "description": "ANNO1800DeluxeEditionAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "oregano",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-29T14:34:03.380Z",
+  "lastModifiedDate": "2020-03-09T17:02:22.321Z",
+  "entitlementName": "4750b7b12b384cc493679a0b178af8fb",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

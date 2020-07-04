@@ -1,0 +1,83 @@
+{
+  "id": "91afa66fbf744726af33dba391657296",
+  "title": "Unreal Helmet",
+  "description": "100% Style and Zero Headshot Protection",
+  "longDescription": "We all know gibs are messy. Post-match cleanup costs continue to rise year-over-year. With the new Unreal Helmet save yourself from the mess of a match with this full eye protection and helmet. In normal play it is just a helmet. As soon as you tie or take the lead in any game, the gold Unreal Tournament symbol appears on your helmet and your goggles glow gold.",
+  "technicalDetails": "",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/SC_1920x1080_1-1920x1080-b63332e1d47cf06d7dc056fc60c1946c.png",
+      "md5": "b63332e1d47cf06d7dc056fc60c1946c",
+      "width": 1920,
+      "height": 1080,
+      "size": 3502181,
+      "uploadedDate": "2015-02-28T01:53:08.266Z"
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ut/item/1400x300DetailHeader-1400x300-88bf488b179c821eec9a691d80fd9373.png",
+      "md5": "88bf488b179c821eec9a691d80fd9373",
+      "width": 1400,
+      "height": 300,
+      "size": 702686,
+      "uploadedDate": "2015-02-28T01:53:10.794Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ut/item/300X250Thumbnail-300x250-fb232e6e44c08aff11a79a0e4e76f596.png",
+      "md5": "fb232e6e44c08aff11a79a0e4e76f596",
+      "width": 300,
+      "height": 250,
+      "size": 170122,
+      "uploadedDate": "2015-02-28T01:52:51.035Z"
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ut/item/500x500-550x550-a344137ef56161ab079b26ae21180258.png",
+      "md5": "a344137ef56161ab079b26ae21180258",
+      "width": 550,
+      "height": 550,
+      "size": 473176,
+      "uploadedDate": "2015-02-28T01:52:46.274Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/SC_1920x1080_6-1920x1080-4b0e893447427ee510a0fe5594b908e9.png",
+      "md5": "4b0e893447427ee510a0fe5594b908e9",
+      "width": 1920,
+      "height": 1080,
+      "size": 3094121,
+      "uploadedDate": "2015-02-28T01:53:19.109Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/SC_1920x1080_4-1920x1080-d83c170ba7bc94aa00fc768d62fdc01d.png",
+      "md5": "d83c170ba7bc94aa00fc768d62fdc01d",
+      "width": 1920,
+      "height": 1080,
+      "size": 3902887,
+      "uploadedDate": "2015-02-28T01:53:48.077Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-01-23T17:06:23.398Z",
+  "lastModifiedDate": "2019-05-13T14:32:30.584Z",
+  "entitlementName": "0d5e275ca99d4cf0b03c518a6b279f40",
+  "entitlementType": "EXECUTABLE",
+  "entitlementStartDate": "2015-01-22T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "developer": "TeriyakiStyle!",
+  "developerId": "o-32dfd922ba4cacb90574eb9f397342",
+  "endOfSupport": false,
+  "unsearchable": false
+}

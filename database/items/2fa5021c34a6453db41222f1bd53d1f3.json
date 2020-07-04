@@ -1,0 +1,36 @@
+{
+  "id": "2fa5021c34a6453db41222f1bd53d1f3",
+  "title": "Express Package Audience",
+  "description": "Fancy, Funky, & Film Ready Audience",
+  "technicalDetails": "Updated Title (partner ask) 3/3/2020",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "52b90f9a982a404781b189f6a7903226",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-27T20:57:55.839Z",
+  "lastModifiedDate": "2020-05-14T02:03:19.513Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "2fa5021c34a6453db41222f1bd53d1f3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

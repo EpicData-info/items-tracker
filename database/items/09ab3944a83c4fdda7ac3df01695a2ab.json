@@ -1,0 +1,24 @@
+{
+  "id": "09ab3944a83c4fdda7ac3df01695a2ab",
+  "title": "SpyJinx free audience access item",
+  "description": "SpyJinx free audience access item",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-16T20:34:08.236Z",
+  "lastModifiedDate": "2020-03-17T03:15:25.477Z",
+  "entitlementName": "Ocean_Free",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

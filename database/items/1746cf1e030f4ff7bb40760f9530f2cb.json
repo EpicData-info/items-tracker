@@ -1,0 +1,25 @@
+{
+  "id": "1746cf1e030f4ff7bb40760f9530f2cb",
+  "title": "NoodleHaus Audience",
+  "description": "NoodleHaus Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-16T23:50:32.123Z",
+  "lastModifiedDate": "2020-01-16T23:50:32.123Z",
+  "entitlementName": "1746cf1e030f4ff7bb40760f9530f2cb",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

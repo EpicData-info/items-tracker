@@ -1,0 +1,35 @@
+{
+  "id": "6627cb322a954075a60bb39ed1d92c28",
+  "title": "Call_To_Action_03",
+  "description": "WATCH OUR GAMEPLAY TRAILER\n<inverted-tiny-body>VIEW NOW</>",
+  "longDescription": "",
+  "technicalDetails": "https://youtu.be/6qr0-d3eDrc",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/wex/item/BB_img2-635x359-81b3058bd894986b0f53caaca9d7edd0.png",
+      "md5": "81b3058bd894986b0f53caaca9d7edd0",
+      "width": 635,
+      "height": 359,
+      "size": 333400,
+      "uploadedDate": "2017-03-14T16:54:57.373Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layout"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2017-03-14T16:55:19.751Z",
+  "lastModifiedDate": "2017-06-26T18:24:52.335Z",
+  "entitlementName": "6627cb322a954075a60bb39ed1d92c28",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

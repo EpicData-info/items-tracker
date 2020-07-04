@@ -1,0 +1,34 @@
+{
+  "id": "9e5e0f034e4d4403bb2eb9c55c9a162e",
+  "title": "Standard 2020 Bundle Audience",
+  "description": "Standard 2020 Bundle Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5fdcc0dc67294af3be740f362bd976fd",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-05T22:55:52.389Z",
+  "lastModifiedDate": "2020-01-16T17:58:49.823Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9e5e0f034e4d4403bb2eb9c55c9a162e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Wizards of the Coast",
+  "developerId": "o-xlb74ml56wsa5dcfcgrpvu4ywndlmm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

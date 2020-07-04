@@ -1,0 +1,35 @@
+{
+  "id": "4c01dfdcdcd14595a8581217f5f0a255",
+  "title": "WrenDLCGeneralAudience",
+  "description": "WrenDLCGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "wren",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-01T21:37:50.565Z",
+  "lastModifiedDate": "2019-09-06T15:45:37.374Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4c01dfdcdcd14595a8581217f5f0a255",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,101 @@
+{
+  "id": "48171393707541359f3a7dd7257b2757",
+  "title": "Gone Home",
+  "description": "Gone Home",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/52326e805bac4619a4a8fac165363a42/item/EGS_GoneHome_TheFullbrightCompany_S4-510x680-3f3615932db3d3822e5f5da78b2dcd74-510x680-3f3615932db3d3822e5f5da78b2dcd74.jpg",
+      "md5": "3f3615932db3d3822e5f5da78b2dcd74",
+      "width": 510,
+      "height": 680,
+      "size": 98870,
+      "uploadedDate": "2020-03-26T14:29:13.356Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/52326e805bac4619a4a8fac165363a42/item/GoneHome_QuickLaunch-4267x2400-5799b134c7134b4aa477b0949c451cb8.jpg",
+      "md5": "5799b134c7134b4aa477b0949c451cb8",
+      "width": 4267,
+      "height": 2400,
+      "size": 1964666,
+      "uploadedDate": "2020-03-27T17:27:04.394Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "52326e805bac4619a4a8fac165363a42",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-05T18:21:48.048Z",
+  "lastModifiedDate": "2020-03-27T17:27:22.311Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "52326e805bac4619a4a8fac165363a42"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.thefullbrightcompany.gonehome/Saves/"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/The Fullbright Company/Gone Home/Saves/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GoneHome"
+    }
+  },
+  "entitlementName": "48171393707541359f3a7dd7257b2757",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fb2b8adf08cc415f87060d072b243c3d",
+      "appId": "Flier",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2020-03-09T00:00:00.000Z"
+    }
+  ],
+  "developer": "The Fullbright Company",
+  "developerId": "o-3nbn496fvhxljkjn7fwgvhaq4znt37",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

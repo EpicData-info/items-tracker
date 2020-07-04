@@ -1,0 +1,83 @@
+{
+  "id": "6a049cc0655f4a5883784c1425c6c136",
+  "title": "FortniteDevPlaytestL",
+  "description": "FortniteDevPlaytestL",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fn/item/Fortnite_llamacorn_bg-430x250-ba52f51868240271251851bc83010ec8-430x250-ba52f51868240271251851bc83010ec8.png",
+      "md5": "6ac842200fefc03f29abc889761734a1",
+      "width": 430,
+      "height": 250,
+      "size": 90716,
+      "uploadedDate": "2019-11-02T17:37:38.337Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/fn/item/Fortnite_11BR_S2-1280x1440-7f86ba3d9ce5bf6c957e627613d8ce06-1280x1440-48e7a2c90e9fbe876803f04a09b841c1.jpg",
+      "md5": "48e7a2c90e9fbe876803f04a09b841c1",
+      "width": 1280,
+      "height": 1440,
+      "size": 2223559,
+      "uploadedDate": "2019-11-21T17:14:56.647Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/fn/item/Fortnite_logo_white-430x250-dac6db14efb7756ab3c22d0d5457067d-430x250-dac6db14efb7756ab3c22d0d5457067d.png",
+      "md5": "dac6db14efb7756ab3c22d0d5457067d",
+      "width": 430,
+      "height": 250,
+      "size": 7339,
+      "uploadedDate": "2019-11-21T17:15:04.458Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-02T17:39:40.377Z",
+  "lastModifiedDate": "2019-11-21T17:15:07.167Z",
+  "customAttributes": {
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "HasGateKeeper": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "FortniteDevPlaytestL",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cb30eafa3fc8436085f8b06defe79a17",
+      "appId": "FortniteDevPlaytestL",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-11-02T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

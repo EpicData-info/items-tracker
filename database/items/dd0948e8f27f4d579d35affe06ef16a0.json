@@ -1,0 +1,47 @@
+{
+  "id": "dd0948e8f27f4d579d35affe06ef16a0",
+  "title": "ButtercupGeneralAudience",
+  "description": "ButtercupGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/buttercup/item/ESRB_WalkingDead2-842x404-dd9c83dc010abf80acd20939c2c5ffcb.jpg",
+      "md5": "dd9c83dc010abf80acd20939c2c5ffcb",
+      "width": 842,
+      "height": 404,
+      "size": 111180,
+      "uploadedDate": "2020-01-08T15:33:39.131Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "buttercup",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-08T23:05:09.752Z",
+  "lastModifiedDate": "2020-01-08T15:33:42.588Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "dd0948e8f27f4d579d35affe06ef16a0",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

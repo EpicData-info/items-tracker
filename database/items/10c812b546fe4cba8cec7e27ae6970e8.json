@@ -1,0 +1,118 @@
+{
+  "id": "10c812b546fe4cba8cec7e27ae6970e8",
+  "title": "Phoenix Point",
+  "description": "Phoenix Point",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_GameIcon_400x400-400x400-3077494a8cfa2a464958203163c65722.png",
+      "md5": "3077494a8cfa2a464958203163c65722",
+      "width": 400,
+      "height": 400,
+      "size": 7129,
+      "uploadedDate": "2019-03-12T17:21:14.529Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/iris/item/PP key art EGS Update 5 vertical-860x1148-6b1ebf4b03ba2a710cb3c71afe297686.jpg",
+      "md5": "6b1ebf4b03ba2a710cb3c71afe297686",
+      "width": 860,
+      "height": 1148,
+      "size": 418898,
+      "uploadedDate": "2020-06-11T18:29:50.516Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/iris/item/PP key art EGS Update 5 horizontal-2560x1440-ca5a2c41e3a8b80daee3d5a46ce89a4b.jpg",
+      "md5": "ca5a2c41e3a8b80daee3d5a46ce89a4b",
+      "width": 2560,
+      "height": 1440,
+      "size": 861088,
+      "uploadedDate": "2020-06-11T18:30:00.413Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-15T16:22:06.508Z",
+  "lastModifiedDate": "2020-06-11T18:30:04.072Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "iris"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.snapshotgames.phoenixpoint/EGS/{EpicID}/"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Snapshot Games Inc/Phoenix Point/EGS/{EpicID}/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "LocalData/"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1575397800"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PhoenixPoint"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "10c812b546fe4cba8cec7e27ae6970e8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ad3e4c393c774a9e942771ea933a0634",
+      "appId": "Iris",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-02-15T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

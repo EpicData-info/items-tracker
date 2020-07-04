@@ -1,0 +1,25 @@
+{
+  "id": "635efca244f4404fbe6ed0600df8682b",
+  "title": "Fortnite Event - World Cup 2019 Participant",
+  "description": "Fortnite Event - World Cup 2019 Participant",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-12T01:08:19.293Z",
+  "lastModifiedDate": "2019-07-12T01:08:46.227Z",
+  "entitlementName": "635efca244f4404fbe6ed0600df8682b",
+  "entitlementType": "AUDIENCE",
+  "entitlementEndDate": "2019-08-30T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

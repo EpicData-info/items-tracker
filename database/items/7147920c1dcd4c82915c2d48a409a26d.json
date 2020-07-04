@@ -1,0 +1,96 @@
+{
+  "id": "7147920c1dcd4c82915c2d48a409a26d",
+  "title": "Metro Last Light Redux",
+  "description": "Metro Last Light Redux",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/c5e786eddfd041caa9984213e3f9621d/item/Game_Logo_MetroLL-Redux-1405x800-ec83b03aee77d67518e84b19de861cd2.png",
+      "md5": "ec83b03aee77d67518e84b19de861cd2",
+      "width": 1405,
+      "height": 800,
+      "size": 379939,
+      "uploadedDate": "2019-05-07T19:49:52.868Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/c5e786eddfd041caa9984213e3f9621d/item/MLL-Redux_Library_Primary_Promo-2580x1450-5bff756f6ec63345932141e78b7f4a1b.jpg",
+      "md5": "5bff756f6ec63345932141e78b7f4a1b",
+      "width": 2580,
+      "height": 1450,
+      "size": 361157,
+      "uploadedDate": "2019-05-07T19:50:08.954Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/c5e786eddfd041caa9984213e3f9621d/item/MLL-Redux_Portrait_Promo-1280x1420-8a657481ae263cf6f7c53c1e8b0d7df0.jpg",
+      "md5": "8a657481ae263cf6f7c53c1e8b0d7df0",
+      "width": 1280,
+      "height": 1420,
+      "size": 269347,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c5e786eddfd041caa9984213e3f9621d",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-22T16:46:31.582Z",
+  "lastModifiedDate": "2019-11-19T17:03:12.502Z",
+  "customAttributes": {
+    "PresenceId": {
+      "type": "STRING",
+      "value": "c5e786eddfd041caa9984213e3f9621d"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MetroLastLightRedux"
+    }
+  },
+  "entitlementName": "7147920c1dcd4c82915c2d48a409a26d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "090fe77e347f4ceaa875ce6139dc8aac",
+      "appId": "Speedwell",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-22T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "4e1744f6d5d142a29c45fb29cd49f7fd",
+  "title": "Bus Simulator 18 Editor",
+  "description": "BUS SIMULATOR 18 DEV KIT",
+  "longDescription": "With the extensive modding support of Bus Simulator 18 there are no limits: create routes, build your own buses, create bus liveries, design new maps and share them with the community, or download and install the modding content available from the Steam Workshop to enhance your game experience.",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/bussim18/item/bus1-600x337-56fe6e5166822eade97660bc59c5efce.png",
+      "md5": "56fe6e5166822eade97660bc59c5efce",
+      "width": 600,
+      "height": 337,
+      "size": 341128,
+      "uploadedDate": "2018-05-17T20:09:03.097Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "bussim18",
+  "status": "ACTIVE",
+  "creationDate": "2018-05-17T19:11:03.065Z",
+  "lastModifiedDate": "2018-12-14T20:08:11.581Z",
+  "entitlementName": "4e1744f6d5d142a29c45fb29cd49f7fd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

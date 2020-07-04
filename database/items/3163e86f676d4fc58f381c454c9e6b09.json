@@ -1,0 +1,46 @@
+{
+  "id": "3163e86f676d4fc58f381c454c9e6b09",
+  "title": "Metro Exodus Humble Bundle Standard Audience",
+  "description": "Metro Exodus Humble Bundle Standard Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/ESRB_MetroExodus_M-842x404-ce507cc45e2abb059dadee1fd4cc397c.png",
+      "md5": "ce507cc45e2abb059dadee1fd4cc397c",
+      "width": 842,
+      "height": 404,
+      "size": 69269,
+      "uploadedDate": "2019-04-23T18:58:46.487Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "snapdragon",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-11T17:33:10.870Z",
+  "lastModifiedDate": "2019-05-13T14:43:39.964Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3163e86f676d4fc58f381c454c9e6b09",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

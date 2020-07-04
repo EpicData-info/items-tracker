@@ -1,0 +1,121 @@
+{
+  "id": "ec6ed5344a904ea78729113d80818d18",
+  "title": "World War Z",
+  "description": "World War Z",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/wombat/item/wwz_logo_400x400-400x400-0dc2a56a36635998206f055028192c7a-400x400-0dc2a56a36635998206f055028192c7a.png",
+      "md5": "0dc2a56a36635998206f055028192c7a",
+      "width": 400,
+      "height": 400,
+      "size": 36562,
+      "uploadedDate": "2018-11-30T01:30:25.251Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wombat/item/PrimaryPromoImage_2580x1450-2580x1450-5e1361a6f3375c53f02c60efb73cdf4d.jpg",
+      "md5": "5e1361a6f3375c53f02c60efb73cdf4d",
+      "width": 2580,
+      "height": 1450,
+      "size": 121342,
+      "uploadedDate": "2019-01-25T15:06:02.538Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wombat/item/wwz_logo_400x400-400x400-cdbe8a4526d2ef1a48c6fc1348c3120b.png",
+      "md5": "cdbe8a4526d2ef1a48c6fc1348c3120b",
+      "width": 400,
+      "height": 400,
+      "size": 11144,
+      "uploadedDate": "2019-04-08T15:14:48.954Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/wombat/item/WWZ Portrait-865x960-9f5446b7c1f3d9a2d860dfb096900f8c-865x960-9f5446b7c1f3d9a2d860dfb096900f8c.jpg",
+      "md5": "9f5446b7c1f3d9a2d860dfb096900f8c",
+      "width": 865,
+      "height": 960,
+      "size": 46284,
+      "uploadedDate": "2019-11-20T21:09:26.203Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wombat",
+  "status": "ACTIVE",
+  "creationDate": "2018-11-30T01:30:42.994Z",
+  "lastModifiedDate": "2020-05-05T10:00:00.222Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "wombat"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Saber/WWZ/client/storage/{EpicID}/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "logs/,log.flg,video.dat,sound.dat"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1555401600"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WorldWarZ"
+    }
+  },
+  "entitlementName": "ec6ed5344a904ea78729113d80818d18",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6945de4bcee9468b869efc68898704c5",
+      "appId": "Wombat",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2018-11-30T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

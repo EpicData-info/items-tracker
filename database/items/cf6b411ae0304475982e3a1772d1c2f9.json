@@ -1,0 +1,35 @@
+{
+  "id": "cf6b411ae0304475982e3a1772d1c2f9",
+  "title": "Call_To_Action_01",
+  "description": "Get the app on Steam",
+  "technicalDetails": "https://store.steampowered.com/app/665920/SHOWMAKER/",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/showmaker/item/1_960x497-960x497-f65bfadbae02cdac87e0247cb9acf039.png",
+      "md5": "f65bfadbae02cdac87e0247cb9acf039",
+      "width": 960,
+      "height": 497,
+      "size": 631892,
+      "uploadedDate": "2018-08-27T19:32:21.123Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "showmaker",
+  "status": "ACTIVE",
+  "creationDate": "2018-08-27T13:59:03.952Z",
+  "lastModifiedDate": "2018-09-04T16:55:06.504Z",
+  "entitlementName": "cf6b411ae0304475982e3a1772d1c2f9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

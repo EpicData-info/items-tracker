@@ -1,0 +1,63 @@
+{
+  "id": "32a784d2e69e4d66ad7aadc4f6a8de5c",
+  "title": "WombatStaging",
+  "description": "WombatStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wombat",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-29T16:14:11.658Z",
+  "lastModifiedDate": "2020-04-09T01:06:17.024Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Saber/WWZ/client/storage/{EpicID}/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "logs/,log.flg,video.dat,sound.dat"
+    },
+    "folderName": {
+      "type": "STRING",
+      "value": "WombatStaging"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    }
+  },
+  "entitlementName": "32a784d2e69e4d66ad7aadc4f6a8de5c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7b71e74711a24763ae7c9f4e86dbf534",
+      "appId": "WombatStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-01-29T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

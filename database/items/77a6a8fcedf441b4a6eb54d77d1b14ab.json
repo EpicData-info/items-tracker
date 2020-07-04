@@ -1,0 +1,35 @@
+{
+  "id": "77a6a8fcedf441b4a6eb54d77d1b14ab",
+  "title": "SurgeonSimulator2 Wrist Watch Audience",
+  "description": "SurgeonSimulator2 Wrist Watch Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-01T18:34:10.396Z",
+  "lastModifiedDate": "2020-06-13T19:33:59.057Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "77a6a8fcedf441b4a6eb54d77d1b14ab",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bossa Studios",
+  "developerId": "o-2xhhr8jdtcqt7uprgbpvf7g9k2vppu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

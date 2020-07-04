@@ -1,0 +1,23 @@
+{
+  "id": "d0198f23861c483f8d1e4c5373bc02fa",
+  "title": "Golden Gem Chest",
+  "description": "Golden Gem Chest",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "mtx packages"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2016-03-29T02:15:07.109Z",
+  "lastModifiedDate": "2016-03-29T02:15:07.109Z",
+  "entitlementName": "d0198f23861c483f8d1e4c5373bc02fa",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

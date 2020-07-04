@@ -1,0 +1,35 @@
+{
+  "id": "61a2e3546b424fd49a64099558f2f255",
+  "title": "HoatzinPressAudience",
+  "description": "HoatzinPressAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "52b90f9a982a404781b189f6a7903226",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-24T16:44:35.388Z",
+  "lastModifiedDate": "2020-05-14T02:04:12.560Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "61a2e3546b424fd49a64099558f2f255",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

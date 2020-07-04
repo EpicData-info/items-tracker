@@ -1,0 +1,27 @@
+{
+  "id": "df0209e097d342c8bfe8d45932fe2cc1",
+  "title": "Metro Exodus DLC 1 DevAudience",
+  "description": "Metro Exodus DLC 1 DevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "snapdragon",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-25T23:57:04.788Z",
+  "lastModifiedDate": "2019-06-25T23:57:04.788Z",
+  "entitlementName": "df0209e097d342c8bfe8d45932fe2cc1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

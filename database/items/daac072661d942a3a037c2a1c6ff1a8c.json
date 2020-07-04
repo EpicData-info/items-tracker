@@ -1,0 +1,70 @@
+{
+  "id": "daac072661d942a3a037c2a1c6ff1a8c",
+  "title": "Valkyrie",
+  "description": "Valkyrie",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d00c0abafa064bdcb28aa78f705b5716",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-16T20:45:33.569Z",
+  "lastModifiedDate": "2019-09-16T20:49:41.358Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "d00c0abafa064bdcb28aa78f705b5716"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Valkyrie"
+    }
+  },
+  "entitlementName": "daac072661d942a3a037c2a1c6ff1a8c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a1ba84be196e47959a7ca6c2e9628f03",
+      "appId": "Valkyrie",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-16T20:47:19.208Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

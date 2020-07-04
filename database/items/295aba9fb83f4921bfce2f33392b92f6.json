@@ -1,0 +1,72 @@
+{
+  "id": "295aba9fb83f4921bfce2f33392b92f6",
+  "title": "Satisfactory Nightly",
+  "description": "CrabNightly CrabNightly",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/crab/item/ResourceImage3_Trailer-960x497-e13367226188f9abaf818873ee6af28c.png",
+      "md5": "e13367226188f9abaf818873ee6af28c",
+      "width": 960,
+      "height": 497,
+      "size": 384182,
+      "uploadedDate": "2018-11-07T01:04:07.102Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/crab/item/crab_logo-960x497-cf85b958bcd25b114877c386afdd4226.png",
+      "md5": "cf85b958bcd25b114877c386afdd4226",
+      "width": 960,
+      "height": 497,
+      "size": 88906,
+      "uploadedDate": "2018-11-07T01:04:17.886Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "crab",
+  "status": "ACTIVE",
+  "creationDate": "2018-10-23T15:15:06.624Z",
+  "lastModifiedDate": "2019-05-14T17:02:13.352Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SatisfactoryNightly"
+    }
+  },
+  "entitlementName": "crabnightly",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "543820bde5f84eba8ea1c16d8cfc6c47",
+      "appId": "CrabNightly",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2018-10-23T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Coffee Stain Studios",
+  "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

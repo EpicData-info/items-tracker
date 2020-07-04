@@ -1,0 +1,33 @@
+{
+  "id": "64f44cdea752463c80c754b1b7158d56",
+  "title": "GuppyDevAudience",
+  "description": "GuppyDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "deab864e1abf4357b303bcd5ff6fe8da",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-10T02:40:11.424Z",
+  "lastModifiedDate": "2020-05-12T16:01:06.057Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "64f44cdea752463c80c754b1b7158d56",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Activision Publishing, Inc",
+  "developerId": "o-s5myyzhdfhxwftmvf55ph3eu6fbqpz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

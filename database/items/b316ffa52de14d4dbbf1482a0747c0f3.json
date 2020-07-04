@@ -1,0 +1,46 @@
+{
+  "id": "b316ffa52de14d4dbbf1482a0747c0f3",
+  "title": "ChivesGeneralAudience",
+  "description": "ChivesGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/aa5ef9d2f8394731a034504c562e292c/item/ESRB_BadNorth-842x404-6b05c70797ccf8293257cc47d4e2d9aa.jpg",
+      "md5": "6b05c70797ccf8293257cc47d4e2d9aa",
+      "width": 842,
+      "height": 404,
+      "size": 16503,
+      "uploadedDate": "2019-11-13T19:08:52.329Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "aa5ef9d2f8394731a034504c562e292c",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-23T17:42:31.095Z",
+  "lastModifiedDate": "2019-11-21T15:48:54.574Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "b316ffa52de14d4dbbf1482a0747c0f3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "selfRefundable": true,
+  "unsearchable": false
+}

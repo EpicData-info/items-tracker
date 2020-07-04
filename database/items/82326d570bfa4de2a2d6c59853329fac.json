@@ -1,0 +1,33 @@
+{
+  "id": "82326d570bfa4de2a2d6c59853329fac",
+  "title": "MacawGeneralAudience",
+  "description": "MacawGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e1809e1742cb498080d8849b11a99c5a",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-12T21:27:32.390Z",
+  "lastModifiedDate": "2020-06-13T18:18:17.421Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Win32,Mac"
+    }
+  },
+  "entitlementName": "82326d570bfa4de2a2d6c59853329fac",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "The Wandering Band LLC",
+  "developerId": "o-64h79p2hud28hmlx8emazj2ccfe6ml",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

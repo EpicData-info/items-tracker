@@ -1,0 +1,23 @@
+{
+  "id": "e7f85ad987144130bf4812b01074a456",
+  "title": "VIP Level 5",
+  "description": "VIP Level 5",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "account_upgrades"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2016-08-06T16:56:31.916Z",
+  "lastModifiedDate": "2016-12-19T20:18:36.330Z",
+  "entitlementName": "e7f85ad987144130bf4812b01074a456",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "0f8e0b34dacc4e7eaec8ca599e44df99",
+  "title": "MeerkatStaging",
+  "description": "MeerkatStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "meerkat",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-08T18:43:48.568Z",
+  "lastModifiedDate": "2019-05-14T17:51:43.606Z",
+  "entitlementName": "0f8e0b34dacc4e7eaec8ca599e44df99",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "499d5856039047aca82e4e4aedf49b59",
+      "appId": "MeerkatStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-01-08T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

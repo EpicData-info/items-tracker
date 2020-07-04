@@ -1,0 +1,22 @@
+{
+  "id": "c44a703fc87f45878ac1dc6c1a178c10",
+  "title": "Fortnite OT2 User",
+  "description": "Fortnite OT2 User",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2015-03-04T19:41:18.708Z",
+  "lastModifiedDate": "2015-03-04T19:42:10.861Z",
+  "entitlementName": "Fortnite_OT2",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "unsearchable": false
+}

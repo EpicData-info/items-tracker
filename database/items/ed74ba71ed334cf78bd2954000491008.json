@@ -1,0 +1,34 @@
+{
+  "id": "ed74ba71ed334cf78bd2954000491008",
+  "title": "Bundle Explorer Audience",
+  "description": "Bundle Explorer Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5fdcc0dc67294af3be740f362bd976fd",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-05T22:54:10.037Z",
+  "lastModifiedDate": "2020-01-16T17:58:49.823Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ed74ba71ed334cf78bd2954000491008",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Wizards of the Coast",
+  "developerId": "o-xlb74ml56wsa5dcfcgrpvu4ywndlmm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

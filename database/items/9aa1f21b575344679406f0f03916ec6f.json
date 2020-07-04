@@ -1,0 +1,49 @@
+{
+  "id": "9aa1f21b575344679406f0f03916ec6f",
+  "title": "TestSDKArtifact",
+  "description": "TestSDKArtifact Description",
+  "longDescription": "TestSDKArtifact Long Description",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b761d934acc84232bd91cd5358e030f9",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-12T19:02:37.774Z",
+  "lastModifiedDate": "2019-08-22T18:51:45.524Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "TestSDK"
+    }
+  },
+  "entitlementName": "TestSDKArtifact",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4d761108e4994a8ab21c86458f540c9a",
+      "appId": "TestSDKArtifact",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-08-12T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

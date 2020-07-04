@@ -1,0 +1,35 @@
+{
+  "id": "f97846ee07fb442d8f1a586842a28c45",
+  "title": "IronstoneDLC01Audience",
+  "description": "IronstoneDLC01Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "7051eadbb8c2435caf32a9bc0dc17936",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T20:18:33.899Z",
+  "lastModifiedDate": "2020-06-09T16:00:13.927Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "f97846ee07fb442d8f1a586842a28c45",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ludeon Studios",
+  "developerId": "o-hsdwarj24e4ntqdnvu83854narhusv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

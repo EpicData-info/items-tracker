@@ -1,0 +1,78 @@
+{
+  "id": "3423b6da6d8f42a18c27fab671f60366",
+  "title": "Control Pre-Purchase",
+  "description": "Control Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/calluna/item/ControlLogoShaded-670x212-676c3d62788f269f00819451130394e3.png",
+      "md5": "676c3d62788f269f00819451130394e3",
+      "width": 670,
+      "height": 212,
+      "size": 28205,
+      "uploadedDate": "2019-05-06T18:15:49.874Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/calluna/item/Control_Store_Primary_Promo-2580x1450-371d5dd82a48a881145528b4781fe757.jpg",
+      "md5": "371d5dd82a48a881145528b4781fe757",
+      "width": 2580,
+      "height": 1450,
+      "size": 223868,
+      "uploadedDate": "2019-05-06T18:15:56.573Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "calluna",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-06T18:21:17.603Z",
+  "lastModifiedDate": "2019-08-27T09:57:37.084Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1566961200"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "[]"
+    }
+  },
+  "entitlementName": "3423b6da6d8f42a18c27fab671f60366",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "481745c6c46747979a7a13f933473738",
+      "appId": "CallunaDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-05-06T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "505 Games S.r.l.",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

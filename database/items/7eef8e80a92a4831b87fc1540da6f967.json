@@ -1,0 +1,35 @@
+{
+  "id": "7eef8e80a92a4831b87fc1540da6f967",
+  "title": "PlumeriaDevAudience",
+  "description": "PlumeriaDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "plumeria",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-29T20:22:09.770Z",
+  "lastModifiedDate": "2019-05-13T14:33:46.746Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7eef8e80a92a4831b87fc1540da6f967",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Vblank Entertainment",
+  "developerId": "o-xyhkq3r6skdr6tbhalgcbp3264asl3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

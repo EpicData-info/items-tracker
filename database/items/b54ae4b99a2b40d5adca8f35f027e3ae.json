@@ -1,0 +1,56 @@
+{
+  "id": "b54ae4b99a2b40d5adca8f35f027e3ae",
+  "title": "Steep Season Pass",
+  "description": "Steep Season Pass",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a646020cb93b4ea995cda70647bbe001",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-09T19:31:43.649Z",
+  "lastModifiedDate": "2020-01-01T15:31:53.094Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "e9c436b4e1474e6daa4a4ec5bd19fba2"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "291ffe77f5844bfeb9e1ddc692e7f825"
+    }
+  },
+  "entitlementName": "b54ae4b99a2b40d5adca8f35f027e3ae",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0fd19e8433c04930b73cae858abb99ca",
+      "appId": "BarracudaSeasonPassDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-12-09T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

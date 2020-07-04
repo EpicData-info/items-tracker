@@ -1,0 +1,35 @@
+{
+  "id": "713cc4c1788d44498685d1498c18d8b5",
+  "title": "Alien Chitin Armor Set Audience",
+  "description": "Alien Chitin Armor Set Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-01T19:47:41.919Z",
+  "lastModifiedDate": "2020-05-14T13:51:02.414Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "713cc4c1788d44498685d1498c18d8b5",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

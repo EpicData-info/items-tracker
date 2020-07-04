@@ -1,0 +1,111 @@
+{
+  "id": "5df92e81bc7340d58e4c19271d28915d",
+  "title": "Faster Than Light",
+  "description": "Faster Than Light",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/f7dc1618d0bd4810a61f50d44333900e/item/EGS_SubsetGames_FTLFasterThanLight_S1-2560x1440-2560x1440-9a253c6217b3fa411e408df3f85d7054.jpg",
+      "md5": "9a253c6217b3fa411e408df3f85d7054",
+      "width": 2560,
+      "height": 1440,
+      "size": 454714,
+      "uploadedDate": "2019-12-26T15:41:56.009Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/f7dc1618d0bd4810a61f50d44333900e/item/EGS_SubsetGames_FTLFasterThanLight_S2-1280x1440-1280x1440-20315b9b209d15d7841969b0734ada56.jpg",
+      "md5": "20315b9b209d15d7841969b0734ada56",
+      "width": 1280,
+      "height": 1440,
+      "size": 407828,
+      "uploadedDate": "2019-12-26T15:42:07.678Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/f7dc1618d0bd4810a61f50d44333900e/item/EGS_SubsetGames_FTLFasterThanLight_IC1-200x200-200x200-7c03cdcea4b4fe781c576203488c92b6.png",
+      "md5": "7c03cdcea4b4fe781c576203488c92b6",
+      "width": 200,
+      "height": 200,
+      "size": 15211,
+      "uploadedDate": "2019-12-26T15:42:14.022Z"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f7dc1618d0bd4810a61f50d44333900e/item/ESRB_FasterThanLight-842x404-c27d9dce3ade0e7f6a5f67928390aa4b.jpg",
+      "md5": "c27d9dce3ade0e7f6a5f67928390aa4b",
+      "width": 842,
+      "height": 404,
+      "size": 23028,
+      "uploadedDate": "2019-12-26T16:05:38.948Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f7dc1618d0bd4810a61f50d44333900e",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-03T17:46:26.535Z",
+  "lastModifiedDate": "2019-12-26T16:06:21.944Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "f7dc1618d0bd4810a61f50d44333900e"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FasterThanLight"
+    }
+  },
+  "entitlementName": "5df92e81bc7340d58e4c19271d28915d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "69d6778dd7694434b7d4279b0e8b88b9",
+      "appId": "Blowfish",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-12-26T00:00:00.000Z"
+    }
+  ],
+  "developer": "Subset Games",
+  "developerId": "o-y2xjbnp5qy433qzldqbvncb3n8z3l6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "selfRefundable": true,
+  "unsearchable": false
+}

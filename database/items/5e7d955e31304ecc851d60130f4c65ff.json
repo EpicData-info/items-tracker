@@ -1,0 +1,23 @@
+{
+  "id": "5e7d955e31304ecc851d60130f4c65ff",
+  "title": "Tier 3 to Tier 4 Founder’s Pack Upgrade",
+  "description": "Tier 3 to Tier 4 Founder’s Pack Upgrade",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-04-17T02:52:40.652Z",
+  "lastModifiedDate": "2020-01-16T19:37:50.874Z",
+  "entitlementName": "FoundersPack_3_4",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "7952f523da2d4e84ba9ce61688de8c8c",
+  "title": "Fancy llama spray",
+  "description": "Fancy llama spray",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-11-14T23:07:44.380Z",
+  "lastModifiedDate": "2018-11-27T15:04:04.401Z",
+  "entitlementName": "Llamalaxy18_Spray",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

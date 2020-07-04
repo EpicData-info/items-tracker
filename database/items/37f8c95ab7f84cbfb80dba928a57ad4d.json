@@ -1,0 +1,52 @@
+{
+  "id": "37f8c95ab7f84cbfb80dba928a57ad4d",
+  "title": "ChickadeeStaging",
+  "description": "ChickadeeStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "aeac94c7a11048758064b82f8f8d20ed",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-04T14:32:24.334Z",
+  "lastModifiedDate": "2020-06-17T00:50:28.245Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ChickadeeStaging"
+    }
+  },
+  "entitlementName": "37f8c95ab7f84cbfb80dba928a57ad4d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cfbb0fffa35e4cd5b46983a919dc516b",
+      "appId": "ChickadeeStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "TaleWorlds Entertainment",
+  "developerId": "o-e2fanamv6wpuy3gpyyscsnzjth7hrg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567N2gmk1Oy1HYDenxtdGlNhD91",
+  "unsearchable": false
+}

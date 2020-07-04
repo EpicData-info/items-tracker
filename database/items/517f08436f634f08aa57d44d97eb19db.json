@@ -1,0 +1,34 @@
+{
+  "id": "517f08436f634f08aa57d44d97eb19db",
+  "title": "TrogonGeneralAudience",
+  "description": "TrogonGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "1093790870b043cdbae03d91d76d9ae6",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-19T18:20:55.283Z",
+  "lastModifiedDate": "2020-01-06T15:09:01.634Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "517f08436f634f08aa57d44d97eb19db",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": "51843d55463f4824a50c68c7167db7b6",
+  "title": "Anti-Cheat Audience",
+  "description": "Anti-Cheat Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "SUNSET",
+  "creationDate": "2020-01-29T14:20:21.155Z",
+  "lastModifiedDate": "2020-02-04T17:13:18.143Z",
+  "entitlementName": "51843d55463f4824a50c68c7167db7b6",
+  "entitlementType": "AUDIENCE",
+  "entitlementEndDate": "2020-02-05T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

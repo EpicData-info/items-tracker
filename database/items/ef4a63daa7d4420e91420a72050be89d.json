@@ -1,0 +1,121 @@
+{
+  "id": "ef4a63daa7d4420e91420a72050be89d",
+  "title": "Satisfactory Experimental",
+  "description": "Satisfactory Experimental",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/crab/item/Satisfactory_GameIcon-400x400-c26af13d061267aac29fe1284093fa6c.png",
+      "md5": "c26af13d061267aac29fe1284093fa6c",
+      "width": 400,
+      "height": 400,
+      "size": 26081,
+      "uploadedDate": "2019-04-29T16:31:47.751Z"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/crab/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-04-29T16:33:06.445Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/crab/item/Potrait_860x1148_Pipes_logo-860x1148-d9849241c986d80c66acfcf48e311192.png",
+      "md5": "d9849241c986d80c66acfcf48e311192",
+      "width": 860,
+      "height": 1148,
+      "size": 1969372,
+      "uploadedDate": "2020-02-11T16:37:28.294Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/crab/item/Landscape_2560x1440_pipes_logo-2560x1440-d3c3d99d3622e947daad667fd45b9afb.png",
+      "md5": "d3c3d99d3622e947daad667fd45b9afb",
+      "width": 2560,
+      "height": 1440,
+      "size": 5185205,
+      "uploadedDate": "2020-02-11T16:37:45.212Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "crab",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-03T20:31:28.361Z",
+  "lastModifiedDate": "2020-02-11T16:55:19.195Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "crab"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/FactoryGame/Saved/SaveGames/{EpicID}/"
+    },
+    "DisablePresenceWhileRunning": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SatisfactoryExperimental"
+    }
+  },
+  "entitlementName": "ef4a63daa7d4420e91420a72050be89d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4fbc452cdaf8447597ccd4424a64b58a",
+      "appId": "CrabTest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-03T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Coffee Stain Studios",
+  "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

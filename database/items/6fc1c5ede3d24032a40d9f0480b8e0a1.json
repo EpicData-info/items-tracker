@@ -1,0 +1,25 @@
+{
+  "id": "6fc1c5ede3d24032a40d9f0480b8e0a1",
+  "title": "Min Header",
+  "description": "Min",
+  "longDescription": "Min",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "min",
+  "status": "ACTIVE",
+  "creationDate": "2018-09-26T20:25:21.571Z",
+  "lastModifiedDate": "2019-12-09T22:44:05.658Z",
+  "entitlementName": "6fc1c5ede3d24032a40d9f0480b8e0a1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "52a4182498ad4a08acb3352fb4a60e3f",
+  "title": "MagnoliaDevAudience",
+  "description": "MagnoliaDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "magnolia",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-04T18:20:23.213Z",
+  "lastModifiedDate": "2019-05-13T14:17:08.177Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac,Win32"
+    }
+  },
+  "entitlementName": "52a4182498ad4a08acb3352fb4a60e3f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Thekla, Inc.",
+  "developerId": "o-ch8uj5xq8v7rkurtr6gpx8accufw8u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

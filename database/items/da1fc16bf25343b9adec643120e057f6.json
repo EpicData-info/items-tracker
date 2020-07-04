@@ -1,0 +1,82 @@
+{
+  "id": "da1fc16bf25343b9adec643120e057f6",
+  "title": "Create_Tutorial_02",
+  "description": "Build Your Own Cosmetic Item",
+  "longDescription": "A hat that bursts into flames when you taunt? Why not? Express your style.",
+  "technicalDetails": "https://www.epicgames.com/unrealtournament/tutorials/cosmetic-item?utm_source=launcher&utm_medium=software&utm_campaign=utcreatetab",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ut/item/Icon_ItemTut01-64x64-fed0abbe75a03ffb0695a4c33761c3fa.png",
+      "md5": "fed0abbe75a03ffb0695a4c33761c3fa",
+      "width": 64,
+      "height": 64,
+      "size": 5975,
+      "uploadedDate": "2015-02-27T16:26:57.184Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/ItemTutorialPreview02-450x380-cc4747b2634073eec3529d6290103597.png",
+      "md5": "cc4747b2634073eec3529d6290103597",
+      "width": 450,
+      "height": 380,
+      "size": 167984,
+      "uploadedDate": "2015-02-27T20:07:30.059Z"
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ut/item/Icon_MiscTut03-64x64-41a28c70967c0d255400dd48ef0098e3.png",
+      "md5": "41a28c70967c0d255400dd48ef0098e3",
+      "width": 64,
+      "height": 64,
+      "size": 6765,
+      "uploadedDate": "2015-02-27T16:27:47.617Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "projects/tutorials"
+    },
+    {
+      "path": "projects"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-02-03T00:08:39.964Z",
+  "lastModifiedDate": "2016-04-22T18:40:47.305Z",
+  "customAttributes": {
+    "TutorialDifficultly": {
+      "type": "STRING",
+      "value": "intermediate"
+    },
+    "FollowUpTutorial01": {
+      "type": "STRING",
+      "value": "More UT Tutorials"
+    },
+    "FollowUpTutorial02Link": {
+      "type": "STRING",
+      "value": "https://docs.unrealengine.com/latest/INT/Resources/index.html?utm_source=launcher&utm_medium=software&utm_campaign=utcreatetab"
+    },
+    "FollowUpTutorial02": {
+      "type": "STRING",
+      "value": "More Unreal Engine 4 Tutorials"
+    },
+    "TutorialLength": {
+      "type": "STRING",
+      "value": "15 min"
+    },
+    "FollowUpTutorial01Link": {
+      "type": "STRING",
+      "value": "http://learn.unrealtournament.com/tutorials?utm_source=launcher&utm_medium=software&utm_campaign=utcreatetab"
+    }
+  },
+  "entitlementName": "1749ec379ed14df0aac0df1c0efd41f2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

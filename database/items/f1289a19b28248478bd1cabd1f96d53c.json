@@ -1,0 +1,49 @@
+{
+  "id": "f1289a19b28248478bd1cabd1f96d53c",
+  "title": "HerringStaging",
+  "description": "HerringStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cd88d9edc5a748cfa138e467205adcac",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-28T07:08:54.566Z",
+  "lastModifiedDate": "2020-07-02T14:32:27.478Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HerringStaging"
+    }
+  },
+  "entitlementName": "f1289a19b28248478bd1cabd1f96d53c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "47bf703ea75047bc939dd86452aabc36",
+      "appId": "HerringStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Curve Digital",
+  "developerId": "o-ws89bsbfb8trgdl3zmerugg4rsuvvt",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

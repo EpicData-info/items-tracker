@@ -1,0 +1,51 @@
+{
+  "id": "ce2b46f9991840e2b3ce15cc3e848037",
+  "title": "ErosStaging",
+  "description": "ErosStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "699c2dc3694c4156befa26cad5c65505",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T16:42:28.966Z",
+  "lastModifiedDate": "2020-05-25T14:48:31.451Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ErosStaging"
+    }
+  },
+  "entitlementName": "ce2b46f9991840e2b3ce15cc3e848037",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "13103348a6fb4d1a99b22cc8eadb645f",
+      "appId": "8437776ce34f4065b03d3b914ad6eb5d",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-13T01:13:38.262Z"
+    }
+  ],
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "45d88e90ae99429ab06230b5c0ada710",
+  "title": "Starter Pack 3",
+  "description": "Starter Pack 3",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "starter_packs"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2016-09-12T15:49:25.987Z",
+  "lastModifiedDate": "2016-12-19T20:18:36.330Z",
+  "entitlementName": "45d88e90ae99429ab06230b5c0ada710",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,78 @@
+{
+  "id": "8b5662b78bcd474dafbbb0abec736ff0",
+  "title": "CinnamonStaging",
+  "description": "CinnamonStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cinnamon/item/Diesel_product_cinnamon_home_EGS_DEVELOPER_SherlockHolmes_G1_KeyArt-1500x844-5fc1e88618a5062df322e203bafd78562200668b-1500x844-369bd41767129916a11c17f8749521ad.jpg",
+      "md5": "369bd41767129916a11c17f8749521ad",
+      "width": 1500,
+      "height": 844,
+      "size": 250714,
+      "uploadedDate": "2019-04-25T14:19:07.714Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/cinnamon/item/Diesel_product_cinnamon_home_EGS_DEVELOPER_SherlockHolmes_IC1-_WHITE-1521x570-5c96079d03b9af74281a2c00dd1d60489c64ef80-1521x570-b680a6fbc8682026b7c89ae6d31e94d9.png",
+      "md5": "b680a6fbc8682026b7c89ae6d31e94d9",
+      "width": 1521,
+      "height": 570,
+      "size": 37949,
+      "uploadedDate": "2019-04-25T14:19:26.550Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cinnamon",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-20T03:15:15.921Z",
+  "lastModifiedDate": "2019-10-09T14:39:29.735Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/Sherlock Holmes - The Devil's Daughter EGS/SH8Game/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CinnamonStaging"
+    }
+  },
+  "entitlementName": "8b5662b78bcd474dafbbb0abec736ff0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "342beab9125a4b7b821a67f0ab65d7c1",
+      "appId": "CinnamonStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-20T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

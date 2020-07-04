@@ -1,0 +1,30 @@
+{
+  "id": "ef3e715abe72457e81c673248c36c5af",
+  "title": "KestrelDevAudience",
+  "description": "KestrelDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "kestrel",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-17T16:48:33.370Z",
+  "lastModifiedDate": "2019-05-13T14:21:58.943Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Mac,Windows"
+    }
+  },
+  "entitlementName": "ef3e715abe72457e81c673248c36c5af",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,100 @@
+{
+  "id": "d0222bdb82344ab1bd8f707b1cbfcc3c",
+  "title": "Kine",
+  "description": "Kine",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/rose/item/EGS_CS_Kine_IC1_White-1181x651-d5d82b37397158bd63866bb9ad1c8adb.png",
+      "md5": "d5d82b37397158bd63866bb9ad1c8adb",
+      "width": 1181,
+      "height": 651,
+      "size": 19522,
+      "uploadedDate": "2019-08-01T18:02:37.929Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/rose/item/EGS_CS_Kine_N1_Quat-2560x1440-fbf3a74178a709192c9f90b1214f4dc3.jpg",
+      "md5": "fbf3a74178a709192c9f90b1214f4dc3",
+      "width": 2560,
+      "height": 1440,
+      "size": 1197831,
+      "uploadedDate": "2019-08-13T18:42:59.807Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/rose/item/KineQuat_EGSStorefrontImage-1280x1440-d6654569827accce959ef0f9c97b0da8.jpg",
+      "md5": "d6654569827accce959ef0f9c97b0da8",
+      "width": 1280,
+      "height": 1440,
+      "size": 151630,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "rose",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-18T15:19:54.165Z",
+  "lastModifiedDate": "2019-11-19T17:03:01.525Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "rose"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Gwen Frey"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Kine"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d0222bdb82344ab1bd8f707b1cbfcc3c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8fe7324b494a479e933588bf284860bb",
+      "appId": "Rose",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-18T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Gwen Frey",
+  "developerId": "o-na388hs5k2ak86akfejt2es246vaa2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

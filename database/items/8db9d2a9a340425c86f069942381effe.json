@@ -1,0 +1,25 @@
+{
+  "id": "8db9d2a9a340425c86f069942381effe",
+  "title": "Fortnite Playtest App Bundle",
+  "description": "Fortnite Playtest App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T19:49:10.646Z",
+  "lastModifiedDate": "2019-11-27T19:56:16.292Z",
+  "entitlementName": "8db9d2a9a340425c86f069942381effe",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

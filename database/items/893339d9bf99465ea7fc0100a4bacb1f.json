@@ -1,0 +1,56 @@
+{
+  "id": "893339d9bf99465ea7fc0100a4bacb1f",
+  "title": "IrisDLC1Staging",
+  "description": "IrisDLC1Staging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-14T17:36:33.594Z",
+  "lastModifiedDate": "2020-02-14T18:06:19.482Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BloodandTitanium"
+    }
+  },
+  "entitlementName": "893339d9bf99465ea7fc0100a4bacb1f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5b26ba959852480aa824a2e0d9bcc8fb",
+      "appId": "IrisDLC1Staging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-11-12T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

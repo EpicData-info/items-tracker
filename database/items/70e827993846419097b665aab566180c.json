@@ -1,0 +1,23 @@
+{
+  "id": "70e827993846419097b665aab566180c",
+  "title": "Influencer Reward 2",
+  "description": "Influencer Reward 2",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-06-14T20:26:13.338Z",
+  "lastModifiedDate": "2017-07-11T23:49:33.112Z",
+  "entitlementName": "INFLUENCERREWARD_2",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

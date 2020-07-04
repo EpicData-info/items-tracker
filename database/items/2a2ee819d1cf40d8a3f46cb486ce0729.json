@@ -1,0 +1,80 @@
+{
+  "id": "2a2ee819d1cf40d8a3f46cb486ce0729",
+  "title": "BasilStaging",
+  "description": "BasilStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/basil/item/Basil_HRM_Logo-1191x870-59b90f2d7ff71b1c283dbca4bb931f52.png",
+      "md5": "59b90f2d7ff71b1c283dbca4bb931f52",
+      "width": 1191,
+      "height": 870,
+      "size": 46389,
+      "uploadedDate": "2019-04-25T21:24:49.817Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/basil/item/Basil_HRM_PrimaryPromo-2580x1450-6397adc15b04f44458140bd2ad71a7d7.jpg",
+      "md5": "6397adc15b04f44458140bd2ad71a7d7",
+      "width": 2580,
+      "height": 1450,
+      "size": 307566,
+      "uploadedDate": "2019-04-25T21:24:41.277Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "basil",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-15T17:36:21.259Z",
+  "lastModifiedDate": "2019-08-30T17:17:54.212Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Containers/Tomorrow-Corporation.Human-Resource-Machine/Data/Library/Application Support/Human Resource Machine"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../roaming/Human Resource Machine/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BasilStaging"
+    }
+  },
+  "entitlementName": "2a2ee819d1cf40d8a3f46cb486ce0729",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e67f34ae26934c75a1855aeb21b15a9c",
+      "appId": "BasilStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-02-15T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Tomorrow Corporation",
+  "developerId": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

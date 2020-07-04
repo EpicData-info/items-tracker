@@ -1,0 +1,51 @@
+{
+  "id": "719a4c22fff14d56a359ceb4c47e496e",
+  "title": "CitrineStaging",
+  "description": "CitrineStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0a4fc789eb0143c29296de79df5387ab",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T15:50:20.512Z",
+  "lastModifiedDate": "2020-07-02T19:38:31.883Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CitrineStaging"
+    }
+  },
+  "entitlementName": "719a4c22fff14d56a359ceb4c47e496e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c3602ab4226f4f8f83550e8dd86c50f5",
+      "appId": "9ebfc34cd7eb4558a9879103367cd8bf",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-30T19:49:45.561Z"
+    }
+  ],
+  "developer": "Humble Bundle",
+  "developerId": "o-pldxyabsslnt6jth2z634mmr2pw8lu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

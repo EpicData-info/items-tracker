@@ -1,0 +1,98 @@
+{
+  "id": "4107733638294e9397e7d0bbda5b8734",
+  "title": "The Stanley Parable",
+  "description": "The Stanley Parable",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4c00c7506c4b4fa695f749bd6bb07ff6/item/EGS_TheStanleyParable_GalacticCafe_S1-2560x1440-6358e00645e12a49f3793f2c60f767f9.jpg",
+      "md5": "6358e00645e12a49f3793f2c60f767f9",
+      "width": 2560,
+      "height": 1440,
+      "size": 490653,
+      "uploadedDate": "2020-03-19T18:19:07.199Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/4c00c7506c4b4fa695f749bd6bb07ff6/item/EGS_TheStanleyParable_GalacticCafe_S2-860x1148-935abae0b9908f6251ebe5de2bbc2d5c.jpg",
+      "md5": "935abae0b9908f6251ebe5de2bbc2d5c",
+      "width": 860,
+      "height": 1148,
+      "size": 353155,
+      "uploadedDate": "2020-03-19T18:19:14.876Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4c00c7506c4b4fa695f749bd6bb07ff6",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-19T13:38:23.102Z",
+  "lastModifiedDate": "2020-03-19T18:19:19.167Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "4c00c7506c4b4fa695f749bd6bb07ff6"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "save/,cfg/,stats.vdf,stats_sv.vdf,language.txt"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheStanleyParable"
+    }
+  },
+  "entitlementName": "4107733638294e9397e7d0bbda5b8734",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ee0be516c57e49bc975b713b0d3e5915",
+      "appId": "Freesia",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Galactic Cafe",
+  "developerId": "o-yrlbfhj5bvd3fce3zfcq47jev35gx4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

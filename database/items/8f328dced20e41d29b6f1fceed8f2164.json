@@ -1,0 +1,91 @@
+{
+  "id": "8f328dced20e41d29b6f1fceed8f2164",
+  "title": "Kingdom Come Deliverance",
+  "description": "Kingdom Come: Deliverance",
+  "longDescription": "Kingdom Come: Deliverance",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/item/KingdomComeDeliverance_Portrait-510x680-274f6cc73275cb9e9e83b9ce00dbbb09.jpg",
+      "md5": "274f6cc73275cb9e9e83b9ce00dbbb09",
+      "width": 510,
+      "height": 680,
+      "size": 112040,
+      "uploadedDate": "2020-02-13T16:13:33.323Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/item/KingdomComeDeliverance_S3-1360x766-1360x766-0fdbc2b3494b9fb30f4f09c2078a9620.jpg",
+      "md5": "0fdbc2b3494b9fb30f4f09c2078a9620",
+      "width": 1360,
+      "height": 766,
+      "size": 221052,
+      "uploadedDate": "2020-02-13T16:14:00.433Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T20:00:38.061Z",
+  "lastModifiedDate": "2020-03-31T16:18:59.284Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ca4058f18b0a4a9e9e2ccc28f7f33000"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KingdomComeDeliverance"
+    }
+  },
+  "entitlementName": "8f328dced20e41d29b6f1fceed8f2164",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "934cf9f0b37648e3ac9eaa4eca77233b",
+      "appId": "Eel",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Warhorse Studios",
+  "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

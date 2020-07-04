@@ -1,0 +1,78 @@
+{
+  "id": "24af2c456bd04877bb7bf7455e8cf47d",
+  "title": "SnapdragonStaging",
+  "description": "SnapdragonStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/ME_Promo-2580x1450-0e5b7a55fb64f2b4ab1a46455a9293e0.jpg",
+      "md5": "0e5b7a55fb64f2b4ab1a46455a9293e0",
+      "width": 2580,
+      "height": 1450,
+      "size": 580337,
+      "uploadedDate": "2019-06-03T10:54:55.418Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/ME_Logo_Updated-1920x840-fb7a33658fdfb167359dd9aa87a32f48.png",
+      "md5": "fb7a33658fdfb167359dd9aa87a32f48",
+      "width": 1920,
+      "height": 840,
+      "size": 166960,
+      "uploadedDate": "2019-06-03T10:55:04.474Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "snapdragon",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-11T14:09:10.461Z",
+  "lastModifiedDate": "2019-10-09T16:21:44.085Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/metro exodus/{EpicID}/"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SnapdragonStaging"
+    }
+  },
+  "entitlementName": "24af2c456bd04877bb7bf7455e8cf47d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5f3cf84a1e6c4f958e6182df45764d46",
+      "appId": "SnapdragonStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-01-11T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

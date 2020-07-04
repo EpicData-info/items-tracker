@@ -1,0 +1,46 @@
+{
+  "id": "d416a8c6968f48e299a8f34ef8683c27",
+  "title": "Lancia Delta HF Integrale Evoluzione Audience",
+  "description": "Lancia Delta HF Integrale Evoluzione (1992) Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/item/ESRB_WRC8-842x485-a4de2492c5e27c0262705a42c34204fd.jpg",
+      "md5": "a4de2492c5e27c0262705a42c34204fd",
+      "width": 842,
+      "height": 485,
+      "size": 84586,
+      "uploadedDate": "2020-01-08T04:55:57.071Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-21T21:28:07.094Z",
+  "lastModifiedDate": "2020-01-08T04:56:01.529Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d416a8c6968f48e299a8f34ef8683c27",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE",
+  "selfRefundable": false,
+  "unsearchable": false
+}

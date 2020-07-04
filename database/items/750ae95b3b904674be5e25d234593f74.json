@@ -1,0 +1,31 @@
+{
+  "id": "750ae95b3b904674be5e25d234593f74",
+  "title": "2500 Tokens Audience",
+  "description": "2500 Tokens Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-30T17:53:51.041Z",
+  "lastModifiedDate": "2020-06-19T17:06:46.771Z",
+  "entitlementName": "750ae95b3b904674be5e25d234593f74",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Psyonix",
+  "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,46 @@
+{
+  "id": "372fdd881a254a24b984a18cc4acaa68",
+  "title": "Petunia: Press Audience",
+  "description": "Petunia: Press Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/petunia/item/ESRB_MetroLastLight-842x404-699f2f88320405267d8acb6bb327b32b.png",
+      "md5": "699f2f88320405267d8acb6bb327b32b",
+      "width": 842,
+      "height": 404,
+      "size": 59015,
+      "uploadedDate": "2019-04-30T21:39:15.120Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "petunia",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-29T15:21:17.270Z",
+  "lastModifiedDate": "2019-09-26T15:07:09.697Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "372fdd881a254a24b984a18cc4acaa68",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

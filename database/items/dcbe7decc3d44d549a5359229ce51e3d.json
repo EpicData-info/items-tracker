@@ -1,0 +1,40 @@
+{
+  "id": "dcbe7decc3d44d549a5359229ce51e3d",
+  "title": "MAC Message of the Day",
+  "description": "Viper MOTD TEXT",
+  "longDescription": "Keep an eye on Shadow Complex.com for news.\n\nPowered by Unreal Engine 3 and winner of 50+ Game of the Year and Editor’s Choice Awards, Shadow Complex is back for more!\n\nShadow Complex Remastered features all the great gameplay from the award-winning classic, updated with exciting new enhancements and achievements to support its debut on PC, PlayStation 4, and Xbox One.\n\nFeatures:\n- Experience the pivotal modern platform adventure inspired by the classic side-scrolling genre.\n- Explore a huge, mysterious game world populated with legions of enemies, challenges, and jaw-dropping boss battles.\n- Discover unique game-altering power-ups and 100+ additional items and enhancements.\n- Complete all-new achievements and master challenges.\n- Journey through an exciting action-thriller story penned by renowned comic book writer Peter David.",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/vpr/item/comp-MOTD-mac-440x90-8f03dfce005d1ad449140bbb5e4b9036.png",
+      "md5": "8f03dfce005d1ad449140bbb5e4b9036",
+      "width": 440,
+      "height": 90,
+      "size": 4968,
+      "uploadedDate": "2015-12-10T00:19:11.749Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "vpr",
+  "status": "ACTIVE",
+  "creationDate": "2015-12-09T20:18:28.904Z",
+  "lastModifiedDate": "2017-08-04T19:16:58.878Z",
+  "entitlementName": "dcbe7decc3d44d549a5359229ce51e3d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

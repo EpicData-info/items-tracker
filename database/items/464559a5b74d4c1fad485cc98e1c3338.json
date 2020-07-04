@@ -1,0 +1,35 @@
+{
+  "id": "464559a5b74d4c1fad485cc98e1c3338",
+  "title": "Rune II Playtest 3 Audience",
+  "description": "Rune II Playtest 3 Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "cosmos",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-26T01:59:16.694Z",
+  "lastModifiedDate": "2019-11-12T17:58:47.654Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "464559a5b74d4c1fad485cc98e1c3338",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Human Head Studios, Inc.",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

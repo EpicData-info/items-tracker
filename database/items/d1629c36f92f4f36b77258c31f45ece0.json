@@ -1,0 +1,53 @@
+{
+  "id": "d1629c36f92f4f36b77258c31f45ece0",
+  "title": "Surgeon Simulator 2 - Bossa Levels Testing",
+  "description": "Surgeon Simulator 2 - Bossa Levels Testing",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-07T15:35:02.955Z",
+  "lastModifiedDate": "2020-05-07T15:42:51.558Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SurgeonSim2LVLTesting"
+    }
+  },
+  "entitlementName": "d1629c36f92f4f36b77258c31f45ece0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e3516ff1d5df422fa291e672c217f835",
+      "appId": "07241c493e404906b1d21d9625bdf57e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

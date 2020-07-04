@@ -1,0 +1,49 @@
+{
+  "id": "c4d69f9cb2174a8c8f9aed63538a4514",
+  "title": "EelStaging",
+  "description": "EelStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T20:00:38.159Z",
+  "lastModifiedDate": "2020-02-11T14:11:47.793Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EelStaging"
+    }
+  },
+  "entitlementName": "c4d69f9cb2174a8c8f9aed63538a4514",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6a6393d23a724fca9a26551a5b9c3c26",
+      "appId": "EelStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Warhorse Studios",
+  "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,47 @@
+{
+  "id": "7e5369e3011744fabe5408c6af531063",
+  "title": "SubnauticaGeneralAudience",
+  "description": "SubnauticaGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/jaguar/item/ESRB_Subnautica-842x404-cc5d6554194d3189760312e252b23489.png",
+      "md5": "cc5d6554194d3189760312e252b23489",
+      "width": 842,
+      "height": 404,
+      "size": 58896,
+      "uploadedDate": "2019-04-23T18:54:15.273Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "jaguar",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-06T01:54:03.133Z",
+  "lastModifiedDate": "2019-05-13T14:36:06.189Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Mac,Windows"
+    }
+  },
+  "entitlementName": "7e5369e3011744fabe5408c6af531063",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Unknown Worlds Entertainment",
+  "developerId": "o-g4s9pbd6mu9e8uqn539s3xqk9yex92",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "selfRefundable": true,
+  "unsearchable": false
+}

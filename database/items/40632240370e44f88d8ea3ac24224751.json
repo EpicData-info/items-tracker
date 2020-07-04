@@ -1,0 +1,45 @@
+{
+  "id": "40632240370e44f88d8ea3ac24224751",
+  "title": "CilantroDevAudience",
+  "description": "CilantroDevAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/04467b70295342a79381467353f23955/item/LayersOfFear_MRating-398x190-ed18acfddd1d0788a89ce9fecd468a42.jpg",
+      "md5": "ed18acfddd1d0788a89ce9fecd468a42",
+      "width": 398,
+      "height": 190,
+      "size": 20996,
+      "uploadedDate": "2019-10-16T22:56:42.413Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "04467b70295342a79381467353f23955",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-05T20:52:24.546Z",
+  "lastModifiedDate": "2019-10-31T15:00:14.877Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "40632240370e44f88d8ea3ac24224751",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Aspyr Media, Inc.",
+  "developerId": "o-dukzxsmt2q39w2xql6eb8vewd2bkc9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

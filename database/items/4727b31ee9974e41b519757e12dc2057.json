@@ -1,0 +1,33 @@
+{
+  "id": "4727b31ee9974e41b519757e12dc2057",
+  "title": "DevMoscowAudience",
+  "description": "DevMoscowAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-16T17:49:58.879Z",
+  "lastModifiedDate": "2020-06-30T13:00:35.391Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4727b31ee9974e41b519757e12dc2057",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "NCSoft",
+  "developerId": "o-k8ltvz7rz3r7b29xdtafqvdkhnj2ux",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

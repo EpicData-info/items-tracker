@@ -1,0 +1,33 @@
+{
+  "id": "378915183f494efaa0e2f128d6dd1f79",
+  "title": "JasperDevAudience",
+  "description": "JasperDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-13T19:28:26.176Z",
+  "lastModifiedDate": "2020-03-19T13:50:36.191Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "378915183f494efaa0e2f128d6dd1f79",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

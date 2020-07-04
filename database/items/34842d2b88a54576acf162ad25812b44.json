@@ -1,0 +1,103 @@
+{
+  "id": "34842d2b88a54576acf162ad25812b44",
+  "title": "Anno 1404",
+  "description": "Anno 1404",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/590c37a9443d46ce84be415b96b1a3e6/item/ANHC_1404HE_Edition_Thumbnail_1920X1080_White-1920x1080-1920x1080-ff4339c4d63fab533420b490f68ac1e7.png",
+      "md5": "ff4339c4d63fab533420b490f68ac1e7",
+      "width": 1920,
+      "height": 1080,
+      "size": 2617093,
+      "uploadedDate": "2020-06-25T13:52:07.778Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/590c37a9443d46ce84be415b96b1a3e6/item/ANHC_1404HE_Store_Portrait_1200x1600-1200x1600-f72dc7d60d295608ec23539974dc7d68.jpg",
+      "md5": "f72dc7d60d295608ec23539974dc7d68",
+      "width": 1200,
+      "height": 1600,
+      "size": 412556,
+      "uploadedDate": "2020-06-25T13:52:21.289Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "590c37a9443d46ce84be415b96b1a3e6",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-11T01:35:32.674Z",
+  "lastModifiedDate": "2020-06-25T14:58:26.835Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "590c37a9443d46ce84be415b96b1a3e6"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "8b3a43b41b3f4c52acfe799f6e7dfd4d"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Anno1404"
+    },
+    "neverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "34842d2b88a54576acf162ad25812b44",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b362da15e309442f8615f6d7258f656a",
+      "appId": "f529f5a152014f65821eb900f1c54921",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,74 @@
+{
+  "id": "b75777c9b733409caa923a0b758cc9cb",
+  "title": "DaffodilStaging",
+  "description": "DaffodilStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/daffodil/item/OmenOfSorrow_Promo_GamepagePromo-2580x1450-b567186c1af669bb4f09a4a0c2b5673b.jpg",
+      "md5": "b567186c1af669bb4f09a4a0c2b5673b",
+      "width": 2580,
+      "height": 1450,
+      "size": 334653,
+      "uploadedDate": "2019-02-22T22:51:08.594Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/daffodil/item/OmenOfSorrow_Logo_White-1920x1080-28159d954b5f8f050a648c34975cb353.png",
+      "md5": "28159d954b5f8f050a648c34975cb353",
+      "width": 1920,
+      "height": 1080,
+      "size": 22376,
+      "uploadedDate": "2019-02-22T22:51:26.460Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "daffodil",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-22T22:53:04.308Z",
+  "lastModifiedDate": "2019-06-20T14:58:29.652Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DaffodilStaging"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b75777c9b733409caa923a0b758cc9cb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "271008141c7640bfa348a97eb10ce0f5",
+      "appId": "DaffodilStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-22T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "AOne Games",
+  "developerId": "o-ee2mpv5fbfg9j22arjrh7vjmypew5q",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,39 @@
+{
+  "id": "e8eb21381ef74967a28022ba70f34301",
+  "title": "Shoebill Deluxe Edition Content Audience",
+  "description": "Shoebill Deluxe Edition Content Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/item/ESRB_Jedi-842x404-03a8a1dc98ab180071931c3942ee6a93.png",
+      "md5": "03a8a1dc98ab180071931c3942ee6a93",
+      "width": 842,
+      "height": 404,
+      "size": 44265,
+      "uploadedDate": "2019-11-15T05:37:08.230Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e509c16d53714b13ba8e393966507255",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-17T22:28:28.233Z",
+  "lastModifiedDate": "2019-11-15T05:37:11.715Z",
+  "entitlementName": "e8eb21381ef74967a28022ba70f34301",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "selfRefundable": false,
+  "unsearchable": false
+}

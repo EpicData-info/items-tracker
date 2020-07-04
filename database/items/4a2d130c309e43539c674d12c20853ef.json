@@ -1,0 +1,24 @@
+{
+  "id": "4a2d130c309e43539c674d12c20853ef",
+  "title": "Gridiron",
+  "description": "Dominate the field.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-11-01T20:37:15.147Z",
+  "lastModifiedDate": "2018-11-05T19:58:27.728Z",
+  "entitlementName": "AthenaCharacter:cid_208_athena_commando_m_footballdudeb",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

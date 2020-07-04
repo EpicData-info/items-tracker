@@ -1,0 +1,29 @@
+{
+  "id": "4f6845eaaead47a9b859d53791dec831",
+  "title": "TrainSimGeneralAudience",
+  "description": "TrainSimGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "trainsimworld",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-22T18:31:37.768Z",
+  "lastModifiedDate": "2019-02-22T18:31:37.768Z",
+  "entitlementName": "4f6845eaaead47a9b859d53791dec831",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Dovetail Games",
+  "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

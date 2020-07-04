@@ -1,0 +1,51 @@
+{
+  "id": "96743cf65f9e46118bbaafb547e9d44f",
+  "title": "Tanager_Toad",
+  "description": "Tanager_Toad",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-11T15:46:53.931Z",
+  "lastModifiedDate": "2020-03-11T15:54:44.214Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TanagerToad"
+    }
+  },
+  "entitlementName": "96743cf65f9e46118bbaafb547e9d44f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "faecde9d0e294cb6bac9a07a36ff4f42",
+      "appId": "82d666b5540841fe8f78deb3b342ff09",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

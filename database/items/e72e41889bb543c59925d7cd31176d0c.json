@@ -1,0 +1,108 @@
+{
+  "id": "e72e41889bb543c59925d7cd31176d0c",
+  "title": "Sherlock Holmes: The Devil's Daughter",
+  "description": "Sherlock Holmes: The Devil's Daughter",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/cinnamon/item/Diesel_product_cinnamon_home_EGS_DEVELOPER_SherlockHolmes_G1_KeyArt-1500x844-5fc1e88618a5062df322e203bafd78562200668b-1500x844-369bd41767129916a11c17f8749521ad.jpg",
+      "md5": "369bd41767129916a11c17f8749521ad",
+      "width": 1500,
+      "height": 844,
+      "size": 250714,
+      "uploadedDate": "2019-04-25T14:17:38.084Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/cinnamon/item/Diesel_product_cinnamon_home_EGS_DEVELOPER_SherlockHolmes_IC1-_WHITE-1521x570-5c96079d03b9af74281a2c00dd1d60489c64ef80-1521x570-b680a6fbc8682026b7c89ae6d31e94d9.png",
+      "md5": "b680a6fbc8682026b7c89ae6d31e94d9",
+      "width": 1521,
+      "height": 570,
+      "size": 37949,
+      "uploadedDate": "2019-04-25T14:17:51.104Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/cinnamon/item/Sherlock_Portrait-1280x1440-16513cafd71b763d3b309281d36a381c.jpg",
+      "md5": "16513cafd71b763d3b309281d36a381c",
+      "width": 1280,
+      "height": 1440,
+      "size": 201974,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cinnamon",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-20T03:10:05.660Z",
+  "lastModifiedDate": "2019-11-19T17:03:42.268Z",
+  "customAttributes": {
+    "PresenceID": {
+      "type": "STRING",
+      "value": "cinnamon"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/Sherlock Holmes - The Devil's Daughter EGS/SH8Game/"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Bigben Interactive"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SherlockHolmesTDD"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e72e41889bb543c59925d7cd31176d0c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cdae38ceac9c4c3fa50eeef820efd2d9",
+      "appId": "Cinnamon",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-20T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

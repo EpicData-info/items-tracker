@@ -1,0 +1,47 @@
+{
+  "id": "c2f40668607c4be79a3e341c0190ce1e",
+  "title": "DLC1 Audience",
+  "description": "The Soroboreans Audience",
+  "longDescription": "The Soroboreans",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/viola/item/Outward-842x404-766e1685d1d3c093153c9e27b0550ede.png",
+      "md5": "766e1685d1d3c093153c9e27b0550ede",
+      "width": 842,
+      "height": 404,
+      "size": 54206,
+      "uploadedDate": "2019-04-23T21:14:37.645Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "viola",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-12T04:01:46.085Z",
+  "lastModifiedDate": "2020-06-16T11:59:41.011Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c2f40668607c4be79a3e341c0190ce1e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

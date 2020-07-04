@@ -1,0 +1,36 @@
+{
+  "id": "7991482005fa4af0b34ed94d9f8d0f26",
+  "title": "SpellbreakUserTestAudience",
+  "description": "SpellbreakUserTestAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-29T18:25:43.327Z",
+  "lastModifiedDate": "2020-04-29T18:33:24.263Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7991482005fa4af0b34ed94d9f8d0f26",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

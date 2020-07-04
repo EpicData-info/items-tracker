@@ -1,0 +1,177 @@
+{
+  "id": "639a788133164b81bd89efba3ecaaa70",
+  "title": "LauncherLandingImages",
+  "description": "Please don't remove these images as they are being used on the launcher's landing page",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/BG_Conan-Exiles-1920x1102-052052ed63de051a80276a65a98d5c6b.png",
+      "md5": "052052ed63de051a80276a65a98d5c6b",
+      "width": 1920,
+      "height": 1102,
+      "size": 806325,
+      "uploadedDate": "2017-02-24T21:48:34.543Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/BG_Robo Recall-1920x1200-3d177c28bbd595deedac49aa15744b22.png",
+      "md5": "3d177c28bbd595deedac49aa15744b22",
+      "width": 1920,
+      "height": 1200,
+      "size": 1095648,
+      "uploadedDate": "2017-02-24T21:48:47.334Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/small_ark-630x357-51843896a5fdb9426a953bb02ad0a857.png",
+      "md5": "51843896a5fdb9426a953bb02ad0a857",
+      "width": 630,
+      "height": 357,
+      "size": 142219,
+      "uploadedDate": "2017-02-24T21:49:04.687Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/small_Battle-Breakers-576x360-10b2a8d914b337e1940e8dcd9395960b.png",
+      "md5": "10b2a8d914b337e1940e8dcd9395960b",
+      "width": 576,
+      "height": 360,
+      "size": 133034,
+      "uploadedDate": "2017-02-24T21:49:14.137Z"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/small_Fortnite-576x360-ada5dd0333eda4d911947b289e304d35.png",
+      "md5": "ada5dd0333eda4d911947b289e304d35",
+      "width": 576,
+      "height": 360,
+      "size": 98644,
+      "uploadedDate": "2017-02-24T21:49:21.919Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/small_shadow-complex-remastered-580x326-77a23415e5de3d74263afebd46538f68.png",
+      "md5": "77a23415e5de3d74263afebd46538f68",
+      "width": 580,
+      "height": 326,
+      "size": 111924,
+      "uploadedDate": "2017-02-24T21:49:30.518Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/small_squad-576x324-c375324caa7381f7d6491510864a99b9.png",
+      "md5": "c375324caa7381f7d6491510864a99b9",
+      "width": 576,
+      "height": 324,
+      "size": 107332,
+      "uploadedDate": "2017-02-24T21:49:38.379Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/small_Unreal-Tournament-576x360-8b2e4c9d24ab5aacdec87815472da9dd.png",
+      "md5": "8b2e4c9d24ab5aacdec87815472da9dd",
+      "width": 576,
+      "height": 360,
+      "size": 87076,
+      "uploadedDate": "2017-02-24T21:49:45.949Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/small_vrfunhouse-576x324-b695c8ee9cfa1160961376ab96ed4c7b.png",
+      "md5": "b695c8ee9cfa1160961376ab96ed4c7b",
+      "width": 576,
+      "height": 324,
+      "size": 103891,
+      "uploadedDate": "2017-02-24T21:49:53.526Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/wide_conan-960x540-7eea318c57f471e202d52b6a0f43b022.png",
+      "md5": "7eea318c57f471e202d52b6a0f43b022",
+      "width": 960,
+      "height": 540,
+      "size": 603014,
+      "uploadedDate": "2017-02-24T21:50:15.131Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/wide_Paragon-960x600-169e898543dd1e4d80a1906b7165c83a.png",
+      "md5": "169e898543dd1e4d80a1906b7165c83a",
+      "width": 960,
+      "height": 600,
+      "size": 303356,
+      "uploadedDate": "2017-02-24T21:50:22.742Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/BattleBreakers1-2300x750-13c28b7fe6ee82dab2c7a8882ca05eb6.png",
+      "md5": "13c28b7fe6ee82dab2c7a8882ca05eb6",
+      "width": 2300,
+      "height": 750,
+      "size": 2462638,
+      "uploadedDate": "2017-04-20T16:32:10.575Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/900x270_Fortnite-900x270-38d08c1c01eb24eeed5e3b8b7b1fb97c.png",
+      "md5": "38d08c1c01eb24eeed5e3b8b7b1fb97c",
+      "width": 900,
+      "height": 270,
+      "size": 425866,
+      "uploadedDate": "2017-06-06T22:15:30.509Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/933x300_Fortnite-933x300-9c2ba75eb220cb6095b608420445c29b.png",
+      "md5": "9c2ba75eb220cb6095b608420445c29b",
+      "width": 933,
+      "height": 300,
+      "size": 487767,
+      "uploadedDate": "2017-06-07T13:19:26.338Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Launcher_Fortnite_Battle-Royale_1920x500-1920x500-a3a13374cc320d81021eb51a457c2fa4.png",
+      "md5": "a3a13374cc320d81021eb51a457c2fa4",
+      "width": 1920,
+      "height": 500,
+      "size": 1384590,
+      "uploadedDate": "2017-09-08T18:54:49.800Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Launcher_Fortnite_950x300-950x300-8ad10e1ecf9b3b067c08f5958c5f0bf8.png",
+      "md5": "8ad10e1ecf9b3b067c08f5958c5f0bf8",
+      "width": 950,
+      "height": 300,
+      "size": 445223,
+      "uploadedDate": "2017-09-08T21:12:57.024Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/EG_Logo_Filled_5_percent-385x447-e60d8dbd5beaa42b359ce63b4aa543c3.png",
+      "md5": "e60d8dbd5beaa42b359ce63b4aa543c3",
+      "width": 385,
+      "height": 447,
+      "size": 14837,
+      "uploadedDate": "2017-10-27T19:08:33.420Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layout"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2017-02-24T21:48:11.254Z",
+  "lastModifiedDate": "2017-10-27T19:08:39.716Z",
+  "entitlementName": "639a788133164b81bd89efba3ecaaa70",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

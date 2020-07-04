@@ -1,0 +1,74 @@
+{
+  "id": "9e557d6a661d4a49a1089f1084e91e65",
+  "title": "ProteaInternal",
+  "description": "ProteaInternal",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/protea/item/IoT-OfferImage_Portrait_860x1148-860x1148-903e5ece6796820a7e5bdd82dfa5505d.jpg",
+      "md5": "903e5ece6796820a7e5bdd82dfa5505d",
+      "width": 860,
+      "height": 1148,
+      "size": 657872,
+      "uploadedDate": "2020-03-23T23:40:35.657Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/protea/item/IoT-OfferImage_Landscape_2560x1440-2560x1440-da0ca42dfb21502d97539cf1a91c8dd2.jpg",
+      "md5": "da0ca42dfb21502d97539cf1a91c8dd2",
+      "width": 2560,
+      "height": 1440,
+      "size": 2044192,
+      "uploadedDate": "2020-03-23T23:40:55.765Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "protea",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-18T05:19:12.788Z",
+  "lastModifiedDate": "2020-03-23T23:41:03.338Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ProteaInternal"
+    }
+  },
+  "entitlementName": "9e557d6a661d4a49a1089f1084e91e65",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4970b140c26e4b08b61b68e9257d56c5",
+      "appId": "ProteaInternal",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-18T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,99 @@
+{
+  "id": "bcf71207d5dc45219e7ecf437f621756",
+  "title": "Spellbreak External Test",
+  "description": "Spellbreak External Test",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/newt/item/Spellbreak_Logo-3090x1087-00ccb473b5b2d79e3096221158c9a81a.png",
+      "md5": "00ccb473b5b2d79e3096221158c9a81a",
+      "width": 3090,
+      "height": 1087,
+      "size": 33015,
+      "uploadedDate": "2019-04-29T19:13:20.231Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/newt/item/Spellbreak_GameIcon-400x400-5dd9d7537f0342ee27a8e1f1360e4e25.png",
+      "md5": "5dd9d7537f0342ee27a8e1f1360e4e25",
+      "width": 400,
+      "height": 400,
+      "size": 10442,
+      "uploadedDate": "2019-04-29T19:13:37.775Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/newt/item/EGS_ProletariatInc_Spellbreak_S1-2560x1440-75987e837f994b0638bf99cd359e723f.jpg",
+      "md5": "75987e837f994b0638bf99cd359e723f",
+      "width": 2560,
+      "height": 1440,
+      "size": 439488,
+      "uploadedDate": "2019-10-21T14:43:39.215Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-29T19:12:01.292Z",
+  "lastModifiedDate": "2019-11-05T13:08:20.233Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "newt"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Proletariat Inc"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "()"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SpellbreakExternalTest"
+    }
+  },
+  "entitlementName": "bcf71207d5dc45219e7ecf437f621756",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bcffa2d8c3a04e9ab5854af83fd2afaa",
+      "appId": "NewtExternalTest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-29T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

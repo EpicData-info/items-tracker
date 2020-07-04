@@ -1,0 +1,25 @@
+{
+  "id": "5b416897197341be85dddf2bec02b96e",
+  "title": "Handful of Gems",
+  "description": "A handful of gems",
+  "longDescription": "A handful of gems",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "mtx-packages"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2017-04-05T15:46:02.519Z",
+  "lastModifiedDate": "2019-11-12T22:12:08.092Z",
+  "entitlementName": "5b416897197341be85dddf2bec02b96e",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

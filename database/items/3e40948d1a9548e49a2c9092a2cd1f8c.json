@@ -1,0 +1,35 @@
+{
+  "id": "3e40948d1a9548e49a2c9092a2cd1f8c",
+  "title": "Cardpocalypse Mega Mutant Edition Audience",
+  "description": "Cardpocalypse Mega Mutant Edition Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2bfd5ca43ef443739ada168e017e1b78",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-10T20:31:55.834Z",
+  "lastModifiedDate": "2019-10-15T00:37:05.450Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Win32"
+    }
+  },
+  "entitlementName": "3e40948d1a9548e49a2c9092a2cd1f8c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Versus Evil",
+  "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

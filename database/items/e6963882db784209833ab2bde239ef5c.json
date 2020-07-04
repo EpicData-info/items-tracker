@@ -1,0 +1,25 @@
+{
+  "id": "e6963882db784209833ab2bde239ef5c",
+  "title": "Razor",
+  "description": "Reclaim your kingdom, one break at a time.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "cross_promo"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-09T21:48:10.204Z",
+  "lastModifiedDate": "2019-11-20T18:15:14.361Z",
+  "entitlementName": "BB_Razor",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

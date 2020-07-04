@@ -1,0 +1,50 @@
+{
+  "id": "0f71398531ca4632a66d0d92e8ca8d0f",
+  "title": "TrogonStaging",
+  "description": "TrogonStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1093790870b043cdbae03d91d76d9ae6",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-19T18:20:55.380Z",
+  "lastModifiedDate": "2019-10-16T15:26:13.329Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TrogonStaging"
+    }
+  },
+  "entitlementName": "0f71398531ca4632a66d0d92e8ca8d0f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7afdcd9f5caf4696b0bd71442e37c156",
+      "appId": "TrogonStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-19T18:24:30.157Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

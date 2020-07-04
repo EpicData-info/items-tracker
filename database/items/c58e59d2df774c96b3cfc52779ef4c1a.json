@@ -1,0 +1,46 @@
+{
+  "id": "c58e59d2df774c96b3cfc52779ef4c1a",
+  "title": "ParakeetGeneralAudience",
+  "description": "ParakeetGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/62d6f15b1bb345f6a42585b4c8c847a0/item/EGS_HeartMachine_HyperLightDrifter_RA_ESRB-842x404-071517bf6e41db7d37cb833e6ad03524.png",
+      "md5": "071517bf6e41db7d37cb833e6ad03524",
+      "width": 842,
+      "height": 404,
+      "size": 46619,
+      "uploadedDate": "2020-01-08T19:42:47.278Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "62d6f15b1bb345f6a42585b4c8c847a0",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-06T20:39:37.959Z",
+  "lastModifiedDate": "2020-01-08T19:42:54.912Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c58e59d2df774c96b3cfc52779ef4c1a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Heart Machine",
+  "developerId": "o-sa7ewerl9ha4ddzrjkjac7rh8sjgyc",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "selfRefundable": true,
+  "unsearchable": false
+}

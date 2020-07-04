@@ -1,0 +1,52 @@
+{
+  "id": "5f9ced55adf246e196507cdbb4410f4c",
+  "title": "CheetahStaging",
+  "description": "CheetahStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "917551a8060244469eb4e6ab8a99cf24",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-20T14:16:27.144Z",
+  "lastModifiedDate": "2020-04-30T14:39:59.686Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CheetahStaging"
+    }
+  },
+  "entitlementName": "5f9ced55adf246e196507cdbb4410f4c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "20cb7014dec844519927d731c5e20246",
+      "appId": "05f15e7e8052442f8429fa53bbe46848",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2020-04-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Frictional Games",
+  "developerId": "o-aclcw9pm582trqsqg66qfkfp9u9nw7",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

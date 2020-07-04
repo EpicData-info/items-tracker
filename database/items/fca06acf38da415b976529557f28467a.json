@@ -1,0 +1,25 @@
+{
+  "id": "fca06acf38da415b976529557f28467a",
+  "title": "Fortnite External Dev - Digital Confectioners",
+  "description": "Fortnite External Dev - Digital Confectioners",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-08T19:20:14.874Z",
+  "lastModifiedDate": "2019-11-08T19:20:14.874Z",
+  "entitlementName": "fca06acf38da415b976529557f28467a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

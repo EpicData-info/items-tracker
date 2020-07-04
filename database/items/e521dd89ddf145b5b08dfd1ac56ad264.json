@@ -1,0 +1,34 @@
+{
+  "id": "e521dd89ddf145b5b08dfd1ac56ad264",
+  "title": "Inns&CathedralsAudience",
+  "description": "Inns&CathedralsAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "0aaf0617ee0d47df87c0dc93509159dd",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-08T20:36:46.064Z",
+  "lastModifiedDate": "2020-02-06T14:59:33.938Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e521dd89ddf145b5b08dfd1ac56ad264",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Asmodee",
+  "developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

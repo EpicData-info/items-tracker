@@ -1,0 +1,33 @@
+{
+  "id": "f882d3fbc7924583be8a7ceda1550b37",
+  "title": "PloverDevAudience",
+  "description": "PloverDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "8bd4f3286d414820bc7cbcbb849b1f72",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-24T04:34:27.613Z",
+  "lastModifiedDate": "2020-04-08T14:42:12.692Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f882d3fbc7924583be8a7ceda1550b37",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

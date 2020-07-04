@@ -1,0 +1,30 @@
+{
+  "id": "ec33de6eb66e40a2b7ed1ef46caab465",
+  "title": "WEX Playtest App Bundle",
+  "description": "WEX Playtest App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-30T23:12:53.524Z",
+  "lastModifiedDate": "2019-09-30T23:40:06.159Z",
+  "customAttributes": {
+    "ActionSetName": {
+      "type": "STRING",
+      "value": "WEX-Playtest-App-Bundle"
+    }
+  },
+  "entitlementName": "ec33de6eb66e40a2b7ed1ef46caab465",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

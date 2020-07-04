@@ -1,0 +1,71 @@
+{
+  "id": "b068e3677498458baa563944801e0bc9",
+  "title": "Bucharest",
+  "description": "Bucharest",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "470e78f71f7a4b8eb05f1ec1422553e6",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-19T23:26:04.584Z",
+  "lastModifiedDate": "2020-06-19T23:34:43.578Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "470e78f71f7a4b8eb05f1ec1422553e6"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Bucharest"
+    }
+  },
+  "entitlementName": "b068e3677498458baa563944801e0bc9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0312df98ba954105ab3fe445fb842d11",
+      "appId": "2c078cfb3fea4893b116b6a460e50092",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-19T23:29:49.458Z"
+    }
+  ],
+  "developer": "Tactic Studios Inc.",
+  "developerId": "o-hk767x3yr4tfhk2ghy35fq5dnueqdg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

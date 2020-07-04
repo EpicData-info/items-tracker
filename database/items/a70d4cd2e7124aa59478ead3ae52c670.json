@@ -1,0 +1,51 @@
+{
+  "id": "a70d4cd2e7124aa59478ead3ae52c670",
+  "title": "Tanager_Luigi",
+  "description": "Tanager_Luigi",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-11T15:49:28.441Z",
+  "lastModifiedDate": "2020-06-01T18:23:22.100Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TanagerLuigi"
+    }
+  },
+  "entitlementName": "a70d4cd2e7124aa59478ead3ae52c670",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "608c5f358b5245bab8aa3dbb21882260",
+      "appId": "a7dfce68d08c44c8b5a1255d59998c09",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

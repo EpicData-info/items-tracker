@@ -1,0 +1,34 @@
+{
+  "id": "894b8d54e35848f88f7a0f2d96ab26d2",
+  "title": "Call_To_Action_01",
+  "description": "SPYJINX ANNOUNCEMENT VIDEO\n<inverted-tiny-body>VIEW NOW</>",
+  "technicalDetails": "https://www.youtube.com/watch?v=-q2sZ8XxD14",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ocn/item/Hacker-1381x751-1979112866-600x326-23d503b5130cace0289687b204f49f35.png",
+      "md5": "23d503b5130cace0289687b204f49f35",
+      "width": 600,
+      "height": 326,
+      "size": 12659,
+      "uploadedDate": "2017-06-29T14:36:53.412Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layout"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2017-03-16T13:53:23.428Z",
+  "lastModifiedDate": "2017-06-29T14:36:59.444Z",
+  "entitlementName": "894b8d54e35848f88f7a0f2d96ab26d2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

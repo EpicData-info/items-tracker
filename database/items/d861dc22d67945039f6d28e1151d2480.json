@@ -1,0 +1,46 @@
+{
+  "id": "d861dc22d67945039f6d28e1151d2480",
+  "title": "TWDTTDS Pre-Purchase Audience",
+  "description": "TWDTTDS Pre-Purchase Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/item/ESRB_WalkingDeadDE-842x404-0ae3fb75831087dd66fcbd2053dff37b.png",
+      "md5": "0ae3fb75831087dd66fcbd2053dff37b",
+      "width": 842,
+      "height": 404,
+      "size": 59326,
+      "uploadedDate": "2019-09-25T13:27:03.403Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "b534830f4c524447bfd2266ce70cf8ab",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-05T18:20:54.613Z",
+  "lastModifiedDate": "2019-09-25T13:27:06.813Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d861dc22d67945039f6d28e1151d2480",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

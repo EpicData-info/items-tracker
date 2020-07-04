@@ -1,0 +1,23 @@
+{
+  "id": "6bce65da342146e0abef3183e99c6c16",
+  "title": "Fortnite External QA",
+  "description": "Fortnite External QA",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-01-29T22:32:36.252Z",
+  "lastModifiedDate": "2019-04-15T00:23:02.782Z",
+  "entitlementName": "Fortnite_External_QA",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

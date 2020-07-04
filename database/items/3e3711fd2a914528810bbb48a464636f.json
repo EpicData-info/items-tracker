@@ -1,0 +1,34 @@
+{
+  "id": "3e3711fd2a914528810bbb48a464636f",
+  "title": "Duck QA DLC 1 Audience",
+  "description": "Duck QA DLC 1 Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2bfd5ca43ef443739ada168e017e1b78",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-22T20:27:22.186Z",
+  "lastModifiedDate": "2019-11-22T20:28:18.491Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3e3711fd2a914528810bbb48a464636f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Versus Evil",
+  "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

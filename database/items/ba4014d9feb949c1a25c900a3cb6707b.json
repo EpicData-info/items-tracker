@@ -1,0 +1,53 @@
+{
+  "id": "ba4014d9feb949c1a25c900a3cb6707b",
+  "title": "DemoGuppyStaging",
+  "description": "DemoGuppyStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "deab864e1abf4357b303bcd5ff6fe8da",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-25T20:42:33.947Z",
+  "lastModifiedDate": "2020-05-12T15:57:08.619Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/VicariousVisions/THPS/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DemoGuppyStaging"
+    }
+  },
+  "entitlementName": "ba4014d9feb949c1a25c900a3cb6707b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2056df58e9014f1fa06668ed96b42de9",
+      "appId": "591ddef2b49748238d24de9cf8e0356e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-03-25T00:00:00.000Z"
+    }
+  ],
+  "developer": "Activision Publishing, Inc",
+  "developerId": "o-s5myyzhdfhxwftmvf55ph3eu6fbqpz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

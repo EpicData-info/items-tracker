@@ -1,0 +1,24 @@
+{
+  "id": "b09fe69a1ce44f15b6d30d62d8a1beaf",
+  "title": "Ocean External Dev - Bad Robot",
+  "description": "Ocean External Dev - Bad Robot",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-20T21:56:58.585Z",
+  "lastModifiedDate": "2019-09-20T21:56:58.585Z",
+  "entitlementName": "b09fe69a1ce44f15b6d30d62d8a1beaf",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

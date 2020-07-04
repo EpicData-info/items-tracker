@@ -1,0 +1,34 @@
+{
+  "id": "fc901659657e41718c5448ada3781d39",
+  "title": "BarracudaXGSeasonPassAudience_redeemable",
+  "description": "BarracudaXGSeasonPassAudience_redeemable",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "a646020cb93b4ea995cda70647bbe001",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-17T16:56:03.551Z",
+  "lastModifiedDate": "2020-01-01T15:30:24.656Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "fc901659657e41718c5448ada3781d39",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

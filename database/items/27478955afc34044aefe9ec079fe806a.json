@@ -1,0 +1,39 @@
+{
+  "id": "27478955afc34044aefe9ec079fe806a",
+  "title": "Launcher_logo",
+  "description": "logo",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/unrealTournament_logo-310x93-15f8643a30de94e235c6b9873d0cd536.png",
+      "md5": "15f8643a30de94e235c6b9873d0cd536",
+      "width": 310,
+      "height": 93,
+      "size": 16659,
+      "uploadedDate": "2017-06-08T19:37:13.845Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2017-06-08T19:37:18.408Z",
+  "lastModifiedDate": "2017-06-12T20:57:58.610Z",
+  "entitlementName": "27478955afc34044aefe9ec079fe806a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

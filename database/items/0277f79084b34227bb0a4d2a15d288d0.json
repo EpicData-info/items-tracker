@@ -1,0 +1,36 @@
+{
+  "id": "0277f79084b34227bb0a4d2a15d288d0",
+  "title": "Daily Deal Token Audience",
+  "description": "Daily Deal Token Audience",
+  "longDescription": "Daily Deal Token Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-17T20:07:07.155Z",
+  "lastModifiedDate": "2020-03-20T14:41:47.161Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0277f79084b34227bb0a4d2a15d288d0",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

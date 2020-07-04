@@ -1,0 +1,25 @@
+{
+  "id": "cdb45ff11b884525a386a4c8b241d1d4",
+  "title": "Flappy Flyer",
+  "description": "Flappy Flyer",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-30T01:06:02.281Z",
+  "lastModifiedDate": "2019-05-30T01:06:02.281Z",
+  "entitlementName": "AthenaGlider:glider_id_097_feathers",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,55 @@
+{
+  "id": "8b7bc33483ae45e09476c2435ca121aa",
+  "title": "Bring The Crunch DLC",
+  "description": "Bring The Crunch DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "764eb429792649e4a606413cd649de2c",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-20T20:25:49.094Z",
+  "lastModifiedDate": "2019-12-20T15:33:49.356Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "1636f05db30b48fd9c2d96a38cdd25d1"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "c64c6a30379842fa98897b012ad14790"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "8b7bc33483ae45e09476c2435ca121aa",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a8527e4078d44db7a9d506e651ca630b",
+      "appId": "AlewifeDLC3",
+      "dateAdded": "2019-11-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

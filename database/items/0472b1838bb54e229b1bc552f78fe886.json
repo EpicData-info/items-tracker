@@ -1,0 +1,24 @@
+{
+  "id": "0472b1838bb54e229b1bc552f78fe886",
+  "title": "Upright Axe",
+  "description": "It's up, and it's good!",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-08T19:53:09.413Z",
+  "lastModifiedDate": "2019-01-08T19:53:09.413Z",
+  "entitlementName": "AthenaPickaxe:pickaxe_id_094_football",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

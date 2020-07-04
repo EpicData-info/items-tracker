@@ -1,0 +1,99 @@
+{
+  "id": "80f37a74363c400bb3c38dd89397360c",
+  "title": "Rainbow Six Quarantine",
+  "description": "Rainbow Six Quarantine",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/1093790870b043cdbae03d91d76d9ae6/item/GameName_Store_Landscape_2580x1450-2580x1450-009786d4a8eb83576b5bd96ac6320e6e.jpg",
+      "md5": "009786d4a8eb83576b5bd96ac6320e6e",
+      "width": 2580,
+      "height": 1450,
+      "size": 438448,
+      "uploadedDate": "2019-10-16T15:21:18.379Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/1093790870b043cdbae03d91d76d9ae6/item/Game_Logo_Color_1000x375-1000x375-af047bb367e15e1efc980e2a5b4a3c23.png",
+      "md5": "af047bb367e15e1efc980e2a5b4a3c23",
+      "width": 1000,
+      "height": 375,
+      "size": 51207,
+      "uploadedDate": "2019-10-16T15:21:32.813Z"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/1093790870b043cdbae03d91d76d9ae6/item/R6_Portrait-Promo-1280x1420-1280x1420-fce0fc8cf0aaf9d523553c1c3719d26c-1280x1420-fce0fc8cf0aaf9d523553c1c3719d26c.jpg",
+      "md5": "fce0fc8cf0aaf9d523553c1c3719d26c",
+      "width": 1280,
+      "height": 1420,
+      "size": 900845,
+      "uploadedDate": "2019-11-20T17:13:36.967Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1093790870b043cdbae03d91d76d9ae6",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-19T18:20:55.354Z",
+  "lastModifiedDate": "2019-11-20T17:13:40.273Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "1093790870b043cdbae03d91d76d9ae6"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RainbowSixQuarantine"
+    }
+  },
+  "entitlementName": "80f37a74363c400bb3c38dd89397360c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1ffa90b025fa43ddac829647a2c7463d",
+      "appId": "Trogon",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

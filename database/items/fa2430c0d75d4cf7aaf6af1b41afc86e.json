@@ -1,0 +1,79 @@
+{
+  "id": "fa2430c0d75d4cf7aaf6af1b41afc86e",
+  "title": "Dauntless PTR",
+  "description": "Dauntless PTR",
+  "longDescription": "JackalPlaytestStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/jackal/item/Epic_DauntlessScorchedEarth_FullGame_LandscapeOffer_LogoTest-2560x1440-d4748c14657407b45891d1d3e17e5517-2560x1440-d4748c14657407b45891d1d3e17e5517.jpg",
+      "md5": "d4748c14657407b45891d1d3e17e5517",
+      "width": 2560,
+      "height": 1440,
+      "size": 587855,
+      "uploadedDate": "2020-03-30T16:30:19.171Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/jackal/item/EGS_LIVEFORTHEHUNT_PhoenixLabs_S4-510x680-e555c4296ba40636fd72db5ce5f56a95-510x680-e555c4296ba40636fd72db5ce5f56a95.jpg",
+      "md5": "e555c4296ba40636fd72db5ce5f56a95",
+      "width": 510,
+      "height": 680,
+      "size": 200053,
+      "uploadedDate": "2020-03-30T16:30:40.969Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "jackal",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-03T17:07:36.825Z",
+  "lastModifiedDate": "2020-06-11T16:55:13.098Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "jackal"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DauntlessPTR"
+    }
+  },
+  "entitlementName": "fa2430c0d75d4cf7aaf6af1b41afc86e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e31bc32326804cebb9da4ed33a85c417",
+      "appId": "JackalPlaytestStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-06T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Phoenix Labs",
+  "developerId": "o-krlzxj88qrtb69fredeuaf887bl5az",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

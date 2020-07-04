@@ -1,0 +1,90 @@
+{
+  "id": "cab6881d736041bbbcf1c5973c735f44",
+  "title": "State Of Decay 2 Pre-Purchase",
+  "description": "State Of Decay 2 Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/11eb2ae2943641b498efb54501511b86/item/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S1-2560x1440-a511367776edbdaf619fc594bf173fc9.jpg",
+      "md5": "a511367776edbdaf619fc594bf173fc9",
+      "width": 2560,
+      "height": 1440,
+      "size": 409640,
+      "uploadedDate": "2020-03-06T16:38:43.453Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/11eb2ae2943641b498efb54501511b86/item/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S2-860x1148-13ba1a38ea2f8c924cb636059bc28aec.jpg",
+      "md5": "13ba1a38ea2f8c924cb636059bc28aec",
+      "width": 860,
+      "height": 1148,
+      "size": 475611,
+      "uploadedDate": "2020-03-06T16:38:56.652Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "11eb2ae2943641b498efb54501511b86",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-06T16:15:57.909Z",
+  "lastModifiedDate": "2020-03-13T16:59:16.683Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "11eb2ae2943641b498efb54501511b86"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "StateOfDecay2Dummy"
+    }
+  },
+  "entitlementName": "cab6881d736041bbbcf1c5973c735f44",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "00140033cff84ae29c9f3b6b8ed3c5b4",
+      "appId": "SnoekDummy",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-03-06T00:00:00.000Z"
+    }
+  ],
+  "developer": "Microsoft",
+  "developerId": "o-f3qq8ygts6pglxx529jhgx5bmyj6bf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

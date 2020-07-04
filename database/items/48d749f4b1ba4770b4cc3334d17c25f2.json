@@ -1,0 +1,30 @@
+{
+  "id": "48d749f4b1ba4770b4cc3334d17c25f2",
+  "title": "Fortnite Localization App Bundle",
+  "description": "Fortnite Localization App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-18T22:47:09.190Z",
+  "lastModifiedDate": "2020-02-10T21:00:17.273Z",
+  "customAttributes": {
+    "ActionSetName": {
+      "type": "STRING",
+      "value": "Fortnite-Localization-App-Bundle"
+    }
+  },
+  "entitlementName": "48d749f4b1ba4770b4cc3334d17c25f2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

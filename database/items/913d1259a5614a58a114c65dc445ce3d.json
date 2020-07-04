@@ -1,0 +1,45 @@
+{
+  "id": "913d1259a5614a58a114c65dc445ce3d",
+  "title": "Ghost Recon Breakpoint Standard Edition Audience",
+  "description": "Ghost Recon Breakpoint Standard Edition Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/ESRB_GhostReconBreakpoint-842x485-605e6ef12cb58888785aa30ecd659294.jpg",
+      "md5": "605e6ef12cb58888785aa30ecd659294",
+      "width": 842,
+      "height": 485,
+      "size": 63449,
+      "uploadedDate": "2019-09-20T17:06:14.892Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-02T01:23:20.999Z",
+  "lastModifiedDate": "2020-01-06T15:10:22.177Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "913d1259a5614a58a114c65dc445ce3d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e09446f3954a4297aa7887967603f47e",
+  "title": "Nutmeg External Audience",
+  "description": "Nutmeg External Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "nutmeg",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-25T22:20:17.315Z",
+  "lastModifiedDate": "2019-12-10T18:14:54.342Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e09446f3954a4297aa7887967603f47e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Digital Continue",
+  "developerId": "o-qb7ry6eblsrnt28hxlcuw8w5j5t7y3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

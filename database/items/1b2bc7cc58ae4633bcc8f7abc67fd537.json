@@ -1,0 +1,92 @@
+{
+  "id": "1b2bc7cc58ae4633bcc8f7abc67fd537",
+  "title": "Figment",
+  "description": "Figment",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/270e1d648a5e4060b7b441615c4da4d9/item/EGS_Figment_BedtimeDigitalGames_S3-1360x766-db305dcf65ce7dd5d7c3adfe6afc6769.jpg",
+      "md5": "db305dcf65ce7dd5d7c3adfe6afc6769",
+      "width": 1360,
+      "height": 766,
+      "size": 490395,
+      "uploadedDate": "2020-03-18T20:16:45.714Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/270e1d648a5e4060b7b441615c4da4d9/item/EGS_Figment_BedtimeDigitalGames_S4-510x680-9ad7fc1bc7e6c8dae1674c2773c759d1.jpg",
+      "md5": "9ad7fc1bc7e6c8dae1674c2773c759d1",
+      "width": 510,
+      "height": 680,
+      "size": 374487,
+      "uploadedDate": "2020-03-18T20:16:58.393Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "270e1d648a5e4060b7b441615c4da4d9",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-06T20:59:29.196Z",
+  "lastModifiedDate": "2020-05-15T02:42:42.506Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "270e1d648a5e4060b7b441615c4da4d9"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Figment"
+    }
+  },
+  "entitlementName": "1b2bc7cc58ae4633bcc8f7abc67fd537",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "17b63abe267a43d0a8e3c164ded9ee8f",
+      "appId": "ed5e8d42b2ac461eb6f9176d163b9515",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-03-05T00:00:00.000Z"
+    }
+  ],
+  "developer": "Bedtime Digital Games ApS",
+  "developerId": "o-bdq65kgy9hhkz5n4gkjlyt3uju86hw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

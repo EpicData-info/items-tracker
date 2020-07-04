@@ -1,0 +1,23 @@
+{
+  "id": "3d22d79ccad148b8b8391cf7f9bcc3e6",
+  "title": "TestSeaQA-6",
+  "description": "Entitlement Start Date test",
+  "longDescription": "Entitlement type is entitlement, item type is Subscription, entitlement start date is today",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-27T18:13:51.137Z",
+  "lastModifiedDate": "2014-10-27T18:13:51.137Z",
+  "entitlementName": "EntitlmentType-1",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementEndDate": "2015-10-28T00:00:00.000Z",
+  "entitlementStartDate": "2014-10-27T00:00:00.000Z",
+  "itemType": "SUBSCRIPTION",
+  "endOfSupport": false,
+  "unsearchable": false
+}

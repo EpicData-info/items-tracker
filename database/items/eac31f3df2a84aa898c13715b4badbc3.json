@@ -1,0 +1,30 @@
+{
+  "id": "eac31f3df2a84aa898c13715b4badbc3",
+  "title": "CamelliaDevAudience",
+  "description": "CamelliaDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "camellia",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-08T21:57:20.360Z",
+  "lastModifiedDate": "2019-11-27T15:28:33.806Z",
+  "customAttributes": {},
+  "entitlementName": "eac31f3df2a84aa898c13715b4badbc3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

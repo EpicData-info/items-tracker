@@ -1,0 +1,25 @@
+{
+  "id": "5d91cf19b26144a6b245a0e65e81f6cf",
+  "title": "Darksiders III - Keepers of the Void",
+  "description": "Darksiders III - Keepers of the Void",
+  "longDescription": "Added 7/16/19 - 1:24 ET - Unattached to anything - sent audience to THQ not this item id",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "springbok",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-16T17:23:15.229Z",
+  "lastModifiedDate": "2019-07-16T17:27:21.609Z",
+  "entitlementName": "5d91cf19b26144a6b245a0e65e81f6cf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

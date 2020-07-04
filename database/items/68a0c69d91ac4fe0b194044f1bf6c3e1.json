@@ -1,0 +1,39 @@
+{
+  "id": "68a0c69d91ac4fe0b194044f1bf6c3e1",
+  "title": "CharacterRender_07",
+  "description": "eom",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/fn/item/Soldier_Male-539x700-38420b69d1f2c3e6d7e7ed961f0590f9.png",
+      "md5": "38420b69d1f2c3e6d7e7ed961f0590f9",
+      "width": 539,
+      "height": 700,
+      "size": 262731,
+      "uploadedDate": "2016-06-03T17:43:44.609Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2016-06-03T17:41:38.782Z",
+  "lastModifiedDate": "2016-06-03T17:43:50.092Z",
+  "entitlementName": "68a0c69d91ac4fe0b194044f1bf6c3e1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

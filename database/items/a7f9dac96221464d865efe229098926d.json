@@ -1,0 +1,54 @@
+{
+  "id": "a7f9dac96221464d865efe229098926d",
+  "title": "FridayDevPlaytest",
+  "description": "FridayDevPlaytest",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/fr/item/TGIF-1920x1080-c88948ab313f817e883dea8589a31383.png",
+      "md5": "c88948ab313f817e883dea8589a31383",
+      "width": 1920,
+      "height": 1080,
+      "size": 110930,
+      "uploadedDate": "2016-03-09T04:11:24.912Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "wex",
+  "status": "SUNSET",
+  "creationDate": "2016-03-08T22:07:46.182Z",
+  "lastModifiedDate": "2019-04-29T19:30:51.844Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "BattleBreakers"
+    }
+  },
+  "entitlementName": "a7f9dac96221464d865efe229098926d",
+  "entitlementType": "EXECUTABLE",
+  "entitlementEndDate": "2019-04-30T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "709f219e94924b868659d6a9af4fefa7",
+      "appId": "WorldExplorersDevPlaytest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2016-03-05T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "1816f44d5c2a49fb809ac7af2a88ac1e",
+  "title": "Stunt Sets Audience",
+  "description": "Stunt Sets Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "52b90f9a982a404781b189f6a7903226",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-27T21:02:01.698Z",
+  "lastModifiedDate": "2020-05-14T02:03:12.672Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "1816f44d5c2a49fb809ac7af2a88ac1e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

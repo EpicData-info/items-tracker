@@ -1,0 +1,29 @@
+{
+  "id": "f5237bb4cc4243708c3ef2961bb2b169",
+  "title": "Character Skins Pack 2",
+  "description": "Character Skins Pack 2",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "dlc"
+    }
+  ],
+  "namespace": "wombat",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-13T22:16:31.673Z",
+  "lastModifiedDate": "2020-05-05T10:00:00.222Z",
+  "entitlementName": "f5237bb4cc4243708c3ef2961bb2b169",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

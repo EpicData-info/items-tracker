@@ -1,0 +1,51 @@
+{
+  "id": "7109e0cee02b498aa886a02f789e8442",
+  "title": "MintStaging",
+  "description": "MintStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d0545b136bb042fb9014e72b6af748f6",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-17T17:54:14.045Z",
+  "lastModifiedDate": "2019-10-04T11:43:23.648Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MintStaging"
+    }
+  },
+  "entitlementName": "7109e0cee02b498aa886a02f789e8442",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c617cf6c0143463abff07e3296f3b400",
+      "appId": "MintStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-06T14:40:25.662Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

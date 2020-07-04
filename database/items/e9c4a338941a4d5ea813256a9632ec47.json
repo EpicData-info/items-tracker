@@ -1,0 +1,44 @@
+{
+  "id": "e9c4a338941a4d5ea813256a9632ec47",
+  "title": "Hello Mod",
+  "description": "HELLO NEIGHBOR MOD KIT",
+  "longDescription": "Create your own Hello Neighbor mods to share with everyone!\nThe Hello Neighbor Mod Kit contains all of the game content you need for creating your own creepy neighbor's house, adding new diabolical traps, and whatever else you'll want to hide in his basement. \n\n*All content approved by the Raven Brooke Home Owner's Association",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/helloneighbor/item/Hello Neighbor Dev Kit Banner-3840x2160-84ec1b4763065bac1487275dcee33ec0.png",
+      "md5": "84ec1b4763065bac1487275dcee33ec0",
+      "width": 3840,
+      "height": 2160,
+      "size": 9169455,
+      "uploadedDate": "2017-09-22T20:45:53.579Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "helloneighbor",
+  "status": "ACTIVE",
+  "creationDate": "2017-09-22T20:46:03.659Z",
+  "lastModifiedDate": "2019-12-30T15:51:18.106Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "AllowMultipleInstances": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "HelloMod",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

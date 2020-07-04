@@ -1,0 +1,94 @@
+{
+  "id": "41cb1afc8ffd4e52b0f19d6fe52b058c",
+  "title": "Ghost Recon Breakpoint Free Trial",
+  "description": "Ghost Recon Breakpoint Free Trial",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/GRT_UCS16420_EGST_Edition_Capsule_1920X1080-1920x1080-4895ee23c9fc73769a88c8c1da646b6e.jpg",
+      "md5": "4895ee23c9fc73769a88c8c1da646b6e",
+      "width": 1920,
+      "height": 1080,
+      "size": 276502,
+      "uploadedDate": "2020-03-24T00:38:41.136Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/GRT_UCS16420_EGST_Store_Portrait_1280x1420-1280x1420-288eef4ab42bdef66ffe5f668a36ea1b.png",
+      "md5": "288eef4ab42bdef66ffe5f668a36ea1b",
+      "width": 1280,
+      "height": 1420,
+      "size": 3340340,
+      "uploadedDate": "2020-03-24T00:38:57.241Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-04T22:47:39.940Z",
+  "lastModifiedDate": "2020-03-30T15:01:08.927Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "2dbd2f64abdc4bbab077424d5c85e01b"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BreakpointFreeTrial"
+    },
+    "neverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "41cb1afc8ffd4e52b0f19d6fe52b058c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "711f95fddf994cd398792c552af76b52",
+      "appId": "c8c02f76c8674552930181b17f18ca89",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-29T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,83 @@
+{
+  "id": "fdb34dd5476a47f3a361ce14b8820df6",
+  "title": "HibiscusStaging",
+  "description": "HibiscusStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/hibiscus/item/Oxenfree_Logo_White-2580x304-2007aac63544628ae4217365e606c000.png",
+      "md5": "2007aac63544628ae4217365e606c000",
+      "width": 2580,
+      "height": 304,
+      "size": 32017,
+      "uploadedDate": "2019-03-04T18:47:57.732Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/hibiscus/item/Oxenfree_GamePagePromo_2580x1450-2580x1450-67e364067e5e51125d7d3343ff65e042.jpg",
+      "md5": "67e364067e5e51125d7d3343ff65e042",
+      "width": 2580,
+      "height": 1450,
+      "size": 146944,
+      "uploadedDate": "2019-03-04T18:47:45.791Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "hibiscus",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-29T20:40:30.412Z",
+  "lastModifiedDate": "2019-08-08T18:29:18.683Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Night School Studio/Oxenfree/save/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Night School Studio/Oxenfree/save/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HibiscusStaging"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "fdb34dd5476a47f3a361ce14b8820df6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cca5125ee7984f0ab604cdc27c886375",
+      "appId": "HibiscusStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-02-20T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Night School Studio, LLC",
+  "developerId": "o-8bhctnyt9qetgnjd4nssqse58c2589",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

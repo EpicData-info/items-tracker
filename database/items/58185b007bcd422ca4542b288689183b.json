@@ -1,0 +1,52 @@
+{
+  "id": "58185b007bcd422ca4542b288689183b",
+  "title": "Tanager_DonkeyKong",
+  "description": "Tanager_DonkeyKong",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-19T15:46:58.896Z",
+  "lastModifiedDate": "2020-06-19T16:37:13.398Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TanagerDonkeyKong"
+    }
+  },
+  "entitlementName": "58185b007bcd422ca4542b288689183b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "608c5f358b5245bab8aa3dbb21882260",
+      "appId": "cf6081b097ca4aa4a94878fd8a6bb0ab",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

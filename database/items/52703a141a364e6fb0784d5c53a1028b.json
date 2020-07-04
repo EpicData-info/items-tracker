@@ -1,0 +1,34 @@
+{
+  "id": "52703a141a364e6fb0784d5c53a1028b",
+  "title": "Betta Press audience",
+  "description": "Betta Press audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "3102f48ad7bd409ab6e34f2ad697e961",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-12T02:43:56.607Z",
+  "lastModifiedDate": "2020-02-12T02:44:57.484Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "52703a141a364e6fb0784d5c53a1028b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "The Bearded Ladies",
+  "developerId": "o-4tpv8rfgn7hpeedlj792hzn9965999",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,93 @@
+{
+  "id": "2ae04cd5511748f5bc5e5390a50bff6b",
+  "title": "Mount & Blade II: Bannerlord",
+  "description": "Mount & Blade II: Bannerlord",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/aeac94c7a11048758064b82f8f8d20ed/item/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S1-2560x1440-3455b2c51f7d0ac8837d0ea4ddfe8ba3.jpg",
+      "md5": "3455b2c51f7d0ac8837d0ea4ddfe8ba3",
+      "width": 2560,
+      "height": 1440,
+      "size": 475246,
+      "uploadedDate": "2020-02-19T01:23:01.940Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/aeac94c7a11048758064b82f8f8d20ed/item/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S2-860x1148-7422df7d13d925d3d0140e59678d0712.jpg",
+      "md5": "7422df7d13d925d3d0140e59678d0712",
+      "width": 860,
+      "height": 1148,
+      "size": 509459,
+      "uploadedDate": "2020-02-19T01:23:17.519Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "aeac94c7a11048758064b82f8f8d20ed",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-04T14:32:24.300Z",
+  "lastModifiedDate": "2020-06-16T22:56:48.853Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "aeac94c7a11048758064b82f8f8d20ed"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Mount&Blade2"
+    }
+  },
+  "entitlementName": "2ae04cd5511748f5bc5e5390a50bff6b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6b2c4fe2c0874e049fba327b2b644bb7",
+      "appId": "Chickadee",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "TaleWorlds Entertainment",
+  "developerId": "o-e2fanamv6wpuy3gpyyscsnzjth7hrg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "applicationId": "fghi4567N2gmk1Oy1HYDenxtdGlNhD91",
+  "unsearchable": false
+}

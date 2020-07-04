@@ -1,0 +1,57 @@
+{
+  "id": "ffc8a62575a44a05bc6af59f54a6ed53",
+  "title": "Jack The Ripper - DLC",
+  "description": "Jack The Ripper - DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c9be94273fe244c08032ca493ad87434",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-04T18:27:52.901Z",
+  "lastModifiedDate": "2020-02-20T15:16:13.436Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "e9f9422804f54ef59dcec8e01aba8786"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "682e2b3e45f44c54bd903d2d134c6107"
+    }
+  },
+  "entitlementName": "ffc8a62575a44a05bc6af59f54a6ed53",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d7687dd2a3b14b16863aeedf2f40aaea",
+      "appId": "AlbacoreJTR",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

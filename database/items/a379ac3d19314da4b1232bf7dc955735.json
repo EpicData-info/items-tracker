@@ -1,0 +1,51 @@
+{
+  "id": "a379ac3d19314da4b1232bf7dc955735",
+  "title": "SarajevoStaging",
+  "description": "SarajevoStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "456d95ca54814c8d98db2f52346ff5de",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-29T16:24:16.563Z",
+  "lastModifiedDate": "2020-07-01T14:33:16.265Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SarajevoStaging"
+    }
+  },
+  "entitlementName": "a379ac3d19314da4b1232bf7dc955735",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3211a437e4d143bd9446ddbbaae7918c",
+      "appId": "3b47468c80a54a269a59760e5c3a57d7",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-29T19:41:35.730Z"
+    }
+  ],
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

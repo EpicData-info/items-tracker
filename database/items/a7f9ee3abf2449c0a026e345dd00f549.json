@@ -1,0 +1,50 @@
+{
+  "id": "a7f9ee3abf2449c0a026e345dd00f549",
+  "title": "OceanReleasePlaytest",
+  "description": "OceanReleasePlaytest",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2016-07-06T21:22:47.864Z",
+  "lastModifiedDate": "2020-04-02T13:41:47.375Z",
+  "customAttributes": {
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "HasGateKeeper": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "OceanReleasePlaytest",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "49eddb66e1764aecb60bb420e03f5aee",
+      "appId": "OceanReleasePlaytest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "iOS",
+        "Android"
+      ],
+      "dateAdded": "2016-07-06T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

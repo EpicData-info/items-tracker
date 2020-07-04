@@ -1,0 +1,47 @@
+{
+  "id": "3df7692f0a8d49ee91859947dc371a8a",
+  "title": "BoxfishGeneralAudience",
+  "description": "BoxfishGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/PHG_Rating-601x351-a9daf67157ca27a17a95af8558b212ff.jpg",
+      "md5": "a9daf67157ca27a17a95af8558b212ff",
+      "width": 601,
+      "height": 351,
+      "size": 54004,
+      "uploadedDate": "2020-06-26T20:40:01.885Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-12T21:56:02.501Z",
+  "lastModifiedDate": "2020-06-26T20:40:09.465Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3df7692f0a8d49ee91859947dc371a8a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

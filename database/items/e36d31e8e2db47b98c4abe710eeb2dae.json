@@ -1,0 +1,60 @@
+{
+  "id": "e36d31e8e2db47b98c4abe710eeb2dae",
+  "title": "TurquoiseStaging",
+  "description": "TurquoiseStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8767c1c91fc847cbafbfa232c695276f",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-24T00:47:42.310Z",
+  "lastModifiedDate": "2020-06-04T14:33:24.683Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "55e8ce1364c149d982b109a2b75712ee"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TurquoiseStaging"
+    }
+  },
+  "entitlementName": "e36d31e8e2db47b98c4abe710eeb2dae",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "700ee79d03dc4040b79c8e8b927c8890",
+      "appId": "9f70a9a158954bc9b42aa5013355947e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

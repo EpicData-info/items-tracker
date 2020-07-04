@@ -1,0 +1,54 @@
+{
+  "id": "c1eba99cfa384ca4a5216687adcedc7c",
+  "title": "ShallotsStaging",
+  "description": "ShallotsStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ada169f07b81464a9fc06a7d6896101d",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-02T04:20:42.647Z",
+  "lastModifiedDate": "2019-10-23T17:56:49.603Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/TheSojourn/Saved/SaveGames/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ShallotsStaging"
+    }
+  },
+  "entitlementName": "c1eba99cfa384ca4a5216687adcedc7c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2fd74b2dec4948fb866b28b15aedabfb",
+      "appId": "ShallotsStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-22T00:00:00.000Z"
+    }
+  ],
+  "developer": "Iceberg Interactive",
+  "developerId": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

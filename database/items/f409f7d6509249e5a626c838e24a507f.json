@@ -1,0 +1,34 @@
+{
+  "id": "f409f7d6509249e5a626c838e24a507f",
+  "title": "OpahPrePurchaseDLCAudience",
+  "description": "OpahPrePurchaseDLCAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "30bf97ae13f74c3d87c9f3fe04d507ba",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-11T17:06:13.394Z",
+  "lastModifiedDate": "2020-04-02T19:54:10.915Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f409f7d6509249e5a626c838e24a507f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

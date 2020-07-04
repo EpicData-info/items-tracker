@@ -1,0 +1,40 @@
+{
+  "id": "a1756f1905504080abf36d0e05ce61aa",
+  "title": "Call_To_Action_02",
+  "description": "UT VIDEOS\n<inverted-tiny-body>WATCH</>",
+  "technicalDetails": "https://www.youtube.com/playlist?list=PLC7LX1Iyxa-ny0aGG6svgfQ-ZYPnV4PLN",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/FragCenterLogoVertical-576x432-f5c1eea10fa063b16d89b8490731d221.png",
+      "md5": "f5c1eea10fa063b16d89b8490731d221",
+      "width": 576,
+      "height": 432,
+      "size": 28383,
+      "uploadedDate": "2017-02-24T20:21:51.778Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2017-02-23T22:13:06.225Z",
+  "lastModifiedDate": "2017-03-23T18:35:57.305Z",
+  "entitlementName": "UnrealTournament",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

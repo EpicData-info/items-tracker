@@ -1,0 +1,25 @@
+{
+  "id": "7fef311cceba47c0b4223d2df89dbae7",
+  "title": "FortniteDevPlaytestG Audience",
+  "description": "FortniteDevPlaytestG Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-04T16:15:53.899Z",
+  "lastModifiedDate": "2020-02-04T16:24:13.518Z",
+  "entitlementName": "7fef311cceba47c0b4223d2df89dbae7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

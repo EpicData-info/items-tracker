@@ -1,0 +1,71 @@
+{
+  "id": "a068d8b12b5c4bec8d90704ea595428e",
+  "title": "Offworld Soundtrack",
+  "description": "Offworld Soundtrack",
+  "longDescription": "Offworld Trading Company Soundtrack",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyOfficialSoundtrack_MohawkGames_DLC_IC1_A-320x180-cf8031f2b372f12329cfb768a0a2ba61.jpg",
+      "md5": "cf8031f2b372f12329cfb768a0a2ba61",
+      "width": 320,
+      "height": 180,
+      "size": 48952,
+      "uploadedDate": "2020-03-05T15:49:59.052Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/Offworld_Portrait-510x680-7a9909ce27ac1d94813f6f49f6632871.jpg",
+      "md5": "7a9909ce27ac1d94813f6f49f6632871",
+      "width": 510,
+      "height": 680,
+      "size": 60952,
+      "uploadedDate": "2020-03-05T15:51:34.991Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-17T21:43:50.802Z",
+  "lastModifiedDate": "2020-03-05T19:16:43.605Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OffworldSoundtrack"
+    }
+  },
+  "entitlementName": "a068d8b12b5c4bec8d90704ea595428e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "78b205aab48742d79504fbddd085da8c",
+      "appId": "SnapperSoundtrack",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-02-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

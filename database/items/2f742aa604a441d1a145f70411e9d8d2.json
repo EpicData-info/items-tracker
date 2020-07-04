@@ -1,0 +1,37 @@
+{
+  "id": "2f742aa604a441d1a145f70411e9d8d2",
+  "title": "RUNE II - World Map Audience",
+  "description": "RUNE II - World Map Audience",
+  "longDescription": "Digital Download",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "cosmos",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-15T14:27:41.142Z",
+  "lastModifiedDate": "2020-01-08T14:39:53.932Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "2f742aa604a441d1a145f70411e9d8d2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ragnarok Game, LLC",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

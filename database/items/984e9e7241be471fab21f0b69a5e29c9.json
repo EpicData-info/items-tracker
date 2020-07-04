@@ -1,0 +1,48 @@
+{
+  "id": "984e9e7241be471fab21f0b69a5e29c9",
+  "title": "OceanDevPlaytest",
+  "description": "OceanDevPlaytest",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2015-12-11T20:39:33.707Z",
+  "lastModifiedDate": "2019-09-20T03:31:00.161Z",
+  "customAttributes": {
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "HasGateKeeper": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "984e9e7241be471fab21f0b69a5e29c9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7756df6359d24eb2b4f8253bcbaa1cda",
+      "appId": "OceanDevPlaytest",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2015-12-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

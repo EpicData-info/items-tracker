@@ -1,0 +1,36 @@
+{
+  "id": "1f0b2f7d20464f8aa3760066c208ae9f",
+  "title": "The Sinking City Pre-Purchase (TEST)",
+  "description": "The Sinking City Pre-Purchase (TEST)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "dlc"
+    }
+  ],
+  "namespace": "middlemist",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-19T01:29:46.470Z",
+  "lastModifiedDate": "2019-06-27T07:53:49.798Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1f0b2f7d20464f8aa3760066c208ae9f",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

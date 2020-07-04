@@ -1,0 +1,102 @@
+{
+  "id": "1fb01d58144f4a2e86562e18791dd976",
+  "title": "The Crew 2 Trial",
+  "description": "The Crew 2 Trial",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/item/Main_capsule_image-616x353-65154d5d5fff44dd1f60939aa5823472.png",
+      "md5": "65154d5d5fff44dd1f60939aa5823472",
+      "width": 616,
+      "height": 353,
+      "size": 356263,
+      "uploadedDate": "2019-12-04T15:22:03.762Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/item/Spotlight_Banner-306x312-b5acbdcdb71d1fb1a867dbe8fa6b8bb4.png",
+      "md5": "b5acbdcdb71d1fb1a867dbe8fa6b8bb4",
+      "width": 306,
+      "height": 312,
+      "size": 169042,
+      "uploadedDate": "2019-12-04T15:22:12.909Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "599d248ca46b45a8b40a3b4e484712cb",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T21:20:34.854Z",
+  "lastModifiedDate": "2019-12-05T13:36:19.080Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "599d248ca46b45a8b40a3b4e484712cb"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "4adeefd34cae424294f1327ba9c349cb"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheCrew2Trial"
+    }
+  },
+  "entitlementName": "1fb01d58144f4a2e86562e18791dd976",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "84952b5350a443439fd84da8524f6ad2",
+      "appId": "HermitTrial",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-01T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

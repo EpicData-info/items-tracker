@@ -1,0 +1,70 @@
+{
+  "id": "c2212bc4c4f547918c94ddfefb536898",
+  "title": "NewtDevOps",
+  "description": "NewtDevOps",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/newt/item/LOGO_SPELLBREAK_WHITE-3090x1087-00ccb473b5b2d79e3096221158c9a81a.png",
+      "md5": "00ccb473b5b2d79e3096221158c9a81a",
+      "width": 3090,
+      "height": 1087,
+      "size": 33015,
+      "uploadedDate": "2019-01-28T16:06:20.429Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/newt/item/EGS_ProletariatInc_Spellbreak_S1-2560x1440-75987e837f994b0638bf99cd359e723f.jpg",
+      "md5": "75987e837f994b0638bf99cd359e723f",
+      "width": 2560,
+      "height": 1440,
+      "size": 439488,
+      "uploadedDate": "2019-10-21T14:42:53.444Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-12T22:59:50.303Z",
+  "lastModifiedDate": "2019-10-21T14:42:56.799Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NewtDevOps"
+    }
+  },
+  "entitlementName": "c2212bc4c4f547918c94ddfefb536898",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d64279e5d48b419d85cd809345cd1570",
+      "appId": "NewtDevOps",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2018-12-13T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

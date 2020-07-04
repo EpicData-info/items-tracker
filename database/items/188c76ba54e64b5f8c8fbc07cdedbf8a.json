@@ -1,0 +1,84 @@
+{
+  "id": "188c76ba54e64b5f8c8fbc07cdedbf8a",
+  "title": "Old World (pre-flight)",
+  "description": "Old World (pre-flight)",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/item/EGS_OldWorld_MohawkGames_S2-860x1148-0e077ae9572c911683633fa9b19bd5c5.jpg",
+      "md5": "0e077ae9572c911683633fa9b19bd5c5",
+      "width": 860,
+      "height": 1148,
+      "size": 696045,
+      "uploadedDate": "2020-04-24T02:52:32.138Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/07f4a7dd3c884e5d87e9a209716962ca/item/EGS_OldWorld_MohawkGames_S1-2560x1440-9f8de361a5835c8c32754f1e2d7c0084.jpg",
+      "md5": "9f8de361a5835c8c32754f1e2d7c0084",
+      "width": 2560,
+      "height": 1440,
+      "size": 2070193,
+      "uploadedDate": "2020-04-24T02:54:05.703Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "07f4a7dd3c884e5d87e9a209716962ca",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-27T03:00:53.942Z",
+  "lastModifiedDate": "2020-06-30T18:40:10.210Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/OldWorld/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Saves/,Test/Saves/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NightjarMain"
+    }
+  },
+  "entitlementName": "188c76ba54e64b5f8c8fbc07cdedbf8a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "210abf63a24c443a8fbfda50b964a0c0",
+      "appId": "2bf3c6b8b44142158740aaee8fdc1750",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-03-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "Mohawk Games",
+  "developerId": "o-uw2qbn4nh26vxscergml2f7du26bvk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45671BGmZYEEWY5S8odb5iPvIhoR",
+  "unsearchable": false
+}

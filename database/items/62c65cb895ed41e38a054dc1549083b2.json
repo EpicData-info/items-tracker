@@ -1,0 +1,25 @@
+{
+  "id": "62c65cb895ed41e38a054dc1549083b2",
+  "title": "Special end 2018 entitlement",
+  "description": "Special end 2018 entitlement",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-04T20:34:37.985Z",
+  "lastModifiedDate": "2018-12-17T20:22:53.659Z",
+  "entitlementName": "2018_Empentitlement",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

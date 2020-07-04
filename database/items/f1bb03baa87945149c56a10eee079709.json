@@ -1,0 +1,53 @@
+{
+  "id": "f1bb03baa87945149c56a10eee079709",
+  "title": "EiderBonusSuitPackStaging",
+  "description": "EiderBonusSuitPackStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "dlc"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-04T16:17:42.008Z",
+  "lastModifiedDate": "2020-06-16T22:20:20.777Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EiderBonusSuitPackStaging"
+    }
+  },
+  "entitlementName": "f1bb03baa87945149c56a10eee079709",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dd53fc71f3af48d4934b6e7d54a37f18",
+      "appId": "EiderBonusSuitPackStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": "e8eaa962904b4a8988060b1c71ec0294",
+  "title": "Wombat DLC 1 Marker",
+  "description": "Wombat DLC 1 Marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    },
+    {
+      "path": "dlc"
+    }
+  ],
+  "namespace": "wombat",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-13T14:11:47.873Z",
+  "lastModifiedDate": "2019-12-17T13:50:20.713Z",
+  "entitlementName": "e8eaa962904b4a8988060b1c71ec0294",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

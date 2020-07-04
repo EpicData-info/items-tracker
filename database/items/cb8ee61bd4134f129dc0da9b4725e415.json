@@ -1,0 +1,71 @@
+{
+  "id": "cb8ee61bd4134f129dc0da9b4725e415",
+  "title": "GrouseStaging",
+  "description": "GrouseStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ba3149b6d7a7488ab5cc674154458757/item/EGS_ThunderLotus_JotunValhallaEdition_S1-2560x1440-3de6d0151b1c97a08a8579167814682c.jpg",
+      "md5": "3de6d0151b1c97a08a8579167814682c",
+      "width": 2560,
+      "height": 1440,
+      "size": 504256,
+      "uploadedDate": "2019-11-26T15:58:33.923Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ba3149b6d7a7488ab5cc674154458757/item/EGS_ThunderLotus_JotunValhallaEdition_S2-1280x1440-eceef05b236cf920e419b4004d4993e7.jpg",
+      "md5": "eceef05b236cf920e419b4004d4993e7",
+      "width": 1280,
+      "height": 1440,
+      "size": 343052,
+      "uploadedDate": "2019-11-26T15:58:44.420Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ba3149b6d7a7488ab5cc674154458757",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-12T17:03:30.094Z",
+  "lastModifiedDate": "2019-12-05T15:55:14.711Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BarbetStaging"
+    }
+  },
+  "entitlementName": "cb8ee61bd4134f129dc0da9b4725e415",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "66dd6a99f5f645d095302f8fbb862a49",
+      "appId": "GrouseStaging",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-09-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "Thunder Lotus Games",
+  "developerId": "o-k5nhue2lw5nkaqutyhkwrdl5qjkcd5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

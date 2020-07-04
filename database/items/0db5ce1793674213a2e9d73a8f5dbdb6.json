@@ -1,0 +1,33 @@
+{
+  "id": "0db5ce1793674213a2e9d73a8f5dbdb6",
+  "title": "OrioleDevAudience",
+  "description": "OrioleDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "fa0c74ef7780498fb222dcd099bf82a2",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-27T19:15:43.744Z",
+  "lastModifiedDate": "2019-08-29T13:37:04.756Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0db5ce1793674213a2e9d73a8f5dbdb6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Good Shepherd Entertainment",
+  "developerId": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

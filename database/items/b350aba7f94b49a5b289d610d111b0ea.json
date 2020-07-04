@@ -1,0 +1,30 @@
+{
+  "id": "b350aba7f94b49a5b289d610d111b0ea",
+  "title": "Saffron_SurPackAudience_redeemable",
+  "description": "Saffron_SurPackAudience_redeemable",
+  "technicalDetails": "Granted if you must call Partner Integration to redeem season pass separately from the game. Not necessary if the edition you buy already includes it",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-08T06:59:26.509Z",
+  "lastModifiedDate": "2019-05-09T19:00:20.254Z",
+  "entitlementName": "b350aba7f94b49a5b289d610d111b0ea",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

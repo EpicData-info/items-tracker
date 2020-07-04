@@ -1,0 +1,24 @@
+{
+  "id": "3db4fd77eaed4a9a9275257cfb71ba6c",
+  "title": "Level-Up Pack",
+  "description": "Rewards every 10 levels up to level 150!",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "starter_packs"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2018-07-31T20:34:53.324Z",
+  "lastModifiedDate": "2019-11-12T22:33:21.779Z",
+  "entitlementName": "3db4fd77eaed4a9a9275257cfb71ba6c",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

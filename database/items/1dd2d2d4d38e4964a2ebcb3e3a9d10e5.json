@@ -1,0 +1,70 @@
+{
+  "id": "1dd2d2d4d38e4964a2ebcb3e3a9d10e5",
+  "title": "Saturnalia",
+  "description": "Saturnalia",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c749cd78da34408d8434a46271f4bb79",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-19T20:34:51.378Z",
+  "lastModifiedDate": "2020-03-23T13:19:05.849Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "c749cd78da34408d8434a46271f4bb79"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Saturnalia"
+    }
+  },
+  "entitlementName": "1dd2d2d4d38e4964a2ebcb3e3a9d10e5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "31374f5125774255bd4ac68ad7ac50ec",
+      "appId": "Cobia",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Santa Ragione",
+  "developerId": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

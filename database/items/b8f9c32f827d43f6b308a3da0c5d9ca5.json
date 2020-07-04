@@ -1,0 +1,34 @@
+{
+  "id": "b8f9c32f827d43f6b308a3da0c5d9ca5",
+  "title": "DevCheetahAudience",
+  "description": "DevCheetahAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "917551a8060244469eb4e6ab8a99cf24",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-20T14:16:27.052Z",
+  "lastModifiedDate": "2020-04-30T14:40:16.308Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac,Win32"
+    }
+  },
+  "entitlementName": "b8f9c32f827d43f6b308a3da0c5d9ca5",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Frictional Games",
+  "developerId": "o-aclcw9pm582trqsqg66qfkfp9u9nw7",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

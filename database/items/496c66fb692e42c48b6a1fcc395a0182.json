@@ -1,0 +1,59 @@
+{
+  "id": "496c66fb692e42c48b6a1fcc395a0182",
+  "title": "SpringbokStaging",
+  "description": "SpringbokStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "springbok",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-02T17:41:53.424Z",
+  "lastModifiedDate": "2019-10-09T16:06:06.310Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Darksiders3/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SpringbokStaging"
+    }
+  },
+  "entitlementName": "496c66fb692e42c48b6a1fcc395a0182",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5bf91621ddec4f2bb4e235bd6f0e6074",
+      "appId": "SpringbokStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-05-02T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

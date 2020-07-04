@@ -1,0 +1,72 @@
+{
+  "id": "976f3bc2cb4c48e08d02ef7b6bf4c4af",
+  "title": "PuffinStaging",
+  "description": "PuffinStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/puffin/item/PrimaryPromo-2580x1450-a565e7abcb9010daea6d0bbf2d030046.jpg",
+      "md5": "a565e7abcb9010daea6d0bbf2d030046",
+      "width": 2580,
+      "height": 1450,
+      "size": 331726,
+      "uploadedDate": "2019-01-24T13:02:51.253Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/puffin/item/LogoColored-1920x823-823cc66e9095b2ae217b4dc55e5daf5f.png",
+      "md5": "823cc66e9095b2ae217b4dc55e5daf5f",
+      "width": 1920,
+      "height": 823,
+      "size": 116699,
+      "uploadedDate": "2019-01-24T13:03:02.453Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "puffin",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-24T12:39:06.088Z",
+  "lastModifiedDate": "2019-07-23T18:40:54.274Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/SavedGames/AxiomVerge/Saves/Player1/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PuffinStaging"
+    }
+  },
+  "entitlementName": "976f3bc2cb4c48e08d02ef7b6bf4c4af",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "72b8ead9cb36409e9f32df590b557e67",
+      "appId": "PuffinStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-05-14T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

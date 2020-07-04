@@ -1,0 +1,35 @@
+{
+  "id": "59ba2394f33a4861a7773d7ebc8b5fe4",
+  "title": "Starter Pack Marker 1",
+  "description": "Starter Pack Marker 1",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "azalea",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-29T21:54:59.007Z",
+  "lastModifiedDate": "2019-08-29T21:54:59.007Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "59ba2394f33a4861a7773d7ebc8b5fe4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

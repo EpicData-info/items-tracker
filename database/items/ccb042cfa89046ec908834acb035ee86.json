@@ -1,0 +1,30 @@
+{
+  "id": "ccb042cfa89046ec908834acb035ee86",
+  "title": "Fortnite Event - BlockParty 2019 App Bundle",
+  "description": "Fortnite Event - BlockParty 2019 App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "SUNSET",
+  "creationDate": "2019-06-10T17:34:41.460Z",
+  "lastModifiedDate": "2019-06-21T13:15:23.454Z",
+  "customAttributes": {
+    "ActionSetName": {
+      "type": "STRING",
+      "value": "Fortnite-Event-BlockParty-2019-App-Bundle"
+    }
+  },
+  "entitlementName": "ccb042cfa89046ec908834acb035ee86",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

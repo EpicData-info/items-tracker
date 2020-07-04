@@ -1,0 +1,36 @@
+{
+  "id": "e434b88a44624d64b0df16e1ac7c28d8",
+  "title": "Digital Deluxe 2020 Audience",
+  "description": "Digital Deluxe 2020 Audience",
+  "longDescription": "Digital Deluxe 2020 Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-17T21:04:23.241Z",
+  "lastModifiedDate": "2020-03-20T14:41:47.162Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e434b88a44624d64b0df16e1ac7c28d8",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

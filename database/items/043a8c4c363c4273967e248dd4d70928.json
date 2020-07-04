@@ -1,0 +1,31 @@
+{
+  "id": "043a8c4c363c4273967e248dd4d70928",
+  "title": "Battle Breakers F&F App Bundle",
+  "description": "Battle Breakers F&F App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-08T02:21:12.151Z",
+  "lastModifiedDate": "2019-11-08T02:21:12.151Z",
+  "customAttributes": {
+    "ActionSetName": {
+      "type": "STRING",
+      "value": "WEX-FF-App-Bundle"
+    }
+  },
+  "entitlementName": "043a8c4c363c4273967e248dd4d70928",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

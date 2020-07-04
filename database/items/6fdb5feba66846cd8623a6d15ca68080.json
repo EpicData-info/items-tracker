@@ -1,0 +1,109 @@
+{
+  "id": "6fdb5feba66846cd8623a6d15ca68080",
+  "title": "Inside",
+  "description": "Inside",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/item/PLAYDEAD_INSIDE-PROMO-2560x1440-8980f5681b4e521ab357910a1ee3f83b.jpg",
+      "md5": "8980f5681b4e521ab357910a1ee3f83b",
+      "width": 2560,
+      "height": 1440,
+      "size": 56516,
+      "uploadedDate": "2019-07-23T15:51:01.651Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/item/LIMBO_LOGO_NEW-6054x1989-f61e16b909507c909f0eb305c2b71cd1.png",
+      "md5": "f61e16b909507c909f0eb305c2b71cd1",
+      "width": 6054,
+      "height": 1989,
+      "size": 95973,
+      "uploadedDate": "2019-08-15T13:32:39.081Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/item/PLAYDEAD_INSIDE-PORTRAIT-1280x1440-13bf6e11eacd3d054f680f16afddf7fd.jpg",
+      "md5": "13bf6e11eacd3d054f680f16afddf7fd",
+      "width": 1280,
+      "height": 1440,
+      "size": 129989,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "13bb5776b9e1424d84ce42d9ba61c0ca",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-14T16:20:24.733Z",
+  "lastModifiedDate": "2020-05-15T01:07:18.596Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "13bb5776b9e1424d84ce42d9ba61c0ca"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../roaming/Playdead/Inside/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Inside"
+    }
+  },
+  "entitlementName": "6fdb5feba66846cd8623a6d15ca68080",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "66524b004f4c4776863187681aaee340",
+      "appId": "Marigold",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-07-23T00:00:00.000Z"
+    }
+  ],
+  "developer": "Playdead",
+  "developerId": "o-t88sw9ly7ajm3wz7tll53xt3cmypx8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

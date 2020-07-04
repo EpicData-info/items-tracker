@@ -1,0 +1,106 @@
+{
+  "id": "dbdfda37b43b4960aa0ca3a480cf0be9",
+  "title": "The Jackbox Party Pack",
+  "description": "The Jackbox Party Pack",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/feverfew/item/card-2580x1450-fb1298f68d948feb6c02d9eb2944c8d6.jpg",
+      "md5": "fb1298f68d948feb6c02d9eb2944c8d6",
+      "width": 2580,
+      "height": 1450,
+      "size": 551504,
+      "uploadedDate": "2019-01-23T21:16:08.119Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/feverfew/item/TJBPP1_Portrait Promo-1280x1420-534a67fd74249b0b9c2b66422c9e6c5c.jpg",
+      "md5": "534a67fd74249b0b9c2b66422c9e6c5c",
+      "width": 1280,
+      "height": 1420,
+      "size": 338212,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/feverfew/item/PP1_GameLogo_Colored-2366x1285-53a6638a74ef936167a508218ca47283.png",
+      "md5": "53a6638a74ef936167a508218ca47283",
+      "width": 2366,
+      "height": 1285,
+      "size": 371115,
+      "uploadedDate": "2019-12-03T16:12:19.780Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "feverfew",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-15T15:42:03.384Z",
+  "lastModifiedDate": "2019-12-03T16:12:25.485Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "feverfew"
+    },
+    "com.epicgames.app.offerNs": {
+      "type": "STRING",
+      "value": "feverfew"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Jackbox Games"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "JackboxPartyPack1"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac,Win32"
+    }
+  },
+  "entitlementName": "dbdfda37b43b4960aa0ca3a480cf0be9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1d5285ca905042aca2812abbaa55919a",
+      "appId": "Feverfew",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-01-15T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

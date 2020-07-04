@@ -1,0 +1,36 @@
+{
+  "id": "7cbc827bf37843f3ae8e7d6a4064fb1c",
+  "title": "Call_To_Action_01",
+  "description": "PLAY BATTALION 1944\n<inverted-tiny-body>Buy Now</>",
+  "longDescription": "",
+  "technicalDetails": "https://store.steampowered.com/app/489940",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/battalion/item/B44_ModdingResourceImage_01-960x497-a228aa48168a5a08ead0a583b4b45c29.png",
+      "md5": "a228aa48168a5a08ead0a583b4b45c29",
+      "width": 960,
+      "height": 497,
+      "size": 910796,
+      "uploadedDate": "2018-07-09T19:37:12.425Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "battalion",
+  "status": "ACTIVE",
+  "creationDate": "2018-07-06T15:46:44.540Z",
+  "lastModifiedDate": "2018-12-14T20:10:21.930Z",
+  "entitlementName": "7cbc827bf37843f3ae8e7d6a4064fb1c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

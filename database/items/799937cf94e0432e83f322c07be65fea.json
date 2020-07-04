@@ -1,0 +1,46 @@
+{
+  "id": "799937cf94e0432e83f322c07be65fea",
+  "title": "Alpine A110 Audience",
+  "description": "Alpine A110 (1973) Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/item/ESRB_WRC8-842x485-a4de2492c5e27c0262705a42c34204fd.jpg",
+      "md5": "a4de2492c5e27c0262705a42c34204fd",
+      "width": 842,
+      "height": 485,
+      "size": 84586,
+      "uploadedDate": "2020-01-08T04:55:06.219Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-21T21:25:20.483Z",
+  "lastModifiedDate": "2020-01-08T04:55:10.875Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "799937cf94e0432e83f322c07be65fea",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE",
+  "selfRefundable": false,
+  "unsearchable": false
+}

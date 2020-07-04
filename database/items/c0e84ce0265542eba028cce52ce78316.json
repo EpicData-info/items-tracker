@@ -1,0 +1,34 @@
+{
+  "id": "c0e84ce0265542eba028cce52ce78316",
+  "title": "DLC6 - PHASE 1 Search and Recover Audience",
+  "description": "DLC6 - PHASE 1 Search and Recover Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-09T22:28:23.611Z",
+  "lastModifiedDate": "2020-04-27T21:59:40.998Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c0e84ce0265542eba028cce52ce78316",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

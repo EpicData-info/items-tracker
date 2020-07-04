@@ -1,0 +1,117 @@
+{
+  "id": "a18838c3e01c4b76b20200f30d1c0926",
+  "title": "The Walking Dead: Season One",
+  "description": "The Walking Dead: Season One",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/bloodroot/item/TWD1_GameIcon_400x400-400x400-1a4275b696e8bbc01257e02f5470c0c9.png",
+      "md5": "1a4275b696e8bbc01257e02f5470c0c9",
+      "width": 400,
+      "height": 400,
+      "size": 180250,
+      "uploadedDate": "2019-03-26T01:39:16.238Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/bloodroot/item/EGS_SKYBOUND_WD1-Logo-color-704x514-6c8b2d8bee6ba282db9c21ea5383f4c6.png",
+      "md5": "6c8b2d8bee6ba282db9c21ea5383f4c6",
+      "width": 704,
+      "height": 514,
+      "size": 107753,
+      "uploadedDate": "2019-03-26T01:39:40.450Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bloodroot/item/TWD1_PrimaryPromo-792x445-de860f6dc1ec5db943d28d6a7b37245e.jpg",
+      "md5": "de860f6dc1ec5db943d28d6a7b37245e",
+      "width": 792,
+      "height": 445,
+      "size": 28790,
+      "uploadedDate": "2019-05-06T21:39:14.290Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/bloodroot/item/TWD1_Primary Promo_NoLogo_Portrait-1288x1450-d835a2a10d8afa986c9a44801004d364.jpg",
+      "md5": "d835a2a10d8afa986c9a44801004d364",
+      "width": 1288,
+      "height": 1450,
+      "size": 215504,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bloodroot",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-08T22:18:11.168Z",
+  "lastModifiedDate": "2019-11-19T17:04:00.947Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "bloodroot"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Skybound Interactive"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TWDSeasonOne"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a18838c3e01c4b76b20200f30d1c0926",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "16383e7b700045d884faaee95a1cee44",
+      "appId": "Bloodroot",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-08T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

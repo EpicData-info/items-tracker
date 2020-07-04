@@ -1,0 +1,70 @@
+{
+  "id": "f7c6504a5d2f4d549dafa4f827c8c43b",
+  "title": "Chivalry 2 - Stable",
+  "description": "Chivalry 2 - Stable",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/item/Wishlist Portrait -860x1148-7dc5fac63862874e86ebbbdaa6683660.jpg",
+      "md5": "7dc5fac63862874e86ebbbdaa6683660",
+      "width": 860,
+      "height": 1148,
+      "size": 749128,
+      "uploadedDate": "2020-03-11T18:33:54.547Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/item/Wishlist-Landscape-2560x1440-a48745f2dde9b492b4100291e23bba10.jpg",
+      "md5": "a48745f2dde9b492b4100291e23bba10",
+      "width": 2560,
+      "height": 1440,
+      "size": 2043381,
+      "uploadedDate": "2020-03-11T18:34:04.690Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bd46d4ce259349e5bd8b3ded20274737",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-20T20:32:26.590Z",
+  "lastModifiedDate": "2020-03-20T21:08:09.311Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Chivalry2Stable"
+    }
+  },
+  "entitlementName": "f7c6504a5d2f4d549dafa4f827c8c43b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2f111c4f3311415a84d7df06cc805053",
+      "appId": "9048ce1e89d3493c881455bcdc6ee4b3",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-16T00:00:00.000Z"
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

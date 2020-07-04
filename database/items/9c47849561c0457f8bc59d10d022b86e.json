@@ -1,0 +1,24 @@
+{
+  "id": "9c47849561c0457f8bc59d10d022b86e",
+  "title": "Skill XP Bundle",
+  "description": "2000 Gems, 40000 Skill XP and more! Limit 2.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "starter_packs"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2018-07-31T20:44:45.712Z",
+  "lastModifiedDate": "2018-08-31T17:51:06.965Z",
+  "entitlementName": "9c47849561c0457f8bc59d10d022b86e",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

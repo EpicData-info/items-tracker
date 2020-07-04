@@ -1,0 +1,102 @@
+{
+  "id": "8a9609648e324a6191a94e85adf40758",
+  "title": "The Jackbox Party Pack 2",
+  "description": "The Jackbox Party Pack 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/lilac/item/TJPP2_GameLogo_White-1429x1920-3912a7410318c5ece06f3e170f75a5f5.png",
+      "md5": "3912a7410318c5ece06f3e170f75a5f5",
+      "width": 1429,
+      "height": 1920,
+      "size": 456594,
+      "uploadedDate": "2019-02-04T14:17:00.979Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/lilac/item/TJBPP2_PrimaryPromo-2580x1450-9ed1ba8321b65f3e985de184466a3e3b.jpg",
+      "md5": "9ed1ba8321b65f3e985de184466a3e3b",
+      "width": 2580,
+      "height": 1450,
+      "size": 404665,
+      "uploadedDate": "2019-02-07T15:57:05.855Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/lilac/item/TJBPP2_Portrait Promo-1280x1420-13f45c4a4f1559afab585511bb07d68c.jpg",
+      "md5": "13f45c4a4f1559afab585511bb07d68c",
+      "width": 1280,
+      "height": 1420,
+      "size": 230149,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "lilac",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-16T13:11:43.663Z",
+  "lastModifiedDate": "2019-11-19T17:03:51.480Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "lilac"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Jackbox Games"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "JackboxPartyPack2"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac,Win32"
+    }
+  },
+  "entitlementName": "8a9609648e324a6191a94e85adf40758",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dff83420e1f34d9fb1fda8b10e2e198e",
+      "appId": "Lilac",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-01-16T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

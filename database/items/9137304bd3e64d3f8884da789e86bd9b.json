@@ -1,0 +1,25 @@
+{
+  "id": "9137304bd3e64d3f8884da789e86bd9b",
+  "title": "Marvel Outfit G#2",
+  "description": "Marvel Outfit G#2",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-25T15:18:05.176Z",
+  "lastModifiedDate": "2019-04-25T15:18:05.176Z",
+  "entitlementName": "AthenaGlider:glider_id_142_ashtonsaltlake",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

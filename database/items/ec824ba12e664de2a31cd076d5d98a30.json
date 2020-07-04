@@ -1,0 +1,88 @@
+{
+  "id": "ec824ba12e664de2a31cd076d5d98a30",
+  "title": "Heavy Rain",
+  "description": "Heavy Rain",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/aster/item/HR_World_Logo_Top-2560x1440-17abc0cc3371cdd395846512e8a1e064.jpg",
+      "md5": "17abc0cc3371cdd395846512e8a1e064",
+      "width": 2560,
+      "height": 1440,
+      "size": 242379,
+      "uploadedDate": "2019-06-14T18:03:02.214Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/aster/item/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462-860x1148-1bbec73268268bf6901efc1206f46462.jpg",
+      "md5": "1bbec73268268bf6901efc1206f46462",
+      "width": 860,
+      "height": 1148,
+      "size": 165439,
+      "uploadedDate": "2020-05-13T20:11:14.240Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "aster",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-29T17:54:25.328Z",
+  "lastModifiedDate": "2020-05-13T20:11:19.035Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "aster"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HeavyRain"
+    }
+  },
+  "entitlementName": "ec824ba12e664de2a31cd076d5d98a30",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f86216b08d15402c8ab62ae5466b3f99",
+      "appId": "Aster",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-01-29T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "eulaIds": [
+    "(egstore && quantic)"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

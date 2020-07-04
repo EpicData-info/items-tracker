@@ -1,0 +1,46 @@
+{
+  "id": "ad29cd386fb1421a8fb40332959012af",
+  "title": "AmaranthPreviewAudience",
+  "description": "AmaranthPreviewAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/amaranth/item/ESRB_Ancestors-842x404-1a327bd7bb0decfaa84b9b0ed0a1db3c.jpg",
+      "md5": "1a327bd7bb0decfaa84b9b0ed0a1db3c",
+      "width": 842,
+      "height": 404,
+      "size": 86962,
+      "uploadedDate": "2019-08-27T19:38:51.441Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "amaranth",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-09T16:43:09.533Z",
+  "lastModifiedDate": "2019-08-27T19:38:53.930Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ad29cd386fb1421a8fb40332959012af",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Private Division",
+  "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "unsearchable": false
+}

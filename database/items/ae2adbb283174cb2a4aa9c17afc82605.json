@@ -1,0 +1,36 @@
+{
+  "id": "ae2adbb283174cb2a4aa9c17afc82605",
+  "title": "Spellbreak Player Council Audience",
+  "description": "Spellbreak Player Council Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-05T13:04:50.225Z",
+  "lastModifiedDate": "2019-11-05T13:04:50.225Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ae2adbb283174cb2a4aa9c17afc82605",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

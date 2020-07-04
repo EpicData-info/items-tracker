@@ -1,0 +1,34 @@
+{
+  "id": "8f589457c9f64bc29eb572be49f6d44e",
+  "title": "TopazGeneralAudience",
+  "description": "TopazGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "eb9117fdc2a1493ba4e8a4e1d2286e2f",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-13T18:57:23.256Z",
+  "lastModifiedDate": "2020-06-23T14:15:44.558Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "8f589457c9f64bc29eb572be49f6d44e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Robotality",
+  "developerId": "o-63wkbbq7yx9ek36vmkhzamz3rexmu4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

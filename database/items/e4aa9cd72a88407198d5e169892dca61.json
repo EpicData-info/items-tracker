@@ -1,0 +1,25 @@
+{
+  "id": "e4aa9cd72a88407198d5e169892dca61",
+  "title": "Download Access to FortniteEvents",
+  "description": "Allows download-only access to FortniteEvents but disables play access.",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "SUNSET",
+  "creationDate": "2018-06-07T10:23:06.572Z",
+  "lastModifiedDate": "2019-05-08T17:54:32.244Z",
+  "entitlementName": "FortniteEvents_Download",
+  "entitlementType": "EXECUTABLE",
+  "entitlementEndDate": "2019-05-09T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

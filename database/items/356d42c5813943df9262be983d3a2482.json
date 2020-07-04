@@ -1,0 +1,25 @@
+{
+  "id": "356d42c5813943df9262be983d3a2482",
+  "title": "Marvel Outfit P#2",
+  "description": "Marvel Outfit P#2",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-25T15:00:15.465Z",
+  "lastModifiedDate": "2019-04-25T15:04:37.800Z",
+  "entitlementName": "AthenaPickaxe:pickaxe_id_203_ashtonsaltlake",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

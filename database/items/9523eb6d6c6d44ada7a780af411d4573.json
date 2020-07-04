@@ -1,0 +1,34 @@
+{
+  "id": "9523eb6d6c6d44ada7a780af411d4573",
+  "title": "EGS exclusive Predator and Armor Skin",
+  "description": "EGS exclusive Predator and Armor Skin",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-12T20:37:34.631Z",
+  "lastModifiedDate": "2020-04-24T03:59:22.778Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9523eb6d6c6d44ada7a780af411d4573",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

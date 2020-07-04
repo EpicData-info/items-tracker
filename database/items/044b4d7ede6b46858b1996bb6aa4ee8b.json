@@ -1,0 +1,35 @@
+{
+  "id": "044b4d7ede6b46858b1996bb6aa4ee8b",
+  "title": "Play_Header1",
+  "description": "Play Unreal Tournament now!",
+  "longDescription": "Unreal Tournament is being developed as a <strong>collaboration between gamers, developers, and Epic Games.</>  We update the game regularly, and the community can not only play, but share ideas, make mods, or even help in development.  Come check out the progress we’ve made, and let us know what you think.",
+  "technicalDetails": "Play the game and earn exclusive Pre-Alpha Season content.",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/Header_PASeasonTitan-1750x480-d1b6b19eaa07e61996c9e4f6a1cea79c.png",
+      "md5": "d1b6b19eaa07e61996c9e4f6a1cea79c",
+      "width": 1750,
+      "height": 480,
+      "size": 540576,
+      "uploadedDate": "2016-08-01T14:47:58.298Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layout"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2015-02-11T20:17:31.580Z",
+  "lastModifiedDate": "2017-02-23T20:33:48.941Z",
+  "entitlementName": "c4d2be6831fe41f68340a9f399157ad3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

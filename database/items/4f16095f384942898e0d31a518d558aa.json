@@ -1,0 +1,26 @@
+{
+  "id": "4f16095f384942898e0d31a518d558aa",
+  "title": "Battle Pass Season 5",
+  "description": "Battle Pass Season 5",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-06-25T22:27:31.776Z",
+  "lastModifiedDate": "2018-07-11T20:59:21.242Z",
+  "entitlementName": "BATTLEPASS_Season5",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2018-06-25T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

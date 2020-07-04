@@ -1,0 +1,26 @@
+{
+  "id": "bf721761c7e345448c6de6346793e55c",
+  "title": "Street Assassin Pack",
+  "description": "Street Assassin Pack",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-11T18:29:16.959Z",
+  "lastModifiedDate": "2019-08-14T20:55:46.137Z",
+  "entitlementName": "S10_StarterPack",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2019-07-11T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

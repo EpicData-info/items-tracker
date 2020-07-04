@@ -1,0 +1,49 @@
+{
+  "id": "d46d4a360bac44b89ff2a3fc34413b46",
+  "title": "MagentaStaging",
+  "description": "MagentaStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0f0b930a0f3d4fe7aece94faa58b5318",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-13T01:23:22.124Z",
+  "lastModifiedDate": "2020-02-13T01:28:44.381Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MagentaStaging"
+    }
+  },
+  "entitlementName": "d46d4a360bac44b89ff2a3fc34413b46",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6b56ece741fa4a6281288f07633b5657",
+      "appId": "MagentaStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Test Organization",
+  "developerId": "o-jwuggxrvjq99seqnvcrzckgm6e8jtr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": "2405d452596b4a43965ff73738eb2f11",
+  "title": "Hussar Flip DLC",
+  "description": "Hussar Flip DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ca93b6d41a4e41af864942d8f0a2a826",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-17T23:23:43.240Z",
+  "lastModifiedDate": "2020-03-17T14:25:49.491Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "0f066b80cdf64c7abded795b78f8b04c"
+    },
+    "partnerType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "ab3175f61f86457bb6d76e0e24f5674d"
+    }
+  },
+  "entitlementName": "2405d452596b4a43965ff73738eb2f11",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1d1fe16149e64796a169cc2556689d8a",
+      "appId": "HussarFlipDLC",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-01-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

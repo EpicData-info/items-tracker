@@ -1,0 +1,35 @@
+{
+  "id": "fbc8f270120c4391928919f27bfe3ba2",
+  "title": "ArtemisiaDevAudience",
+  "description": "ArtemisiaDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "artemisia",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-18T20:21:47.103Z",
+  "lastModifiedDate": "2019-03-27T14:15:28.774Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "fbc8f270120c4391928919f27bfe3ba2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

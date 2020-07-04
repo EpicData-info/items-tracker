@@ -1,0 +1,26 @@
+{
+  "id": "9d6ae885aad84cf7b059040856322fd7",
+  "title": "Fortnite Event - Australian Open App Bundle",
+  "description": "Fortnite Event - Australian Open App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-08T21:15:51.816Z",
+  "lastModifiedDate": "2020-01-08T21:18:55.727Z",
+  "entitlementName": "9d6ae885aad84cf7b059040856322fd7",
+  "entitlementType": "AUDIENCE",
+  "entitlementEndDate": "2020-02-04T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

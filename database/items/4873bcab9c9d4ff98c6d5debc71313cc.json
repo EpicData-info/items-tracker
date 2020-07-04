@@ -1,0 +1,46 @@
+{
+  "id": "4873bcab9c9d4ff98c6d5debc71313cc",
+  "title": "DLC 1 Audience",
+  "description": "Blood and Titanium Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/iris/item/ESRB_RP-842x404-728bf175b519ada5e5a4400e8f1df7cf.png",
+      "md5": "728bf175b519ada5e5a4400e8f1df7cf",
+      "width": 842,
+      "height": 404,
+      "size": 66425,
+      "uploadedDate": "2019-11-08T14:50:30.257Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-01T20:11:05.474Z",
+  "lastModifiedDate": "2019-12-03T18:19:44.528Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "4873bcab9c9d4ff98c6d5debc71313cc",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "RATING_PENDING",
+  "unsearchable": false
+}

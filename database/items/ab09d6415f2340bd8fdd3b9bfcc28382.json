@@ -1,0 +1,33 @@
+{
+  "id": "ab09d6415f2340bd8fdd3b9bfcc28382",
+  "title": "GoldeneyeDevAudience",
+  "description": "GoldeneyeDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "843c8ce683474448bb104a9651e8f325",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-27T22:19:03.403Z",
+  "lastModifiedDate": "2019-09-19T14:19:49.300Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ab09d6415f2340bd8fdd3b9bfcc28382",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Warner Brothers",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

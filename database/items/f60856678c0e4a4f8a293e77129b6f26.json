@@ -1,0 +1,58 @@
+{
+  "id": "f60856678c0e4a4f8a293e77129b6f26",
+  "title": "Lost On Mars DLC",
+  "description": "Lost On Mars DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "coriander",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-21T17:39:00.744Z",
+  "lastModifiedDate": "2020-02-18T15:53:15.273Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "afcac729418b4d4a9532bc53831c09d5"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "549f6f17cdd0427cbc637a564c54896a"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "f60856678c0e4a4f8a293e77129b6f26",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "58777ee83c7847839245ea3e2ced7f15",
+      "appId": "CorianderLOM_DLC",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-21T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

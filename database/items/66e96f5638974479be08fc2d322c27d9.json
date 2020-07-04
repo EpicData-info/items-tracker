@@ -1,0 +1,29 @@
+{
+  "id": "66e96f5638974479be08fc2d322c27d9",
+  "title": "Map Pack 1 DLC",
+  "description": "Map Pack 1 DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "dlc"
+    }
+  ],
+  "namespace": "wombat",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-09T00:28:43.827Z",
+  "lastModifiedDate": "2020-05-05T10:00:00.222Z",
+  "entitlementName": "66e96f5638974479be08fc2d322c27d9",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Saber Interactive",
+  "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

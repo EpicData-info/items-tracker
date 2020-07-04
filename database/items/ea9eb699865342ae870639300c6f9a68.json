@@ -1,0 +1,81 @@
+{
+  "id": "ea9eb699865342ae870639300c6f9a68",
+  "title": "Arise Soundtrack - Bonus DLC",
+  "description": "Arise Soundtrack - Bonus DLC",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/0fb229f35a3f4eb788b05ae91419a214/item/EGS_DEVELOPER_ARISE_IC1_WHITE-200x200-791a69d1f9875e505aeb468a1d8dd281.png",
+      "md5": "791a69d1f9875e505aeb468a1d8dd281",
+      "width": 200,
+      "height": 200,
+      "size": 11118,
+      "uploadedDate": "2019-09-23T23:02:19.295Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0fb229f35a3f4eb788b05ae91419a214/item/EGS_DEVELOPER_ARISE_S1_KEYART-2560x1440-f2c2666c889cdf637e45519ac1f7eb11.jpg",
+      "md5": "f2c2666c889cdf637e45519ac1f7eb11",
+      "width": 2560,
+      "height": 1440,
+      "size": 96060,
+      "uploadedDate": "2019-09-30T13:37:19.590Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0fb229f35a3f4eb788b05ae91419a214/item/Arise_Portrait2-1280x1440-a48e80bc18bcd497eea6ccb752bcbfda.jpg",
+      "md5": "a48e80bc18bcd497eea6ccb752bcbfda",
+      "width": 1280,
+      "height": 1440,
+      "size": 65166,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0fb229f35a3f4eb788b05ae91419a214",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-23T14:55:20.061Z",
+  "lastModifiedDate": "2020-05-15T00:44:44.927Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AriseSoundtrack"
+    }
+  },
+  "entitlementName": "ea9eb699865342ae870639300c6f9a68",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e833d51c2eb2460a91e62f55e66f3eef",
+      "appId": "RailDLC1",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-22T00:00:00.000Z"
+    }
+  ],
+  "developer": "Techland",
+  "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

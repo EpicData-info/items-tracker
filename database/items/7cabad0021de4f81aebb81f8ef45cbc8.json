@@ -1,0 +1,29 @@
+{
+  "id": "7cabad0021de4f81aebb81f8ef45cbc8",
+  "title": "FarCry4SeasonPassAudience_redeemable",
+  "description": "FarCry4SeasonPassAudience_redeemable",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "cf87285950ba492bbdc370b9d265ea36",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-28T23:54:45.048Z",
+  "lastModifiedDate": "2020-02-18T15:33:18.330Z",
+  "customAttributes": {},
+  "entitlementName": "7cabad0021de4f81aebb81f8ef45cbc8",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

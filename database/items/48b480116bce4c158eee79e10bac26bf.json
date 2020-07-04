@@ -1,0 +1,53 @@
+{
+  "id": "48b480116bce4c158eee79e10bac26bf",
+  "title": "DuckbillStaging",
+  "description": "DuckbillStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fa11862b1cfd42e3b3c6395af46efe3e",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T18:37:35.173Z",
+  "lastModifiedDate": "2019-12-31T15:44:43.768Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Playtonic Ltd/Yooka-Laylee and the Impossible Lair/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DuckbillStaging"
+    }
+  },
+  "entitlementName": "48b480116bce4c158eee79e10bac26bf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "93f92d4f5db94b2380a420205f50bbf7",
+      "appId": "DuckbillStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

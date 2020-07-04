@@ -1,0 +1,34 @@
+{
+  "id": "fbe178e92d1645458a85f62c2533bf57",
+  "title": "HussarJDTCPack_Audience_Redeemable",
+  "description": "HussarJDTCPack_Audience_Redeemable",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ca93b6d41a4e41af864942d8f0a2a826",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-17T23:21:03.140Z",
+  "lastModifiedDate": "2020-03-17T14:26:03.700Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "fbe178e92d1645458a85f62c2533bf57",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

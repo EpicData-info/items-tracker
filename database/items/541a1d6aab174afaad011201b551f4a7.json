@@ -1,0 +1,112 @@
+{
+  "id": "541a1d6aab174afaad011201b551f4a7",
+  "title": "Beyond Two Souls (Demo)",
+  "description": "Beyond Two Souls (Demo)",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lavender/item/Beyond_GameIcon-400x400-362c6839bb4a4c9c28afb2ea260f78cb.png",
+      "md5": "362c6839bb4a4c9c28afb2ea260f78cb",
+      "width": 400,
+      "height": 400,
+      "size": 273087,
+      "uploadedDate": "2019-03-19T22:29:04.747Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/lavender/item/B2S_LavenderDEMO_thumb-2560x1440-4b48da4ded604842192f173afadca6a0.png",
+      "md5": "4b48da4ded604842192f173afadca6a0",
+      "width": 2560,
+      "height": 1440,
+      "size": 957832,
+      "uploadedDate": "2019-06-21T19:12:41.289Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/lavender/item/Beyond_PortraitPromo03-1280x1420-5c246b28fdc821c471257c69db3f5dd7.jpg",
+      "md5": "5c246b28fdc821c471257c69db3f5dd7",
+      "width": 1280,
+      "height": 1420,
+      "size": 113550,
+      "uploadedDate": "2019-11-21T14:10:35.615Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/lavender/item/Beyond_Logo-2560x1024-506247fe5e47cd4fc854184b77b1e381.png",
+      "md5": "506247fe5e47cd4fc854184b77b1e381",
+      "width": 2560,
+      "height": 1024,
+      "size": 769620,
+      "uploadedDate": "2019-11-21T14:10:48.244Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "lavender",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-18T19:11:01.479Z",
+  "lastModifiedDate": "2019-11-21T14:10:52.612Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "lavender"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BeyondTwoSoulsDemo"
+    }
+  },
+  "entitlementName": "541a1d6aab174afaad011201b551f4a7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c3b62fd58360442bb70b57b4d9b41fbe",
+      "appId": "LavenderDemo",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-18T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Quantic Dream",
+  "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "4510c4c3a5b944cabcd453223b57e4a6",
+  "title": "Tender Defender",
+  "description": "Tender Defender",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-30T01:07:05.492Z",
+  "lastModifiedDate": "2019-05-30T01:07:05.492Z",
+  "entitlementName": "AthenaCharacter:cid_274_athena_commando_m_feathers",
+  "entitlementType": "INGAMEITEM",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

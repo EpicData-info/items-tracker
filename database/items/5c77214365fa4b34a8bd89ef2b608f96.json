@@ -1,0 +1,50 @@
+{
+  "id": "5c77214365fa4b34a8bd89ef2b608f96",
+  "title": "PeridotStaging",
+  "description": "PeridotStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1b8a504ec52d4430b65cca2990ad6c7f",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-16T16:10:41.069Z",
+  "lastModifiedDate": "2020-04-03T03:19:48.721Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PeridotStaging"
+    }
+  },
+  "entitlementName": "5c77214365fa4b34a8bd89ef2b608f96",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "bc5cb4989ad643fb806516005cad000e",
+      "appId": "cfe8184b54f14254a2ca2cbf585bf534",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-04-03T03:18:39.512Z"
+    }
+  ],
+  "developer": "Butterscotch Shenanigans",
+  "developerId": "o-nl9ywem28pes9amuwp2jqrey4zxjpf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

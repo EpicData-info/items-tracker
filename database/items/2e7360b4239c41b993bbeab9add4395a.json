@@ -1,0 +1,25 @@
+{
+  "id": "2e7360b4239c41b993bbeab9add4395a",
+  "title": "Fortnite DreamHack Anaheim 2020 App Bundle",
+  "description": "Fortnite DreamHack Anaheim 2020 App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-11T20:29:51.251Z",
+  "lastModifiedDate": "2020-02-11T20:33:51.764Z",
+  "entitlementName": "2e7360b4239c41b993bbeab9add4395a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

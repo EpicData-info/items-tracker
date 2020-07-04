@@ -1,0 +1,70 @@
+{
+  "id": "ae2f1af4074d4d10ae59bb576aaa26b0",
+  "title": "CowbirdStaging",
+  "description": "CowbirdStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/e5e30c728f1947759251eb5283ffa6e3/item/batman-arkham-knight-210x107-3a1d01c3b4243b7176352a6ef89fc2a6.png",
+      "md5": "3a1d01c3b4243b7176352a6ef89fc2a6",
+      "width": 210,
+      "height": 107,
+      "size": 18773,
+      "uploadedDate": "2019-09-16T20:27:41.643Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e5e30c728f1947759251eb5283ffa6e3/item/batman-arkham-knight_promo-2048x1152-ed2be22b3f24f446534b90b122ed560d.jpg",
+      "md5": "ed2be22b3f24f446534b90b122ed560d",
+      "width": 2048,
+      "height": 1152,
+      "size": 369128,
+      "uploadedDate": "2019-09-16T20:27:52.375Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e5e30c728f1947759251eb5283ffa6e3",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-27T22:18:11.079Z",
+  "lastModifiedDate": "2019-09-19T14:14:07.348Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CowbirdStaging"
+    }
+  },
+  "entitlementName": "ae2f1af4074d4d10ae59bb576aaa26b0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "91eb3b16b6f34f6292266f40af12bae4",
+      "appId": "CowbirdStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "Warner Brothers",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

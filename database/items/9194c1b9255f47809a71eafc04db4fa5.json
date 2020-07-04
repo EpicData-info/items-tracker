@@ -1,0 +1,51 @@
+{
+  "id": "9194c1b9255f47809a71eafc04db4fa5",
+  "title": "AzuriteStaging",
+  "description": "AzuriteStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1c4745021d4243a783b459d928b9088f",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-18T15:16:25.167Z",
+  "lastModifiedDate": "2020-06-19T18:07:55.710Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AzuriteStaging"
+    }
+  },
+  "entitlementName": "9194c1b9255f47809a71eafc04db4fa5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c8d8e4e48e9b4dc1aa6c54af3fde15ff",
+      "appId": "cfffc782fa1347f29ab1acd3ae83c6d9",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-19T18:07:38.077Z"
+    }
+  ],
+  "developer": "Square Enix",
+  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

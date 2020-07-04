@@ -1,0 +1,25 @@
+{
+  "id": "0caaf57e7b9d4998a9dde300f6eb5feb",
+  "title": "2,500 V-Bucks (Comp)",
+  "description": "2,500 V-Bucks (Comp)",
+  "longDescription": "Spend V-bucks in the loot store for heroes, schematics, upgrades and more!",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "points"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-01-22T18:18:26.253Z",
+  "lastModifiedDate": "2018-01-25T19:53:05.193Z",
+  "entitlementName": "FN_2500_POINTS_COMP",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": "b6abc5c4892047269f1e85ebae102c2d",
+  "title": "DoradoStaging",
+  "description": "DoradoStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1886704a76f94324ab964a4698db3e09",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-05T14:05:09.926Z",
+  "lastModifiedDate": "2020-06-06T02:35:46.160Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/FJRD Interactive/Among Trees/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Save_AmongTrees.txt"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DoradoStaging"
+    }
+  },
+  "entitlementName": "b6abc5c4892047269f1e85ebae102c2d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3045402a154f4fae89b04fc957d5f80e",
+      "appId": "DoradoStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "FJRD Interactive",
+  "developerId": "o-6yyj9c6thav5wux5twnueant84zs3p",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

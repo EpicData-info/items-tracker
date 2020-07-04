@@ -1,0 +1,71 @@
+{
+  "id": "631a4583387740918c76054f1d94a16a",
+  "title": "SMITE Public Test",
+  "description": "SMITE Public Test",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Smite-EGS-7.6-Cthulhu-Default-PortraitIMG-860x1148-860x1148-06fef572c8efa74fb85dfd7ac87c924e.jpg",
+      "md5": "06fef572c8efa74fb85dfd7ac87c924e",
+      "width": 860,
+      "height": 1148,
+      "size": 144860,
+      "uploadedDate": "2020-06-16T19:52:46.821Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Smite-EGS-7.6-Cthulhu-Default-LandscapeIMG-2560x1440-2560x1440-37a58681a31e6983b47835979083cb49.jpg",
+      "md5": "37a58681a31e6983b47835979083cb49",
+      "width": 2560,
+      "height": 1440,
+      "size": 239375,
+      "uploadedDate": "2020-06-16T19:52:55.382Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "076207fa2b5c4803a636af606c3c28b7",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-30T19:59:01.323Z",
+  "lastModifiedDate": "2020-06-16T19:53:04.516Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GreenbulTesting"
+    }
+  },
+  "entitlementName": "631a4583387740918c76054f1d94a16a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "da0e960bf80c4936bdbe1a1699f4dc34",
+      "appId": "GreenbulTesting",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-18T00:00:00.000Z"
+    }
+  ],
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

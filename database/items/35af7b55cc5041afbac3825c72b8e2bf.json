@@ -1,0 +1,35 @@
+{
+  "id": "35af7b55cc5041afbac3825c72b8e2bf",
+  "title": "Soundtrack Audience",
+  "description": "Soundtrack Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "bec57b5341ad4294b005a7dd18691419",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-10T18:57:41.218Z",
+  "lastModifiedDate": "2020-01-06T21:14:02.127Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "35af7b55cc5041afbac3825c72b8e2bf",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Versus Evil",
+  "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

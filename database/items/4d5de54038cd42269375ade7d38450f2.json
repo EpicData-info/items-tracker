@@ -1,0 +1,33 @@
+{
+  "id": "4d5de54038cd42269375ade7d38450f2",
+  "title": "BanjoDevAudience",
+  "description": "BanjoDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "270e1d648a5e4060b7b441615c4da4d9",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-06T20:59:29.163Z",
+  "lastModifiedDate": "2020-03-19T14:19:55.791Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4d5de54038cd42269375ade7d38450f2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bedtime Digital Games ApS",
+  "developerId": "o-bdq65kgy9hhkz5n4gkjlyt3uju86hw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

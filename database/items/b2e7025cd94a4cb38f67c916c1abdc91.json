@@ -1,0 +1,58 @@
+{
+  "id": "b2e7025cd94a4cb38f67c916c1abdc91",
+  "title": "Tundra DLC",
+  "description": "Tundra DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-24T19:42:28.087Z",
+  "lastModifiedDate": "2020-02-19T15:39:46.930Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "5911ba0c4b9d4a258df2130d56e18573"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "9b2560d021864e36bf5865fc82302502"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "b2e7025cd94a4cb38f67c916c1abdc91",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4ce417809504413a95f061bcaa38ef8b",
+      "appId": "GulperDLC1",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-01-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

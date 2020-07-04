@@ -1,0 +1,24 @@
+{
+  "id": "26402a86ae74418ab366fe3bcdce3c79",
+  "title": "Dummy",
+  "description": "Dummy",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-13T18:00:29.988Z",
+  "lastModifiedDate": "2019-02-13T18:00:29.988Z",
+  "entitlementName": "26402a86ae74418ab366fe3bcdce3c79",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

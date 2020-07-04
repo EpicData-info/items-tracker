@@ -1,0 +1,36 @@
+{
+  "id": "cc13d3839d374c9bbbd6fb113fd9df89",
+  "title": "Call_To_Action_02",
+  "description": "JOIN THE COMMUNITY\n<inverted-tiny-body>Official Battalion 1944 Discord</>",
+  "longDescription": "",
+  "technicalDetails": "https://discord.gg/5tMdfYa",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/battalion/item/B44_ModdingResourceImage_02-960x497-62b66e777ed6fe894f817a5b69c493ba.png",
+      "md5": "62b66e777ed6fe894f817a5b69c493ba",
+      "width": 960,
+      "height": 497,
+      "size": 802138,
+      "uploadedDate": "2018-07-09T19:37:32.139Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "battalion",
+  "status": "ACTIVE",
+  "creationDate": "2018-07-06T15:47:27.743Z",
+  "lastModifiedDate": "2018-12-14T20:10:21.930Z",
+  "entitlementName": "cc13d3839d374c9bbbd6fb113fd9df89",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

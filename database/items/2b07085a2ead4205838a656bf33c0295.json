@@ -1,0 +1,26 @@
+{
+  "id": "2b07085a2ead4205838a656bf33c0295",
+  "title": "5000 Fortnite Points",
+  "description": "5000 Fortnite Points",
+  "longDescription": "Spend V-bucks in the loot store for heroes, schematics, upgrades and more!",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "points"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-10-05T15:57:49.570Z",
+  "lastModifiedDate": "2019-06-13T15:59:41.067Z",
+  "entitlementName": "FN_5000_POINTS",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

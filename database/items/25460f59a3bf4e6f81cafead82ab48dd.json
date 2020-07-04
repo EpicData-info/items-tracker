@@ -1,0 +1,47 @@
+{
+  "id": "25460f59a3bf4e6f81cafead82ab48dd",
+  "title": "CheetahGeneralAudience",
+  "description": "CheetahGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/917551a8060244469eb4e6ab8a99cf24/item/Diesel_productv2_amnesia-the-dark-descent_home_ESRB_AmnesiaTDD-842x404-3861e6150747dc47894e3710ea9e56ff41f841a7-842x404-96d7bfe0f0f07d6d41957319f4251015.jpg",
+      "md5": "96d7bfe0f0f07d6d41957319f4251015",
+      "width": 842,
+      "height": 404,
+      "size": 28353,
+      "uploadedDate": "2020-04-30T14:38:18.070Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "917551a8060244469eb4e6ab8a99cf24",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-20T14:16:27.015Z",
+  "lastModifiedDate": "2020-06-03T17:11:29.031Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac,Win32"
+    }
+  },
+  "entitlementName": "25460f59a3bf4e6f81cafead82ab48dd",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Frictional Games",
+  "developerId": "o-aclcw9pm582trqsqg66qfkfp9u9nw7",
+  "eulaIds": [
+    "(egstore && cheetah)"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": "aaa521dc52da4b46b9d87b79a258d229",
+  "title": "AngeloniaDevAudience",
+  "description": "AngeloniaDevAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "angelonia",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-10T16:59:02.828Z",
+  "lastModifiedDate": "2020-01-28T15:56:14.912Z",
+  "entitlementName": "aaa521dc52da4b46b9d87b79a258d229",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

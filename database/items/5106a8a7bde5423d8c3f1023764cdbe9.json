@@ -1,0 +1,92 @@
+{
+  "id": "5106a8a7bde5423d8c3f1023764cdbe9",
+  "title": "Rebel Galaxy",
+  "description": "Rebel Galaxy",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/weaver/item/RebelGalaxy_PrimaryPromo-2580x1450-45040669e872f9911a6083934e07c822.jpg",
+      "md5": "45040669e872f9911a6083934e07c822",
+      "width": 2580,
+      "height": 1450,
+      "size": 274767,
+      "uploadedDate": "2019-06-12T23:40:11.943Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/weaver/item/RebelGalaxy_Logo_Color-1205x484-e4c0fcc9be3764dfb707ca93a1c4eba6.png",
+      "md5": "e4c0fcc9be3764dfb707ca93a1c4eba6",
+      "width": 1205,
+      "height": 484,
+      "size": 69577,
+      "uploadedDate": "2019-06-12T23:40:23.747Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/weaver/item/rebelgalaxy_portrait_promo-1280x1420-4f5b9dbb724d125887fd01654dfdb1a9.jpg",
+      "md5": "4f5b9dbb724d125887fd01654dfdb1a9",
+      "width": 1280,
+      "height": 1420,
+      "size": 143036,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "weaver",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-14T03:54:16.989Z",
+  "lastModifiedDate": "2019-11-19T17:03:33.982Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "weaver"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RebelGalaxy"
+    }
+  },
+  "entitlementName": "5106a8a7bde5423d8c3f1023764cdbe9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "63537e2dd0b04a028c319bb7a3bf15b2",
+      "appId": "Weaver",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-14T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Double Damage Games, Inc",
+  "developerId": "o-7kk95dlwa9mep5kfkubrgmp9qkwbt4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

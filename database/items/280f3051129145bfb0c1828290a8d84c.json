@@ -1,0 +1,24 @@
+{
+  "id": "280f3051129145bfb0c1828290a8d84c",
+  "title": "Fortnite Mobile",
+  "description": "Fortnite Mobile",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "SUNSET",
+  "creationDate": "2018-02-25T20:27:18.383Z",
+  "lastModifiedDate": "2019-05-16T21:16:15.266Z",
+  "entitlementName": "Fortnite_Mobile",
+  "entitlementType": "AUDIENCE",
+  "entitlementEndDate": "2019-05-17T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

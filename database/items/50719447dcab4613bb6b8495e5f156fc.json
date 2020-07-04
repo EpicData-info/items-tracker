@@ -1,0 +1,52 @@
+{
+  "id": "50719447dcab4613bb6b8495e5f156fc",
+  "title": "Tanager_Birdo",
+  "description": "Tanager_Birdo",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-19T15:43:29.113Z",
+  "lastModifiedDate": "2020-06-19T16:35:12.996Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TanagerBirdo"
+    }
+  },
+  "entitlementName": "50719447dcab4613bb6b8495e5f156fc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "608c5f358b5245bab8aa3dbb21882260",
+      "appId": "76e279dbca5840b2912428e98af9568f",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

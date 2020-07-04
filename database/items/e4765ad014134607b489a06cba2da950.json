@@ -1,0 +1,55 @@
+{
+  "id": "e4765ad014134607b489a06cba2da950",
+  "title": "SnoekMain",
+  "description": "SnoekMain",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "11eb2ae2943641b498efb54501511b86",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-18T20:25:14.333Z",
+  "lastModifiedDate": "2020-03-13T16:59:16.683Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/StateOfDecay2/Saved/Epic/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SnoekMain"
+    }
+  },
+  "entitlementName": "e4765ad014134607b489a06cba2da950",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8cafe8b435474c58b421295cf2a65758",
+      "appId": "SnoekMain",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-02-18T00:00:00.000Z"
+    }
+  ],
+  "developer": "Microsoft",
+  "developerId": "o-f3qq8ygts6pglxx529jhgx5bmyj6bf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

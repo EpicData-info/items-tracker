@@ -1,0 +1,35 @@
+{
+  "id": "4ad1102552a44254969f10843c338eab",
+  "title": "PixArk",
+  "description": "PIXARK MOD KIT",
+  "longDescription": "Create your own voxel based world with the PixARK Dev Kit! Integrated with the Steam workshop for distribution, bring your modifications to life with our Dev Kit! PixARK is a mix of creature taming with elements of magic and firearms combat. We've also left some surprises in there for the ARK franchise enthusiast!",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/pixark/item/banner0627-1920x983-dc76913bb2be68e6e0d4cfc113ba146c.png",
+      "md5": "dc76913bb2be68e6e0d4cfc113ba146c",
+      "width": 1920,
+      "height": 983,
+      "size": 5711777,
+      "uploadedDate": "2018-06-27T18:52:41.934Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "pixark",
+  "status": "ACTIVE",
+  "creationDate": "2018-06-25T17:15:29.762Z",
+  "lastModifiedDate": "2018-07-16T19:21:49.371Z",
+  "entitlementName": "4ad1102552a44254969f10843c338eab",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

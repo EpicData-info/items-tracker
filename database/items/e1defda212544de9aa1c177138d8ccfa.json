@@ -1,0 +1,47 @@
+{
+  "id": "e1defda212544de9aa1c177138d8ccfa",
+  "title": "Rosemallow DLC01 Audience",
+  "description": "Rosemallow DLC01 Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/rosemallow/item/TOW_ESRB_M_content_m-688x366-3cad213ee7c926f03d1d88a34a4ddffd.png",
+      "md5": "3cad213ee7c926f03d1d88a34a4ddffd",
+      "width": 688,
+      "height": 366,
+      "size": 26599,
+      "uploadedDate": "2019-08-21T13:46:31.734Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "rosemallow",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-10T16:36:00.156Z",
+  "lastModifiedDate": "2020-02-10T16:38:11.310Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e1defda212544de9aa1c177138d8ccfa",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Private Division",
+  "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

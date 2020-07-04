@@ -1,0 +1,33 @@
+{
+  "id": "74347fd154484764a56aaf1eefc46329",
+  "title": "RavenDevAudience",
+  "description": "RavenDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "c0783fd957634390af33808d1a1f56dd",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-27T21:10:02.029Z",
+  "lastModifiedDate": "2020-06-29T12:56:29.689Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "74347fd154484764a56aaf1eefc46329",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Sold-Out Software",
+  "developerId": "o-gcm88kddcs2t3gtypyq9tvlx64bzyw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

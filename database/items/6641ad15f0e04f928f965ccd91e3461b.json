@@ -1,0 +1,71 @@
+{
+  "id": "6641ad15f0e04f928f965ccd91e3461b",
+  "title": "ChickenStaging",
+  "description": "ChickenStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/item/Autochess-LOGO-339x129-730a07c18c3f7f159abf6592873bbc55.png",
+      "md5": "730a07c18c3f7f159abf6592873bbc55",
+      "width": 339,
+      "height": 129,
+      "size": 3642,
+      "uploadedDate": "2019-06-10T00:04:20.332Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/item/Autochess-promo-2560x1440-f041c389dafd6ff1466999a9bf804f3c.jpg",
+      "md5": "f041c389dafd6ff1466999a9bf804f3c",
+      "width": 2560,
+      "height": 1440,
+      "size": 243162,
+      "uploadedDate": "2019-06-10T00:04:28.030Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "37baf50c268d47779020d73143bb02b0",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-06T19:54:40.796Z",
+  "lastModifiedDate": "2019-06-26T00:49:37.124Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ChickenStaging"
+    }
+  },
+  "entitlementName": "6641ad15f0e04f928f965ccd91e3461b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dbf8cf892d6142abbc3d42fc3cb9d97e",
+      "appId": "ChickenStaging",
+      "platform": [
+        "Windows",
+        "Win32"
+      ],
+      "dateAdded": "2019-06-26T00:00:00.000Z"
+    }
+  ],
+  "developer": "Dragonest Game",
+  "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,31 @@
+{
+  "id": "21d2f1bc28f647d0abef8c794112638a",
+  "title": "Fortnite IOS Cert App Bundle",
+  "description": "Fortnite IOS Cert App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-18T03:59:06.737Z",
+  "lastModifiedDate": "2020-04-17T00:16:33.783Z",
+  "customAttributes": {
+    "ActionSetName": {
+      "type": "STRING",
+      "value": "Fortnite-IOS-Cert-App-Bundle"
+    }
+  },
+  "entitlementName": "21d2f1bc28f647d0abef8c794112638a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

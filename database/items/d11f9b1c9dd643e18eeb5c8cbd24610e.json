@@ -1,0 +1,91 @@
+{
+  "id": "d11f9b1c9dd643e18eeb5c8cbd24610e",
+  "title": "Overpass Pre-Purchase",
+  "description": "Overpass Pre-Purchase",
+  "longDescription": "Overpass Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/item/Old_EGS_Bigben_OVERPASS_FullGame_DesktopHorizontal-1360x766-3dc29ccdca7577ef4232c24f189bb962.JPG",
+      "md5": "3dc29ccdca7577ef4232c24f189bb962",
+      "width": 1360,
+      "height": 766,
+      "size": 731346,
+      "uploadedDate": "2020-01-15T22:13:15.996Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/item/Old_Portrait_Image-860x1148-8cd7d9f16ff40f77021d88ff9b2611ae.jpg",
+      "md5": "8cd7d9f16ff40f77021d88ff9b2611ae",
+      "width": 860,
+      "height": 1148,
+      "size": 846996,
+      "uploadedDate": "2020-01-15T22:13:32.198Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-09T20:56:00.859Z",
+  "lastModifiedDate": "2020-02-27T15:58:03.923Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "90c3f58497da48d789cc39bff57dc2f4"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OverpassPrePurchase"
+    }
+  },
+  "entitlementName": "d11f9b1c9dd643e18eeb5c8cbd24610e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "703ecced626147f2836be04dd4c37885",
+      "appId": "SandpiperDummy",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

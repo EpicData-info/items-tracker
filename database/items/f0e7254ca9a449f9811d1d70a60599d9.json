@@ -1,0 +1,51 @@
+{
+  "id": "f0e7254ca9a449f9811d1d70a60599d9",
+  "title": "JaguarStaging",
+  "description": "JaguarStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "jaguar",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-17T19:54:16.241Z",
+  "lastModifiedDate": "2019-05-14T18:18:48.219Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "JaguarStaging"
+    }
+  },
+  "entitlementName": "f0e7254ca9a449f9811d1d70a60599d9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fa84460197fe4031afcc828eb6463bd4",
+      "appId": "JaguarStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2018-12-17T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Unknown Worlds Entertainment",
+  "developerId": "o-g4s9pbd6mu9e8uqn539s3xqk9yex92",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

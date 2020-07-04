@@ -1,0 +1,25 @@
+{
+  "id": "70d465b0278444be9fd4abea8c62397e",
+  "title": "Fortnite Event - BlockParty 2019 Participant",
+  "description": "Fortnite Event - BlockParty 2019 Participant",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "SUNSET",
+  "creationDate": "2019-06-10T17:29:12.738Z",
+  "lastModifiedDate": "2019-06-21T13:16:34.334Z",
+  "entitlementName": "70d465b0278444be9fd4abea8c62397e",
+  "entitlementType": "AUDIENCE",
+  "entitlementEndDate": "2019-06-22T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

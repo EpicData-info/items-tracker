@@ -1,0 +1,24 @@
+{
+  "id": "768938e739d84364ac244442a34e3ebd",
+  "title": "Fortnite Broadcast Team - Download&Play",
+  "description": "Fortnite Broadcast Team - Download&Play",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-18T23:01:03.184Z",
+  "lastModifiedDate": "2019-05-03T15:08:20.720Z",
+  "entitlementName": "768938e739d84364ac244442a34e3ebd",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

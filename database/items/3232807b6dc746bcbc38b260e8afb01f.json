@@ -1,0 +1,108 @@
+{
+  "id": "3232807b6dc746bcbc38b260e8afb01f",
+  "title": "South Park: The Stick of Truth",
+  "description": "South Park: The Stick of Truth",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/8f8bddb3ff464536984ce8e945cb5f8c/item/SoT-S1-2560x1440-36d981676a51f199c0c7206b3cd33c09.jpg",
+      "md5": "36d981676a51f199c0c7206b3cd33c09",
+      "width": 2560,
+      "height": 1440,
+      "size": 504756,
+      "uploadedDate": "2019-12-16T18:51:39.929Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/8f8bddb3ff464536984ce8e945cb5f8c/item/SoT-S2-1280x1440-ac13fddfbc2831c64fb3e5896c9ab82b.jpg",
+      "md5": "ac13fddfbc2831c64fb3e5896c9ab82b",
+      "width": 1280,
+      "height": 1440,
+      "size": 407085,
+      "uploadedDate": "2019-12-16T18:51:49.332Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/8f8bddb3ff464536984ce8e945cb5f8c/item/SPRK_UCS14906_EGST_BannerBundle_US_Logo_Color_1000x375-1000x375-14e92c2c7de77f23e3fca026bf84b903.png",
+      "md5": "14e92c2c7de77f23e3fca026bf84b903",
+      "width": 1000,
+      "height": 375,
+      "size": 245010,
+      "uploadedDate": "2019-12-16T18:51:56.791Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8f8bddb3ff464536984ce8e945cb5f8c",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-28T21:42:56.956Z",
+  "lastModifiedDate": "2019-12-20T15:17:52.110Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "8f8bddb3ff464536984ce8e945cb5f8c"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "f69dca5a75364b06a48179e3982249c3"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SouthParkTheStickOfTruth"
+    }
+  },
+  "entitlementName": "3232807b6dc746bcbc38b260e8afb01f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6d071536db384c8197f9f21ecbf482b5",
+      "appId": "Alligator",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-28T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

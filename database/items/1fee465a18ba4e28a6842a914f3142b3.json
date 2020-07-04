@@ -1,0 +1,33 @@
+{
+  "id": "1fee465a18ba4e28a6842a914f3142b3",
+  "title": "ValkyrieDevAudience",
+  "description": "ValkyrieDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "d00c0abafa064bdcb28aa78f705b5716",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-16T20:45:33.514Z",
+  "lastModifiedDate": "2019-09-16T20:49:48.258Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1fee465a18ba4e28a6842a914f3142b3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

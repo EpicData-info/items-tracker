@@ -1,0 +1,23 @@
+{
+  "id": "0500a246f30944ef8a42f663734baba1",
+  "title": "WorldExplorers Friends & Family",
+  "description": "WorldExplorers Friends & Family",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2016-08-23T17:42:53.740Z",
+  "lastModifiedDate": "2019-11-08T02:18:34.522Z",
+  "entitlementName": "WorldExplorersFF",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

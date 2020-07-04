@@ -1,0 +1,33 @@
+{
+  "id": "dbce8ecb6923490c9404529651251216",
+  "title": "CobiaGeneralAudience",
+  "description": "CobiaGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c749cd78da34408d8434a46271f4bb79",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-19T20:34:51.269Z",
+  "lastModifiedDate": "2020-03-23T13:20:50.691Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "dbce8ecb6923490c9404529651251216",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Santa Ragione",
+  "developerId": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,105 @@
+{
+  "id": "1010df918d044e418d5e16b189995adc",
+  "title": "Anno 1800 Trial",
+  "description": "Anno 1800 Trial",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/oregano/item/Hero-Banner-TW-3840x2160-c6f8f9a4e672c4be93144e9edff9f7fa.jpg",
+      "md5": "c6f8f9a4e672c4be93144e9edff9f7fa",
+      "width": 3840,
+      "height": 2160,
+      "size": 5257036,
+      "uploadedDate": "2020-03-09T16:54:05.756Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/oregano/item/Portrait-TW-1280x1420-777a8d2b302988327b16c88c5bde1fd4.jpg",
+      "md5": "777a8d2b302988327b16c88c5bde1fd4",
+      "width": 1280,
+      "height": 1420,
+      "size": 1433098,
+      "uploadedDate": "2020-03-09T16:54:32.216Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "oregano",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-06T15:26:43.636Z",
+  "lastModifiedDate": "2020-03-16T14:52:17.608Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "oregano"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "useAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "Anno1800.exe,UbisoftGameLauncher.exe"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "Anno1800.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ANNO1800Trial"
+    }
+  },
+  "entitlementName": "1010df918d044e418d5e16b189995adc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f5194e32d121461389f57a7af6172116",
+      "appId": "OreganoTrial",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-29T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": "245f47caf730407b91d0362608fecd7b",
+  "title": "WEX NoodleHaus App Bundle",
+  "description": "WEX NoodleHaus App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-20T22:55:49.872Z",
+  "lastModifiedDate": "2020-01-20T23:02:16.117Z",
+  "entitlementName": "245f47caf730407b91d0362608fecd7b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

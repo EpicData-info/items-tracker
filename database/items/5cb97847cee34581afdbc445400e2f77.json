@@ -1,0 +1,49 @@
+{
+  "id": "5cb97847cee34581afdbc445400e2f77",
+  "title": "Fortnite Content",
+  "description": "Fortnite Content",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-03T18:15:03.320Z",
+  "lastModifiedDate": "2019-08-15T13:20:05.676Z",
+  "customAttributes": {
+    "AppAccessType": {
+      "type": "STRING",
+      "value": "public"
+    }
+  },
+  "entitlementName": "5cb97847cee34581afdbc445400e2f77",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "10645087038c451c949bfb83c5fb4d74",
+      "appId": "FortniteContentBuilds",
+      "compatibleApps": [],
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "dateAdded": "2019-01-03T18:13:18.153Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

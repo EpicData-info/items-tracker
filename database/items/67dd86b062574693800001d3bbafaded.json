@@ -1,0 +1,70 @@
+{
+  "id": "67dd86b062574693800001d3bbafaded",
+  "title": "CajunStaging",
+  "description": "CajunStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/72dda1cee6e040c1bbce452bd501e0a7/item/epic_store_a-704x445-937ec92abb8d34982453db808e2fd061.png",
+      "md5": "937ec92abb8d34982453db808e2fd061",
+      "width": 704,
+      "height": 445,
+      "size": 173542,
+      "uploadedDate": "2019-05-17T13:13:26.409Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/72dda1cee6e040c1bbce452bd501e0a7/item/gia5fVq8-3617x949-f520097875f07eb9e46c06256f3eaecf.png",
+      "md5": "f520097875f07eb9e46c06256f3eaecf",
+      "width": 3617,
+      "height": 949,
+      "size": 328953,
+      "uploadedDate": "2019-05-17T13:13:43.746Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "72dda1cee6e040c1bbce452bd501e0a7",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-08T17:18:27.957Z",
+  "lastModifiedDate": "2019-05-17T13:13:55.837Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CajunStaging"
+    }
+  },
+  "entitlementName": "67dd86b062574693800001d3bbafaded",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7dbbf38d99d24ceab0995f4a34ad22a5",
+      "appId": "CajunStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-08T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Code Horizon",
+  "developerId": "o-gvzm3vdwtv2avjdlnlv8rb5s94btuj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

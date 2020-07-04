@@ -1,0 +1,27 @@
+{
+  "id": "fee1dd857f4149f396a0017a2cdaa97c",
+  "title": "Swimsuit",
+  "description": "Swimsuit",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "cobra",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-04T14:42:15.248Z",
+  "lastModifiedDate": "2020-04-07T15:07:09.538Z",
+  "entitlementName": "fee1dd857f4149f396a0017a2cdaa97c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

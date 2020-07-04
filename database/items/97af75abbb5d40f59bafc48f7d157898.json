@@ -1,0 +1,35 @@
+{
+  "id": "97af75abbb5d40f59bafc48f7d157898",
+  "title": "DEV Treasures of The Past Audience",
+  "description": "DEV Treasures of The Past Audience",
+  "longDescription": "Entitlement based DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-11T13:34:24.364Z",
+  "lastModifiedDate": "2020-02-11T14:11:47.794Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "97af75abbb5d40f59bafc48f7d157898",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Warhorse Studios",
+  "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,31 @@
+{
+  "id": "6e9856389bdf4b44a3644fa69c27cfd5",
+  "title": "Title-123",
+  "description": "Some Description",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/SeaQA/item/MD5Field-GameDev 201-10-20-1627x568-24cce39d3225a4dd87e3d08a5028be7e.jpg",
+      "md5": "24cce39d3225a4dd87e3d08a5028be7e",
+      "width": 1627,
+      "height": 568,
+      "size": 146124,
+      "uploadedDate": "2014-10-20T23:06:37.322Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-20T23:06:56.721Z",
+  "lastModifiedDate": "2014-10-20T23:06:56.721Z",
+  "entitlementName": "6e9856389bdf4b44a3644fa69c27cfd5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "SUBSCRIPTION",
+  "developer": "",
+  "endOfSupport": false,
+  "unsearchable": false
+}

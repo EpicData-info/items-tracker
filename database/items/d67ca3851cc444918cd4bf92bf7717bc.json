@@ -1,0 +1,34 @@
+{
+  "id": "d67ca3851cc444918cd4bf92bf7717bc",
+  "title": "MOD Conan Exiles Dev Kit",
+  "description": "MOD Conan Exiles Dev  Kit",
+  "longDescription": "Download the custom Conan Exiles Unreal Editor and start making modifications! Do everything from changing aspects of gameplay to adding new monsters and items. Distribute your mods via Steam Workshop.",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/conanexiles/item/main_header-1400x400-dfbc8cbb9f2e311c455c9142ef236748.png",
+      "md5": "dfbc8cbb9f2e311c455c9142ef236748",
+      "width": 1400,
+      "height": 400,
+      "size": 714563,
+      "uploadedDate": "2017-01-16T19:44:09.017Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "conanexiles",
+  "status": "ACTIVE",
+  "creationDate": "2017-01-16T19:44:22.717Z",
+  "lastModifiedDate": "2020-06-25T14:28:27.423Z",
+  "entitlementName": "d67ca3851cc444918cd4bf92bf7717bc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Funcom",
+  "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

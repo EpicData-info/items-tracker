@@ -1,0 +1,23 @@
+{
+  "id": "72747bfc8c1b475ca3c7834d17e0854b",
+  "title": "Pouch of Gems",
+  "description": "Pouch of Gems",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "mtx packages"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2016-03-29T02:10:31.966Z",
+  "lastModifiedDate": "2016-03-29T02:10:31.966Z",
+  "entitlementName": "72747bfc8c1b475ca3c7834d17e0854b",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

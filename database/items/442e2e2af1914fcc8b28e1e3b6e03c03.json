@@ -1,0 +1,42 @@
+{
+  "id": "442e2e2af1914fcc8b28e1e3b6e03c03",
+  "title": "ClaryStandardAudience",
+  "description": "ClaryStandardAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/clary/item/Assassins-Creed-Odyssey-Rating-842x485-a6a05e4b00c52506749b4afa4febd55f.png",
+      "md5": "a6a05e4b00c52506749b4afa4febd55f",
+      "width": 842,
+      "height": 485,
+      "size": 128916,
+      "uploadedDate": "2020-01-14T19:23:23.177Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "clary",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-08T20:40:09.484Z",
+  "lastModifiedDate": "2020-01-14T19:23:59.205Z",
+  "customAttributes": {},
+  "entitlementName": "442e2e2af1914fcc8b28e1e3b6e03c03",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

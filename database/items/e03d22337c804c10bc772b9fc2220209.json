@@ -1,0 +1,39 @@
+{
+  "id": "e03d22337c804c10bc772b9fc2220209",
+  "title": "Heather  Special Edition Content Audience",
+  "description": "Heather  Special Edition Content Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/item/ESRB_M_RedDeadRedemption2-842x485-aae3128d1c8d8e23b33a02a568abe044.jpg",
+      "md5": "aae3128d1c8d8e23b33a02a568abe044",
+      "width": 842,
+      "height": 485,
+      "size": 144005,
+      "uploadedDate": "2020-01-07T15:29:22.814Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-11T21:21:19.179Z",
+  "lastModifiedDate": "2020-01-07T15:29:26.445Z",
+  "entitlementName": "e03d22337c804c10bc772b9fc2220209",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Rockstar Games",
+  "developerId": "o-dhz7kpvrvqngzdpnx5vn3jrljj53ca",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

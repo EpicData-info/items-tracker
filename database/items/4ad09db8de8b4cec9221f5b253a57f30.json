@@ -1,0 +1,29 @@
+{
+  "id": "4ad09db8de8b4cec9221f5b253a57f30",
+  "title": "BH_DLCAudience_Marker",
+  "description": "BH_DLCAudience_Marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "oregano",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-07T05:14:56.546Z",
+  "lastModifiedDate": "2020-06-02T14:42:11.916Z",
+  "entitlementName": "4ad09db8de8b4cec9221f5b253a57f30",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

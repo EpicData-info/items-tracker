@@ -1,0 +1,23 @@
+{
+  "id": "c5d07b0a53d24181beb0bfdc37fa104e",
+  "title": "TestSeaQA-8",
+  "description": "Entitlement Start Date test",
+  "longDescription": "Entitlement type is entitlement, item type is Subscription, entitlement start date is in future",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-27T18:14:30.250Z",
+  "lastModifiedDate": "2014-10-27T18:14:30.250Z",
+  "entitlementName": "EntitlmentType-1",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementEndDate": "2015-10-28T00:00:00.000Z",
+  "entitlementStartDate": "2015-10-25T00:00:00.000Z",
+  "itemType": "SUBSCRIPTION",
+  "endOfSupport": false,
+  "unsearchable": false
+}

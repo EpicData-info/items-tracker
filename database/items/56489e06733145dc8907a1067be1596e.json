@@ -1,0 +1,70 @@
+{
+  "id": "56489e06733145dc8907a1067be1596e",
+  "title": "Moonlighter DLC",
+  "description": "Moonlighter DLC",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/item/EGS_11bitstudios_Moonlighter_L1-2560x1440-7c89de5a74c1936a7c6f65338a0023d5.jpg",
+      "md5": "7c89de5a74c1936a7c6f65338a0023d5",
+      "width": 2560,
+      "height": 1440,
+      "size": 168963,
+      "uploadedDate": "2019-07-16T18:23:44.570Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/item/EGS_11bitstudios_Moonlighter_IC1_White-9543x2160-305693e0b369d31af6f97ce21eb05a2e.png",
+      "md5": "305693e0b369d31af6f97ce21eb05a2e",
+      "width": 9543,
+      "height": 2160,
+      "size": 75772,
+      "uploadedDate": "2019-07-16T18:23:55.483Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "dlc"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bec822fb982843c3be794d440728336b",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-10T18:38:57.913Z",
+  "lastModifiedDate": "2019-08-01T19:33:11.714Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "56489e06733145dc8907a1067be1596e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1c376507541a49cc8041802dd68f9fe5",
+      "appId": "EagleDLC",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-07-10T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "11 Bit Studios",
+  "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

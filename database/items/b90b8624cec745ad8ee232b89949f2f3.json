@@ -1,0 +1,45 @@
+{
+  "id": "b90b8624cec745ad8ee232b89949f2f3",
+  "title": "CurryDevAudience",
+  "description": "CurryDevAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/item/mildfantasyviolence-800x450-1303859e5a0f931464a6f08df94537a0.png",
+      "md5": "1303859e5a0f931464a6f08df94537a0",
+      "width": 800,
+      "height": 450,
+      "size": 6139,
+      "uploadedDate": "2019-09-05T15:18:25.747Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "7af7476ff9eb4a8d9cd9d6486224de76",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-03T20:59:05.206Z",
+  "lastModifiedDate": "2019-09-05T15:18:33.642Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b90b8624cec745ad8ee232b89949f2f3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "505 Games S.r.l.",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE",
+  "unsearchable": false
+}

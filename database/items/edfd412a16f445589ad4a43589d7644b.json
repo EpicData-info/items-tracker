@@ -1,0 +1,111 @@
+{
+  "id": "edfd412a16f445589ad4a43589d7644b",
+  "title": "For Honor",
+  "description": "For Honor",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/sundrop/item/FH_Background-1298x809-22f5217701a68ad96ff5dcf26d1dc9d3.png",
+      "md5": "22f5217701a68ad96ff5dcf26d1dc9d3",
+      "width": 1298,
+      "height": 809,
+      "size": 626179,
+      "uploadedDate": "2019-07-26T19:24:39.288Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/sundrop/item/STANDARD HERO-2500x1406-18925359ecbf4bcb7e139341f425fb65-2500x1406-18925359ecbf4bcb7e139341f425fb65-2500x1406-18925359ecbf4bcb7e139341f425fb65.jpg",
+      "md5": "18925359ecbf4bcb7e139341f425fb65",
+      "width": 2500,
+      "height": 1406,
+      "size": 293583,
+      "uploadedDate": "2019-11-20T20:56:36.306Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "sundrop",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-11T17:23:29.967Z",
+  "lastModifiedDate": "2019-11-20T20:56:41.217Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "sundrop"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Ubisoft"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "91808802f644410d8b5b58b2e0ca36cf"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ForHonor"
+    }
+  },
+  "entitlementName": "edfd412a16f445589ad4a43589d7644b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "016594c14e534d80b043f5dbe9c7f50e",
+      "appId": "Sundrop",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-11T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

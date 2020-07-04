@@ -1,0 +1,117 @@
+{
+  "id": "0292864c82b3412caec6d9fe52506c0e",
+  "title": "Watch Dogs: Legion",
+  "description": "Watch Dogs: Legion",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/item/WDL_Logo_Color_1000x375-1000x375-d3c8cb7bd3bf9de59d241c0aa401a966.png",
+      "md5": "d3c8cb7bd3bf9de59d241c0aa401a966",
+      "width": 1000,
+      "height": 375,
+      "size": 47585,
+      "uploadedDate": "2019-06-09T22:57:21.912Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/item/WDL_Primary_Promo_2580x1450-2580x1450-c654679532891893b8f19edbe1b0ce71.jpg",
+      "md5": "c654679532891893b8f19edbe1b0ce71",
+      "width": 2580,
+      "height": 1450,
+      "size": 406037,
+      "uploadedDate": "2019-06-09T22:57:13.837Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/item/Store_Portrait_Promo_1280x1420-1280x1420-821e3088c8b7e482562010c415df7d4b.jpg",
+      "md5": "821e3088c8b7e482562010c415df7d4b",
+      "width": 1280,
+      "height": 1420,
+      "size": 233068,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0a84818055e740a7be21a2e5b6162703",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-03T15:04:21.387Z",
+  "lastModifiedDate": "2020-05-15T00:07:01.342Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "0a84818055e740a7be21a2e5b6162703"
+    },
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "releaseDate": {
+      "type": "STRING",
+      "value": "1583506800"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WatchDogsLegion"
+    }
+  },
+  "entitlementName": "0292864c82b3412caec6d9fe52506c0e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4626193bd47a4a21baebb2cbeddec1fd",
+      "appId": "Hawk",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-14T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

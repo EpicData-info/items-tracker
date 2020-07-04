@@ -1,0 +1,34 @@
+{
+  "id": "01b79d4c55bf4c39affe49e13b931a84",
+  "title": "Arise A Simple Story Press Audience",
+  "description": "Arise A Simple Story Press Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "0fb229f35a3f4eb788b05ae91419a214",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-22T22:25:56.028Z",
+  "lastModifiedDate": "2020-01-06T15:59:14.620Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "01b79d4c55bf4c39affe49e13b931a84",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Techland",
+  "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

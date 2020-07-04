@@ -1,0 +1,66 @@
+{
+  "id": "b181bc40305f4e67a8e35481a0f50a44",
+  "title": "LilyStaging",
+  "description": "LilyStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/lily/item/Operencia_2580x1450_Promo-2580x1450-da4c78667987fdbb8b4af27c7a895c09.jpg",
+      "md5": "da4c78667987fdbb8b4af27c7a895c09",
+      "width": 2580,
+      "height": 1450,
+      "size": 389239,
+      "uploadedDate": "2019-01-28T20:01:06.416Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/lily/item/Operencia_logo_color2-1684x762-61f1e117c7b4f121a6ac67c613a2bda2.png",
+      "md5": "61f1e117c7b4f121a6ac67c613a2bda2",
+      "width": 1684,
+      "height": 762,
+      "size": 172516,
+      "uploadedDate": "2019-03-08T13:29:07.197Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "lily",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-28T20:01:41.123Z",
+  "lastModifiedDate": "2020-03-31T15:02:00.662Z",
+  "customAttributes": {
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Operencia/Saved/SaveGames/"
+    }
+  },
+  "entitlementName": "b181bc40305f4e67a8e35481a0f50a44",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a1edeb45b70e40e6b8e56d53d1b06f93",
+      "appId": "LilyStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-25T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

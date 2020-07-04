@@ -1,0 +1,58 @@
+{
+  "id": "46c3c9686a194cb4bcf7da06f8f2317d",
+  "title": "PloverStaging",
+  "description": "PloverStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8bd4f3286d414820bc7cbcbb849b1f72",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-24T04:34:27.736Z",
+  "lastModifiedDate": "2020-04-08T14:42:12.692Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "ab338e0e297e430ba4a0b95b21912426"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PloverStaging"
+    }
+  },
+  "entitlementName": "46c3c9686a194cb4bcf7da06f8f2317d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "08db1bc70fdd4c75ba89db1eaada3f18",
+      "appId": "ef639f9341ae4ca9b52b37c535342a17",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

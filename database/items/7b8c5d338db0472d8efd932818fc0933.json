@@ -1,0 +1,36 @@
+{
+  "id": "7b8c5d338db0472d8efd932818fc0933",
+  "title": "Mars DLC01",
+  "description": "Mars DLC01",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "f312bc218b1d46f7921619cc9f3bf3c7",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-09T18:32:10.691Z",
+  "lastModifiedDate": "2020-06-13T19:48:38.185Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7b8c5d338db0472d8efd932818fc0933",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

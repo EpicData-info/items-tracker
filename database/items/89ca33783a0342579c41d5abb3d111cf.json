@@ -1,0 +1,45 @@
+{
+  "id": "89ca33783a0342579c41d5abb3d111cf",
+  "title": "JasperCompleteEditionAudience",
+  "description": "JasperCompleteEditionAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/item/ESRB_M_WD1-398x190-2e363bffdd57ed8fe6f5cb493e1ac58e-398x190-2e363bffdd57ed8fe6f5cb493e1ac58e.jpg",
+      "md5": "2e363bffdd57ed8fe6f5cb493e1ac58e",
+      "width": 398,
+      "height": 190,
+      "size": 43676,
+      "uploadedDate": "2020-03-18T22:23:10.423Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-10T03:13:00.091Z",
+  "lastModifiedDate": "2020-03-19T13:50:36.191Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "89ca33783a0342579c41d5abb3d111cf",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

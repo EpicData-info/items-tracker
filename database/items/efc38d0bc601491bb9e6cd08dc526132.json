@@ -1,0 +1,104 @@
+{
+  "id": "efc38d0bc601491bb9e6cd08dc526132",
+  "title": "Rebel Galaxy Outlaw",
+  "description": "Rebel Galaxy Outlaw",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/marmoset/item/rebelgalaxyoutlaw_promo-2580x1456-040476dcdba00aab56b2c5dfc8d1c5a9.jpg",
+      "md5": "040476dcdba00aab56b2c5dfc8d1c5a9",
+      "width": 2580,
+      "height": 1456,
+      "size": 154479,
+      "uploadedDate": "2019-07-17T18:33:44.834Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/marmoset/item/rebelgalaxy-logo-437x491-f3d26bcb4e9f443031eb0bc29494f18e.png",
+      "md5": "f3d26bcb4e9f443031eb0bc29494f18e",
+      "width": 437,
+      "height": 491,
+      "size": 22750,
+      "uploadedDate": "2019-07-17T18:33:53.876Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/marmoset/item/rebelgalaxyoutlaw_portraitpromo_1280x1550-1280x1550-10f0443107895d4fecd83228e2ce3808(2)-1280x1550-fe5be3f7a3ab82dd05ffed77f0d026cd.jpg",
+      "md5": "fe5be3f7a3ab82dd05ffed77f0d026cd",
+      "width": 1280,
+      "height": 1550,
+      "size": 101361,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "marmoset",
+  "status": "ACTIVE",
+  "creationDate": "2018-11-30T01:31:47.191Z",
+  "lastModifiedDate": "2019-11-19T17:03:34.731Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "marmoset"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/Double Damage Games/RebelGalaxyOutlaw/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "*.txt,*.dat,*.bin,*.log,*.zbg_bkup,guts/,editorobj/,.editorObj,.layout,.mp4,.png"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RebelGalaxyOutlaw"
+    }
+  },
+  "entitlementName": "efc38d0bc601491bb9e6cd08dc526132",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d3a363ac028a4d6aba0ec1f4d5d4831d",
+      "appId": "Marmoset",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-13T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Double Damage Games, Inc",
+  "developerId": "o-7kk95dlwa9mep5kfkubrgmp9qkwbt4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

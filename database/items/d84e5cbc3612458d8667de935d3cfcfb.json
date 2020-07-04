@@ -1,0 +1,58 @@
+{
+  "id": "d84e5cbc3612458d8667de935d3cfcfb",
+  "title": "Dead Living Zombies DLC",
+  "description": "Dead Living Zombies DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "coriander",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-21T17:39:02.318Z",
+  "lastModifiedDate": "2020-02-18T15:53:15.273Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "afcac729418b4d4a9532bc53831c09d5"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "e1f8c09b668b47bcb9e64afc1c0ad089"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "d84e5cbc3612458d8667de935d3cfcfb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "31b72bf1f32049e2a391fda1924c0dbb",
+      "appId": "CorianderDLZ_DLC",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-21T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,38 @@
+{
+  "id": "bf12a3b8c97a431abaaff49b41ae7f30",
+  "title": "Test Item Anita",
+  "description": "test item Anita descr",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2015-09-17T22:39:25.843Z",
+  "lastModifiedDate": "2015-09-17T22:39:25.843Z",
+  "entitlementName": "test-item-ent-Anita",
+  "entitlementType": "EXECUTABLE",
+  "entitlementStartDate": "2015-09-16T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [
+    {
+      "id": "58687b4f813d4860bb577ab1d24bda30",
+      "appId": "app-name",
+      "compatibleApps": [
+        "UE_4.8"
+      ],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2015-09-17T22:33:50.644Z"
+    }
+  ],
+  "developer": "Anita",
+  "endOfSupport": false,
+  "unsearchable": false
+}

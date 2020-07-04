@@ -1,0 +1,101 @@
+{
+  "id": "00071b7175d04d1d88975d3901002dfc",
+  "title": "Costume Quest",
+  "description": "Costume Quest",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/d1479d6f93fa4e6ca4415e83a7a5d703/item/EGS_DoubleFineProductions_CostumeQuest_S1-2560x1440-8fd5dffea0d4b2636b69ad6289d3eb30.jpg",
+      "md5": "8fd5dffea0d4b2636b69ad6289d3eb30",
+      "width": 2560,
+      "height": 1440,
+      "size": 506902,
+      "uploadedDate": "2019-10-22T17:46:09.520Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/d1479d6f93fa4e6ca4415e83a7a5d703/item/EGS_DoubleFineProductions_CostumeQuest_IC1-200x96-ba58fd803a38131e48669b856b2e58f3.png",
+      "md5": "ba58fd803a38131e48669b856b2e58f3",
+      "width": 200,
+      "height": 96,
+      "size": 29319,
+      "uploadedDate": "2019-10-22T17:46:22.187Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/d1479d6f93fa4e6ca4415e83a7a5d703/item/EGS_DoubleFineProductions_CostumeQuest_S2-1280x1440-172228e3a5854ebcc24601215010f6c8.jpg",
+      "md5": "172228e3a5854ebcc24601215010f6c8",
+      "width": 1280,
+      "height": 1440,
+      "size": 325750,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d1479d6f93fa4e6ca4415e83a7a5d703",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-04T22:04:57.965Z",
+  "lastModifiedDate": "2019-11-19T17:02:32.704Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "d1479d6f93fa4e6ca4415e83a7a5d703"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CostumeQuest"
+    }
+  },
+  "entitlementName": "00071b7175d04d1d88975d3901002dfc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b286f4b4e3f948ca9da5f5bd7e37c72b",
+      "appId": "Violetear",
+      "platform": [
+        "Windows",
+        "Win32"
+      ],
+      "dateAdded": "2019-10-14T00:00:00.000Z"
+    }
+  ],
+  "developer": "Double Fine",
+  "developerId": "o-5a763b52xcghd2yclvn8t5jdlfhlrv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

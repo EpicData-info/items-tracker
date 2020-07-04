@@ -1,0 +1,25 @@
+{
+  "id": "0c66a5c0fe5e45468090ced3835c8c93",
+  "title": "Season 8 starter",
+  "description": "Season 8 starter",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-05T20:49:40.380Z",
+  "lastModifiedDate": "2019-06-03T20:24:41.631Z",
+  "entitlementName": "S8_StarterPack",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2019-03-05T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

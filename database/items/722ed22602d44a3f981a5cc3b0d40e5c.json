@@ -1,0 +1,35 @@
+{
+  "id": "722ed22602d44a3f981a5cc3b0d40e5c",
+  "title": "Falcon Age General Audience",
+  "description": "Falcon Age General Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "28dde12d84ef45b8b321dbc962c1b217",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-04T11:19:15.753Z",
+  "lastModifiedDate": "2020-01-09T18:27:11.750Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "722ed22602d44a3f981a5cc3b0d40e5c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Outerloop Games LLC",
+  "developerId": "o-jp8nn3fnwlecen2ew5l6fv8agjzaf7",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

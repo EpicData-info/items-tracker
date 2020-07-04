@@ -1,0 +1,23 @@
+{
+  "id": "a1c6ac79148e45d2a4cd722691f5e884",
+  "title": "Epic Games Contractor",
+  "description": "Epic Games Contractor",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "epic",
+  "status": "ACTIVE",
+  "creationDate": "2017-08-02T18:05:12.924Z",
+  "lastModifiedDate": "2019-05-09T14:44:36.930Z",
+  "entitlementName": "Epic_Employee_Contractor",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

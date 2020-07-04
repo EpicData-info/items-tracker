@@ -1,0 +1,34 @@
+{
+  "id": "cfefce234de147e894ba1392e26f71e4",
+  "title": "Call_To_Action_01",
+  "description": "MARS 2030 DEVELOPER BOOK\n<inverted-tiny-body>DOWNLOAD NOW</>",
+  "technicalDetails": "https://www.dropbox.com/s/c7yygpo4rliqyu0/M2030_EXPLORERS%20GUIDE_FINAL.pdf?dl=0",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/mars2030/item/mars2030_1-960x497-8cb45dee43b1bb017df738c060498426.png",
+      "md5": "8cb45dee43b1bb017df738c060498426",
+      "width": 960,
+      "height": 497,
+      "size": 653102,
+      "uploadedDate": "2018-02-08T16:50:21.332Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "mars2030",
+  "status": "ACTIVE",
+  "creationDate": "2018-02-08T16:19:24.037Z",
+  "lastModifiedDate": "2018-04-16T14:38:11.086Z",
+  "entitlementName": "cfefce234de147e894ba1392e26f71e4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

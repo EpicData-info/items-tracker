@@ -1,0 +1,91 @@
+{
+  "id": "fa35b154e4844c7e9aee92aeaba2708f",
+  "title": "Sherlock Holmes: Chapter One",
+  "description": "Sherlock Holmes: Chapter One",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/699c2dc3694c4156befa26cad5c65505/item/Diesel_productv2_sherlock-holmes-chapter-one_home_EGS_SherlockHolmesChapterOne_Frogwares_S1-2560x1440-5a18df1813929f405ed2170c1dd18d606ba4bc81-2560x1440-36afb77dcd51aee4f14a06fc04dbc1dc.jpg",
+      "md5": "36afb77dcd51aee4f14a06fc04dbc1dc",
+      "width": 2560,
+      "height": 1440,
+      "size": 366706,
+      "uploadedDate": "2020-05-22T19:40:53.744Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/699c2dc3694c4156befa26cad5c65505/item/Diesel_productv2_sherlock-holmes-chapter-one_home_EGS_SherlockHolmesChapterOne_Frogwares_S2-1200x1600-a4b7c8bb29d638fec000f986310609dbb77cc728-1200x1600-3d8ed9df5b49313d42181f2978574bf5.jpg",
+      "md5": "3d8ed9df5b49313d42181f2978574bf5",
+      "width": 1200,
+      "height": 1600,
+      "size": 243547,
+      "uploadedDate": "2020-05-22T19:41:34.515Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "699c2dc3694c4156befa26cad5c65505",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T16:42:28.886Z",
+  "lastModifiedDate": "2020-05-25T14:48:31.451Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "699c2dc3694c4156befa26cad5c65505"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SherlockHolmesChapter1"
+    }
+  },
+  "entitlementName": "fa35b154e4844c7e9aee92aeaba2708f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9cbcb84f013b4ffd859f75ec710d36c1",
+      "appId": "b434ac4a7dcf4c04a4a52d8a7ea806cc",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "Frogwares",
+  "developerId": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

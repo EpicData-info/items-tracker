@@ -1,0 +1,100 @@
+{
+  "id": "298875a1e1174e4fb61ba1eff22671da",
+  "title": "RimWorld",
+  "description": "RimWorld",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/item/EGS_RimWorld_LudeonStudios_S2-1200x1600-925e05c88fe8312deeb656e296adac64.jpg",
+      "md5": "925e05c88fe8312deeb656e296adac64",
+      "width": 1200,
+      "height": 1600,
+      "size": 650785,
+      "uploadedDate": "2020-06-08T17:56:32.392Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/item/EGS_RimWorld_LudeonStudios_S1-2560x1440-410a62ec21d44260409182e1174cce2e.jpg",
+      "md5": "410a62ec21d44260409182e1174cce2e",
+      "width": 2560,
+      "height": 1440,
+      "size": 997458,
+      "uploadedDate": "2020-06-08T17:56:52.856Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7051eadbb8c2435caf32a9bc0dc17936",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-02T21:46:13.857Z",
+  "lastModifiedDate": "2020-06-09T16:24:07.820Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "7051eadbb8c2435caf32a9bc0dc17936"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Ludeon Studios/RimWorld/"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Ludeon Studios/RimWorld by Ludeon Studios/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RimWorld"
+    }
+  },
+  "entitlementName": "298875a1e1174e4fb61ba1eff22671da",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0ab08ee985ff4e1b85cfd032119aa296",
+      "appId": "12915f06bb3442eeb414813e74af7df3",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-04-02T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ludeon Studios",
+  "developerId": "o-hsdwarj24e4ntqdnvu83854narhusv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

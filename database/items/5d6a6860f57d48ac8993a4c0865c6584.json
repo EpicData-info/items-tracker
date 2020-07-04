@@ -1,0 +1,52 @@
+{
+  "id": "5d6a6860f57d48ac8993a4c0865c6584",
+  "title": "Phoenix Point Alien Chitin Armor",
+  "description": "Phoenix Point Alien Chitin Armor",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-12T16:16:27.575Z",
+  "lastModifiedDate": "2019-12-03T17:59:14.038Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "IrisArmor"
+    }
+  },
+  "entitlementName": "5d6a6860f57d48ac8993a4c0865c6584",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9a2c93e8e7ba4e8fb8a1c058d09846fa",
+      "appId": "IrisArmor",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-11-12T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

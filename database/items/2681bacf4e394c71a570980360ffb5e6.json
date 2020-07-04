@@ -1,0 +1,55 @@
+{
+  "id": "2681bacf4e394c71a570980360ffb5e6",
+  "title": "BUG DLC Audience",
+  "description": "BUG DLC Audience",
+  "longDescription": "BUG DLC Audience",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/item/EGS_BUGDLC_Landfall_DLC_G1A_00-1920x1080-7afd2f220aa7ec3cb6c11ea851b0b287.jpg",
+      "md5": "7afd2f220aa7ec3cb6c11ea851b0b287",
+      "width": 1920,
+      "height": 1080,
+      "size": 343664,
+      "uploadedDate": "2020-03-30T18:46:19.237Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/item/EGS_LandfallGames_TotallyAccurateBattleSimulator_S4-510x680-bd48acab6fcbddd7cee9dfbed578af20-510x680-bd48acab6fcbddd7cee9dfbed578af20.jpg",
+      "md5": "bd48acab6fcbddd7cee9dfbed578af20",
+      "width": 510,
+      "height": 680,
+      "size": 245564,
+      "uploadedDate": "2020-03-30T18:47:37.353Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ffe512fa1e594ee6a75d4643d1e21b43",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-19T04:38:57.294Z",
+  "lastModifiedDate": "2020-04-01T05:51:43.372Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "2681bacf4e394c71a570980360ffb5e6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Landfall Games",
+  "developerId": "o-davtxzvpdnjmd82c247y6zdxg7wabq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

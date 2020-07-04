@@ -1,0 +1,49 @@
+{
+  "id": "616dfd86ce544ee7bc652d774f0220e6",
+  "title": "tttttStaging",
+  "description": "tttttStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "coriander",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-04T04:11:04.894Z",
+  "lastModifiedDate": "2020-02-18T15:52:25.070Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "tttttStaging"
+    }
+  },
+  "entitlementName": "616dfd86ce544ee7bc652d774f0220e6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d655f79ed9b34396b48554a0de935a38",
+      "appId": "tttttStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "test_olena3",
+  "developerId": "o-6v6396hzph6lsnsyydlzmqzpkppmlf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

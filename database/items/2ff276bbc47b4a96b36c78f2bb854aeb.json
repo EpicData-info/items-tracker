@@ -1,0 +1,22 @@
+{
+  "id": "2ff276bbc47b4a96b36c78f2bb854aeb",
+  "title": "Fortnite OT1 User",
+  "description": "Fortnite OT1 User",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-27T22:17:51.743Z",
+  "lastModifiedDate": "2014-10-27T22:17:51.743Z",
+  "entitlementName": "Fortnite_OT1",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "unsearchable": false
+}

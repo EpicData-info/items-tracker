@@ -1,0 +1,47 @@
+{
+  "id": "c5192a89967b408e86812779eb98c907",
+  "title": "stargazerGeneralAudience",
+  "description": "stargazerGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/5fdcc0dc67294af3be740f362bd976fd/item/MTG_Rating-680x353-73495229575b92c40671a7a9255d0cc9.jpg",
+      "md5": "73495229575b92c40671a7a9255d0cc9",
+      "width": 680,
+      "height": 353,
+      "size": 42340,
+      "uploadedDate": "2020-01-16T16:15:40.425Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5fdcc0dc67294af3be740f362bd976fd",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-20T18:23:14.467Z",
+  "lastModifiedDate": "2020-06-25T15:50:04.092Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Win32,Mac"
+    }
+  },
+  "entitlementName": "c5192a89967b408e86812779eb98c907",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Wizards of the Coast",
+  "developerId": "o-xlb74ml56wsa5dcfcgrpvu4ywndlmm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

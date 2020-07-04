@@ -1,0 +1,92 @@
+{
+  "id": "cce9b9e0b5934935992139df25efbe1e",
+  "title": "Wheels of Aurelia",
+  "description": "Wheels of Aurelia",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/item/EGS_WheelsofAurelia_SantaRagionesrl_S1-2560x1440-2300b1f380bd473bda7ab0c4c867fbce.jpg",
+      "md5": "2300b1f380bd473bda7ab0c4c867fbce",
+      "width": 2560,
+      "height": 1440,
+      "size": 468203,
+      "uploadedDate": "2020-04-09T14:29:34.538Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/item/EGS_WheelsofAurelia_SantaRagionesrl_S2-860x1148-58a8a085aa5193c0fb2f95bb36e12c8c.jpg",
+      "md5": "58a8a085aa5193c0fb2f95bb36e12c8c",
+      "width": 860,
+      "height": 1148,
+      "size": 388208,
+      "uploadedDate": "2020-04-09T14:29:45.145Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f5d58106a0e143758ddf2bb30dd72ae2",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-10T20:00:28.473Z",
+  "lastModifiedDate": "2020-04-13T15:42:33.077Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "f5d58106a0e143758ddf2bb30dd72ae2"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WheelsOfAurelia"
+    }
+  },
+  "entitlementName": "cce9b9e0b5934935992139df25efbe1e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ee2878cae57c43368e9b2ec41c2b16a1",
+      "appId": "Escolar",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-04-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "Santa Ragione",
+  "developerId": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

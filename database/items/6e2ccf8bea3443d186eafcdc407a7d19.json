@@ -1,0 +1,33 @@
+{
+  "id": "6e2ccf8bea3443d186eafcdc407a7d19",
+  "title": "DevFreesiaAudience",
+  "description": "DevFreesiaAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "4c00c7506c4b4fa695f749bd6bb07ff6",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-19T13:35:15.252Z",
+  "lastModifiedDate": "2020-03-19T13:43:52.292Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6e2ccf8bea3443d186eafcdc407a7d19",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Galactic Cafe",
+  "developerId": "o-yrlbfhj5bvd3fce3zfcq47jev35gx4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

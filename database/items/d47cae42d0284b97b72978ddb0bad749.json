@@ -1,0 +1,58 @@
+{
+  "id": "d47cae42d0284b97b72978ddb0bad749",
+  "title": "Watch Dogs 2 Season Pass",
+  "description": "Watch Dogs 2 Season Pass",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "angelonia",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-27T20:30:52.340Z",
+  "lastModifiedDate": "2020-01-28T15:56:14.912Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "a6310e1690c04cffac514beb901a8770"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "78aff6732bd44238b463026e2fb63803"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "d47cae42d0284b97b72978ddb0bad749",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1d19f1404b4543d7adb7d6c83b725ed9",
+      "appId": "AngeloniaSPDummy",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-27T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,78 @@
+{
+  "id": "cad8b435391e4b93b69bf8e850c867f6",
+  "title": "YarrowStaging",
+  "description": "YarrowStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/yarrow/item/Flower_Epic_PDPpromo-2580x1450-0d0a0e93f052f259ce02c1927b6a23cd.jpg",
+      "md5": "0d0a0e93f052f259ce02c1927b6a23cd",
+      "width": 2580,
+      "height": 1450,
+      "size": 230087,
+      "uploadedDate": "2019-02-14T14:17:29.395Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/yarrow/item/Flower-Logo-Final-700x500-04bdca1bdd4b0d18dc71a33ba29bda28.png",
+      "md5": "04bdca1bdd4b0d18dc71a33ba29bda28",
+      "width": 700,
+      "height": 500,
+      "size": 179045,
+      "uploadedDate": "2019-02-14T14:17:41.091Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "yarrow",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-24T16:10:03.528Z",
+  "lastModifiedDate": "2019-08-07T13:16:21.306Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Flower/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "Flower.cfg"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "YarrowStaging"
+    }
+  },
+  "entitlementName": "cad8b435391e4b93b69bf8e850c867f6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "351dd06c70fb4881912d4c57002842b8",
+      "appId": "YarrowStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-01-24T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

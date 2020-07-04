@@ -1,0 +1,24 @@
+{
+  "id": "6efa341cc8ef4e7b9f84d4d4fd378f47",
+  "title": "Fortnite External Dev - FRIMA",
+  "description": "Fortnite External Dev - FRIMA",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-16T20:39:08.061Z",
+  "lastModifiedDate": "2019-04-16T20:39:08.061Z",
+  "entitlementName": "6efa341cc8ef4e7b9f84d4d4fd378f47",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "f6c5bb9394e24d5ab9f54758e9f91e79",
+  "title": "Ghost Recon Wildlands Test Weekend Audience",
+  "description": "Ghost Recon Wildlands Test Weekend Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "hyacinth",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-30T17:15:43.521Z",
+  "lastModifiedDate": "2020-01-28T15:58:59.365Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f6c5bb9394e24d5ab9f54758e9f91e79",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

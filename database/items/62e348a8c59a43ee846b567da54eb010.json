@@ -1,0 +1,26 @@
+{
+  "id": "62e348a8c59a43ee846b567da54eb010",
+  "title": "LotusDevelopmentAudience",
+  "description": "LotusDevelopmentAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    }
+  ],
+  "namespace": "lotus",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-04T20:18:47.437Z",
+  "lastModifiedDate": "2019-07-30T16:01:26.108Z",
+  "entitlementName": "62e348a8c59a43ee846b567da54eb010",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Klei Entertainment",
+  "developerId": "o-6v5su732w3tnzud9lque2m7s4qzvjx",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

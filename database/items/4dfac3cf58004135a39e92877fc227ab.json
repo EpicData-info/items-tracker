@@ -1,0 +1,34 @@
+{
+  "id": "4dfac3cf58004135a39e92877fc227ab",
+  "title": "Wren Header",
+  "description": "Wren",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/wren/item/wren-1024x683-c2032b3e2d735c93357fc6c928133222.png",
+      "md5": "c2032b3e2d735c93357fc6c928133222",
+      "width": 1024,
+      "height": 683,
+      "size": 1246626,
+      "uploadedDate": "2018-10-08T13:44:50.443Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "wren",
+  "status": "ACTIVE",
+  "creationDate": "2018-10-08T13:36:01.725Z",
+  "lastModifiedDate": "2019-09-06T15:45:12.629Z",
+  "entitlementName": "4dfac3cf58004135a39e92877fc227ab",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "c06bc2321cc24fa889bca5c711e34cb7",
+  "title": "ContentPackAudience",
+  "description": "ContentPackAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-30T17:56:38.757Z",
+  "lastModifiedDate": "2020-06-19T19:28:14.657Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c06bc2321cc24fa889bca5c711e34cb7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Psyonix",
+  "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

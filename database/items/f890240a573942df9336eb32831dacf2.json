@@ -1,0 +1,46 @@
+{
+  "id": "f890240a573942df9336eb32831dacf2",
+  "title": "TumericGeneralAudience",
+  "description": "TumericGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/85398892cc4544088ee87c673f95bb6f/item/ESRB_Observer-842x404-b03038fbc822df0fdb07c183e1d022e0.jpg",
+      "md5": "b03038fbc822df0fdb07c183e1d022e0",
+      "width": 842,
+      "height": 404,
+      "size": 149486,
+      "uploadedDate": "2019-10-08T20:54:49.783Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "85398892cc4544088ee87c673f95bb6f",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-05T20:51:58.289Z",
+  "lastModifiedDate": "2019-10-17T15:10:16.940Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "f890240a573942df9336eb32831dacf2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Aspyr Media, Inc.",
+  "developerId": "o-dukzxsmt2q39w2xql6eb8vewd2bkc9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

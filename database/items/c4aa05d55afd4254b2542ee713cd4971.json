@@ -1,0 +1,100 @@
+{
+  "id": "c4aa05d55afd4254b2542ee713cd4971",
+  "title": "The Witcher 3: Wild Hunt - Game of the Year Edition",
+  "description": "The Witcher 3: Wild Hunt - Game of the Year Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/14ee004dadc142faaaece5a6270fb628/item/EGS_TheWitcher3WildHuntGameoftheYear_CDPROJEKTRED_S1-2560x1440-9c72e2ae9ef1e869a29b767b08f2753e.jpg",
+      "md5": "9c72e2ae9ef1e869a29b767b08f2753e",
+      "width": 2560,
+      "height": 1440,
+      "size": 1019282,
+      "uploadedDate": "2020-05-05T18:45:14.165Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/14ee004dadc142faaaece5a6270fb628/item/EGS_TheWitcher3WildHuntGameoftheYear_CDPROJEKTRED_S2-1200x1600-d887e1b749d11e8876996227e4de5c89.jpg",
+      "md5": "d887e1b749d11e8876996227e4de5c89",
+      "width": 1200,
+      "height": 1600,
+      "size": 1021630,
+      "uploadedDate": "2020-05-05T18:45:27.495Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "14ee004dadc142faaaece5a6270fb628",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-28T15:35:25.735Z",
+  "lastModifiedDate": "2020-05-18T01:46:10.760Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "14ee004dadc142faaaece5a6270fb628"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/The Witcher 3/gamesaves/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheWitcher3"
+    }
+  },
+  "entitlementName": "c4aa05d55afd4254b2542ee713cd4971",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c291a6300e06415f9191d7c1eda636aa",
+      "appId": "725a22e15ed74735bb0d6a19f3cc82d0",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-04-29T00:00:00.000Z"
+    }
+  ],
+  "developer": "CD PROJEKT RED",
+  "developerId": "o-x2vdjaf7cfakvlsgz8qf2gx8bkplcc",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

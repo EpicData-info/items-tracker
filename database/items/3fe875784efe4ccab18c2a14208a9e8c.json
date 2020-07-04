@@ -1,0 +1,56 @@
+{
+  "id": "3fe875784efe4ccab18c2a14208a9e8c",
+  "title": "Surgeon Simulator 2 - Preview Build",
+  "description": "Surgeon Simulator 2 - Preview Build",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-29T19:01:44.896Z",
+  "lastModifiedDate": "2020-04-29T19:10:04.939Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SurgeonSim2Preview"
+    }
+  },
+  "entitlementName": "3fe875784efe4ccab18c2a14208a9e8c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "65e9077752dd4006ac404cf6437f7399",
+      "appId": "969fdd76d87f4a29aa6db7a39ecc77d7",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

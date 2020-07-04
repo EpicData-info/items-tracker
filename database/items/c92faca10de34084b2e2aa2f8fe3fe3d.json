@@ -1,0 +1,33 @@
+{
+  "id": "c92faca10de34084b2e2aa2f8fe3fe3d",
+  "title": "MagentaDevAudience",
+  "description": "MagentaDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "0f0b930a0f3d4fe7aece94faa58b5318",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-13T01:23:21.970Z",
+  "lastModifiedDate": "2020-02-13T01:28:44.381Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c92faca10de34084b2e2aa2f8fe3fe3d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Test Organization",
+  "developerId": "o-jwuggxrvjq99seqnvcrzckgm6e8jtr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

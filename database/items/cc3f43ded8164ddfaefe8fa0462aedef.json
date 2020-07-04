@@ -1,0 +1,26 @@
+{
+  "id": "cc3f43ded8164ddfaefe8fa0462aedef",
+  "title": "Gamescom 2018",
+  "description": "Gamescom 2018 gift",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-08-03T19:58:19.215Z",
+  "lastModifiedDate": "2018-08-06T21:03:29.510Z",
+  "entitlementName": "GC18_Spray_Gift",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2018-08-20T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

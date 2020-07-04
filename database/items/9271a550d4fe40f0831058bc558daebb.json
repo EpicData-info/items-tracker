@@ -1,0 +1,26 @@
+{
+  "id": "9271a550d4fe40f0831058bc558daebb",
+  "title": "BattleBreakers Anti-Cheat Audience",
+  "description": "BattleBreakers Anti-Cheat Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "wex",
+  "status": "SUNSET",
+  "creationDate": "2020-01-29T17:32:30.162Z",
+  "lastModifiedDate": "2020-02-04T17:02:02.559Z",
+  "entitlementName": "9271a550d4fe40f0831058bc558daebb",
+  "entitlementType": "AUDIENCE",
+  "entitlementEndDate": "2020-02-05T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

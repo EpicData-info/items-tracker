@@ -1,0 +1,25 @@
+{
+  "id": "263df0ab5d7d4b2795f55ed9643b1590",
+  "title": "fortnite_alpha_explorer",
+  "description": "fortnite_alpha_explorer",
+  "longDescription": "fortnite_alpha_explorer",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-07-14T21:25:05.544Z",
+  "lastModifiedDate": "2017-07-14T21:28:08.579Z",
+  "entitlementName": "fortnite_alpha_explorer",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "installModes": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

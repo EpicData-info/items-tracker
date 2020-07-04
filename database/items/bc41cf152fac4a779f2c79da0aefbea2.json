@@ -1,0 +1,29 @@
+{
+  "id": "bc41cf152fac4a779f2c79da0aefbea2",
+  "title": "Product_Code_4",
+  "description": "Product_Code_4",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-05T22:10:38.702Z",
+  "lastModifiedDate": "2019-11-19T12:56:23.766Z",
+  "entitlementName": "bc41cf152fac4a779f2c79da0aefbea2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

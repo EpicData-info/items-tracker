@@ -1,0 +1,46 @@
+{
+  "id": "824c0955d3cb43bdb6ca522d476f6a21",
+  "title": "GreenbulGeneralAudience",
+  "description": "GreenbulGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Smite_T_ESRB-842x485-48e4c554b271702bcd6bd4540932c170.jpg",
+      "md5": "48e4c554b271702bcd6bd4540932c170",
+      "width": 842,
+      "height": 485,
+      "size": 38323,
+      "uploadedDate": "2020-04-28T15:26:11.192Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "076207fa2b5c4803a636af606c3c28b7",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-18T01:53:04.863Z",
+  "lastModifiedDate": "2020-05-15T00:04:18.628Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "824c0955d3cb43bdb6ca522d476f6a21",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

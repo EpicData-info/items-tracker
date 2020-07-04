@@ -1,0 +1,95 @@
+{
+  "id": "dc9de71336214427a6351ab25433d919",
+  "title": "ProteaSoundtrackStaging",
+  "description": "ProteaSoundtrackStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/protea/item/IoT-OfferImage_Portrait_860x1148-860x1148-903e5ece6796820a7e5bdd82dfa5505d.jpg",
+      "md5": "903e5ece6796820a7e5bdd82dfa5505d",
+      "width": 860,
+      "height": 1148,
+      "size": 657872,
+      "uploadedDate": "2020-03-23T23:41:36.075Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/protea/item/IoT-OfferImage_Landscape_2560x1440-2560x1440-da0ca42dfb21502d97539cf1a91c8dd2.jpg",
+      "md5": "da0ca42dfb21502d97539cf1a91c8dd2",
+      "width": 2560,
+      "height": 1440,
+      "size": 2044192,
+      "uploadedDate": "2020-03-23T23:41:47.675Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "protea",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-13T18:41:33.414Z",
+  "lastModifiedDate": "2020-04-28T18:01:25.235Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "protea"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Brace Yourself Games"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ProteaSoundtrackStaging"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "dc9de71336214427a6351ab25433d919",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c91903ecc5ea4557ae92d5a9d27205b6",
+      "appId": "77969941c4474f71b302d0fcf5d9bcf5",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-03-18T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Brace Yourself Games",
+  "developerId": "o-5y95w2k7uu469v8lr4dyzeff447wfm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

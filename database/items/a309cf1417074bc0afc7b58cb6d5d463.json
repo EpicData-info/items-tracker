@@ -1,0 +1,44 @@
+{
+  "id": "a309cf1417074bc0afc7b58cb6d5d463",
+  "title": "CDN verification",
+  "description": "Testing the S3 to Cloudfront changes",
+  "longDescription": "Testing S3 to cloudfront changes from Catalog Admin Website",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/SeaQA/item/Chrysanthemum-1024x768-076e3caed758a1c18c91a0e9cae3368f.jpg",
+      "md5": "076e3caed758a1c18c91a0e9cae3368f",
+      "width": 1024,
+      "height": 768,
+      "size": 879394,
+      "uploadedDate": "2015-07-27T22:44:41.487Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/SeaQA/item/Penguins-1024x768-9d377b10ce778c4938b3c7e2c63a229a.jpg",
+      "md5": "9d377b10ce778c4938b3c7e2c63a229a",
+      "width": 1024,
+      "height": 768,
+      "size": 777835,
+      "uploadedDate": "2015-07-27T22:44:49.985Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2015-07-27T22:44:56.905Z",
+  "lastModifiedDate": "2015-07-27T22:44:56.905Z",
+  "entitlementName": "a309cf1417074bc0afc7b58cb6d5d463",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "CONSUMABLE",
+  "developer": "sdfdfdsf",
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": "8535f5fb7f0241d9a2c1e99b809ebc95",
+  "title": "BlowfishDevAudience",
+  "description": "BlowfishDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "f7dc1618d0bd4810a61f50d44333900e",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-03T17:46:26.456Z",
+  "lastModifiedDate": "2019-12-26T15:50:15.415Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "8535f5fb7f0241d9a2c1e99b809ebc95",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Subset Games",
+  "developerId": "o-y2xjbnp5qy433qzldqbvncb3n8z3l6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

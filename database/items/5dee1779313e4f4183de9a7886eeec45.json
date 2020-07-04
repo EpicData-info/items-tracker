@@ -1,0 +1,35 @@
+{
+  "id": "5dee1779313e4f4183de9a7886eeec45",
+  "title": "StorkPressAudience",
+  "description": "StorkPressAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3ade24028e9247039924d3877af0a2ea",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-18T20:50:18.491Z",
+  "lastModifiedDate": "2019-10-01T15:14:38.112Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5dee1779313e4f4183de9a7886eeec45",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Triband",
+  "developerId": "o-lnl9dagny4g6432q7delvkhfqzwcnx",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

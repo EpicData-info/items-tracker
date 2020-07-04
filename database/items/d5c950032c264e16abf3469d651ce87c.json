@@ -1,0 +1,46 @@
+{
+  "id": "d5c950032c264e16abf3469d651ce87c",
+  "title": "CuckooPressAudience",
+  "description": "CuckooPressAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/item/ESRB_WalkingDeadDE-842x404-0ae3fb75831087dd66fcbd2053dff37b.png",
+      "md5": "0ae3fb75831087dd66fcbd2053dff37b",
+      "width": 842,
+      "height": 404,
+      "size": 59326,
+      "uploadedDate": "2019-09-25T13:27:30.512Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "b534830f4c524447bfd2266ce70cf8ab",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-23T20:42:22.484Z",
+  "lastModifiedDate": "2019-09-25T13:27:34.239Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d5c950032c264e16abf3469d651ce87c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

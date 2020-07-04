@@ -1,0 +1,45 @@
+{
+  "id": "7fdf12cf95f84b84854ace79f6662ba3",
+  "title": "OcelotDevAudience",
+  "description": "OcelotDevAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/ocelot/item/ClosetotheSun-842x404-b4e07498d37bb5ef762336cec2de62e9.png",
+      "md5": "b4e07498d37bb5ef762336cec2de62e9",
+      "width": 842,
+      "height": 404,
+      "size": 55352,
+      "uploadedDate": "2019-04-23T21:03:46.831Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "ocelot",
+  "status": "ACTIVE",
+  "creationDate": "2018-12-13T22:24:12.723Z",
+  "lastModifiedDate": "2019-05-13T14:05:46.881Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7fdf12cf95f84b84854ace79f6662ba3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

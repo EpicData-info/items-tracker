@@ -1,0 +1,30 @@
+{
+  "id": "58e4d4f3a9264ae19b37ddb0edcd59ac",
+  "title": "Ocean Dev App Bundle",
+  "description": "Ocean Dev App Bundle",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-20T03:26:39.806Z",
+  "lastModifiedDate": "2020-03-12T19:58:30.348Z",
+  "customAttributes": {
+    "ActionSetName": {
+      "type": "STRING",
+      "value": "Ocean-Dev-App-Bundle"
+    }
+  },
+  "entitlementName": "58e4d4f3a9264ae19b37ddb0edcd59ac",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

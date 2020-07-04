@@ -1,0 +1,34 @@
+{
+  "id": "efd3bf18b88846a6bf2c1d44f1c051f8",
+  "title": "DLC18 Audience",
+  "description": "DLC18 (Dragon & Koi Tier 2 Weapon Skin Bundle)",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-27T01:58:43.968Z",
+  "lastModifiedDate": "2019-12-09T18:27:12.248Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "efd3bf18b88846a6bf2c1d44f1c051f8",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,96 @@
+{
+  "id": "d0e3f13cd4254b46b60c4ee40aa09efe",
+  "title": "Diesel Brothers Truck Building Simulator Editor",
+  "description": "Diesel Brothers Truck Building Simulator Editor",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/72dda1cee6e040c1bbce452bd501e0a7/item/epic_store_a-704x445-937ec92abb8d34982453db808e2fd061.png",
+      "md5": "937ec92abb8d34982453db808e2fd061",
+      "width": 704,
+      "height": 445,
+      "size": 173542,
+      "uploadedDate": "2019-05-10T13:40:39.944Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/72dda1cee6e040c1bbce452bd501e0a7/item/LOGO_DB_TBS_white-3617x949-1e2111c089563b39f1b5aec008b10e9f.png",
+      "md5": "1e2111c089563b39f1b5aec008b10e9f",
+      "width": 3617,
+      "height": 949,
+      "size": 149388,
+      "uploadedDate": "2019-05-10T13:40:58.412Z"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/72dda1cee6e040c1bbce452bd501e0a7/item/DieselBrothers-256x256-b81e1c6915635921f94ca4b34f0d7fd0.png",
+      "md5": "b81e1c6915635921f94ca4b34f0d7fd0",
+      "width": 256,
+      "height": 256,
+      "size": 15858,
+      "uploadedDate": "2019-05-10T14:47:21.298Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "72dda1cee6e040c1bbce452bd501e0a7",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-08T17:15:20.859Z",
+  "lastModifiedDate": "2019-05-17T13:08:10.166Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DBTruckBuildingSim"
+    }
+  },
+  "entitlementName": "d0e3f13cd4254b46b60c4ee40aa09efe",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "eb478d9ffa334ef38d1fd6e122fdcd6c",
+      "appId": "Cajun",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Win32"
+      ],
+      "dateAdded": "2019-04-08T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Code Horizon",
+  "developerId": "o-gvzm3vdwtv2avjdlnlv8rb5s94btuj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

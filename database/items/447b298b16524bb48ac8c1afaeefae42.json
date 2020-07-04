@@ -1,0 +1,51 @@
+{
+  "id": "447b298b16524bb48ac8c1afaeefae42",
+  "title": "BoxfishTrialStaging",
+  "description": "BoxfishTrialStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-12T19:49:17.169Z",
+  "lastModifiedDate": "2020-04-24T03:59:22.778Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BoxfishTrialStaging"
+    }
+  },
+  "entitlementName": "447b298b16524bb48ac8c1afaeefae42",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9f1a9cbf319441029aa4eeac420df8cf",
+      "appId": "BoxfishTrialStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-02-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

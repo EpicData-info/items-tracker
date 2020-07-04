@@ -1,0 +1,38 @@
+{
+  "id": "87c76558defd414492cd5ed98db6db60",
+  "title": "NewtFoundersPack1",
+  "description": "NewtFoundersPack1",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-04-23T19:21:20.351Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-01T20:29:13.010Z",
+  "lastModifiedDate": "2019-05-13T14:35:29.774Z",
+  "entitlementName": "87c76558defd414492cd5ed98db6db60",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "RATING_PENDING",
+  "selfRefundable": false,
+  "unsearchable": false
+}

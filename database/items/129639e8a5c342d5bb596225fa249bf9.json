@@ -1,0 +1,57 @@
+{
+  "id": "129639e8a5c342d5bb596225fa249bf9",
+  "title": "HussarStaging",
+  "description": "HussarStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ca93b6d41a4e41af864942d8f0a2a826",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-13T15:49:35.127Z",
+  "lastModifiedDate": "2020-03-17T14:25:49.491Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "2f17e81c95494d54a3d9382a28e294f8"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HussarStaging"
+    }
+  },
+  "entitlementName": "129639e8a5c342d5bb596225fa249bf9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e8df0f9d7c1c4291a44725820abdbe0a",
+      "appId": "HussarStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

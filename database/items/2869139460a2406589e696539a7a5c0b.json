@@ -1,0 +1,35 @@
+{
+  "id": "2869139460a2406589e696539a7a5c0b",
+  "title": "EmperorGeneralAudience",
+  "description": "EmperorGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "109273d8719f46b9b89cb912a6649e5c",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-18T15:32:40.915Z",
+  "lastModifiedDate": "2020-05-15T00:52:21.132Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "2869139460a2406589e696539a7a5c0b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

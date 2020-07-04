@@ -1,0 +1,30 @@
+{
+  "id": "8c267a50f4ad4aacb6706d94e5d572b9",
+  "title": "PheasantUltimatePack_Marker",
+  "description": "PheasantUltimatePack_Marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "4b35838425c74992ad42e1276b2161ca",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-08T17:35:19.915Z",
+  "lastModifiedDate": "2019-06-14T20:58:40.318Z",
+  "entitlementName": "8c267a50f4ad4aacb6706d94e5d572b9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

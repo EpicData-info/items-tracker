@@ -1,0 +1,47 @@
+{
+  "id": "e10d3f8c67824b2ca084fb8e609951fe",
+  "title": "BegoniaGeneralAudience",
+  "description": "BegoniaGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/begonia/item/WalkingDead3-842x404-3c7bcd36f914bb153497f616b2610a05.png",
+      "md5": "3c7bcd36f914bb153497f616b2610a05",
+      "width": 842,
+      "height": 404,
+      "size": 57482,
+      "uploadedDate": "2019-04-23T20:21:52.055Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "begonia",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-08T18:29:51.208Z",
+  "lastModifiedDate": "2019-05-13T14:03:48.525Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e10d3f8c67824b2ca084fb8e609951fe",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "selfRefundable": true,
+  "unsearchable": false
+}

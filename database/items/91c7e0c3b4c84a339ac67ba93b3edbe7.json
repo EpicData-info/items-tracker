@@ -1,0 +1,33 @@
+{
+  "id": "91c7e0c3b4c84a339ac67ba93b3edbe7",
+  "title": "A Knights Quest Press Audience",
+  "description": "A Knights Quest Press Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c77e320376c14aa68121bffb108721c7",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-30T16:04:29.511Z",
+  "lastModifiedDate": "2019-10-04T16:17:30.989Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "91c7e0c3b4c84a339ac67ba93b3edbe7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Curve Digital",
+  "developerId": "o-ws89bsbfb8trgdl3zmerugg4rsuvvt",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

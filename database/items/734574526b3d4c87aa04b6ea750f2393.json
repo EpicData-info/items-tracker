@@ -1,0 +1,100 @@
+{
+  "id": "734574526b3d4c87aa04b6ea750f2393",
+  "title": "The Eternal Cylinder",
+  "description": "The Eternal Cylinder",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/fa0c74ef7780498fb222dcd099bf82a2/item/EGS_ACE TEAM_THE ETERNAL CYLINDER_IC1_Game Logo White-200x200-0a53b354255ef9a069aa88edcf7881f7.png",
+      "md5": "0a53b354255ef9a069aa88edcf7881f7",
+      "width": 200,
+      "height": 200,
+      "size": 91156,
+      "uploadedDate": "2019-08-29T01:34:57.677Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fa0c74ef7780498fb222dcd099bf82a2/item/EGS_ACE TEAM_THE ETERNAL CYLINDER_G1_Product Display Page Promo-1920x1080-3009c54e34003caeba8d1139d3f5ca5c.jpg",
+      "md5": "3009c54e34003caeba8d1139d3f5ca5c",
+      "width": 1920,
+      "height": 1080,
+      "size": 2168676,
+      "uploadedDate": "2019-08-29T01:35:09.426Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/fa0c74ef7780498fb222dcd099bf82a2/item/EGS_ACE TEAM_THE ETERNAL CYLINDER_S2_Store Primary Promo Portrait-1280x1440-4d0d4b0e9f9d8458f73de569004696e7.jpg",
+      "md5": "4d0d4b0e9f9d8458f73de569004696e7",
+      "width": 1280,
+      "height": 1440,
+      "size": 1813418,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fa0c74ef7780498fb222dcd099bf82a2",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-27T19:15:43.801Z",
+  "lastModifiedDate": "2019-11-19T17:03:49.922Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "fa0c74ef7780498fb222dcd099bf82a2"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheEternalCylinder"
+    }
+  },
+  "entitlementName": "734574526b3d4c87aa04b6ea750f2393",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b57697ce62ba4130962c085511e3e849",
+      "appId": "Oriole",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "Good Shepherd Entertainment",
+  "developerId": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

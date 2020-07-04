@@ -1,0 +1,87 @@
+{
+  "id": "269a2c2a21c145dc8ef7c632ac4d9d43",
+  "title": "Anodyne 2: Return to Dust Soundtrack",
+  "description": "Anodyne 2: Return to Dust Soundtrack",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/395be8a9aed24142b30b6abb2778e995/item/EGS_Anodyne2ReturntoDust_AnalgesicProductions_S4-510x680-94072e8ad80a101ff5cd8852dc4cc8f8-510x680-94072e8ad80a101ff5cd8852dc4cc8f8.jpg",
+      "md5": "94072e8ad80a101ff5cd8852dc4cc8f8",
+      "width": 510,
+      "height": 680,
+      "size": 257472,
+      "uploadedDate": "2020-03-12T15:07:01.955Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/395be8a9aed24142b30b6abb2778e995/item/EGS_Anodyne2ReturntoDust_AnalgesicProductions_G1C_00-1920x1080-a06977c625f9cb3d1ac66fa4aed30f06-1920x1080-a06977c625f9cb3d1ac66fa4aed30f06.jpg",
+      "md5": "a06977c625f9cb3d1ac66fa4aed30f06",
+      "width": 1920,
+      "height": 1080,
+      "size": 338021,
+      "uploadedDate": "2020-03-12T15:07:13.739Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "digitalextras"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "395be8a9aed24142b30b6abb2778e995",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-21T17:06:31.990Z",
+  "lastModifiedDate": "2020-05-26T20:44:20.112Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Analgesic Productions LLC/Anodyne 2/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Analgesic Productions LLC/Anodyne 2/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.txt"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Anodyne2Soundtrack"
+    }
+  },
+  "entitlementName": "269a2c2a21c145dc8ef7c632ac4d9d43",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b87125bce97e49079f9d8d6e1440f60f",
+      "appId": "TanzaniteSoundtrack",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-02-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "Analgesic Productions",
+  "developerId": "o-lj8mtqmxvzj3vay37vhmwu2ptycae8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

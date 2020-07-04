@@ -1,0 +1,23 @@
+{
+  "id": "cf3e304c08b84f1490e431dd26545230",
+  "title": "Tier 1 Founder’s Pack",
+  "description": "Tier 1 Founder’s Pack",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-04-17T02:45:13.664Z",
+  "lastModifiedDate": "2019-06-13T15:59:41.067Z",
+  "entitlementName": "FoundersPack_0_1",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

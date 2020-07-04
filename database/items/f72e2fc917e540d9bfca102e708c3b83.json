@@ -1,0 +1,25 @@
+{
+  "id": "f72e2fc917e540d9bfca102e708c3b83",
+  "title": "Quokka",
+  "description": "Quokka",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-27T23:41:44.716Z",
+  "lastModifiedDate": "2019-10-18T01:22:54.460Z",
+  "entitlementName": "FN_Ospray_2",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

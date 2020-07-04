@@ -1,0 +1,35 @@
+{
+  "id": "c99aef1cf1e146c291b91bcaf4f6f798",
+  "title": "Genesis Alpha One: Support a Creator Audience",
+  "description": "Genesis Alpha One: Support a Creator Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "puma",
+  "status": "ACTIVE",
+  "creationDate": "2019-01-11T19:51:33.936Z",
+  "lastModifiedDate": "2019-05-13T14:24:17.974Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c99aef1cf1e146c291b91bcaf4f6f798",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,131 @@
+{
+  "id": "7f6bb22e14044be880ba254f683cd928",
+  "title": "Trover Saves the Universe",
+  "description": "Trover Saves the Universe",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/sweetpea/item/TroverSavesTheUniverse_LogoFinal-2100x1350-1875996b828b2a68eebb4fe1ffc3fcef.png",
+      "md5": "1875996b828b2a68eebb4fe1ffc3fcef",
+      "width": 2100,
+      "height": 1350,
+      "size": 240144,
+      "uploadedDate": "2019-03-18T19:51:19.834Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/sweetpea/item/EGS_SquanchGames_Trover_L1_TroverSpace-2560x1440-62b9f893e4f88c1435a8b8a7904794d0.jpg",
+      "md5": "62b9f893e4f88c1435a8b8a7904794d0",
+      "width": 2560,
+      "height": 1440,
+      "size": 276449,
+      "uploadedDate": "2019-06-04T12:56:34.833Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/sweetpea/item/Trover_tall-853x960-c0b769b9ac8de6347085b4a3d86e33f0.png",
+      "md5": "c0b769b9ac8de6347085b4a3d86e33f0",
+      "width": 853,
+      "height": 960,
+      "size": 180353,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "sweetpea",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-18T19:43:36.713Z",
+  "lastModifiedDate": "2019-11-19T17:04:11.291Z",
+  "customAttributes": {
+    "extraLaunchOption_003_Args": {
+      "type": "STRING",
+      "value": "-vr -hmd=OSVR"
+    },
+    "defaultLaunchOption_Args": {
+      "type": "STRING",
+      "value": "-nohmd"
+    },
+    "extraLaunchOption_002_Args": {
+      "type": "STRING",
+      "value": "-vr -hmd=OculusHMD"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "extraLaunchOption_003_Name": {
+      "type": "STRING",
+      "value": "Launch in OSVR"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch in SteamVR"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TroverSavesTheUniverse"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "sweetpea"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-vr -hmd=SteamVR"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Squanch Games"
+    },
+    "extraLaunchOption_002_Name": {
+      "type": "STRING",
+      "value": "Launch in Oculus VR"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7f6bb22e14044be880ba254f683cd928",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2730bcf26b0f44e1959a72be97e9e95d",
+      "appId": "Sweetpea",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Oculus",
+        "SteamVR / HTC Vive",
+        "Gear VR"
+      ],
+      "dateAdded": "2019-03-18T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Squanch Games",
+  "developerId": "o-n2p7jejpaawba9jzcfpryscpj3uh6w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

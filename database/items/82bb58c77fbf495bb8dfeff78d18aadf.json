@@ -1,0 +1,52 @@
+{
+  "id": "82bb58c77fbf495bb8dfeff78d18aadf",
+  "title": "GuppyDevelopment",
+  "description": "GuppyDevelopment",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "deab864e1abf4357b303bcd5ff6fe8da",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-30T18:49:10.480Z",
+  "lastModifiedDate": "2020-05-21T20:39:34.680Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GuppyDevelopment"
+    }
+  },
+  "entitlementName": "82bb58c77fbf495bb8dfeff78d18aadf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fa1b45f028204efab0f4660487f4850c",
+      "appId": "0d867ab1c1ba4d3e91d9249e4ae06099",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-04-30T00:00:00.000Z"
+    }
+  ],
+  "developer": "Activision Publishing, Inc",
+  "developerId": "o-s5myyzhdfhxwftmvf55ph3eu6fbqpz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

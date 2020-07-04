@@ -1,0 +1,51 @@
+{
+  "id": "067952a0c7994e65952bf555f3de1e35",
+  "title": "ViolaStaging",
+  "description": "ViolaStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "viola",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-21T17:30:00.650Z",
+  "lastModifiedDate": "2020-02-20T15:07:59.396Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ViolaStaging"
+    }
+  },
+  "entitlementName": "067952a0c7994e65952bf555f3de1e35",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "610f14fc155c4eb9b1ddaa1c55c07105",
+      "appId": "ViolaStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-21T17:28:40.117Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

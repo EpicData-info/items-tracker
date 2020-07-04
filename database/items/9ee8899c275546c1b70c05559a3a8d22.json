@@ -1,0 +1,24 @@
+{
+  "id": "9ee8899c275546c1b70c05559a3a8d22",
+  "title": "Ocean Internal - Dev Team",
+  "description": "Ocean Internal - Dev Team",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "ocn",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-18T16:28:47.056Z",
+  "lastModifiedDate": "2019-09-18T16:28:47.056Z",
+  "entitlementName": "9ee8899c275546c1b70c05559a3a8d22",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

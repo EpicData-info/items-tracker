@@ -1,0 +1,23 @@
+{
+  "id": "78aa5fa162494a0e9b5e717ca0e3d000",
+  "title": "Rooster Teeth Expo 2017",
+  "description": "Free Gun!",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-06-09T21:01:09.816Z",
+  "lastModifiedDate": "2017-06-09T21:41:51.752Z",
+  "entitlementName": "RoosterTeethExpo_2017",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": "f1242a2000dd4356b5147f296198c3e2",
+  "title": "SpellbreakPromo03",
+  "description": "SpellbreakPromo03",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-03T13:12:00.126Z",
+  "lastModifiedDate": "2019-10-03T13:12:00.126Z",
+  "entitlementName": "f1242a2000dd4356b5147f296198c3e2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,100 @@
+{
+  "id": "c4aa7780f1ad4084aea750b7e28873e8",
+  "title": "SAMURAI SHODOWN NEOGEO COLLECTION",
+  "description": "SAMURAI SHODOWN NEOGEO COLLECTION",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/3e84a6d0684b4f7593e6bf88bee0cbaf/item/EGS_SAMURAISHODOWNNEOGEOCOLLECTION_DigitalEclipse_S1-2560x1440-415377927f279a9edec4a122ef00c092.jpg",
+      "md5": "415377927f279a9edec4a122ef00c092",
+      "width": 2560,
+      "height": 1440,
+      "size": 638984,
+      "uploadedDate": "2020-06-11T04:27:13.178Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/3e84a6d0684b4f7593e6bf88bee0cbaf/item/EGS_SAMURAISHODOWNNEOGEOCOLLECTION_DigitalEclipse_S2-1200x1600-f04be07a5589199b338e644a5951e7c5.jpg",
+      "md5": "f04be07a5589199b338e644a5951e7c5",
+      "width": 1200,
+      "height": 1600,
+      "size": 568068,
+      "uploadedDate": "2020-06-11T04:27:26.077Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3e84a6d0684b4f7593e6bf88bee0cbaf",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-19T23:16:16.954Z",
+  "lastModifiedDate": "2020-06-18T18:06:25.567Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "3e84a6d0684b4f7593e6bf88bee0cbaf"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Samurai Shodown NEOGEO Collection/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "datastorage/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SSNeogeoCollection"
+    }
+  },
+  "entitlementName": "c4aa7780f1ad4084aea750b7e28873e8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "50ca42ffcf0246a6afada59346037be9",
+      "appId": "75553c71fa1744a4be89f71d5b862eae",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-03-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "SNK CORPORATION",
+  "developerId": "o-bse2s8gp28ptrv924lby79vx66vsz6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567rFEOklmsRhpFf2MvfDSrjZNC",
+  "unsearchable": false
+}

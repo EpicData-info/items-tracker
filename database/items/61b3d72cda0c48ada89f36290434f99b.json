@@ -1,0 +1,74 @@
+{
+  "id": "61b3d72cda0c48ada89f36290434f99b",
+  "title": "Borderlands 3 Gamescom Demo",
+  "description": "Borderlands 3 Gamescom Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/catnip/item/Oak_StandardEdition-1440x810-6bcacdd8461e42e50e4038e0fb3260ee.jpg",
+      "md5": "6bcacdd8461e42e50e4038e0fb3260ee",
+      "width": 1440,
+      "height": 810,
+      "size": 295579,
+      "uploadedDate": "2019-07-19T19:20:51.057Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/catnip/item/Oak_Logo_Standard-720x209-8373e0df5612a9952fe79defb32e1322.png",
+      "md5": "8373e0df5612a9952fe79defb32e1322",
+      "width": 720,
+      "height": 209,
+      "size": 192732,
+      "uploadedDate": "2019-07-19T19:20:57.503Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "catnip",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-11T21:19:33.098Z",
+  "lastModifiedDate": "2020-06-15T20:52:55.764Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Borderlands3GamescomDemo"
+    }
+  },
+  "entitlementName": "61b3d72cda0c48ada89f36290434f99b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "61f7f6cd8c154713b1b816411a2b7393",
+      "appId": "CatnipGamescomDemo",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-07-11T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

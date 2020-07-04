@@ -1,0 +1,25 @@
+{
+  "id": "8da9482dfdbb49e3b494a37262ffffb2",
+  "title": "4200 Fortnite Points",
+  "description": "4200 Fortnite Points",
+  "longDescription": "Spend V-bucks in the loot store for heroes, schematics, upgrades and more!",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "points"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2015-05-20T19:12:04.061Z",
+  "lastModifiedDate": "2017-06-29T01:53:45.193Z",
+  "entitlementName": "FN_4200_POINTS",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "CONSUMABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

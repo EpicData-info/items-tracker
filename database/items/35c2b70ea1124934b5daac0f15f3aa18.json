@@ -1,0 +1,34 @@
+{
+  "id": "35c2b70ea1124934b5daac0f15f3aa18",
+  "title": "Call_To_Action_03",
+  "description": "MARS 2030 WEBSITE\n<inverted-tiny-body>READ MORE</>",
+  "technicalDetails": "http://www.mars2030-vr.com",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/mars2030/item/mars2030_3-960x483-1a78952fe586b9ca93040728f26b8bff.png",
+      "md5": "1a78952fe586b9ca93040728f26b8bff",
+      "width": 960,
+      "height": 483,
+      "size": 582859,
+      "uploadedDate": "2018-02-08T16:51:27.236Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "layoutcontent"
+    }
+  ],
+  "namespace": "mars2030",
+  "status": "ACTIVE",
+  "creationDate": "2018-02-08T16:20:37.578Z",
+  "lastModifiedDate": "2018-04-16T14:39:12.303Z",
+  "entitlementName": "35c2b70ea1124934b5daac0f15f3aa18",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,69 @@
+{
+  "id": "8a8bc7e1fd8c426fb84a837ae6211765",
+  "title": "Magenta",
+  "description": "Magenta",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0f0b930a0f3d4fe7aece94faa58b5318",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-13T01:23:22.071Z",
+  "lastModifiedDate": "2020-02-13T01:28:44.381Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "0f0b930a0f3d4fe7aece94faa58b5318"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Magenta"
+    }
+  },
+  "entitlementName": "8a8bc7e1fd8c426fb84a837ae6211765",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c54e1e3d09984efeaf4f6f4726490672",
+      "appId": "Magenta",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Test Organization",
+  "developerId": "o-jwuggxrvjq99seqnvcrzckgm6e8jtr",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

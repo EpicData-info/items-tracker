@@ -1,0 +1,35 @@
+{
+  "id": "76445bfafc9d4211a868a048afc9500d",
+  "title": "DLC6Audience",
+  "description": "DLC6Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ace4435645d9489cacfbb422b7c1c817",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-21T01:11:56.838Z",
+  "lastModifiedDate": "2020-06-11T14:19:06.461Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "76445bfafc9d4211a868a048afc9500d",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "SNK CORPORATION",
+  "developerId": "o-bse2s8gp28ptrv924lby79vx66vsz6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

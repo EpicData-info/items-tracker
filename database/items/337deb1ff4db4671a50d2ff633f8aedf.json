@@ -1,0 +1,25 @@
+{
+  "id": "337deb1ff4db4671a50d2ff633f8aedf",
+  "title": "Fortnite External Dev - Hardsuit Labs",
+  "description": "Fortnite External Dev - Hardsuit Labs",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-26T18:23:33.531Z",
+  "lastModifiedDate": "2019-11-26T18:23:33.531Z",
+  "entitlementName": "337deb1ff4db4671a50d2ff633f8aedf",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

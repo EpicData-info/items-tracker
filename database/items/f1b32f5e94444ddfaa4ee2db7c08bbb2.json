@@ -1,0 +1,46 @@
+{
+  "id": "f1b32f5e94444ddfaa4ee2db7c08bbb2",
+  "title": "GhostReconWildlandsGoldAudience",
+  "description": "GhostReconWildlandsGoldAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/hyacinth/item/ESRB_GhostReconWildlands-842x485-aae7a78b2e9a28d13c534d070c7bc80f.jpg",
+      "md5": "aae7a78b2e9a28d13c534d070c7bc80f",
+      "width": 842,
+      "height": 485,
+      "size": 85813,
+      "uploadedDate": "2019-04-23T19:56:50.431Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "hyacinth",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-16T21:15:52.476Z",
+  "lastModifiedDate": "2020-01-28T15:59:03.817Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f1b32f5e94444ddfaa4ee2db7c08bbb2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

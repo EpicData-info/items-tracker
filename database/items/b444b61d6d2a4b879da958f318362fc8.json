@@ -1,0 +1,46 @@
+{
+  "id": "b444b61d6d2a4b879da958f318362fc8",
+  "title": "terragonGeneralAudience",
+  "description": "terragonGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/d0230ef21b1f4ef29aec0d49946912fc/item/ESRB_Torchlight-842x404-01acb096b86843054a6b586f258f49e3.png",
+      "md5": "01acb096b86843054a6b586f258f49e3",
+      "width": 842,
+      "height": 404,
+      "size": 11757,
+      "uploadedDate": "2019-06-24T18:12:16.830Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "d0230ef21b1f4ef29aec0d49946912fc",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-08T15:55:29.357Z",
+  "lastModifiedDate": "2019-07-11T15:01:45.781Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b444b61d6d2a4b879da958f318362fc8",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Perfect World",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "selfRefundable": true,
+  "unsearchable": false
+}

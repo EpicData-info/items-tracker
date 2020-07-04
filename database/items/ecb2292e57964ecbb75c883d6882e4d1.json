@@ -1,0 +1,51 @@
+{
+  "id": "ecb2292e57964ecbb75c883d6882e4d1",
+  "title": "Pack X",
+  "description": "Pack X",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "493e9ad801e8487497fe7840cb8404bb",
+  "status": "ACTIVE",
+  "creationDate": "2019-11-20T22:06:01.183Z",
+  "lastModifiedDate": "2020-01-27T16:18:58.302Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PackX"
+    }
+  },
+  "entitlementName": "ecb2292e57964ecbb75c883d6882e4d1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "72e8725861364046998079dccb0c4bdd",
+      "appId": "StellulaDLC6",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-03T00:00:00.000Z"
+    }
+  ],
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

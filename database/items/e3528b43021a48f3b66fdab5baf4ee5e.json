@@ -1,0 +1,46 @@
+{
+  "id": "e3528b43021a48f3b66fdab5baf4ee5e",
+  "title": "GarGeneralAudience",
+  "description": "GarGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/item/Diesel_product_ratings_RiME_ESRB_E10_FantasyViolence-842x404-b69ee903026c7a87f4179c74360a65aa.jpg",
+      "md5": "b69ee903026c7a87f4179c74360a65aa",
+      "width": 842,
+      "height": 404,
+      "size": 21122,
+      "uploadedDate": "2020-06-25T15:06:35.519Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "f3720f53cccb4a20841a392a8ea0457f",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-16T12:19:22.769Z",
+  "lastModifiedDate": "2020-06-25T15:06:39.592Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e3528b43021a48f3b66fdab5baf4ee5e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Daedalic Entertainment",
+  "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "ageGatings": {},
+  "unsearchable": false
+}

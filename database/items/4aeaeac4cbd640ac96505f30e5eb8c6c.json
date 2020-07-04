@@ -1,0 +1,39 @@
+{
+  "id": "4aeaeac4cbd640ac96505f30e5eb8c6c",
+  "title": "PrePurchaseDLC001 Audience",
+  "description": "PrePurchaseDLC001 Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/calluna/item/Control_Esrb-340x163-450592beba2d7746e4f1a364e976f82a.png",
+      "md5": "450592beba2d7746e4f1a364e976f82a",
+      "width": 340,
+      "height": 163,
+      "size": 34084,
+      "uploadedDate": "2019-04-23T19:55:53.706Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "calluna",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-03T17:16:11.247Z",
+  "lastModifiedDate": "2020-02-25T16:06:50.249Z",
+  "entitlementName": "4aeaeac4cbd640ac96505f30e5eb8c6c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

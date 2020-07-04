@@ -1,0 +1,70 @@
+{
+  "id": "298f3d5d723745d98b26f72c69d2530d",
+  "title": "Blue Chip Ventures",
+  "description": "Blue Chip Ventures",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyBlueChipVentures_MohawkGames_DLC_IC1_A-320x180-e40fec507eb5f1807bf41cec2248df16.jpg",
+      "md5": "e40fec507eb5f1807bf41cec2248df16",
+      "width": 320,
+      "height": 180,
+      "size": 75894,
+      "uploadedDate": "2020-03-05T15:48:38.886Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/Offworld_Portrait-510x680-7a9909ce27ac1d94813f6f49f6632871.jpg",
+      "md5": "7a9909ce27ac1d94813f6f49f6632871",
+      "width": 510,
+      "height": 680,
+      "size": 60952,
+      "uploadedDate": "2020-03-05T15:56:55.129Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-17T21:43:36.493Z",
+  "lastModifiedDate": "2020-03-05T15:58:54.093Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BlueChipVentures"
+    }
+  },
+  "entitlementName": "298f3d5d723745d98b26f72c69d2530d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6954d06232834ddbadccc639251c223c",
+      "appId": "SnapperBlue",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-02-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

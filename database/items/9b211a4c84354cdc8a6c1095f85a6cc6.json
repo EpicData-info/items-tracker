@@ -1,0 +1,33 @@
+{
+  "id": "9b211a4c84354cdc8a6c1095f85a6cc6",
+  "title": "FinchGeneralAudience",
+  "description": "FinchGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-17T00:08:56.600Z",
+  "lastModifiedDate": "2020-07-02T14:36:09.206Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9b211a4c84354cdc8a6c1095f85a6cc6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

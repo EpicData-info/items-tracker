@@ -1,0 +1,95 @@
+{
+  "id": "619e04f4d42c4b65b37d17ea3310f218",
+  "title": "The Bridge",
+  "description": "The Bridge",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/d5ee752640ef4cee8b7f5364410ba41f/item/EGS_TheQuantumAstrophysicistsGuild_TheBridge_S4-510x680-ecf7b5dcc81bb88452f4fc38d1fe1f08.jpg",
+      "md5": "ecf7b5dcc81bb88452f4fc38d1fe1f08",
+      "width": 510,
+      "height": 680,
+      "size": 215071,
+      "uploadedDate": "2020-01-15T17:25:48.106Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/d5ee752640ef4cee8b7f5364410ba41f/item/EGS_TheQuantumAstrophysicistsGuild_TheBridge_S7-1360x766-d79fb5f60a7776b5e0d2ce588667c4b0.jpg",
+      "md5": "d79fb5f60a7776b5e0d2ce588667c4b0",
+      "width": 1360,
+      "height": 766,
+      "size": 500647,
+      "uploadedDate": "2020-01-15T17:30:22.008Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d5ee752640ef4cee8b7f5364410ba41f",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-23T17:53:15.528Z",
+  "lastModifiedDate": "2020-01-23T03:56:38.503Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "d5ee752640ef4cee8b7f5364410ba41f"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/The Quantum Astrophysicists Guild/The Bridge/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TheBridge"
+    }
+  },
+  "entitlementName": "619e04f4d42c4b65b37d17ea3310f218",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "975f18ace6d94e5286420d758127d534",
+      "appId": "Sunbird",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-10-23T00:00:00.000Z"
+    }
+  ],
+  "developer": "The Quantum Astrophysicists Guild",
+  "developerId": "o-e8nkcj362yhcae7jpkvrvxt2tssnls",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

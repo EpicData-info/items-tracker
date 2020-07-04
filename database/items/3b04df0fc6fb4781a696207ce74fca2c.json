@@ -1,0 +1,74 @@
+{
+  "id": "3b04df0fc6fb4781a696207ce74fca2c",
+  "title": "Control Dev Ops",
+  "description": "Control Dev Ops",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/calluna/item/CONTROL_logo_shadow-670x212-676c3d62788f269f00819451130394e3.png",
+      "md5": "676c3d62788f269f00819451130394e3",
+      "width": 670,
+      "height": 212,
+      "size": 28205,
+      "uploadedDate": "2019-03-21T15:34:54.020Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/calluna/item/Control_Store_Primary_Promo_2580x1450-2580x1450-371d5dd82a48a881145528b4781fe757.jpg",
+      "md5": "371d5dd82a48a881145528b4781fe757",
+      "width": 2580,
+      "height": 1450,
+      "size": 223868,
+      "uploadedDate": "2019-02-28T14:00:56.706Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "calluna",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-09T16:35:44.076Z",
+  "lastModifiedDate": "2020-02-25T16:07:41.853Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Remedy/Control/Default-Epic-User/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ControlDevOps"
+    }
+  },
+  "entitlementName": "3b04df0fc6fb4781a696207ce74fca2c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9fccc62200ad4b458a9ce66e3a64ce35",
+      "appId": "CallunaDevOps",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-28T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

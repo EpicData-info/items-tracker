@@ -1,0 +1,95 @@
+{
+  "id": "710387b659a54f70889289b87650f206",
+  "title": "Cardpocalypse Soundtrack",
+  "description": "Cardpocalypse Soundtrack",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/item/Cardpocalypse_Soundtrack_EpicGamesStore_IC1_Logo_Color_ApprovedPublic-1838x551-df9002042e949c583e95ee3b3d723a69.png",
+      "md5": "df9002042e949c583e95ee3b3d723a69",
+      "width": 1838,
+      "height": 551,
+      "size": 653122,
+      "uploadedDate": "2019-09-18T17:12:32.552Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/item/Cardpocalypse_Soundtrack_EpicGamesStore_G1_PDP_ApprovedPublic-1250x621-03d3135651573421054389afa680f238.jpg",
+      "md5": "03d3135651573421054389afa680f238",
+      "width": 1250,
+      "height": 621,
+      "size": 327522,
+      "uploadedDate": "2019-09-18T17:21:00.242Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "digitalextras"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2bfd5ca43ef443739ada168e017e1b78",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-10T20:25:38.600Z",
+  "lastModifiedDate": "2020-05-26T20:43:46.367Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "2bfd5ca43ef443739ada168e017e1b78"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CardpocalypseSound"
+    }
+  },
+  "entitlementName": "710387b659a54f70889289b87650f206",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b7ca1592b1684d46b8bd00b23269b1c0",
+      "appId": "DuckSoundtrack",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-14T00:00:00.000Z"
+    }
+  ],
+  "developer": "Versus Evil",
+  "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,46 @@
+{
+  "id": "f51d4e238dfe4b8cbeee5a83127c4bd2",
+  "title": "ButtercupDevAudience",
+  "description": "ButtercupDevAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/buttercup/item/Diesel_product_ratings_WD2_ESRB-842x404-5593c948d03267e7d07e583ab1886cfc2004242f-842x404-09ee882d5192121844c1881fe624e49e.jpg",
+      "md5": "09ee882d5192121844c1881fe624e49e",
+      "width": 842,
+      "height": 404,
+      "size": 81686,
+      "uploadedDate": "2019-04-23T20:19:32.732Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "buttercup",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-08T23:06:45.519Z",
+  "lastModifiedDate": "2019-05-13T14:05:26.367Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f51d4e238dfe4b8cbeee5a83127c4bd2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Skybound Interactive",
+  "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

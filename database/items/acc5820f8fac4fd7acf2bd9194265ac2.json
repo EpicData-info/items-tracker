@@ -1,0 +1,30 @@
+{
+  "id": "acc5820f8fac4fd7acf2bd9194265ac2",
+  "title": "SOP_DLCAudience_redeemable",
+  "description": "SOP_DLCAudience_redeemable",
+  "technicalDetails": "Granted if you must call Partner Integration to redeem season pass separately from the game. Not necessary if the edition you buy already includes it",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "oregano",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-03T19:53:02.299Z",
+  "lastModifiedDate": "2020-05-27T21:47:43.336Z",
+  "entitlementName": "acc5820f8fac4fd7acf2bd9194265ac2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

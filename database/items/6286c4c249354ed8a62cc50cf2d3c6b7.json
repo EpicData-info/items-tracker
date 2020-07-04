@@ -1,0 +1,99 @@
+{
+  "id": "6286c4c249354ed8a62cc50cf2d3c6b7",
+  "title": "Phantom Brigade",
+  "description": "Phantom Brigade",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/item/PhantomBr_Post_Image_Primary-1920x1080-a2c55c635c193d4682d5c03066514e5f.jpg",
+      "md5": "a2c55c635c193d4682d5c03066514e5f",
+      "width": 1920,
+      "height": 1080,
+      "size": 243759,
+      "uploadedDate": "2019-06-25T15:35:46.358Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/item/PhantomBr_Logo-1978x780-45a7ac93cd0a0455f68008a62d65009c.png",
+      "md5": "45a7ac93cd0a0455f68008a62d65009c",
+      "width": 1978,
+      "height": 780,
+      "size": 281971,
+      "uploadedDate": "2019-06-25T15:35:56.235Z"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/item/StorePage_Portrait_Promo_Faded-1280x1420-7a8ae1c66f3d39ce3be134af6617c71c-1280x1420-7a8ae1c66f3d39ce3be134af6617c71c.jpg",
+      "md5": "7a8ae1c66f3d39ce3be134af6617c71c",
+      "width": 1280,
+      "height": 1420,
+      "size": 322023,
+      "uploadedDate": "2019-11-20T16:27:28.304Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "935fa66c485e4c988eb939f86dc458b5",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-08T15:15:16.736Z",
+  "lastModifiedDate": "2019-11-20T16:27:32.457Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "935fa66c485e4c988eb939f86dc458b5"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PhantomBrigade"
+    }
+  },
+  "entitlementName": "6286c4c249354ed8a62cc50cf2d3c6b7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8d0a04a5ab2e42a081ea4897abf92c6f",
+      "appId": "Chili",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-25T00:00:00.000Z"
+    }
+  ],
+  "developer": "Brace Yourself Games",
+  "developerId": "o-5y95w2k7uu469v8lr4dyzeff447wfm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

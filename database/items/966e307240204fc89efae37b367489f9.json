@@ -1,0 +1,40 @@
+{
+  "id": "966e307240204fc89efae37b367489f9",
+  "title": "AngeloniaSeasonPass_marker",
+  "description": "AngeloniaSeasonPass_marker",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/angelonia/item/ESRB_Watchdogs2-842x404-09ee882d5192121844c1881fe624e49e.jpg",
+      "md5": "09ee882d5192121844c1881fe624e49e",
+      "width": 842,
+      "height": 404,
+      "size": 81686,
+      "uploadedDate": "2019-04-23T20:08:18.782Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "angelonia",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-27T20:59:59.140Z",
+  "lastModifiedDate": "2020-01-28T15:56:32.956Z",
+  "entitlementName": "966e307240204fc89efae37b367489f9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "unsearchable": false
+}

@@ -1,0 +1,38 @@
+{
+  "id": "e7d6212191c44bc5a9f83934dafa846b",
+  "title": "Create Item For PriceEngine",
+  "description": "item description",
+  "longDescription": "long item description",
+  "technicalDetails": "technical informatioin",
+  "keyImages": [
+    {
+      "type": "image name",
+      "url": "url",
+      "md5": "ed076287532e86365e841e92bfc50d8c",
+      "width": 100,
+      "height": 120,
+      "size": 12000,
+      "uploadedDate": "2017-05-16T07:11:41.545Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2017-05-16T07:11:26.912Z",
+  "lastModifiedDate": "2020-03-09T12:26:10.139Z",
+  "entitlementName": "Consumable_Entitlement",
+  "entitlementType": "TEST",
+  "entitlementEndDate": "2099-12-30T00:00:00.000Z",
+  "entitlementStartDate": "2009-12-31T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "useCount": 2,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,39 @@
+{
+  "id": "a1d7bdb08c3c4e208e9d3c7712e14f96",
+  "title": "Contributors",
+  "description": "Contributors",
+  "technicalDetails": "http://epic.gm/launchercontribs",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/item/UTContributors01-600x200-b489324d345b10509c7c3e9fae7b1c66.png",
+      "md5": "b489324d345b10509c7c3e9fae7b1c66",
+      "width": 600,
+      "height": 200,
+      "size": 228889,
+      "uploadedDate": "2014-11-13T21:39:12.072Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ut",
+  "status": "ACTIVE",
+  "creationDate": "2014-11-07T19:33:45.827Z",
+  "lastModifiedDate": "2015-08-11T19:30:39.420Z",
+  "entitlementName": "UnrealTournament",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "unsearchable": false
+}

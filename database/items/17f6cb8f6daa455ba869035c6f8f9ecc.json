@@ -1,0 +1,57 @@
+{
+  "id": "17f6cb8f6daa455ba869035c6f8f9ecc",
+  "title": "The Last Maharaja - DLC",
+  "description": "The Last Maharaja - DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c9be94273fe244c08032ca493ad87434",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-04T18:28:35.428Z",
+  "lastModifiedDate": "2020-02-20T15:15:38.515Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "e9f9422804f54ef59dcec8e01aba8786"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "f38ecd5b570046f7a1b34bdf60af86b5"
+    }
+  },
+  "entitlementName": "17f6cb8f6daa455ba869035c6f8f9ecc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "37871d6a0fc04ba9a4aa7dc6551b7839",
+      "appId": "AlbacoreTLM",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

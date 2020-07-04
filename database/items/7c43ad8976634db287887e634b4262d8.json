@@ -1,0 +1,23 @@
+{
+  "id": "7c43ad8976634db287887e634b4262d8",
+  "title": "Influencer Banner - DrHorse",
+  "description": "Influencer Banner - DrHorse",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-07-14T15:44:37.746Z",
+  "lastModifiedDate": "2017-07-14T15:51:16.918Z",
+  "entitlementName": "INFLUENCERBANNER_DrHorse",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

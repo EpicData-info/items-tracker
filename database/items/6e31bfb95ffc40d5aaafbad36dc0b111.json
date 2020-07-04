@@ -1,0 +1,51 @@
+{
+  "id": "6e31bfb95ffc40d5aaafbad36dc0b111",
+  "title": "NutmegStaging",
+  "description": "NutmegStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "nutmeg",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-01T19:09:55.875Z",
+  "lastModifiedDate": "2019-12-10T18:14:36.998Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NutmegStaging"
+    }
+  },
+  "entitlementName": "6e31bfb95ffc40d5aaafbad36dc0b111",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "21be7013005b423a8a4187f6ca907373",
+      "appId": "NutmegStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-01T19:09:03.011Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Digital Continue",
+  "developerId": "o-qb7ry6eblsrnt28hxlcuw8w5j5t7y3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

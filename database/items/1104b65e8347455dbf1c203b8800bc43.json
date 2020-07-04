@@ -1,0 +1,26 @@
+{
+  "id": "1104b65e8347455dbf1c203b8800bc43",
+  "title": "Final Reckoning Pack",
+  "description": "Final Reckoning Pack",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-01T23:43:18.339Z",
+  "lastModifiedDate": "2019-10-24T14:20:44.792Z",
+  "entitlementName": "Final_Reckoning",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2019-10-01T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,78 @@
+{
+  "id": "a6a004b3dfa14b9386a052586cc16025",
+  "title": "SageStaging",
+  "description": "SageStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/item/PDP Promo-2560x1440-71b09e2be137632b45871b92f6e13ed9.jpg",
+      "md5": "71b09e2be137632b45871b92f6e13ed9",
+      "width": 2560,
+      "height": 1440,
+      "size": 142326,
+      "uploadedDate": "2019-06-25T18:20:10.864Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/item/Overcooked_Logo-2650x602-fca007cbbe1be0a8d54b8ca2a0edc510.png",
+      "md5": "fca007cbbe1be0a8d54b8ca2a0edc510",
+      "width": 2650,
+      "height": 602,
+      "size": 247313,
+      "uploadedDate": "2019-08-02T18:14:09.194Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4561b40e52584ac2bcf34bbd5c401480",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-14T04:01:59.406Z",
+  "lastModifiedDate": "2019-10-09T15:25:00.770Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../locallow/Ghost Town Games/Overcooked/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SageStaging"
+    }
+  },
+  "entitlementName": "a6a004b3dfa14b9386a052586cc16025",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ca63c100e60e4028b4df012e7216644e",
+      "appId": "SageStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-25T00:00:00.000Z"
+    }
+  ],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

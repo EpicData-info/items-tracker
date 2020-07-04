@@ -1,0 +1,51 @@
+{
+  "id": "b7492e14cce842788fe511819baae57e",
+  "title": "Carp-DevCanary",
+  "description": "Carp-DevCanary",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-30T12:25:56.305Z",
+  "lastModifiedDate": "2020-06-11T20:49:32.466Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CarpDevCanary"
+    }
+  },
+  "entitlementName": "b7492e14cce842788fe511819baae57e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b5b885e2805047d5a83e7e8e3aa9b1ea",
+      "appId": "7d47c75cce8f43fd8c578372e0c39f80",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-03-30T00:00:00.000Z"
+    }
+  ],
+  "developer": "Gearbox Publishing",
+  "developerId": "o-dcmk65hvycy3kndmqvfg3yn3up87jn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

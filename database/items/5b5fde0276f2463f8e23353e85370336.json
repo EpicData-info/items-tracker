@@ -1,0 +1,46 @@
+{
+  "id": "5b5fde0276f2463f8e23353e85370336",
+  "title": "HawkStaging",
+  "description": "HawkStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0a84818055e740a7be21a2e5b6162703",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-03T15:04:21.463Z",
+  "lastModifiedDate": "2019-06-14T21:04:26.354Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HawkStaging"
+    }
+  },
+  "entitlementName": "5b5fde0276f2463f8e23353e85370336",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ddae0bf40c2e4bd893320b45f42086d6",
+      "appId": "HawkStaging"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

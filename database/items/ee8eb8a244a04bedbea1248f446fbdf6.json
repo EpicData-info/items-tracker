@@ -1,0 +1,33 @@
+{
+  "id": "ee8eb8a244a04bedbea1248f446fbdf6",
+  "title": "AnchovyDevAudience",
+  "description": "AnchovyDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "fc8d1547232045f6a23257cfd04ef3e8",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-23T17:43:37.408Z",
+  "lastModifiedDate": "2019-11-21T15:45:11.939Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ee8eb8a244a04bedbea1248f446fbdf6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "3b45989373824640ac5c0814111f595b",
+  "title": "TautogStaging",
+  "description": "TautogStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "cf87285950ba492bbdc370b9d265ea36",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-24T17:49:46.887Z",
+  "lastModifiedDate": "2020-01-30T22:46:54.122Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "ffc5dec201334922a399921ef478addb"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TautogStaging"
+    }
+  },
+  "entitlementName": "3b45989373824640ac5c0814111f595b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "eb9348c69a1a4996a59bf33ee7d70385",
+      "appId": "TautogStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

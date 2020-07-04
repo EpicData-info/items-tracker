@@ -1,0 +1,24 @@
+{
+  "id": "d850869ee9474fcb8594414cf94c1685",
+  "title": "WEX External QA - KWS",
+  "description": "WEX External QA - KWS",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "accesscontrol"
+    }
+  ],
+  "namespace": "wex",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-30T23:08:57.449Z",
+  "lastModifiedDate": "2019-09-30T23:08:57.449Z",
+  "entitlementName": "d850869ee9474fcb8594414cf94c1685",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

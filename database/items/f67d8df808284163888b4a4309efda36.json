@@ -1,0 +1,70 @@
+{
+  "id": "f67d8df808284163888b4a4309efda36",
+  "title": "ArgyleStaging",
+  "description": "ArgyleStaging",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/argyle/item/Store_Primary_Promo-2580x1450-7a6ad58621031b4b6e3ee2f82e47684b.jpg",
+      "md5": "7a6ad58621031b4b6e3ee2f82e47684b",
+      "width": 2580,
+      "height": 1450,
+      "size": 287462,
+      "uploadedDate": "2019-09-11T15:10:13.498Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/argyle/item/trials-rising_home_TRR-1000x375-943595a848bbfab92d2b83c5511beefc.png",
+      "md5": "943595a848bbfab92d2b83c5511beefc",
+      "width": 1000,
+      "height": 375,
+      "size": 53317,
+      "uploadedDate": "2019-09-11T15:10:23.323Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "argyle",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-02T21:37:56.810Z",
+  "lastModifiedDate": "2019-09-13T14:57:52.811Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ArgyleStaging"
+    }
+  },
+  "entitlementName": "f67d8df808284163888b4a4309efda36",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "22bb1b26379a466288416858881e0fda",
+      "appId": "ArgyleStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-04-02T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": "0a15df6b4ce445d38133d478605a7834",
+  "title": "SaffronSurPackAudience_marker",
+  "description": "SaffronSurPackAudience_marker",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "status": "ACTIVE",
+  "creationDate": "2019-05-08T07:23:10.429Z",
+  "lastModifiedDate": "2019-06-14T12:25:05.940Z",
+  "entitlementName": "0a15df6b4ce445d38133d478605a7834",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

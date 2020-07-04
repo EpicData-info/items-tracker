@@ -1,0 +1,36 @@
+{
+  "id": "1e7dfe3e4859410da0f7a3a7a9e59e47",
+  "title": "RUNE II - Berserker Rage Audience",
+  "description": "RUNE II - Berserker Rage Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "cosmos",
+  "status": "ACTIVE",
+  "creationDate": "2019-07-15T13:40:17.499Z",
+  "lastModifiedDate": "2020-01-08T14:35:03.303Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1e7dfe3e4859410da0f7a3a7a9e59e47",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ragnarok Game, LLC",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": false,
+  "unsearchable": false
+}

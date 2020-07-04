@@ -1,0 +1,30 @@
+{
+  "id": "bf038e075b82466f944fc379fc7b745f",
+  "title": "HawkUltimatePackAudience_redeemable",
+  "description": "HawkUltimatePackAudience_redeemable",
+  "technicalDetails": "Granted if you must call Partner Integration to redeem season pass separately from the game. Not necessary if the edition you buy already includes it",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "0a84818055e740a7be21a2e5b6162703",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-05T20:22:46.981Z",
+  "lastModifiedDate": "2019-06-14T21:04:26.354Z",
+  "entitlementName": "bf038e075b82466f944fc379fc7b745f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

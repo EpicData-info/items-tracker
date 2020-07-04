@@ -1,0 +1,59 @@
+{
+  "id": "26d7b3a816f34b4f8d443e0c97b4932d",
+  "title": "SalmonStaging",
+  "description": "SalmonStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "61449320f87347a8bf02159cbf8adb7f",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-17T05:19:15.347Z",
+  "lastModifiedDate": "2020-07-02T22:17:26.701Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../locallow/Balancing Monkey Games/Before We Leave/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "cloudsave.dat"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SalmonStaging"
+    }
+  },
+  "entitlementName": "26d7b3a816f34b4f8d443e0c97b4932d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a518f2d9fa034a0baf01e7e62d61fce2",
+      "appId": "SalmonStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "Balancing Monkey Games",
+  "developerId": "o-4tx8h9e6ugw2546feb637euqzbmkpa",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

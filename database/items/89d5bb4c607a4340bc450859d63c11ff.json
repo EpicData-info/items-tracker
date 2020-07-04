@@ -1,0 +1,60 @@
+{
+  "id": "89d5bb4c607a4340bc450859d63c11ff",
+  "title": "ChisinauStaging",
+  "description": "ChisinauStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "db9ef498b3fa4b26afb501ea352e3c46",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-11T01:35:55.661Z",
+  "lastModifiedDate": "2020-06-25T14:58:47.393Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "20c42dfd36de4f8297233241768f4358"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ChisinauStaging"
+    }
+  },
+  "entitlementName": "89d5bb4c607a4340bc450859d63c11ff",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "59040225b12d4f7ea432885486b1e428",
+      "appId": "347cf9bbcd1c44fea6ec805be83d95b5",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

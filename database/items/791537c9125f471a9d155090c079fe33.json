@@ -1,0 +1,51 @@
+{
+  "id": "791537c9125f471a9d155090c079fe33",
+  "title": "CockatooStaging",
+  "description": "CockatooStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c77e320376c14aa68121bffb108721c7",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-05T16:48:31.202Z",
+  "lastModifiedDate": "2019-10-10T12:59:45.918Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CockatooStaging"
+    }
+  },
+  "entitlementName": "791537c9125f471a9d155090c079fe33",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5e288e25276745bfa383a40704d7cfb4",
+      "appId": "CuckatooStaging",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-05T00:00:00.000Z"
+    }
+  ],
+  "developer": "Curve Digital",
+  "developerId": "o-ws89bsbfb8trgdl3zmerugg4rsuvvt",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

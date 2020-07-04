@@ -1,0 +1,36 @@
+{
+  "id": "7099c7af867d4f379a0e108c6ca2d74f",
+  "title": "Currency Pack 5",
+  "description": "Currency Pack 5",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "azalea",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-13T20:27:19.616Z",
+  "lastModifiedDate": "2020-01-13T20:27:38.295Z",
+  "customAttributes": {
+    "SupportedPlatform": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7099c7af867d4f379a0e108c6ca2d74f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

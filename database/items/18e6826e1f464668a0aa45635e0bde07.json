@@ -1,0 +1,128 @@
+{
+  "id": "18e6826e1f464668a0aa45635e0bde07",
+  "title": "Tom Clancy’s Rainbow Six Siege",
+  "description": "Tom Clancy’s Rainbow Six Siege",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/carnation/item/PrimaryPromo-2580x1450-98dab23be171fab753c54e811fecf075.jpg",
+      "md5": "98dab23be171fab753c54e811fecf075",
+      "width": 2580,
+      "height": 1450,
+      "size": 283768,
+      "uploadedDate": "2019-08-19T19:44:49.993Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/carnation/item/R6S_Logo_Color_1000x375-1000x375-8e2b21c06400f36fae8d6a6695cd7155.png",
+      "md5": "8e2b21c06400f36fae8d6a6695cd7155",
+      "width": 1000,
+      "height": 375,
+      "size": 24730,
+      "uploadedDate": "2019-08-19T19:44:59.592Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/carnation/item/Store_Portrait_Promo_1280x1420-1280x1420-7ae4d9785fcb96b0ef214654210a0e3e.jpg",
+      "md5": "7ae4d9785fcb96b0ef214654210a0e3e",
+      "width": 1280,
+      "height": 1420,
+      "size": 190772,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "carnation",
+  "status": "ACTIVE",
+  "creationDate": "2019-02-11T18:08:53.061Z",
+  "lastModifiedDate": "2020-02-18T21:26:48.900Z",
+  "customAttributes": {
+    "NeverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "2e92d360488445048933157725e02c5e"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch Rainbow Six Siege – Vulkan"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RainbowSixSiege"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "carnation"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-ExeId 1"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Ubisoft"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "18e6826e1f464668a0aa45635e0bde07",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "99b27afda0434e6dbb1c685081b780df",
+      "appId": "Carnation",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-11T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": "a8f33e397cd14165bc0d749e379fa4db",
+  "title": "BH_DLCAudience_redeemable",
+  "description": "BH_DLCAudience_redeemable",
+  "technicalDetails": "Granted if you must call Partner Integration to redeem season pass separately from the game. Not necessary if the edition you buy already includes it",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "oregano",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-07T05:15:23.082Z",
+  "lastModifiedDate": "2020-06-02T14:42:11.917Z",
+  "entitlementName": "a8f33e397cd14165bc0d749e379fa4db",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

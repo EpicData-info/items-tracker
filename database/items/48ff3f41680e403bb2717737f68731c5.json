@@ -1,0 +1,25 @@
+{
+  "id": "48ff3f41680e403bb2717737f68731c5",
+  "title": "Free audience access item",
+  "description": "Free audience access item",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-05-13T00:13:52.788Z",
+  "lastModifiedDate": "2020-06-17T07:17:15.532Z",
+  "entitlementName": "Fortnite_Free",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "fn"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

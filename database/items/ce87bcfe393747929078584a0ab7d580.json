@@ -1,0 +1,47 @@
+{
+  "id": "ce87bcfe393747929078584a0ab7d580",
+  "title": "TestingTest12",
+  "description": "Testing the entitlement type- edit executable to entitlement",
+  "longDescription": "Testing entitlement type with item type as subscription and entitlement type as executable",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/SeaQA/item/Chrysanthemum-1024x768-076e3caed758a1c18c91a0e9cae3368f.jpg",
+      "md5": "076e3caed758a1c18c91a0e9cae3368f",
+      "width": 1024,
+      "height": 768,
+      "size": 879394,
+      "uploadedDate": "2014-10-27T17:45:52.704Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "engines"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-27T17:46:47.255Z",
+  "lastModifiedDate": "2014-10-27T17:47:25.414Z",
+  "entitlementName": "8a36143e0f374e03bb5d140a20ca5985",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementEndDate": "2014-10-28T00:00:00.000Z",
+  "entitlementStartDate": "2014-10-27T00:00:00.000Z",
+  "itemType": "SUBSCRIPTION",
+  "releaseInfo": [
+    {
+      "id": "be693b4b71a74efcb46c5e0ab8057afc",
+      "appId": "TestTestApp11",
+      "compatibleApps": [
+        "UE_4.1"
+      ],
+      "platform": [
+        "Mac"
+      ],
+      "dateAdded": "2014-10-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "SeaTest1",
+  "endOfSupport": false,
+  "unsearchable": false
+}

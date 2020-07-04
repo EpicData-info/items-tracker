@@ -1,0 +1,33 @@
+{
+  "id": "da9d3bb94fef425094be9f7580ab66a4",
+  "title": "ParsleyDevAudience",
+  "description": "ParsleyDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "313f3719063340f886d90e70ae503cd4",
+  "status": "ACTIVE",
+  "creationDate": "2019-04-26T14:14:49.936Z",
+  "lastModifiedDate": "2019-06-19T11:09:50.890Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "da9d3bb94fef425094be9f7580ab66a4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

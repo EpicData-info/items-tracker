@@ -1,0 +1,41 @@
+{
+  "id": "efc22ab8ff74465dac2f1b3c32d93ee3",
+  "title": "Call_To_Action_01",
+  "description": "V7.10 PATCH NOTES\n<inverted-tiny-body>Read More</>",
+  "longDescription": "",
+  "technicalDetails": "https://www.epicgames.com/fortnite/en-US/patch-notes/v7-10-content-update-1",
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/fn/item/BR07_LegacyLauncher_Tile_BPStar-448x260-9c76388c7d628218a895cf8a0b75bebf.png",
+      "md5": "9c76388c7d628218a895cf8a0b75bebf",
+      "width": 448,
+      "height": 260,
+      "size": 112175,
+      "uploadedDate": "2018-12-06T10:02:11.743Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "applications/prod"
+    },
+    {
+      "path": "applications/prod/content"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2017-04-04T19:36:21.899Z",
+  "lastModifiedDate": "2019-01-08T12:56:10.619Z",
+  "entitlementName": "efc22ab8ff74465dac2f1b3c32d93ee3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

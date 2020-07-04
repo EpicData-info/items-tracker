@@ -1,0 +1,101 @@
+{
+  "id": "681ace6da11e441e9aa2aaf92faf7b0a",
+  "title": "Atomicrops",
+  "description": "Atomicrops",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/item/Atomicrops_EpicGames_Product_Landscape_Image_1OutNow-2560x1440-4168fc745552b75e41089561018aebf9.png",
+      "md5": "4168fc745552b75e41089561018aebf9",
+      "width": 2560,
+      "height": 1440,
+      "size": 6393880,
+      "uploadedDate": "2020-05-27T14:37:07.832Z"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/item/Atomicrops_EpicGames_Offer_Portrait_Image_1OutNow-1200x1600-eb467da6bfe2f4921a829fb846dc1b4e.png",
+      "md5": "eb467da6bfe2f4921a829fb846dc1b4e",
+      "width": 1200,
+      "height": 1600,
+      "size": 3660253,
+      "uploadedDate": "2020-05-27T14:37:19.746Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/item/Atomicrops_EpicGames_Offer_Portrait_Image_1OutNow-1200x1600-eb467da6bfe2f4921a829fb846dc1b4e-1200x1600-eb467da6bfe2f4921a829fb846dc1b4e.png",
+      "md5": "eb467da6bfe2f4921a829fb846dc1b4e",
+      "width": 1200,
+      "height": 1600,
+      "size": 3660253,
+      "uploadedDate": "2020-05-28T11:54:23.712Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1",
+  "status": "ACTIVE",
+  "creationDate": "2019-06-06T19:39:05.354Z",
+  "lastModifiedDate": "2020-05-28T11:54:28.544Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ff1cd8b38bda4f6281879c9bdb228ff1"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Atomicrops"
+    }
+  },
+  "entitlementName": "681ace6da11e441e9aa2aaf92faf7b0a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "884ebae455024c75bf117a3828299bfa",
+      "appId": "Swan",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-06-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,46 @@
+{
+  "id": "dfd4cf23e21f46b080b5345bf07df306",
+  "title": "Gaspra Trilogy Audience",
+  "description": "Gaspra Trilogy Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/fb06f4b5bc25417cbe7c6217cf069649/item/ESRB_2013_RP_to_Mature-1085x722-0cad007967bccb7bdd3d63f013af76a5-1085x722-0cad007967bccb7bdd3d63f013af76a5.png",
+      "md5": "0cad007967bccb7bdd3d63f013af76a5",
+      "width": 1085,
+      "height": 722,
+      "size": 189762,
+      "uploadedDate": "2020-05-20T19:22:40.176Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "fb06f4b5bc25417cbe7c6217cf069649",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-12T19:43:57.461Z",
+  "lastModifiedDate": "2020-05-20T20:27:22.396Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "dfd4cf23e21f46b080b5345bf07df306",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "unsearchable": false
+}

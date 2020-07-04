@@ -1,0 +1,91 @@
+{
+  "id": "9e4501daaf5f4dc48dd70a8304a32d93",
+  "title": "Predator Hunting Grounds  Pre-Purchase",
+  "description": "Predator Hunting Grounds  Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/CRE1089_Predator_PSStore_STD_Banner_Art_1920x1080_001_TH-1920x1080-d2921f9b50dad7960d2b9fad22ae8d84.png",
+      "md5": "d2921f9b50dad7960d2b9fad22ae8d84",
+      "width": 1920,
+      "height": 1080,
+      "size": 2488692,
+      "uploadedDate": "2019-12-10T15:34:56.922Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/item/Predator_Portrait-1280x1440-21060c43debce23ca17d694f67298b03.jpg",
+      "md5": "21060c43debce23ca17d694f67298b03",
+      "width": 1280,
+      "height": 1440,
+      "size": 483818,
+      "uploadedDate": "2019-12-10T15:35:09.887Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-04T22:49:48.919Z",
+  "lastModifiedDate": "2020-04-24T03:59:16.429Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "5a82d5954a1943d79dc6b49cde2fe972"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PredatorHuntingGroundsPre"
+    }
+  },
+  "entitlementName": "9e4501daaf5f4dc48dd70a8304a32d93",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a79d1cf1bf5a436790db2503ea4bccf0",
+      "appId": "BoxfishDummy",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-12-04T00:00:00.000Z"
+    }
+  ],
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
