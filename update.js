@@ -63,6 +63,7 @@ class Main {
     console.log('Indexing...');
     const namespaces = {};
     const titles = {};
+    const list = [];
     
     const itemsPath = `${this.databasePath}/items`;
     Fs.readdirSync(itemsPath).forEach((fileName) => {
@@ -77,6 +78,14 @@ class Main {
           }
         }
         titles[item.id] = item.title;
+        list.push([
+          item.id,
+          item.namespace,
+          item.title,
+          Array.isArray(item.categories) && item.categories.map(c => c.path) || [],
+          item.developer || '',
+          item.creationDate && Math.floor((new Date(item.creationDate)).getTime() / 1000) || 0,
+        ]);
       } catch (error) {
         console.error(error);
       }
@@ -84,6 +93,7 @@ class Main {
     
     Fs.writeFileSync(`${this.databasePath}/namespaces.json`, JSON.stringify(namespaces, null, 2));
     Fs.writeFileSync(`${this.databasePath}/titles.json`, JSON.stringify(titles, null, 2));
+    Fs.writeFileSync(`${this.databasePath}/list.json`, JSON.stringify(list, null, 2));
   }
 
   async sync () {
