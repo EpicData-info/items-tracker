@@ -1,0 +1,34 @@
+{
+  "id": "e36555ead0ce47e3bd7c844ce035b2ca",
+  "title": "DriftfishGeneralAudience",
+  "description": "DriftfishGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ffe512fa1e594ee6a75d4643d1e21b43",
+  "status": "ACTIVE",
+  "creationDate": "2019-12-16T16:58:30.088Z",
+  "lastModifiedDate": "2019-12-25T15:44:03.009Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "e36555ead0ce47e3bd7c844ce035b2ca",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Landfall Games",
+  "developerId": "o-davtxzvpdnjmd82c247y6zdxg7wabq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}
