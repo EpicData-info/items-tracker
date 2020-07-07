@@ -4,22 +4,22 @@
   "description": "ProteaSoundtrack",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/protea/item/IoT-OfferImage_Portrait_860x1148-860x1148-903e5ece6796820a7e5bdd82dfa5505d.jpg",
-      "md5": "903e5ece6796820a7e5bdd82dfa5505d",
-      "width": 860,
-      "height": 1148,
-      "size": 657872,
-      "uploadedDate": "2020-03-23T23:41:36.075Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/protea/item/IoT-OfferImage_Landscape_2560x1440-2560x1440-da0ca42dfb21502d97539cf1a91c8dd2.jpg",
-      "md5": "da0ca42dfb21502d97539cf1a91c8dd2",
+      "url": "https://cdn1.epicgames.com/protea/item/EGS_IndustriesofTitanUnderConstructionOST_BraceYourselfGames_DigitalExtras_S1-2560x1440-efd5fefd87d740c208c645e7065fe084.jpg",
+      "md5": "efd5fefd87d740c208c645e7065fe084",
       "width": 2560,
       "height": 1440,
-      "size": 2044192,
-      "uploadedDate": "2020-03-23T23:41:47.675Z"
+      "size": 979146,
+      "uploadedDate": "2020-07-07T16:35:26.170Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/protea/item/EGS_IndustriesofTitanUnderConstructionOST_BraceYourselfGames_DigitalExtras_S2-1200x1600-eefc4134c485a42bd995beb36c76ec92.jpg",
+      "md5": "eefc4134c485a42bd995beb36c76ec92",
+      "width": 1200,
+      "height": 1600,
+      "size": 703321,
+      "uploadedDate": "2020-07-07T16:35:40.703Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "protea",
   "status": "ACTIVE",
   "creationDate": "2020-04-13T18:25:12.718Z",
-  "lastModifiedDate": "2020-04-13T19:40:19.071Z",
+  "lastModifiedDate": "2020-07-07T17:52:29.695Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -61,7 +61,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "ProteaSoundtrack"
+      "value": "IOTSoundtrack"
     },
     "SupportedPlatforms": {
       "type": "STRING",
@@ -90,5 +90,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

@@ -24,7 +24,7 @@
   "namespace": "protea",
   "status": "ACTIVE",
   "creationDate": "2020-04-13T18:09:46.158Z",
-  "lastModifiedDate": "2020-04-13T18:10:32.816Z",
+  "lastModifiedDate": "2020-07-07T17:52:29.695Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -42,6 +42,5 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
-  "selfRefundable": true,
   "unsearchable": false
 }

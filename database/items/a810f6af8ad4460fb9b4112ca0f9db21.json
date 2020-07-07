@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/protea/item/IoT-Update1_OfferImage_2560x1440-2560x1440-b850a1d7c7d7e9cdfc643a8684a4b596.jpg",
-      "md5": "b850a1d7c7d7e9cdfc643a8684a4b596",
-      "width": 2560,
-      "height": 1440,
-      "size": 997007,
-      "uploadedDate": "2020-06-01T19:07:41.772Z"
+      "url": "https://cdn1.epicgames.com/protea/item/IoT_Update02_Headline image-1920x1080-e4f367029f797378565e1618b36dab4c.jpg",
+      "md5": "e4f367029f797378565e1618b36dab4c",
+      "width": 1920,
+      "height": 1080,
+      "size": 685680,
+      "uploadedDate": "2020-07-07T17:06:46.451Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/protea/item/IoT-Update1_CapsuleImage_1200x1600-1200x1600-6db2512e084b709b77cbd3bc61b6206b.jpg",
-      "md5": "6db2512e084b709b77cbd3bc61b6206b",
+      "url": "https://cdn1.epicgames.com/protea/item/Image - Capsule Image_00000-1200x1600-17216808e68d114e82dd4ddd6be7e1f9.jpg",
+      "md5": "17216808e68d114e82dd4ddd6be7e1f9",
       "width": 1200,
       "height": 1600,
-      "size": 848743,
-      "uploadedDate": "2020-06-01T19:08:03.195Z"
+      "size": 656810,
+      "uploadedDate": "2020-07-07T17:07:04.464Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "protea",
   "status": "ACTIVE",
   "creationDate": "2019-03-18T05:15:08.763Z",
-  "lastModifiedDate": "2020-06-02T18:00:05.317Z",
+  "lastModifiedDate": "2020-07-07T17:52:29.695Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
