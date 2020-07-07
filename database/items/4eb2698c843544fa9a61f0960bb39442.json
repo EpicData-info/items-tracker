@@ -36,11 +36,19 @@
   "namespace": "61449320f87347a8bf02159cbf8adb7f",
   "status": "ACTIVE",
   "creationDate": "2019-12-04T16:50:04.415Z",
-  "lastModifiedDate": "2019-12-16T03:02:41.317Z",
+  "lastModifiedDate": "2020-07-07T19:38:31.341Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../locallow/Balancing Monkey Games/Before We Leave/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "cloudsave.dat"
     },
     "FolderName": {
       "type": "STRING",
@@ -66,5 +74,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }
