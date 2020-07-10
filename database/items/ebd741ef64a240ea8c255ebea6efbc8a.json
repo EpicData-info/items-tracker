@@ -1,0 +1,34 @@
+{
+  "id": "ebd741ef64a240ea8c255ebea6efbc8a",
+  "title": "AlabasterGeneralAudience",
+  "description": "AlabasterGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "8432511ef63b489b843d21ff486a0355",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-12T21:19:14.030Z",
+  "lastModifiedDate": "2020-07-09T14:24:20.559Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "ebd741ef64a240ea8c255ebea6efbc8a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Perfect World",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,46 @@
+{
+  "id": "97089b1d5e324e1eb7f975938c036dba",
+  "title": "ProteusGeneralAudience",
+  "description": "ProteusGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/item/ESRB_SH-842x404-9f26b62f63121aba89ad130f8c2ccc5b.png",
+      "md5": "9f26b62f63121aba89ad130f8c2ccc5b",
+      "width": 842,
+      "height": 404,
+      "size": 40966,
+      "uploadedDate": "2020-06-29T21:25:45.158Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "56e54e682d614c468e3d5afc54ca0adf",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-03T17:19:34.738Z",
+  "lastModifiedDate": "2020-07-09T15:32:26.340Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "97089b1d5e324e1eb7f975938c036dba",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "SUPERHOT Sp. z.o.o",
+  "developerId": "o-yagrrjhn9gf4ul3h4a5vuaxh29v8qd",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
+  "unsearchable": false
+}

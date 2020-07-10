@@ -4,22 +4,22 @@
   "description": "AzaleaStaging",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/azalea/item/The_Cycle_logo_White-615x478-2fe411db4bd7325782a6b92733e52659.png",
-      "md5": "2fe411db4bd7325782a6b92733e52659",
-      "width": 615,
-      "height": 478,
-      "size": 20577,
-      "uploadedDate": "2019-03-19T22:50:17.791Z"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/azalea/item/The_Cycle_Season3_carousel_image-1360x765-0de7ebe269b1b8224dec3e9fd7e6712e.jpg",
+      "md5": "0de7ebe269b1b8224dec3e9fd7e6712e",
+      "width": 1360,
+      "height": 765,
+      "size": 1189493,
+      "uploadedDate": "2020-07-08T12:39:29.122Z"
     },
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/azalea/item/YT_Cover_2560_x_1440-2560x1440-17d8baed51461c5daac9aa3abf7fa108.jpg",
-      "md5": "17d8baed51461c5daac9aa3abf7fa108",
-      "width": 2560,
-      "height": 1440,
-      "size": 433773,
-      "uploadedDate": "2019-06-20T17:56:32.749Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/azalea/item/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg",
+      "md5": "e1961840a3caddad186623059ed2a54c",
+      "width": 2149,
+      "height": 2756,
+      "size": 2458240,
+      "uploadedDate": "2020-07-08T12:39:22.810Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "azalea",
   "status": "ACTIVE",
   "creationDate": "2019-02-22T16:50:21.636Z",
-  "lastModifiedDate": "2019-07-31T19:12:59.819Z",
+  "lastModifiedDate": "2020-07-08T12:41:51.368Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -70,5 +70,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

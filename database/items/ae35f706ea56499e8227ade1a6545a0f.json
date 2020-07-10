@@ -36,7 +36,7 @@
   "namespace": "deab864e1abf4357b303bcd5ff6fe8da",
   "status": "ACTIVE",
   "creationDate": "2020-05-11T17:18:44.718Z",
-  "lastModifiedDate": "2020-05-12T16:09:17.685Z",
+  "lastModifiedDate": "2020-07-09T15:10:41.851Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -48,7 +48,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "TonyHawkProPrePurchase"
+      "value": "TonyHawkPrePurchase"
     }
   },
   "entitlementName": "ae35f706ea56499e8227ade1a6545a0f",
@@ -57,7 +57,7 @@
   "releaseInfo": [
     {
       "id": "150feebfa487473586c44a633ea96f90",
-      "appId": "GuppyDummy",
+      "appId": "TonyHawkPreP",
       "compatibleApps": [],
       "platform": [
         "Windows"

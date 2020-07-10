@@ -1,7 +1,7 @@
 {
   "id": "c1656319f938445892cb581d84c6f57f",
-  "title": "ProteaSoundtrack",
-  "description": "ProteaSoundtrack",
+  "title": "Industries of Titan: Under Construction Soundtrack",
+  "description": "Industries of Titan: Under Construction Soundtrack",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -33,7 +33,7 @@
   "namespace": "protea",
   "status": "ACTIVE",
   "creationDate": "2020-04-13T18:25:12.718Z",
-  "lastModifiedDate": "2020-07-07T17:59:06.798Z",
+  "lastModifiedDate": "2020-07-10T00:33:48.262Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

@@ -1,0 +1,56 @@
+{
+  "id": "c0214400e20b4652bccf18e813e94701",
+  "title": "AlabasterStaging",
+  "description": "AlabasterStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8432511ef63b489b843d21ff486a0355",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-12T21:19:14.165Z",
+  "lastModifiedDate": "2020-07-09T14:18:14.842Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{userdir}/../My Games/runic games/torchlight 2/save/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AlabasterStaging"
+    }
+  },
+  "entitlementName": "c0214400e20b4652bccf18e813e94701",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "88083a955fcc436a896e963f8df50b16",
+      "appId": "2fb6d0a4cc7d46c892b9866c3ff28516",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-06-26T00:00:00.000Z"
+    }
+  ],
+  "developer": "Perfect World",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

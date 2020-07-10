@@ -24,7 +24,7 @@
   "namespace": "azalea",
   "status": "ACTIVE",
   "creationDate": "2020-01-09T15:41:07.402Z",
-  "lastModifiedDate": "2020-01-09T15:41:26.461Z",
+  "lastModifiedDate": "2020-07-08T12:44:14.162Z",
   "customAttributes": {
     "developerName": {
       "type": "STRING",
@@ -46,6 +46,5 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
-  "selfRefundable": true,
   "unsearchable": false
 }

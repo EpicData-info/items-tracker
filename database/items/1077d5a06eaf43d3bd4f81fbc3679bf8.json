@@ -24,7 +24,7 @@
   "namespace": "azalea",
   "status": "ACTIVE",
   "creationDate": "2019-03-13T20:02:29.783Z",
-  "lastModifiedDate": "2020-01-28T04:28:12.965Z",
+  "lastModifiedDate": "2020-07-08T12:44:14.162Z",
   "entitlementName": "1077d5a06eaf43d3bd4f81fbc3679bf8",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
@@ -36,6 +36,5 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
-  "selfRefundable": true,
   "unsearchable": false
 }

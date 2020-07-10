@@ -36,7 +36,7 @@
   "namespace": "affc33b82405457595a032f00284abd2",
   "status": "ACTIVE",
   "creationDate": "2019-08-17T00:08:56.681Z",
-  "lastModifiedDate": "2020-07-07T18:32:48.586Z",
+  "lastModifiedDate": "2020-07-09T14:57:59.422Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,6 +49,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{appdata}/../Roaming/KF2/{EpicID}/"
     },
     "UseAccessControl": {
       "type": "STRING",

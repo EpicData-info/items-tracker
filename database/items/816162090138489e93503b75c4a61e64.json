@@ -1,0 +1,91 @@
+{
+  "id": "816162090138489e93503b75c4a61e64",
+  "title": "Killing Floor 2 Artbook",
+  "description": "Killing Floor 2 Artbook",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/item/KF2_EGS_ArtBook_1200x1600-1200x1600-f3731f51afad25817759fc339a053ab5.jpg",
+      "md5": "f3731f51afad25817759fc339a053ab5",
+      "width": 1200,
+      "height": 1600,
+      "size": 398877,
+      "uploadedDate": "2020-07-09T12:48:40.485Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/item/KF2_EGS_ArtBook_2560x1440-2560x1440-25db2156e32075dfd2c70c4a5592725a.jpg",
+      "md5": "25db2156e32075dfd2c70c4a5592725a",
+      "width": 2560,
+      "height": 1440,
+      "size": 663692,
+      "uploadedDate": "2020-07-09T12:49:05.770Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-17T20:19:29.343Z",
+  "lastModifiedDate": "2020-07-09T14:57:55.853Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "affc33b82405457595a032f00284abd2"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KillingFloor2Artbook"
+    }
+  },
+  "entitlementName": "816162090138489e93503b75c4a61e64",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dd29e7d85855490aa25ff1a276ff00fa",
+      "appId": "3af337d4fb3f41e49ba96fc57fc2bf74",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
