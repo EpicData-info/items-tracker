@@ -1,0 +1,35 @@
+{
+  "id": "42492c2f085c4988b700a8b2daff5d8f",
+  "title": "DacePrePurchaseAudience",
+  "description": "DacePrePurchaseAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ace4435645d9489cacfbb422b7c1c817",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-26T22:17:58.413Z",
+  "lastModifiedDate": "2020-06-18T19:31:02.880Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "42492c2f085c4988b700a8b2daff5d8f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "SNK CORPORATION",
+  "developerId": "o-bse2s8gp28ptrv924lby79vx66vsz6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

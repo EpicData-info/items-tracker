@@ -1,0 +1,35 @@
+{
+  "id": "0bce5ed5f7a74938ba0dc291c03f954e",
+  "title": "DacePressAudience",
+  "description": "DacePressAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "ace4435645d9489cacfbb422b7c1c817",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-22T02:13:45.897Z",
+  "lastModifiedDate": "2020-06-18T19:42:43.593Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0bce5ed5f7a74938ba0dc291c03f954e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

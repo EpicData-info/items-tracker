@@ -2291,6 +2291,18 @@
     1567085350
   ],
   [
+    "0bce5ed5f7a74938ba0dc291c03f954e",
+    "ace4435645d9489cacfbb422b7c1c817",
+    "DacePressAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Epic Dev Test Account",
+    1590113625,
+    1592509363
+  ],
+  [
     "0bdc6c343be34a66bcc5a77df065a121",
     "cosmos",
     "RUNE II Pre-Purchase",
@@ -12111,6 +12123,18 @@
     1487234816
   ],
   [
+    "42492c2f085c4988b700a8b2daff5d8f",
+    "ace4435645d9489cacfbb422b7c1c817",
+    "DacePrePurchaseAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "SNK CORPORATION",
+    1590531478,
+    1592508662
+  ],
+  [
     "4255c34fbbb746ca8a982f1245c0e490",
     "bec822fb982843c3be794d440728336b",
     "Moonlighter",
@@ -16380,6 +16404,19 @@
     "YAGER",
     1567115767,
     1594212254
+  ],
+  [
+    "578cd4fec8e14ae1aaee7442b38282b4",
+    "ace4435645d9489cacfbb422b7c1c817",
+    "DaceStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "SNK CORPORATION",
+    1575490515,
+    1591885085
   ],
   [
     "579f4386c0824cd48aa3c9a0ed6b54d8",
@@ -20845,6 +20882,19 @@
     "Ubisoft Entertainment",
     1571679969,
     1582041195
+  ],
+  [
+    "6ef751ba46bb4e3fadcade9233ebb477",
+    "ace4435645d9489cacfbb422b7c1c817",
+    "Samurai Shodown (pre-purchase)",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "SNK CORPORATION",
+    1590535562,
+    1591885085
   ],
   [
     "6efa341cc8ef4e7b9f84d4d4fd378f47",
