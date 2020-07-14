@@ -36,7 +36,7 @@
   "namespace": "8432511ef63b489b843d21ff486a0355",
   "status": "ACTIVE",
   "creationDate": "2020-05-12T21:19:14.125Z",
-  "lastModifiedDate": "2020-07-09T14:24:20.559Z",
+  "lastModifiedDate": "2020-07-14T21:59:18.698Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,6 +49,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{userdir}/My Games/runic games/torchlight 2/save/"
     },
     "UseAccessControl": {
       "type": "STRING",
