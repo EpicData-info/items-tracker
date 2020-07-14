@@ -45,7 +45,7 @@
   "namespace": "b9def67e597b4be7a16146146a044d02",
   "status": "ACTIVE",
   "creationDate": "2019-07-23T16:38:43.266Z",
-  "lastModifiedDate": "2020-05-13T16:04:44.681Z",
+  "lastModifiedDate": "2020-07-14T11:34:53.252Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -69,7 +69,7 @@
     },
     "mods.installPath": {
       "type": "STRING",
-      "value": "MW5Mercs/Mods"
+      "value": "MW5Mercs/EpicMods"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",

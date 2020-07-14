@@ -16,7 +16,7 @@
   "namespace": "56e54e682d614c468e3d5afc54ca0adf",
   "status": "ACTIVE",
   "creationDate": "2020-06-03T17:19:34.974Z",
-  "lastModifiedDate": "2020-07-13T17:41:18.878Z",
+  "lastModifiedDate": "2020-07-14T11:42:29.290Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -28,7 +28,7 @@
     },
     "CloudIncludeList": {
       "type": "STRING",
-      "value": "sh.mcd,config.cfg,_save.index,launcher-config.json,launcher-game-settings.json"
+      "value": "sh.mcd,config.cfg,*save.index,launcher-config.json,launcher-game-settings.json"
     },
     "FolderName": {
       "type": "STRING",
