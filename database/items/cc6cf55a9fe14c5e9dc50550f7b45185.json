@@ -17,7 +17,7 @@
   "namespace": "c749cd78da34408d8434a46271f4bb79",
   "status": "ACTIVE",
   "creationDate": "2020-05-11T14:18:33.235Z",
-  "lastModifiedDate": "2020-05-11T14:27:52.865Z",
+  "lastModifiedDate": "2020-07-13T11:45:11.005Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -29,7 +29,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Saturnalia Current"
+      "value": "SaturnaliaCurrent"
     }
   },
   "entitlementName": "cc6cf55a9fe14c5e9dc50550f7b45185",

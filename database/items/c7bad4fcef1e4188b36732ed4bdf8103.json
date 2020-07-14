@@ -27,16 +27,13 @@
       "path": "public"
     },
     {
-      "path": "games"
-    },
-    {
       "path": "applications"
     }
   ],
   "namespace": "f4a904fcef2447439c35c4e6457f3027",
   "status": "ACTIVE",
   "creationDate": "2020-04-09T21:55:51.095Z",
-  "lastModifiedDate": "2020-07-09T23:25:58.645Z",
+  "lastModifiedDate": "2020-07-13T19:56:40.078Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

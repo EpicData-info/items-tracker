@@ -16,11 +16,19 @@
   "namespace": "56e54e682d614c468e3d5afc54ca0adf",
   "status": "ACTIVE",
   "creationDate": "2020-06-03T17:19:34.974Z",
-  "lastModifiedDate": "2020-07-09T15:32:10.766Z",
+  "lastModifiedDate": "2020-07-13T17:41:18.878Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/SUPERHOT_Team/SHMCD/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "sh.mcd,config.cfg,_save.index,launcher-config.json,launcher-game-settings.json"
     },
     "FolderName": {
       "type": "STRING",
