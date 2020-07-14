@@ -4,22 +4,22 @@
   "description": "SMITE Public Test",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Smite-EGS-7.6-Cthulhu-Default-PortraitIMG-860x1148-860x1148-06fef572c8efa74fb85dfd7ac87c924e.jpg",
-      "md5": "06fef572c8efa74fb85dfd7ac87c924e",
-      "width": 860,
-      "height": 1148,
-      "size": 144860,
-      "uploadedDate": "2020-06-16T19:52:46.821Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Smite-EGS-7.6-Cthulhu-Default-LandscapeIMG-2560x1440-2560x1440-37a58681a31e6983b47835979083cb49.jpg",
-      "md5": "37a58681a31e6983b47835979083cb49",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/SMITE_EGS_7.7_AvatarAang_Landscape_2560x1440-2560x1440-c1e6730e466d15049980c11d99399880.jpg",
+      "md5": "04901e128c65f5acda0c6745213ffd81",
       "width": 2560,
       "height": 1440,
-      "size": 239375,
-      "uploadedDate": "2020-06-16T19:52:55.382Z"
+      "size": 391539,
+      "uploadedDate": "2020-07-14T16:12:24.004Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/SMITE_EGS_7.7_AvatarAang_Portrait_860x1148-860x1148-3b72c575b65f8e3553f11d6205a6ccad.jpg",
+      "md5": "5a580dc81cecc55496acd63b29c457f1",
+      "width": 860,
+      "height": 1148,
+      "size": 241872,
+      "uploadedDate": "2020-07-14T16:13:11.023Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "076207fa2b5c4803a636af606c3c28b7",
   "status": "ACTIVE",
   "creationDate": "2019-10-30T19:59:01.323Z",
-  "lastModifiedDate": "2020-06-16T19:53:04.516Z",
+  "lastModifiedDate": "2020-07-14T16:13:30.508Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
