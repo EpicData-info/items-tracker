@@ -36,11 +36,15 @@
   "namespace": "b9def67e597b4be7a16146146a044d02",
   "status": "ACTIVE",
   "creationDate": "2019-10-21T17:23:06.847Z",
-  "lastModifiedDate": "2019-12-10T13:52:42.994Z",
+  "lastModifiedDate": "2020-07-14T18:01:40.550Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "mods.installPath": {
+      "type": "STRING",
+      "value": "MW5Mercs/EpicMods"
     },
     "FolderName": {
       "type": "STRING",
@@ -66,5 +70,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

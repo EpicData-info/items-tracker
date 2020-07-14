@@ -36,11 +36,15 @@
   "namespace": "b9def67e597b4be7a16146146a044d02",
   "status": "ACTIVE",
   "creationDate": "2019-07-23T16:38:43.325Z",
-  "lastModifiedDate": "2019-12-10T13:52:42.994Z",
+  "lastModifiedDate": "2020-07-14T18:00:56.655Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "mods.installPath": {
+      "type": "STRING",
+      "value": "MW5Mercs/EpicMods"
     },
     "FolderName": {
       "type": "STRING",
@@ -57,7 +61,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2019-07-24T21:05:00.817Z"
+      "dateAdded": "2019-07-24T00:00:00.000Z"
     }
   ],
   "developer": "Piranha Games",
@@ -66,5 +70,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }
