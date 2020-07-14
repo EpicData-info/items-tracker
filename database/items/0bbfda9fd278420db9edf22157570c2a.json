@@ -36,11 +36,23 @@
   "namespace": "413361d2d5db4912ac2dfbcf27a38141",
   "status": "ACTIVE",
   "creationDate": "2019-08-01T20:44:27.093Z",
-  "lastModifiedDate": "2019-08-29T13:29:10.603Z",
+  "lastModifiedDate": "2020-07-14T17:14:58.436Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Glumberland/Ooblets/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "output_log.txt"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
     },
     "FolderName": {
       "type": "STRING",
@@ -57,7 +69,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2019-08-19T18:24:07.464Z"
+      "dateAdded": "2019-08-19T00:00:00.000Z"
     }
   ],
   "developer": "Glumberland",
@@ -66,5 +78,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }
