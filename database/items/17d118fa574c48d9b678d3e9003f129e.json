@@ -36,7 +36,7 @@
   "namespace": "413361d2d5db4912ac2dfbcf27a38141",
   "status": "ACTIVE",
   "creationDate": "2019-08-01T20:44:27.027Z",
-  "lastModifiedDate": "2020-07-15T03:28:56.532Z",
+  "lastModifiedDate": "2020-07-15T13:38:53.591Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -50,6 +50,14 @@
       "type": "STRING",
       "value": "true"
     },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Glumberland/Ooblets/"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "output_log.txt"
+    },
     "UseAccessControl": {
       "type": "STRING",
       "value": "false"
@@ -61,6 +69,10 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
     },
     "FolderName": {
       "type": "STRING",
