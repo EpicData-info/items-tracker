@@ -33,7 +33,7 @@
   "namespace": "newt",
   "status": "ACTIVE",
   "creationDate": "2020-07-15T21:28:27.407Z",
-  "lastModifiedDate": "2020-07-15T21:30:43.234Z",
+  "lastModifiedDate": "2020-07-15T21:32:45.236Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -70,7 +70,7 @@
   "releaseInfo": [
     {
       "id": "6f0fbc49461245d88dafc2e659ce1564",
-      "appId": "NewtCert",
+      "appId": "2af81178258444539562d312816b232b",
       "compatibleApps": [],
       "platform": [
         "Windows"
