@@ -36,7 +36,7 @@
   "namespace": "07f4a7dd3c884e5d87e9a209716962ca",
   "status": "ACTIVE",
   "creationDate": "2020-03-27T03:00:53.942Z",
-  "lastModifiedDate": "2020-06-30T18:40:10.210Z",
+  "lastModifiedDate": "2020-07-15T03:22:01.015Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -52,7 +52,7 @@
     },
     "MaxSizeMB": {
       "type": "STRING",
-      "value": "1000"
+      "value": "2000"
     },
     "FolderName": {
       "type": "STRING",
