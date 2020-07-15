@@ -1,0 +1,36 @@
+{
+  "id": "adad0cc1611c4e32b10f33f8628d7e1c",
+  "title": "God Slayer Upgrade Audience",
+  "description": "God Slayer Upgrade Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "cosmos",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-12T14:42:36.884Z",
+  "lastModifiedDate": "2020-07-15T14:53:16.415Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "adad0cc1611c4e32b10f33f8628d7e1c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ragnarok Game, LLC",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
