@@ -24,7 +24,7 @@
   "namespace": "493e9ad801e8487497fe7840cb8404bb",
   "status": "ACTIVE",
   "creationDate": "2019-11-20T21:23:20.938Z",
-  "lastModifiedDate": "2020-03-10T15:16:25.671Z",
+  "lastModifiedDate": "2020-07-15T16:39:43.726Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -41,5 +41,6 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "EVERYONE",
+  "ageGatings": {},
   "unsearchable": false
 }
