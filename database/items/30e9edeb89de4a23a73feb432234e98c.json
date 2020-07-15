@@ -1,7 +1,7 @@
 {
-  "id": "71f715473dea4f8ebe5b215b408f77c1",
-  "title": "StellulaGeneralAudience",
-  "description": "StellulaGeneralAudience",
+  "id": "30e9edeb89de4a23a73feb432234e98c",
+  "title": "Season Pass Audience",
+  "description": "Season Pass Audience",
   "keyImages": [
     {
       "type": "ESRB",
@@ -10,7 +10,7 @@
       "width": 842,
       "height": 485,
       "size": 86271,
-      "uploadedDate": "2020-01-23T14:44:34.948Z"
+      "uploadedDate": "2020-01-23T14:40:08.622Z"
     }
   ],
   "categories": [
@@ -18,20 +18,20 @@
       "path": "audience"
     },
     {
-      "path": "public"
+      "path": "developer"
     }
   ],
   "namespace": "493e9ad801e8487497fe7840cb8404bb",
   "status": "ACTIVE",
-  "creationDate": "2019-10-03T20:05:30.215Z",
-  "lastModifiedDate": "2020-07-15T16:15:20.370Z",
+  "creationDate": "2020-07-15T16:15:44.101Z",
+  "lastModifiedDate": "2020-07-15T16:17:00.478Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "71f715473dea4f8ebe5b215b408f77c1",
+  "entitlementName": "30e9edeb89de4a23a73feb432234e98c",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "developer": "Focus Home",
@@ -42,6 +42,5 @@
   "endOfSupport": false,
   "esrbGameRatingValue": "EVERYONE",
   "ageGatings": {},
-  "selfRefundable": true,
   "unsearchable": false
 }

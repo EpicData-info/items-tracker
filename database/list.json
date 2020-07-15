@@ -3742,6 +3742,18 @@
     1489653450
   ],
   [
+    "134536d3215c485a927a344deffded85",
+    "493e9ad801e8487497fe7840cb8404bb",
+    "Premium Edition Audience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Focus Home",
+    1594829641,
+    1594829669
+  ],
+  [
     "1347491024fb42dc8b9b75214db2af87",
     "fn",
     "FortniteLocTesting",
@@ -8977,6 +8989,18 @@
     "Square Enix",
     1573507554,
     1586442120
+  ],
+  [
+    "30e9edeb89de4a23a73feb432234e98c",
+    "493e9ad801e8487497fe7840cb8404bb",
+    "Season Pass Audience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Focus Home",
+    1594829744,
+    1594829820
   ],
   [
     "30fd888bab2e4ae7a2c28f4deca31f12",
@@ -21600,7 +21624,7 @@
     ],
     "Focus Home",
     1570133130,
-    1580399858
+    1594829720
   ],
   [
     "7219fd0219fa492da426a79c8078f1e4",
@@ -46252,7 +46276,7 @@
     ],
     "Focus Home",
     1570133130,
-    1591706815
+    1594829875
   ],
   [
     "f722d5e3f1e84ff1b2fc2c8f032fd35e",
