@@ -17751,6 +17751,18 @@
     1563298041
   ],
   [
+    "5d966ec85c0c42ef89e2963a5804498e",
+    "92546d82a1d043ad8cff2c6c2cd78bb9",
+    "BlackpollDevAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Epic Dev Test Account",
+    1568312646,
+    1594840736
+  ],
+  [
     "5d9f8a6f8f294681837f85f9580e2ca6",
     "battalion",
     "Battalion Dev Kit",
@@ -22638,6 +22650,19 @@
     1497396571
   ],
   [
+    "7837e83c39b94fe49b1399180c48e396",
+    "92546d82a1d043ad8cff2c6c2cd78bb9",
+    "BlackpollStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Epic Dev Test Account",
+    1568312646,
+    1594840736
+  ],
+  [
     "784e5ff9c4f040a3b4d6bb5820e2df37",
     "azalea",
     "The Cycle",
@@ -24054,6 +24079,19 @@
     "Koch Media",
     1559772725,
     1574168183
+  ],
+  [
+    "802ecb51b8e640368d351b996f5e40ff",
+    "92546d82a1d043ad8cff2c6c2cd78bb9",
+    "Blackpoll",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Epic Dev Test Account",
+    1568312646,
+    1594840736
   ],
   [
     "80318b116ba14200ad67025376d2ed15",
@@ -39099,6 +39137,18 @@
     "2K Games, Inc.",
     1585082241,
     1591297407
+  ],
+  [
+    "d090ffe18fa34edf95ad94b445cf252d",
+    "92546d82a1d043ad8cff2c6c2cd78bb9",
+    "BlackpollGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Epic Dev Test Account",
+    1568312646,
+    1594840736
   ],
   [
     "d09e544446524c758435b18aad33978a",

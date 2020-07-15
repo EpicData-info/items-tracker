@@ -1,0 +1,33 @@
+{
+  "id": "5d966ec85c0c42ef89e2963a5804498e",
+  "title": "BlackpollDevAudience",
+  "description": "BlackpollDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "92546d82a1d043ad8cff2c6c2cd78bb9",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-12T18:24:06.598Z",
+  "lastModifiedDate": "2020-07-15T19:18:56.473Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": ""
+    }
+  },
+  "entitlementName": "5d966ec85c0c42ef89e2963a5804498e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

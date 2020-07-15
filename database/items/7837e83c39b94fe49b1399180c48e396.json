@@ -1,0 +1,48 @@
+{
+  "id": "7837e83c39b94fe49b1399180c48e396",
+  "title": "BlackpollStaging",
+  "description": "BlackpollStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "92546d82a1d043ad8cff2c6c2cd78bb9",
+  "status": "ACTIVE",
+  "creationDate": "2019-09-12T18:24:06.712Z",
+  "lastModifiedDate": "2020-07-15T19:18:56.473Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BlackpollStaging"
+    }
+  },
+  "entitlementName": "7837e83c39b94fe49b1399180c48e396",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7d2ec6e679d4436dbce3d8256dbd2c88",
+      "appId": "5bd6e03c8169428fa21808b23b4db2b2",
+      "dateAdded": "2020-07-15T19:16:24.599Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
