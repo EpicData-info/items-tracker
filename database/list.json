@@ -10896,6 +10896,18 @@
     1569887506
   ],
   [
+    "3bb927151b1d49c38ebde8f4748a9699",
+    "newt",
+    "NewtCertAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Proletariat, Inc.",
+    1594848425,
+    1594848500
+  ],
+  [
     "3bd201f2d16044a688fe9a9afe921877",
     "d759128018124dcabb1fbee9bb28e178",
     "Surviving Mars Wallpaper",
@@ -19607,6 +19619,18 @@
     "tinyBuild Games",
     1582835999,
     1589421780
+  ],
+  [
+    "680a535fbfd14082bbe52588530d7abb",
+    "newt",
+    "NewtCert",
+    [
+      "games",
+      "applications"
+    ],
+    "Proletariat, Inc.",
+    1594848507,
+    1594848643
   ],
   [
     "680f3ec166754fe8adae239b141e191f",
