@@ -45,7 +45,7 @@
   "namespace": "9b31326adff64c7fa7bbac6e8d4a9e6e",
   "status": "ACTIVE",
   "creationDate": "2020-04-23T19:03:05.840Z",
-  "lastModifiedDate": "2020-05-29T13:37:21.926Z",
+  "lastModifiedDate": "2020-07-15T11:55:30.298Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -59,6 +59,10 @@
       "type": "STRING",
       "value": "false"
     },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Dry Cactus/Poly Bridge 2/"
+    },
     "UseAccessControl": {
       "type": "STRING",
       "value": "false"
@@ -67,6 +71,10 @@
       "type": "STRING",
       "value": "[]"
     },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Profiles/,Sandbox/,SaveSlots/"
+    },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
@@ -74,6 +82,10 @@
     "FolderName": {
       "type": "STRING",
       "value": "PolyBridge2"
+    },
+    "CloudSaveFolderMAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/APPLICATION SUPPORT/Dry Cactus/Poly Bridge 2/"
     }
   },
   "entitlementName": "60472ebcd47c4688b43961b392a4e5fe",
