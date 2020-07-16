@@ -4,15 +4,6 @@
   "description": "Ghost Recon Breakpoint Free Trial",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/GRT_UCS16420_EGST_Edition_Capsule_1920X1080-1920x1080-4895ee23c9fc73769a88c8c1da646b6e.jpg",
-      "md5": "4895ee23c9fc73769a88c8c1da646b6e",
-      "width": 1920,
-      "height": 1080,
-      "size": 276502,
-      "uploadedDate": "2020-03-24T00:38:41.136Z"
-    },
-    {
       "type": "DieselGameBoxTall",
       "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/GRT_UCS16420_EGST_Store_Portrait_1280x1420-1280x1420-288eef4ab42bdef66ffe5f668a36ea1b.png",
       "md5": "288eef4ab42bdef66ffe5f668a36ea1b",
@@ -20,6 +11,15 @@
       "height": 1420,
       "size": 3340340,
       "uploadedDate": "2020-03-24T00:38:57.241Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/HeroBanner_3840x2160_EN-3840x2160-24280765b963c7c7ca1c77e5dd10e90c.jpg",
+      "md5": "24280765b963c7c7ca1c77e5dd10e90c",
+      "width": 3840,
+      "height": 2160,
+      "size": 4410118,
+      "uploadedDate": "2020-07-16T14:52:42.793Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
   "status": "ACTIVE",
   "creationDate": "2020-02-04T22:47:39.940Z",
-  "lastModifiedDate": "2020-03-30T15:01:08.927Z",
+  "lastModifiedDate": "2020-07-16T14:52:53.739Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -61,6 +61,14 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "de779c01f03c4b5584718837da3a69cf"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
     },
     "FolderName": {
       "type": "STRING",
@@ -90,5 +98,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

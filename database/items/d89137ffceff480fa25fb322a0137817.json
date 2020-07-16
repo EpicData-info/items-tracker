@@ -10,7 +10,8 @@
       "width": 700,
       "height": 700,
       "size": 187413,
-      "uploadedDate": "2020-07-01T07:35:24.180Z"
+      "uploadedDate": "2020-07-01T07:35:24.180Z",
+      "alt": "alt text"
     }
   ],
   "categories": [
@@ -42,5 +43,6 @@
       "title": "cristina test"
     }
   },
+  "requiresSecureAccount": true,
   "unsearchable": false
 }
