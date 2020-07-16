@@ -5,12 +5,12 @@
   "keyImages": [
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/GRT_UCS16420_EGST_Store_Portrait_1280x1420-1280x1420-288eef4ab42bdef66ffe5f668a36ea1b.png",
-      "md5": "288eef4ab42bdef66ffe5f668a36ea1b",
-      "width": 1280,
-      "height": 1420,
-      "size": 3340340,
-      "uploadedDate": "2020-03-24T00:38:57.241Z"
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/IM-POP-UP_EN-1200x1600-11461b51e66067f263c36e08bbd07aed.jpg",
+      "md5": "11461b51e66067f263c36e08bbd07aed",
+      "width": 1200,
+      "height": 1600,
+      "size": 1525710,
+      "uploadedDate": "2020-07-16T15:26:17.093Z"
     },
     {
       "type": "DieselGameBox",
@@ -19,7 +19,7 @@
       "width": 3840,
       "height": 2160,
       "size": 4410118,
-      "uploadedDate": "2020-07-16T14:52:42.793Z"
+      "uploadedDate": "2020-07-16T15:26:42.106Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
   "status": "ACTIVE",
   "creationDate": "2020-02-04T22:47:39.940Z",
-  "lastModifiedDate": "2020-07-16T14:52:53.739Z",
+  "lastModifiedDate": "2020-07-16T15:26:46.007Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
