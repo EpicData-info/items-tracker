@@ -16,11 +16,15 @@
   "namespace": "8432511ef63b489b843d21ff486a0355",
   "status": "ACTIVE",
   "creationDate": "2020-05-12T21:19:14.165Z",
-  "lastModifiedDate": "2020-07-13T13:46:43.354Z",
+  "lastModifiedDate": "2020-07-16T14:30:25.619Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserProfile}/application support/runic games/Torchlight 2/save"
     },
     "CloudSaveFolder": {
       "type": "STRING",
