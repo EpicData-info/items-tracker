@@ -36,7 +36,7 @@
   "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
   "status": "ACTIVE",
   "creationDate": "2019-09-10T19:34:25.282Z",
-  "lastModifiedDate": "2020-06-18T07:21:25.602Z",
+  "lastModifiedDate": "2020-07-16T20:21:42.752Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -79,7 +79,8 @@
       "id": "7265eed7616b444b863d06826f355203",
       "appId": "Fowl",
       "platform": [
-        "Windows"
+        "Windows",
+        "Win32"
       ],
       "dateAdded": "2019-09-10T00:00:00.000Z"
     }
