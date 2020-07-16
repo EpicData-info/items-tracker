@@ -36,7 +36,7 @@
   "namespace": "56e54e682d614c468e3d5afc54ca0adf",
   "status": "ACTIVE",
   "creationDate": "2020-06-03T17:19:34.914Z",
-  "lastModifiedDate": "2020-07-09T15:32:10.764Z",
+  "lastModifiedDate": "2020-07-16T15:49:24.040Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -50,6 +50,10 @@
       "type": "STRING",
       "value": "false"
     },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/SUPERHOT_Team/SHMCD/"
+    },
     "UseAccessControl": {
       "type": "STRING",
       "value": "false"
@@ -57,6 +61,10 @@
     "RequirementsJson": {
       "type": "STRING",
       "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "sh.mcd,config.cfg,*save.index,launcher-config.json,launcher-game-settings.json"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
