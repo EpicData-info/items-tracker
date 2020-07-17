@@ -4,31 +4,22 @@
   "description": "Griftlands",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/phlox/item/Alpha_Promo-2048x1152-54d1a976be4e3d14b6cdca591bc9bddc.jpg",
-      "md5": "54d1a976be4e3d14b6cdca591bc9bddc",
-      "width": 2048,
-      "height": 1152,
-      "size": 1999947,
-      "uploadedDate": "2019-07-09T18:56:52.946Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/phlox/item/Alpha_Logo-1854x960-9201c864e7ebdf0d25db61c29fd6eb92.png",
-      "md5": "9201c864e7ebdf0d25db61c29fd6eb92",
-      "width": 1854,
-      "height": 960,
-      "size": 179298,
-      "uploadedDate": "2019-07-09T18:57:10.243Z"
-    },
-    {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/phlox/item/Phlox_Portrait-1280x1440-912bcadaca3c81bf9af24885f1abdb3f.png",
-      "md5": "912bcadaca3c81bf9af24885f1abdb3f",
-      "width": 1280,
+      "url": "https://cdn1.epicgames.com/phlox/item/EGS_Griftlands_KleiEntertainment_S2-860x1148-5fc47bd45ab3e9271046563fa33b5081.jpg",
+      "md5": "5fc47bd45ab3e9271046563fa33b5081",
+      "width": 860,
+      "height": 1148,
+      "size": 896738,
+      "uploadedDate": "2020-07-17T23:41:24.549Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/phlox/item/EGS_Griftlands_KleiEntertainment_S1-2560x1440-2bb40dbfe56f556c9359708f2cf4d4aa.jpg",
+      "md5": "2bb40dbfe56f556c9359708f2cf4d4aa",
+      "width": 2560,
       "height": 1440,
-      "size": 684501,
-      "uploadedDate": "2019-11-27T14:08:15.048Z"
+      "size": 2887403,
+      "uploadedDate": "2020-07-17T23:41:41.965Z"
     }
   ],
   "categories": [
@@ -42,7 +33,7 @@
   "namespace": "phlox",
   "status": "ACTIVE",
   "creationDate": "2019-03-04T13:07:11.577Z",
-  "lastModifiedDate": "2020-04-21T22:56:05.989Z",
+  "lastModifiedDate": "2020-07-17T23:42:06.998Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
