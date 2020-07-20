@@ -1,0 +1,72 @@
+{
+  "id": "e18d8df60a8947299035ffe50261fffe",
+  "title": "Carp-DevStable",
+  "description": "Carp-DevStable",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-20T13:20:10.516Z",
+  "lastModifiedDate": "2020-07-20T13:25:25.707Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Carp"
+    }
+  },
+  "entitlementName": "e18d8df60a8947299035ffe50261fffe",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a9b40fdc64c4474baa97c437f42e8f03",
+      "appId": "910a4abce9ae4c989d54b4f37f40de37",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-20T13:24:33.031Z"
+    }
+  ],
+  "developer": "Gearbox Publishing",
+  "developerId": "o-dcmk65hvycy3kndmqvfg3yn3up87jn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
