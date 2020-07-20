@@ -1,0 +1,36 @@
+{
+  "id": "11e5d13fec254bf78db44303df84e07e",
+  "title": "Phoenix Point Control Group Test Audience",
+  "description": "Phoenix Point Control Group Test Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "iris",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-20T12:47:38.663Z",
+  "lastModifiedDate": "2020-07-20T12:49:29.695Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "11e5d13fec254bf78db44303df84e07e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Snapshot Games",
+  "developerId": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
