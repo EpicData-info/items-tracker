@@ -24,7 +24,7 @@
   "namespace": "d0230ef21b1f4ef29aec0d49946912fc",
   "status": "ACTIVE",
   "creationDate": "2019-05-08T15:55:29.357Z",
-  "lastModifiedDate": "2019-07-11T15:01:45.781Z",
+  "lastModifiedDate": "2020-07-23T15:00:04.733Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -40,7 +40,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "esrbGameRatingValue": "TEEN",
-  "selfRefundable": true,
   "unsearchable": false
 }

@@ -43,7 +43,7 @@
   "namespace": "wombat",
   "status": "ACTIVE",
   "creationDate": "2020-04-24T14:50:44.165Z",
-  "lastModifiedDate": "2020-05-05T10:00:00.222Z",
+  "lastModifiedDate": "2020-07-22T10:02:13.551Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -62,6 +62,5 @@
   "endOfSupport": false,
   "esrbGameRatingValue": "MATURE",
   "ageGatings": {},
-  "selfRefundable": true,
   "unsearchable": false
 }

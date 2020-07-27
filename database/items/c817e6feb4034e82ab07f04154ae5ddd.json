@@ -33,6 +33,15 @@
       "uploadedDate": "2019-10-04T21:25:56.571Z"
     },
     {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/wex/item/BB_AndroidLauncher_Keyart-800x800-f83d14d91266a550f50475984ec11bf8.jpg",
+      "md5": "f83d14d91266a550f50475984ec11bf8",
+      "width": 800,
+      "height": 800,
+      "size": 758378,
+      "uploadedDate": "2020-07-23T18:23:43.796Z"
+    },
+    {
       "type": "Screenshot",
       "url": "https://cdn1.epicgames.com/wex/item/EN_BB_iOS_Appstore_Screenshot_iPhone8Plus_01-1242x2688-e5a0fa4c69b946348a15bd501e784b3b.jpg",
       "md5": "e5a0fa4c69b946348a15bd501e784b3b",
@@ -103,15 +112,6 @@
       "height": 2688,
       "size": 1448824,
       "uploadedDate": "2019-11-11T23:12:09.843Z"
-    },
-    {
-      "type": "Featured",
-      "url": "https://cdn1.epicgames.com/wex/item/Featured-844x959-63dc61c6745a9f8d5ea1fb2fc1315a09.jpg",
-      "md5": "63dc61c6745a9f8d5ea1fb2fc1315a09",
-      "width": 844,
-      "height": 959,
-      "size": 243237,
-      "uploadedDate": "2019-11-13T00:25:27.174Z"
     }
   ],
   "categories": [
@@ -125,7 +125,7 @@
   "namespace": "wex",
   "status": "ACTIVE",
   "creationDate": "2019-10-28T21:58:26.016Z",
-  "lastModifiedDate": "2019-11-13T22:41:05.563Z",
+  "lastModifiedDate": "2020-07-23T19:40:32.615Z",
   "customAttributes": {
     "AndroidCommandLine": {
       "type": "STRING",
@@ -168,5 +168,6 @@
     "bb"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

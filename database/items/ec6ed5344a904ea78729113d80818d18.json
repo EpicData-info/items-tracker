@@ -51,7 +51,7 @@
   "namespace": "wombat",
   "status": "ACTIVE",
   "creationDate": "2018-11-30T01:30:42.994Z",
-  "lastModifiedDate": "2020-05-05T10:00:00.222Z",
+  "lastModifiedDate": "2020-07-22T10:02:13.551Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -116,6 +116,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
   "unsearchable": false
 }

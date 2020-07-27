@@ -17,7 +17,7 @@
   "namespace": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
   "status": "ACTIVE",
   "creationDate": "2020-07-20T13:20:07.839Z",
-  "lastModifiedDate": "2020-07-20T13:25:25.707Z",
+  "lastModifiedDate": "2020-07-22T18:40:20.934Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -45,7 +45,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Carp"
+      "value": "CarpDevBeta"
     }
   },
   "entitlementName": "a22a2490b3b44e16bf57a383e15788f2",
@@ -58,7 +58,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-07-20T13:24:13.257Z"
+      "dateAdded": "2020-07-20T00:00:00.000Z"
     }
   ],
   "developer": "Gearbox Publishing",

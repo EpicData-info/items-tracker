@@ -17,7 +17,7 @@
   "namespace": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
   "status": "ACTIVE",
   "creationDate": "2020-07-20T13:20:13.557Z",
-  "lastModifiedDate": "2020-07-20T13:25:25.707Z",
+  "lastModifiedDate": "2020-07-22T18:37:38.811Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -45,7 +45,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Carp"
+      "value": "CarpProdSmoke"
     }
   },
   "entitlementName": "f195b66ce4f04f86abf31a2b2b1312eb",
@@ -58,7 +58,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-07-20T13:24:49.679Z"
+      "dateAdded": "2020-07-20T00:00:00.000Z"
     }
   ],
   "developer": "Gearbox Publishing",

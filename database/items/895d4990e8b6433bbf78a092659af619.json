@@ -1,0 +1,53 @@
+{
+  "id": "895d4990e8b6433bbf78a092659af619",
+  "title": "TwinmotionStaging",
+  "description": "TwinmotionStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "poodle",
+  "status": "ACTIVE",
+  "creationDate": "2019-03-22T22:58:24.284Z",
+  "lastModifiedDate": "2019-05-13T13:37:14.532Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TwinmotionStaging"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Mac"
+    }
+  },
+  "entitlementName": "895d4990e8b6433bbf78a092659af619",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a74b2a8a307b4b84a80de7f91875f527",
+      "appId": "PoodleStaging",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2019-03-22T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Twinmotion",
+  "developerId": "o-63xw9bf4aa9wjw84hnm5du9n5yj56j",
+  "eulaIds": [
+    "twin"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

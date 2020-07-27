@@ -33,7 +33,7 @@
   "namespace": "protea",
   "status": "ACTIVE",
   "creationDate": "2019-03-18T05:15:08.763Z",
-  "lastModifiedDate": "2020-07-07T17:59:06.798Z",
+  "lastModifiedDate": "2020-07-22T18:34:20.387Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -65,7 +65,7 @@
     },
     "MaxSizeMB": {
       "type": "STRING",
-      "value": "500"
+      "value": "1000"
     },
     "FolderName": {
       "type": "STRING",
@@ -92,8 +92,8 @@
       "versionTitle": ""
     }
   ],
-  "developer": "Epic Dev Test Account",
-  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "developer": "Brace Yourself Games",
+  "developerId": "o-5y95w2k7uu469v8lr4dyzeff447wfm",
   "eulaIds": [
     "egstore"
   ],

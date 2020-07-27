@@ -1,0 +1,26 @@
+{
+  "id": "4ebcb3d6bbda4053a6ac6f0188d28023",
+  "title": "Twinmotion Graphisoft Promo",
+  "description": "Twinmotion Graphisoft Promo",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "poodle",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-14T09:53:24.615Z",
+  "lastModifiedDate": "2020-02-28T18:43:58.214Z",
+  "entitlementName": "TwinmotionGraphisoftPromo",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "twin"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

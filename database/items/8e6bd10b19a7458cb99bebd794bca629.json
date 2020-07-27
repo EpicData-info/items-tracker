@@ -1,0 +1,56 @@
+{
+  "id": "8e6bd10b19a7458cb99bebd794bca629",
+  "title": "TanagerGanon",
+  "description": "TanagerGanon",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-22T19:15:29.152Z",
+  "lastModifiedDate": "2020-07-22T19:29:40.454Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TanagerGanon"
+    }
+  },
+  "entitlementName": "8e6bd10b19a7458cb99bebd794bca629",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0941ada6c9364d4b91671069e5489c9c",
+      "appId": "6e34fef570654d53875d9993418ec83e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

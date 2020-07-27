@@ -16,11 +16,19 @@
   "namespace": "be4b391bc31d465ebeba92b9b822b798",
   "status": "ACTIVE",
   "creationDate": "2020-06-02T16:06:39.398Z",
-  "lastModifiedDate": "2020-06-12T12:49:18.003Z",
+  "lastModifiedDate": "2020-07-22T12:34:39.372Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.santaragione.MWP/Saves/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Santa Ragione/MILKY WAY PRINCE/Saves/"
     },
     "FolderName": {
       "type": "STRING",
@@ -37,7 +45,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-06-03T16:54:09.916Z"
+      "dateAdded": "2020-06-03T00:00:00.000Z"
     }
   ],
   "developer": "Santa Ragione",

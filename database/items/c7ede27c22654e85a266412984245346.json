@@ -14,7 +14,7 @@
   "namespace": "wombat",
   "status": "ACTIVE",
   "creationDate": "2019-11-19T21:45:39.122Z",
-  "lastModifiedDate": "2020-05-05T10:00:00.222Z",
+  "lastModifiedDate": "2020-07-22T10:02:13.551Z",
   "entitlementName": "c7ede27c22654e85a266412984245346",
   "entitlementType": "ENTITLEMENT",
   "itemType": "DURABLE",
@@ -24,6 +24,5 @@
   "eulaIds": [],
   "endOfSupport": false,
   "ageGatings": {},
-  "selfRefundable": true,
   "unsearchable": false
 }

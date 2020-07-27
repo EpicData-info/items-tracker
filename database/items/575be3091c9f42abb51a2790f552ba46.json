@@ -1,0 +1,29 @@
+{
+  "id": "575be3091c9f42abb51a2790f552ba46",
+  "title": "Twinmotion Tutor Discount",
+  "description": "tutorsandservices.com",
+  "longDescription": "$100 USD off the cost of Twinmotion",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "poodle",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-17T20:37:52.161Z",
+  "lastModifiedDate": "2020-06-19T16:28:00.086Z",
+  "entitlementName": "TwinmotionTutorDiscount",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2020-06-16T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "twin"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

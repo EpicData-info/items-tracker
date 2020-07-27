@@ -7,12 +7,12 @@
   "keyImages": [
     {
       "type": "Featured",
-      "url": "https://cdn1.epicgames.com/fn/item/S13_AndroidLauncher_Keyart-800x800-bcebc2ba3b44ad848ec2f69a3a2c689c.jpg",
-      "md5": "bcebc2ba3b44ad848ec2f69a3a2c689c",
+      "url": "https://cdn1.epicgames.com/fn/item/S13_AndroidLauncher_Keyart-800x800-53539157c5700ca8215b77500cf2a8f1.jpg",
+      "md5": "53539157c5700ca8215b77500cf2a8f1",
       "width": 800,
       "height": 800,
-      "size": 443260,
-      "uploadedDate": "2020-06-16T18:38:10.947Z"
+      "size": 487437,
+      "uploadedDate": "2020-07-21T15:13:07.124Z"
     },
     {
       "type": "AndroidIcon",
@@ -40,6 +40,15 @@
       "height": 1440,
       "size": 4058714,
       "uploadedDate": "2020-06-17T14:27:41.446Z"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/fn/item/EN_13BR_Aquaman_Mobile_Screenshots_EpicGamesApp-1242x2688-0697d19679d075b6401ea7dc1276ed45.jpg",
+      "md5": "0697d19679d075b6401ea7dc1276ed45",
+      "width": 1242,
+      "height": 2688,
+      "size": 1545212,
+      "uploadedDate": "2020-07-21T15:13:27.393Z"
     },
     {
       "type": "Screenshot",
@@ -98,7 +107,7 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2014-09-12T15:20:06.103Z",
-  "lastModifiedDate": "2020-06-30T17:07:02.025Z",
+  "lastModifiedDate": "2020-07-21T15:29:18.773Z",
   "customAttributes": {
     "com.epicgames.portal.product.privacyPolicyUrl": {
       "type": "STRING",

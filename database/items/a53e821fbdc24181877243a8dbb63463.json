@@ -4,31 +4,31 @@
   "description": "Battle Breakers",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/wex/item/wex_bg-430x250-7ff217599bc08d57744a959ff00ec48c.png",
-      "md5": "7ff217599bc08d57744a959ff00ec48c",
-      "width": 430,
-      "height": 250,
-      "size": 224112,
-      "uploadedDate": "2018-11-06T23:05:56.777Z"
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/wex/item/BB_AndroidLauncher_Keyart-800x800-f83d14d91266a550f50475984ec11bf8.jpg",
+      "md5": "f83d14d91266a550f50475984ec11bf8",
+      "width": 800,
+      "height": 800,
+      "size": 758378,
+      "uploadedDate": "2020-07-21T16:09:53.602Z"
     },
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/wex/item/BBLogo-625x408-34f5e3a41a380a7dba705ba302b9ffd0.png",
-      "md5": "34f5e3a41a380a7dba705ba302b9ffd0",
-      "width": 625,
-      "height": 408,
-      "size": 58151,
-      "uploadedDate": "2018-11-29T19:09:02.148Z"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wex/item/BB_AndroidLauncher_Keyart-800x800-f83d14d91266a550f50475984ec11bf8.jpg",
+      "md5": "f83d14d91266a550f50475984ec11bf8",
+      "width": 800,
+      "height": 800,
+      "size": 758378,
+      "uploadedDate": "2020-07-21T19:06:39.190Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/wex/item/BB_EGS_Launcher_S2-1280x1440-f50d07c9bb6e9ffdb35623f0992dcd7e.jpg",
-      "md5": "f50d07c9bb6e9ffdb35623f0992dcd7e",
-      "width": 1280,
-      "height": 1440,
-      "size": 1722691,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/wex/item/BB_AndroidLauncher_Keyart-800x800-f83d14d91266a550f50475984ec11bf8.jpg",
+      "md5": "f83d14d91266a550f50475984ec11bf8",
+      "width": 800,
+      "height": 800,
+      "size": 758378,
+      "uploadedDate": "2020-07-21T19:07:13.144Z"
     }
   ],
   "categories": [
@@ -42,7 +42,7 @@
   "namespace": "wex",
   "status": "ACTIVE",
   "creationDate": "2016-08-10T17:22:25.371Z",
-  "lastModifiedDate": "2019-11-19T17:02:25.316Z",
+  "lastModifiedDate": "2020-07-21T19:07:24.044Z",
   "customAttributes": {
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
@@ -73,5 +73,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

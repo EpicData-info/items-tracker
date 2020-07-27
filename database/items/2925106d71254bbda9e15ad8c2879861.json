@@ -16,7 +16,7 @@
   "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
   "status": "ACTIVE",
   "creationDate": "2019-08-15T17:54:14.813Z",
-  "lastModifiedDate": "2020-06-01T18:23:22.100Z",
+  "lastModifiedDate": "2020-07-24T15:13:26.125Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -57,14 +57,17 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2019-08-20T19:16:45.802Z"
+      "dateAdded": "2019-08-20T00:00:00.000Z"
     }
   ],
-  "developer": "Epic Dev Test Account",
-  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "developer": "Dragonest Game",
+  "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi45675nukXDCYMFZoAN4ByPC9Qwua",
+  "requiresSecureAccount": true,
   "unsearchable": false
 }
