@@ -1,0 +1,34 @@
+{
+  "id": "831318b0be8b498e97d7a5ea9229929e",
+  "title": "TiramisuGeneralAudience",
+  "description": "TiramisuGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "6fa08ca4ba92438495dfec53fb88118e",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-15T19:53:14.691Z",
+  "lastModifiedDate": "2020-07-17T18:34:10.094Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "831318b0be8b498e97d7a5ea9229929e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Game Mechanic Studios",
+  "developerId": "o-ful3v3e4dem9nnml4zk8hu4qk9umye",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
