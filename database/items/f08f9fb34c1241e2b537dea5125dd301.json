@@ -1,18 +1,19 @@
 {
-  "id": "90197fbe48ac4e30bf6c0ae00d7594e5",
-  "title": "BoxfishDevAudience",
-  "description": "BoxfishDevAudience",
+  "id": "f08f9fb34c1241e2b537dea5125dd301",
+  "title": "City Hunter Predator Pack Audience",
+  "description": "City Hunter Predator Pack Audience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
     },
     {
-      "path": "developer"
+      "path": "public"
     }
   ],
   "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
   "status": "ACTIVE",
-  "creationDate": "2019-11-12T21:56:02.584Z",
+  "creationDate": "2020-06-09T00:57:15.061Z",
   "lastModifiedDate": "2020-07-28T13:59:26.595Z",
   "customAttributes": {
     "SupportedPlatforms": {
@@ -20,14 +21,15 @@
       "value": "Windows"
     }
   },
-  "entitlementName": "90197fbe48ac4e30bf6c0ae00d7594e5",
+  "entitlementName": "f08f9fb34c1241e2b537dea5125dd301",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Epic Dev Test Account",
-  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "developer": "Sony Interactive Entertainment",
+  "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }
