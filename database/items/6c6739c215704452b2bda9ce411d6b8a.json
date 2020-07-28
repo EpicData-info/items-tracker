@@ -2,7 +2,17 @@
   "id": "6c6739c215704452b2bda9ce411d6b8a",
   "title": "CarpoSkinPackAudience",
   "description": "CarpoSkinPackAudience",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/c12a5687fb024192999b2d22c555d4c6/item/esrb-samuraijack-842x404-525603996-842x404-00991186a67f6bb5a31c91b2613cc754.png",
+      "md5": "00991186a67f6bb5a31c91b2613cc754",
+      "width": 842,
+      "height": 404,
+      "size": 16171,
+      "uploadedDate": "2020-07-28T17:03:12.728Z"
+    }
+  ],
   "categories": [
     {
       "path": "audience"
@@ -14,7 +24,7 @@
   "namespace": "c12a5687fb024192999b2d22c555d4c6",
   "status": "ACTIVE",
   "creationDate": "2020-06-30T14:37:42.099Z",
-  "lastModifiedDate": "2020-07-28T16:37:22.763Z",
+  "lastModifiedDate": "2020-07-28T17:03:15.869Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -30,6 +40,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "esrbGameRatingValue": "TEEN",
   "ageGatings": {},
   "unsearchable": false
 }
