@@ -6844,6 +6844,18 @@
     1553187795
   ],
   [
+    "2469d49d340d4781a99ba3eebdd409fa",
+    "c1ccf2ba1bc1473abb6ca5168e1a670c",
+    "PallasDenuvoAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "SEGA of Europe",
+    1594998199,
+    1594998245
+  ],
+  [
     "2470356bea7b44478440fc976e114146",
     "91189432bbad4478afd611edff7f0339",
     "Stories - Season Pass",
@@ -10688,6 +10700,19 @@
     "Epic Dev Test Account",
     1584062360,
     1584062376
+  ],
+  [
+    "3a0e175b50e54183990ecf161cb54b04",
+    "c1ccf2ba1bc1473abb6ca5168e1a670c",
+    "PallasStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "SEGA of Europe",
+    1588601581,
+    1594998292
   ],
   [
     "3a3161c15a41416e935094525033b4c1",
@@ -15486,6 +15511,18 @@
     "Epic Games",
     1524321016,
     1558041738
+  ],
+  [
+    "50fe7f6c9bbd4450b6850fe1ec350c0a",
+    "c1ccf2ba1bc1473abb6ca5168e1a670c",
+    "TestPallasDLCAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "SEGA of Europe",
+    1594742901,
+    1595000124
   ],
   [
     "5106a8a7bde5423d8c3f1023764cdbe9",
@@ -30135,6 +30172,19 @@
     1591885146
   ],
   [
+    "9f38657365ca4f309d08d0cafae6a453",
+    "c1ccf2ba1bc1473abb6ca5168e1a670c",
+    "Pallas",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "SEGA of Europe",
+    1588601581,
+    1594998268
+  ],
+  [
     "9f46f0a3573b4f01a3e3b70bc01f40ff",
     "puma",
     "PumaPress",
@@ -37255,6 +37305,18 @@
     1581430307
   ],
   [
+    "c4dfd240b26f45e7858d11523e33a1c4",
+    "c1ccf2ba1bc1473abb6ca5168e1a670c",
+    "DevPallasAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "SEGA of Europe",
+    1588601581,
+    1594821507
+  ],
+  [
     "c4f7cee106db47e79d6b89986712ffc8",
     "fn",
     "Fortnite Battle Royale - Ranger skin",
@@ -38600,6 +38662,18 @@
     "Epic Games",
     1542236223,
     1542835192
+  ],
+  [
+    "cb6e26dc5dd64972889c95adbc4950e1",
+    "c1ccf2ba1bc1473abb6ca5168e1a670c",
+    "PallasGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "SEGA of Europe",
+    1588601581,
+    1594743293
   ],
   [
     "cb74dba8d00646c49e493e0eb2a7c074",

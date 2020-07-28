@@ -1,0 +1,75 @@
+{
+  "id": "9f38657365ca4f309d08d0cafae6a453",
+  "title": "Pallas",
+  "description": "Pallas",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c1ccf2ba1bc1473abb6ca5168e1a670c",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-04T14:13:01.143Z",
+  "lastModifiedDate": "2020-07-17T15:04:28.903Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "c1ccf2ba1bc1473abb6ca5168e1a670c"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Pallas"
+    }
+  },
+  "entitlementName": "9f38657365ca4f309d08d0cafae6a453",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4d5b8c62a6994895905444dbfc2bb058",
+      "appId": "bf35243e8c3542e082bc7042e0592183",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-04T00:00:00.000Z"
+    }
+  ],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

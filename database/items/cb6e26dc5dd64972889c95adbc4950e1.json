@@ -1,0 +1,35 @@
+{
+  "id": "cb6e26dc5dd64972889c95adbc4950e1",
+  "title": "PallasGeneralAudience",
+  "description": "PallasGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c1ccf2ba1bc1473abb6ca5168e1a670c",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-04T14:13:01.056Z",
+  "lastModifiedDate": "2020-07-14T16:14:53.077Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "cb6e26dc5dd64972889c95adbc4950e1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": true
+}

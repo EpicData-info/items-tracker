@@ -1,0 +1,34 @@
+{
+  "id": "c4dfd240b26f45e7858d11523e33a1c4",
+  "title": "DevPallasAudience",
+  "description": "DevPallasAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "c1ccf2ba1bc1473abb6ca5168e1a670c",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-04T14:13:01.108Z",
+  "lastModifiedDate": "2020-07-15T13:58:27.942Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "c4dfd240b26f45e7858d11523e33a1c4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

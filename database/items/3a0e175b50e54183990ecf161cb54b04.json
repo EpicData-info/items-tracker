@@ -1,0 +1,56 @@
+{
+  "id": "3a0e175b50e54183990ecf161cb54b04",
+  "title": "PallasStaging",
+  "description": "PallasStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c1ccf2ba1bc1473abb6ca5168e1a670c",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-04T14:13:01.181Z",
+  "lastModifiedDate": "2020-07-17T15:04:52.911Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PallasStaging"
+    }
+  },
+  "entitlementName": "3a0e175b50e54183990ecf161cb54b04",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e3c43406663f4ba18434538da022849d",
+      "appId": "832275eac9134b23b0aaa3bd5a90f5f9",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-05-04T00:00:00.000Z"
+    }
+  ],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}
