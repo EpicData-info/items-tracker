@@ -14,7 +14,7 @@
   "namespace": "deab864e1abf4357b303bcd5ff6fe8da",
   "status": "ACTIVE",
   "creationDate": "2020-03-25T20:38:36.834Z",
-  "lastModifiedDate": "2020-06-29T18:18:58.142Z",
+  "lastModifiedDate": "2020-07-28T13:20:25.160Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -23,6 +23,10 @@
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{AppData}/VicariousVisions/THPS/Saved/SaveGames/"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
     },
     "FolderName": {
       "type": "STRING",
