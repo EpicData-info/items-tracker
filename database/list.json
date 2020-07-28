@@ -7918,6 +7918,19 @@
     1586394377
   ],
   [
+    "29998428e6db42d9b5289b83f42a2f98",
+    "c12a5687fb024192999b2d22c555d4c6",
+    "Destroy all Humans!",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1590592294,
+    1595954201
+  ],
+  [
     "29a144ba399b4be3819fe98a94cb6f44",
     "f5d58106a0e143758ddf2bb30dd72ae2",
     "EscolarStaging",
@@ -9968,6 +9981,19 @@
     "Private Division",
     1552881588,
     1566934662
+  ],
+  [
+    "35bfc136a9f943cfae9a6a8473d078bb",
+    "c12a5687fb024192999b2d22c555d4c6",
+    "CarpoStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1590592294,
+    1595954201
   ],
   [
     "35c2b70ea1124934b5daac0f15f3aa18",
@@ -18316,6 +18342,18 @@
     1576155597
   ],
   [
+    "5fdac1a88f4643eca380bef8917184c1",
+    "c12a5687fb024192999b2d22c555d4c6",
+    "CarpoGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "THQ Nordic GmbH",
+    1590592294,
+    1595954242
+  ],
+  [
     "601c213026b0425087dd71758ab91fef",
     "413361d2d5db4912ac2dfbcf27a38141",
     "OstrichGeneralAudience",
@@ -20567,6 +20605,18 @@
     "Human Head Studios, Inc.",
     1566919269,
     1568147328
+  ],
+  [
+    "6c6739c215704452b2bda9ce411d6b8a",
+    "c12a5687fb024192999b2d22c555d4c6",
+    "CarpoSkinPackAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "THQ Nordic GmbH",
+    1593527862,
+    1595954242
   ],
   [
     "6c6780f976e64abb9a9a0855469cc4da",
@@ -29656,6 +29706,18 @@
     "2K Games, Inc.",
     1592251481,
     1592263567
+  ],
+  [
+    "9cf0350275324d959ace1d9ebeecce59",
+    "c12a5687fb024192999b2d22c555d4c6",
+    "DevCarpoAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "THQ Nordic GmbH",
+    1590592294,
+    1595954242
   ],
   [
     "9cf1f1ae3df6412cb330c0dbcf06dda6",

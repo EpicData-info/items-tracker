@@ -1,0 +1,93 @@
+{
+  "id": "29998428e6db42d9b5289b83f42a2f98",
+  "title": "Destroy all Humans!",
+  "description": "Destroy all Humans!",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/c12a5687fb024192999b2d22c555d4c6/item/EGSNewsfeed_1920x1080-1920x1080-6fb20a72dfcd9bc2006e4c1b74a239b7.png",
+      "md5": "6fb20a72dfcd9bc2006e4c1b74a239b7",
+      "width": 1920,
+      "height": 1080,
+      "size": 2357947,
+      "uploadedDate": "2020-07-14T17:17:36.073Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/c12a5687fb024192999b2d22c555d4c6/item/DAH_Portrait-1200x1600-2e2b6bca291228e4df252c4857664408.jpg",
+      "md5": "2e2b6bca291228e4df252c4857664408",
+      "width": 1200,
+      "height": 1600,
+      "size": 1205440,
+      "uploadedDate": "2020-07-14T17:17:47.616Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c12a5687fb024192999b2d22c555d4c6",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-27T15:11:34.278Z",
+  "lastModifiedDate": "2020-07-28T16:36:41.583Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "c12a5687fb024192999b2d22c555d4c6"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DestroyAllHumans"
+    }
+  },
+  "entitlementName": "29998428e6db42d9b5289b83f42a2f98",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a41eafc4d7634bb58f653db513594b62",
+      "appId": "94232f38800f41b79b49243ada60ff24",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567hwKrfeemMZVhr3ujitcko9Pq",
+  "requiresSecureAccount": true,
+  "unsearchable": false
+}

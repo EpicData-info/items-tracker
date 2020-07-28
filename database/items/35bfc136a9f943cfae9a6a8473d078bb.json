@@ -1,0 +1,51 @@
+{
+  "id": "35bfc136a9f943cfae9a6a8473d078bb",
+  "title": "CarpoStaging",
+  "description": "CarpoStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c12a5687fb024192999b2d22c555d4c6",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-27T15:11:34.328Z",
+  "lastModifiedDate": "2020-07-28T16:36:41.584Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CarpoStaging"
+    }
+  },
+  "entitlementName": "35bfc136a9f943cfae9a6a8473d078bb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "985b21a2b5cb4db7a00385b873161b9a",
+      "appId": "372f59110294400780f305dddcf31bbb",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-27T15:18:56.256Z"
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

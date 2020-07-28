@@ -1,0 +1,35 @@
+{
+  "id": "6c6739c215704452b2bda9ce411d6b8a",
+  "title": "CarpoSkinPackAudience",
+  "description": "CarpoSkinPackAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c12a5687fb024192999b2d22c555d4c6",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T14:37:42.099Z",
+  "lastModifiedDate": "2020-07-28T16:37:22.763Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "6c6739c215704452b2bda9ce411d6b8a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
