@@ -1,7 +1,7 @@
 {
   "id": "6036f2bec4c4454393cfdf2dd57faeee",
-  "title": "CatnipGBXUserResearch2DLC5Part2",
-  "description": "CatnipGBXUserResearch2DLC5Part2",
+  "title": "CatnipGBXUserResearch2DLC6",
+  "description": "CatnipGBXUserResearch2DLC6",
   "keyImages": [],
   "categories": [
     {
@@ -14,7 +14,7 @@
   "namespace": "catnip",
   "status": "ACTIVE",
   "creationDate": "2020-06-15T19:39:24.441Z",
-  "lastModifiedDate": "2020-07-15T17:41:56.926Z",
+  "lastModifiedDate": "2020-07-29T20:55:41.724Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -34,7 +34,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "CatnipGBXUserResearch2DLC5Pt2"
+      "value": "CatnipGBXUserResearch2DLC6"
     }
   },
   "entitlementName": "6036f2bec4c4454393cfdf2dd57faeee",
