@@ -36,7 +36,7 @@
       "path": "public"
     },
     {
-      "path": "games"
+      "path": "engines"
     },
     {
       "path": "editors"
@@ -48,7 +48,7 @@
   "namespace": "b9def67e597b4be7a16146146a044d02",
   "status": "ACTIVE",
   "creationDate": "2019-10-21T17:35:08.886Z",
-  "lastModifiedDate": "2020-07-29T16:38:54.065Z",
+  "lastModifiedDate": "2020-07-29T17:55:24.705Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
