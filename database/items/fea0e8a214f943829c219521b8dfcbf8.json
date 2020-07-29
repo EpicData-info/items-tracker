@@ -1,7 +1,7 @@
 {
   "id": "fea0e8a214f943829c219521b8dfcbf8",
-  "title": "CatnipExternalStable3DLC5Part1",
-  "description": "CatnipExternalStable3DLC5Part1",
+  "title": "CatnipExternalStable3DLC5",
+  "description": "CatnipExternalStable3DLC5",
   "keyImages": [],
   "categories": [
     {
@@ -14,7 +14,7 @@
   "namespace": "catnip",
   "status": "ACTIVE",
   "creationDate": "2020-06-15T19:57:09.808Z",
-  "lastModifiedDate": "2020-06-15T23:22:19.153Z",
+  "lastModifiedDate": "2020-07-29T22:55:37.436Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -34,7 +34,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "CatnipExternalStable3DLC5Pt1"
+      "value": "CatnipExternalStable3DLC5"
     }
   },
   "entitlementName": "fea0e8a214f943829c219521b8dfcbf8",
