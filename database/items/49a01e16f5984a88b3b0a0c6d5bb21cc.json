@@ -1,7 +1,7 @@
 {
   "id": "49a01e16f5984a88b3b0a0c6d5bb21cc",
-  "title": "CatnipGbxPlaytestDLC5Part1",
-  "description": "CatnipGbxPlaytestDLC5Part1",
+  "title": "CatnipGbxPlaytestDLC5",
+  "description": "CatnipGbxPlaytestDLC5",
   "keyImages": [
     {
       "type": "DieselGameBoxLogo",
@@ -42,7 +42,7 @@
   "namespace": "catnip",
   "status": "ACTIVE",
   "creationDate": "2020-06-15T20:11:37.211Z",
-  "lastModifiedDate": "2020-06-15T23:31:18.852Z",
+  "lastModifiedDate": "2020-07-29T22:54:02.256Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -62,7 +62,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "CatnipGbxPlaytestDLC5Pt1"
+      "value": "CatnipGbxPlaytestDLC5"
     }
   },
   "entitlementName": "49a01e16f5984a88b3b0a0c6d5bb21cc",

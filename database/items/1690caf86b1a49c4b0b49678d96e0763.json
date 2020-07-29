@@ -1,7 +1,7 @@
 {
   "id": "1690caf86b1a49c4b0b49678d96e0763",
-  "title": "CatnipStaging2DLC5Part1",
-  "description": "CatnipStaging2DLC5Part1",
+  "title": "CatnipStaging2DLC5",
+  "description": "CatnipStaging2DLC5",
   "keyImages": [],
   "categories": [
     {
@@ -14,11 +14,15 @@
   "namespace": "catnip",
   "status": "ACTIVE",
   "creationDate": "2020-06-15T20:13:41.131Z",
-  "lastModifiedDate": "2020-06-15T23:32:57.205Z",
+  "lastModifiedDate": "2020-07-29T22:53:38.245Z",
   "customAttributes": {
     "OwnershipToken": {
       "type": "STRING",
       "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CatnipStaging2DLC5"
     }
   },
   "entitlementName": "1690caf86b1a49c4b0b49678d96e0763",

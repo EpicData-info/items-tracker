@@ -1,7 +1,7 @@
 {
   "id": "c43dee20c7ea42588816702f7e693313",
-  "title": "CatnipRatingDLC5Part1",
-  "description": "CatnipRatingDLC5Part1",
+  "title": "CatnipRatingDLC5",
+  "description": "CatnipRatingDLC5",
   "keyImages": [],
   "categories": [
     {
@@ -14,11 +14,15 @@
   "namespace": "catnip",
   "status": "ACTIVE",
   "creationDate": "2020-06-15T20:19:20.431Z",
-  "lastModifiedDate": "2020-06-15T23:34:32.053Z",
+  "lastModifiedDate": "2020-07-29T22:52:44.071Z",
   "customAttributes": {
     "OwnershipToken": {
       "type": "STRING",
       "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CatnipRatingDLC5"
     }
   },
   "entitlementName": "c43dee20c7ea42588816702f7e693313",

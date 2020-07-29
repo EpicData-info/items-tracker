@@ -1,7 +1,7 @@
 {
   "id": "98150e4ce2ee4ec48bcb3e5307470134",
-  "title": "CatnipStable2DLC5Part1",
-  "description": "CatnipStable2DLC5Part1",
+  "title": "CatnipStable2DLC5",
+  "description": "CatnipStable2DLC5",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -33,7 +33,7 @@
   "namespace": "catnip",
   "status": "ACTIVE",
   "creationDate": "2020-06-15T20:21:37.302Z",
-  "lastModifiedDate": "2020-06-15T23:36:00.302Z",
+  "lastModifiedDate": "2020-07-29T22:52:00.929Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -45,7 +45,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "CatnipStable2DLC5Pt1"
+      "value": "CatnipStable2DLC5"
     }
   },
   "entitlementName": "98150e4ce2ee4ec48bcb3e5307470134",
