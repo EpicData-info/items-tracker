@@ -13,7 +13,7 @@
   "namespace": "badb0ee71b474ed591ec43212547cfc8",
   "status": "ACTIVE",
   "creationDate": "2019-10-18T01:57:09.788Z",
-  "lastModifiedDate": "2020-03-20T14:41:47.161Z",
+  "lastModifiedDate": "2020-07-29T10:58:15.631Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -29,6 +29,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
   "unsearchable": false
 }
