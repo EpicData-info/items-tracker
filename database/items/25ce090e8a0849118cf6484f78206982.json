@@ -33,7 +33,7 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2017-08-08T20:26:23.336Z",
-  "lastModifiedDate": "2019-05-06T16:57:32.690Z",
+  "lastModifiedDate": "2020-07-29T19:35:34.486Z",
   "customAttributes": {
     "AndroidCommandLine": {
       "type": "STRING",
@@ -75,5 +75,6 @@
   "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
   "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }
