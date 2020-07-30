@@ -1,7 +1,7 @@
 {
-  "id": "ed3bfa951ced4b63afcceaa499a52c92",
-  "title": "Chivalry 2 - CertStaging",
-  "description": "Chivalry 2 - CertStaging",
+  "id": "3263607987e3462f82ee3a362fb7a7f0",
+  "title": "Chivalry 2 - Koch",
+  "description": "Chivalry 2 - Koch",
   "keyImages": [
     {
       "type": "DieselGameBoxTall",
@@ -35,8 +35,8 @@
   ],
   "namespace": "bd46d4ce259349e5bd8b3ded20274737",
   "status": "ACTIVE",
-  "creationDate": "2020-07-30T19:29:30.342Z",
-  "lastModifiedDate": "2020-07-30T19:32:17.671Z",
+  "creationDate": "2020-07-30T19:32:28.274Z",
+  "lastModifiedDate": "2020-07-30T19:33:54.441Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,16 +44,16 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Chivalry2CertStaging"
+      "value": "Chivalry2Koch"
     }
   },
-  "entitlementName": "ed3bfa951ced4b63afcceaa499a52c92",
+  "entitlementName": "3263607987e3462f82ee3a362fb7a7f0",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
       "id": "0d2400b29432451193c4c3a5cfaad06c",
-      "appId": "b0de4a69d64646e4acb836ff2c76cd74",
+      "appId": "6d1087e1faf64588ab461b13742a370e",
       "platform": [
         "Windows"
       ],
