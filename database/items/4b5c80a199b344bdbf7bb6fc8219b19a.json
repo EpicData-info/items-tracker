@@ -1,0 +1,101 @@
+{
+  "id": "4b5c80a199b344bdbf7bb6fc8219b19a",
+  "title": "Rogue Company External QA",
+  "description": "Rogue Company External QA",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/item/EGS_DEVELOPER_RogueCompany_L1_DESCRIPTION-2560x1440-d61294cb5d9d0d94f0199d95c461d78a.jpg",
+      "md5": "d61294cb5d9d0d94f0199d95c461d78a",
+      "width": 2560,
+      "height": 1440,
+      "size": 426007,
+      "uploadedDate": "2019-09-04T18:30:25.410Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/item/EGS_DEVELOPER_RogueCompany_IC1_DESCRIPTION-200x200-02a2630eadb17cdcd9009ab52f2a1fb5.png",
+      "md5": "02a2630eadb17cdcd9009ab52f2a1fb5",
+      "width": 200,
+      "height": 200,
+      "size": 3748,
+      "uploadedDate": "2019-09-04T18:30:35.758Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/item/EGS_DEVELOPER_RogueCompany_S3_DESCRIPTION-1280x1440-b2f263fb7bf7b74e9b761457d9447ac8.jpg",
+      "md5": "b2f263fb7bf7b74e9b761457d9447ac8",
+      "width": 1280,
+      "height": 1440,
+      "size": 257555,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-30T17:28:00.261Z",
+  "lastModifiedDate": "2020-07-30T17:36:52.673Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "933ada2ec45e4184ae840d64c99e0ba9"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ROCOExternalQA"
+    }
+  },
+  "entitlementName": "4b5c80a199b344bdbf7bb6fc8219b19a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3699dbb53e594e109dc49e57cf757547",
+      "appId": "4c2eaf24a59d4948abc11cdeae75de02",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-16T00:00:00.000Z"
+    }
+  ],
+  "developer": "Hi-Rez Studios",
+  "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

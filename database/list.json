@@ -9742,6 +9742,18 @@
     1497480251
   ],
   [
+    "349f5fe134f64abc8df0f12be89f5c03",
+    "933ada2ec45e4184ae840d64c99e0ba9",
+    "PeweeExternalQAAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Hi-Rez Studios",
+    1596130512,
+    1596130554
+  ],
+  [
     "34a37ede3156406da585a7bd4111139c",
     "silene",
     "SilenePressAudience",
@@ -14265,6 +14277,19 @@
     "YAGER",
     1567114728,
     1594212254
+  ],
+  [
+    "4b5c80a199b344bdbf7bb6fc8219b19a",
+    "933ada2ec45e4184ae840d64c99e0ba9",
+    "Rogue Company External QA",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Hi-Rez Studios",
+    1596130080,
+    1596130612
   ],
   [
     "4b71390fdaaf420783372a587fa90447",
