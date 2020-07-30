@@ -1,0 +1,33 @@
+{
+  "id": "9c08879965884032b380e03b49b34656",
+  "title": "RubyGeneralAudience",
+  "description": "RubyGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ceaa24233cdb4b678a1cf515e3a912e8",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T02:37:51.524Z",
+  "lastModifiedDate": "2020-07-30T13:41:29.566Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9c08879965884032b380e03b49b34656",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Techland",
+  "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

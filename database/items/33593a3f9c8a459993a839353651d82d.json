@@ -1,0 +1,51 @@
+{
+  "id": "33593a3f9c8a459993a839353651d82d",
+  "title": "RubyStaging",
+  "description": "RubyStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ceaa24233cdb4b678a1cf515e3a912e8",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T02:37:51.709Z",
+  "lastModifiedDate": "2020-07-30T13:40:04.829Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RubyStaging"
+    }
+  },
+  "entitlementName": "33593a3f9c8a459993a839353651d82d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "065e05bd901146869a677288b96e955e",
+      "appId": "15afb61e0dcc491dbfed4f2e3b3529b7",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-30T13:39:33.594Z"
+    }
+  ],
+  "developer": "Techland",
+  "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

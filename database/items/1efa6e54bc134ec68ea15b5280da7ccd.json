@@ -1,0 +1,71 @@
+{
+  "id": "1efa6e54bc134ec68ea15b5280da7ccd",
+  "title": "Ruby",
+  "description": "Ruby",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ceaa24233cdb4b678a1cf515e3a912e8",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T02:37:51.654Z",
+  "lastModifiedDate": "2020-07-30T13:40:04.829Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ceaa24233cdb4b678a1cf515e3a912e8"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Ruby"
+    }
+  },
+  "entitlementName": "1efa6e54bc134ec68ea15b5280da7ccd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e2d167853fb74a779510200429636115",
+      "appId": "9bc4423d873845739cc99ab69b6bfbe9",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-30T13:38:54.618Z"
+    }
+  ],
+  "developer": "Techland",
+  "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -5812,6 +5812,19 @@
     1584625836
   ],
   [
+    "1efa6e54bc134ec68ea15b5280da7ccd",
+    "ceaa24233cdb4b678a1cf515e3a912e8",
+    "Ruby",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Techland",
+    1593484671,
+    1596116404
+  ],
+  [
     "1f0b2f7d20464f8aa3760066c208ae9f",
     "middlemist",
     "The Sinking City Pre-Purchase (TEST)",
@@ -9363,6 +9376,19 @@
     "Rebellion",
     1582222504,
     1589291430
+  ],
+  [
+    "33593a3f9c8a459993a839353651d82d",
+    "ceaa24233cdb4b678a1cf515e3a912e8",
+    "RubyStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Techland",
+    1593484671,
+    1596116404
   ],
   [
     "3359503b79a845c9bbb34b2042eb1fed",
@@ -18592,6 +18618,18 @@
     "Zen Studios",
     1581476316,
     1588172941
+  ],
+  [
+    "60ddd0a88c654b4285a71f1298ed4ab1",
+    "ceaa24233cdb4b678a1cf515e3a912e8",
+    "DevRubyAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Techland",
+    1593484671,
+    1596116489
   ],
   [
     "60e66184f95f4bfc99e60d506df122e8",
@@ -29600,6 +29638,18 @@
     "Square Enix",
     1576525485,
     1588968063
+  ],
+  [
+    "9c08879965884032b380e03b49b34656",
+    "ceaa24233cdb4b678a1cf515e3a912e8",
+    "RubyGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Techland",
+    1593484671,
+    1596116489
   ],
   [
     "9c27eedb5cd1412c9cdba4182a742140",
