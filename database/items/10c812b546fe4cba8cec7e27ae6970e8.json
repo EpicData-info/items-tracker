@@ -4,31 +4,22 @@
   "description": "Phoenix Point",
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_GameIcon_400x400-400x400-3077494a8cfa2a464958203163c65722.png",
-      "md5": "3077494a8cfa2a464958203163c65722",
-      "width": 400,
-      "height": 400,
-      "size": 7129,
-      "uploadedDate": "2019-03-12T17:21:14.529Z"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/iris/item/PP key art EGS Update 6 horizontal-2560x1440-05af4101b6b4a515b1e8caf86bf36479.jpg",
+      "md5": "05af4101b6b4a515b1e8caf86bf36479",
+      "width": 2560,
+      "height": 1440,
+      "size": 859507,
+      "uploadedDate": "2020-07-30T15:52:51.680Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/iris/item/PP key art EGS Update 5 vertical-860x1148-6b1ebf4b03ba2a710cb3c71afe297686.jpg",
-      "md5": "6b1ebf4b03ba2a710cb3c71afe297686",
+      "url": "https://cdn1.epicgames.com/iris/item/PP key art EGS Update 6 vertical-860x1148-b493bcc16afadfcfc5bba0a9ea7994ff.jpg",
+      "md5": "b493bcc16afadfcfc5bba0a9ea7994ff",
       "width": 860,
       "height": 1148,
-      "size": 418898,
-      "uploadedDate": "2020-06-11T18:29:50.516Z"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/iris/item/PP key art EGS Update 5 horizontal-2560x1440-ca5a2c41e3a8b80daee3d5a46ce89a4b.jpg",
-      "md5": "ca5a2c41e3a8b80daee3d5a46ce89a4b",
-      "width": 2560,
-      "height": 1440,
-      "size": 861088,
-      "uploadedDate": "2020-06-11T18:30:00.413Z"
+      "size": 417349,
+      "uploadedDate": "2020-07-30T15:53:05.532Z"
     }
   ],
   "categories": [
@@ -42,7 +33,7 @@
   "namespace": "iris",
   "status": "ACTIVE",
   "creationDate": "2019-02-15T16:22:06.508Z",
-  "lastModifiedDate": "2020-06-11T18:30:04.072Z",
+  "lastModifiedDate": "2020-07-30T15:53:29.922Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
