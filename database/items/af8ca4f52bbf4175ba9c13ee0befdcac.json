@@ -1,0 +1,71 @@
+{
+  "id": "af8ca4f52bbf4175ba9c13ee0befdcac",
+  "title": "Chivalry 2 - Cert",
+  "description": "Chivalry 2 - Cert",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/item/Wishlist Portrait -860x1148-7dc5fac63862874e86ebbbdaa6683660.jpg",
+      "md5": "7dc5fac63862874e86ebbbdaa6683660",
+      "width": 860,
+      "height": 1148,
+      "size": 749128,
+      "uploadedDate": "2020-03-11T18:33:54.547Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/item/Wishlist-Landscape-2560x1440-a48745f2dde9b492b4100291e23bba10.jpg",
+      "md5": "a48745f2dde9b492b4100291e23bba10",
+      "width": 2560,
+      "height": 1440,
+      "size": 2043381,
+      "uploadedDate": "2020-03-11T18:34:04.690Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bd46d4ce259349e5bd8b3ded20274737",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-30T19:26:04.594Z",
+  "lastModifiedDate": "2020-07-30T19:29:01.498Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Chivalry2Cert"
+    }
+  },
+  "entitlementName": "af8ca4f52bbf4175ba9c13ee0befdcac",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0d2400b29432451193c4c3a5cfaad06c",
+      "appId": "52716d88f91c4d51aa26e7b48c6aad4e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-09-16T00:00:00.000Z"
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
