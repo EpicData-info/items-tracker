@@ -1,0 +1,51 @@
+{
+  "id": "945f3a1ccab243708f1d90ac6e4ebe41",
+  "title": "WarsawStaging",
+  "description": "WarsawStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "23aa88cfbedf4dceb1c6a41e2c0eafc0",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-27T01:17:36.931Z",
+  "lastModifiedDate": "2020-06-27T01:50:45.408Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WarsawStaging"
+    }
+  },
+  "entitlementName": "945f3a1ccab243708f1d90ac6e4ebe41",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "aadb25df9a124dd7af1e388faf205e78",
+      "appId": "aea30e2481304043a751f9dc0992b137",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-27T01:43:56.529Z"
+    }
+  ],
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
