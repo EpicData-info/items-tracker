@@ -1,0 +1,46 @@
+{
+  "id": "2aebdec3e2004a82be4c5f00ea363638",
+  "title": "CLAAS DOMINATOR 108 SL combine harvester Audience",
+  "description": "CLAAS DOMINATOR 108 SL combine harvester Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/item/ESRB_NoDescriptors_UsersInteract-842x485-c55c3b08996eb8487d4a6956c84d6d66.jpg",
+      "md5": "c55c3b08996eb8487d4a6956c84d6d66",
+      "width": 842,
+      "height": 485,
+      "size": 86271,
+      "uploadedDate": "2020-01-23T14:41:00.983Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "493e9ad801e8487497fe7840cb8404bb",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-31T13:06:59.470Z",
+  "lastModifiedDate": "2020-07-31T13:10:33.577Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "2aebdec3e2004a82be4c5f00ea363638",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Focus Home",
+  "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE",
+  "ageGatings": {},
+  "unsearchable": false
+}
