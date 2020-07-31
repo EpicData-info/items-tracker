@@ -1,0 +1,53 @@
+{
+  "id": "44ccb0ea29dd4f018abf162179a7de24",
+  "title": "ExternalPreview1Staging",
+  "description": "ExternalPreview1Staging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-31T17:55:41.036Z",
+  "lastModifiedDate": "2020-07-31T17:56:56.631Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ExtPrev1Staging"
+    }
+  },
+  "entitlementName": "44ccb0ea29dd4f018abf162179a7de24",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "821db19a816745ba99365df1868b65ce",
+      "appId": "c3afb535d8d14936ab7f834eb613f940",
+      "compatibleApps": [],
+      "platform": [],
+      "dateAdded": "2020-07-31T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Gearbox Publishing",
+  "developerId": "o-dcmk65hvycy3kndmqvfg3yn3up87jn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

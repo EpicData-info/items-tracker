@@ -1,0 +1,53 @@
+{
+  "id": "1e26ac928561417285dd41857549a511",
+  "title": "ExternalPreview1",
+  "description": "ExternalPreview1",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-31T17:50:51.769Z",
+  "lastModifiedDate": "2020-07-31T17:54:53.723Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ExternalPreview1"
+    }
+  },
+  "entitlementName": "1e26ac928561417285dd41857549a511",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c1e9c6e993374743a4ce36bb93dbf0e1",
+      "appId": "dfb6bff8b13544b4a338134038d63c1a",
+      "compatibleApps": [],
+      "platform": [],
+      "dateAdded": "2020-07-31T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Gearbox Publishing",
+  "developerId": "o-dcmk65hvycy3kndmqvfg3yn3up87jn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

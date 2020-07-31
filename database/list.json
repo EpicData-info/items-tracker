@@ -5615,6 +5615,19 @@
     1575554259
   ],
   [
+    "1e26ac928561417285dd41857549a511",
+    "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
+    "ExternalPreview1",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Gearbox Publishing",
+    1596217851,
+    1596218093
+  ],
+  [
     "1e38b618d106430db94b474abbfecc16",
     "corydalis",
     "Slime Rancher",
@@ -12937,6 +12950,19 @@
     "William Chyr Studio",
     1562966807,
     1572441591
+  ],
+  [
+    "44ccb0ea29dd4f018abf162179a7de24",
+    "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
+    "ExternalPreview1Staging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Gearbox Publishing",
+    1596218141,
+    1596218216
   ],
   [
     "44ee52614bae49ed8b5e90ad2201debe",
