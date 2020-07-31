@@ -14,7 +14,7 @@
   "namespace": "deab864e1abf4357b303bcd5ff6fe8da",
   "status": "ACTIVE",
   "creationDate": "2020-03-25T20:38:36.834Z",
-  "lastModifiedDate": "2020-07-28T13:20:25.160Z",
+  "lastModifiedDate": "2020-07-31T18:56:06.637Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -53,5 +53,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "fghi4567TZr1BCQoInilbb8t7utZQ6ze",
   "unsearchable": false
 }
