@@ -42,7 +42,7 @@
   "namespace": "crab",
   "status": "ACTIVE",
   "creationDate": "2019-02-26T15:59:56.670Z",
-  "lastModifiedDate": "2020-03-12T13:43:29.358Z",
+  "lastModifiedDate": "2020-07-31T17:14:50.903Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -78,7 +78,7 @@
     },
     "MaxSizeMB": {
       "type": "STRING",
-      "value": "1000"
+      "value": "2000"
     },
     "FolderName": {
       "type": "STRING",
@@ -107,6 +107,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
   "unsearchable": false
 }
