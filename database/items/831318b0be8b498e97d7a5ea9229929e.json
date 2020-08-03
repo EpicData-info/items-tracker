@@ -2,6 +2,7 @@
   "id": "831318b0be8b498e97d7a5ea9229929e",
   "title": "TiramisuGeneralAudience",
   "description": "TiramisuGeneralAudience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +14,7 @@
   "namespace": "6fa08ca4ba92438495dfec53fb88118e",
   "status": "ACTIVE",
   "creationDate": "2020-07-15T19:53:14.691Z",
-  "lastModifiedDate": "2020-07-17T18:34:10.094Z",
+  "lastModifiedDate": "2020-08-03T22:59:05.866Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +24,13 @@
   "entitlementName": "831318b0be8b498e97d7a5ea9229929e",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Game Mechanic Studios",
-  "developerId": "o-ful3v3e4dem9nnml4zk8hu4qk9umye",
+  "developer": "Game Mechanic Studios Noho",
+  "developerId": "o-uf3lq93jd32ezc5vrxta8zeqflldqu",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "requiresSecureAccount": false,
   "unsearchable": false
 }
