@@ -1,0 +1,71 @@
+{
+  "id": "388bd31c3dec4df8b525fc4405bae616",
+  "title": "Twinmotion Beta",
+  "description": "Twinmotion Beta",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "poodle",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-03T16:42:18.985Z",
+  "lastModifiedDate": "2020-08-03T16:42:18.985Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "Twinmotion"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "com.epicgames.app.developerName": {
+      "type": "STRING",
+      "value": "Epic Games"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TwinmotionBeta"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Mac"
+    }
+  },
+  "entitlementName": "388bd31c3dec4df8b525fc4405bae616",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5d68b528f2ad4db9a3f16f4595ca573d",
+      "appId": "08f2fb85dee04872874298628db766a9",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-07-14T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "twin"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
