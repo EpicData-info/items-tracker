@@ -39,16 +39,13 @@
       "path": "digitalextras"
     },
     {
-      "path": "games"
-    },
-    {
       "path": "applications"
     }
   ],
   "namespace": "b9def67e597b4be7a16146146a044d02",
   "status": "ACTIVE",
   "creationDate": "2019-10-30T13:19:11.952Z",
-  "lastModifiedDate": "2020-08-03T12:31:10.749Z",
+  "lastModifiedDate": "2020-08-03T19:24:48.510Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
