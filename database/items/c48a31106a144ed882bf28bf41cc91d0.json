@@ -27,7 +27,7 @@
       "path": "public"
     },
     {
-      "path": "games"
+      "path": "digitalextras"
     },
     {
       "path": "applications"
@@ -36,7 +36,7 @@
   "namespace": "b9def67e597b4be7a16146146a044d02",
   "status": "ACTIVE",
   "creationDate": "2019-10-21T17:50:48.218Z",
-  "lastModifiedDate": "2020-01-08T17:14:51.267Z",
+  "lastModifiedDate": "2020-08-04T12:58:44.136Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -66,6 +66,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
   "unsearchable": false
 }
