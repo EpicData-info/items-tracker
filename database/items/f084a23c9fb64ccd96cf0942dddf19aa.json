@@ -33,7 +33,7 @@
   "namespace": "larkspur",
   "status": "ACTIVE",
   "creationDate": "2019-02-13T17:25:32.565Z",
-  "lastModifiedDate": "2020-08-05T15:49:20.331Z",
+  "lastModifiedDate": "2020-08-05T15:54:05.445Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
