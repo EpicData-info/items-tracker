@@ -24,7 +24,7 @@
   "namespace": "newt",
   "status": "ACTIVE",
   "creationDate": "2020-02-28T20:27:07.648Z",
-  "lastModifiedDate": "2020-02-28T20:56:00.139Z",
+  "lastModifiedDate": "2020-08-05T15:36:45.029Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -61,6 +61,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
   "unsearchable": false
 }

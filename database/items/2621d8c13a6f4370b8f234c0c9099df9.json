@@ -33,7 +33,7 @@
   "namespace": "newt",
   "status": "ACTIVE",
   "creationDate": "2019-10-09T21:47:23.033Z",
-  "lastModifiedDate": "2019-10-21T14:42:35.504Z",
+  "lastModifiedDate": "2020-08-05T15:36:45.029Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -66,5 +66,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

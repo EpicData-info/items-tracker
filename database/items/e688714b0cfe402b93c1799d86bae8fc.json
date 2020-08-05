@@ -1,7 +1,7 @@
 {
-  "id": "840b9dea6d804d388992ff7d260dacb9",
-  "title": "NewtPreAlphaAudience",
-  "description": "NewtPreAlphaAudience",
+  "id": "e688714b0cfe402b93c1799d86bae8fc",
+  "title": "Battlemage DLC Audience",
+  "description": "Battlemage DLC Audience",
   "keyImages": [
     {
       "type": "ESRB",
@@ -10,7 +10,7 @@
       "width": 842,
       "height": 404,
       "size": 51194,
-      "uploadedDate": "2019-04-23T19:38:45.177Z"
+      "uploadedDate": "2019-04-23T19:23:42.731Z"
     }
   ],
   "categories": [
@@ -23,9 +23,9 @@
   ],
   "namespace": "newt",
   "status": "ACTIVE",
-  "creationDate": "2019-02-01T20:27:04.773Z",
-  "lastModifiedDate": "2020-08-05T15:36:45.029Z",
-  "entitlementName": "840b9dea6d804d388992ff7d260dacb9",
+  "creationDate": "2020-04-09T13:57:42.472Z",
+  "lastModifiedDate": "2020-08-05T15:36:45.030Z",
+  "entitlementName": "e688714b0cfe402b93c1799d86bae8fc",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],

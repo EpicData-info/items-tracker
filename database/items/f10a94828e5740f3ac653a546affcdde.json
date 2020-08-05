@@ -11,7 +11,7 @@
   "namespace": "newt",
   "status": "ACTIVE",
   "creationDate": "2019-10-24T12:27:41.164Z",
-  "lastModifiedDate": "2019-10-24T12:27:41.164Z",
+  "lastModifiedDate": "2020-08-05T15:36:45.030Z",
   "entitlementName": "f10a94828e5740f3ac653a546affcdde",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
@@ -22,6 +22,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": false,
   "unsearchable": false
 }

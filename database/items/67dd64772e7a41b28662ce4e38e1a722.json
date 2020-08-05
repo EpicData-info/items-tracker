@@ -24,7 +24,7 @@
   "namespace": "newt",
   "status": "ACTIVE",
   "creationDate": "2020-02-28T19:12:20.854Z",
-  "lastModifiedDate": "2020-02-28T20:56:00.139Z",
+  "lastModifiedDate": "2020-08-05T15:36:45.029Z",
   "entitlementName": "67dd64772e7a41b28662ce4e38e1a722",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
@@ -36,6 +36,5 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
-  "selfRefundable": true,
   "unsearchable": false
 }

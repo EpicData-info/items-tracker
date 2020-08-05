@@ -14,7 +14,7 @@
   "namespace": "newt",
   "status": "ACTIVE",
   "creationDate": "2019-10-09T21:46:25.724Z",
-  "lastModifiedDate": "2019-10-09T21:47:10.355Z",
+  "lastModifiedDate": "2020-08-05T15:36:45.029Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -31,5 +31,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }
