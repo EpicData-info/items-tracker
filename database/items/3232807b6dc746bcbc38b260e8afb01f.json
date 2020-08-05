@@ -5,30 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/8f8bddb3ff464536984ce8e945cb5f8c/item/SoT-S1-2560x1440-36d981676a51f199c0c7206b3cd33c09.jpg",
-      "md5": "36d981676a51f199c0c7206b3cd33c09",
+      "url": "https://cdn1.epicgames.com/8f8bddb3ff464536984ce8e945cb5f8c/item/SPRK_Store_Landscape_2560x1440-2560x1440-8d6eafe86af3809a541e6aa16e828924.jpg",
+      "md5": "8d6eafe86af3809a541e6aa16e828924",
       "width": 2560,
       "height": 1440,
-      "size": 504756,
-      "uploadedDate": "2019-12-16T18:51:39.929Z"
+      "size": 901711,
+      "uploadedDate": "2020-08-04T21:54:59.517Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/8f8bddb3ff464536984ce8e945cb5f8c/item/SoT-S2-1280x1440-ac13fddfbc2831c64fb3e5896c9ab82b.jpg",
-      "md5": "ac13fddfbc2831c64fb3e5896c9ab82b",
-      "width": 1280,
-      "height": 1440,
-      "size": 407085,
-      "uploadedDate": "2019-12-16T18:51:49.332Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/8f8bddb3ff464536984ce8e945cb5f8c/item/SPRK_UCS14906_EGST_BannerBundle_US_Logo_Color_1000x375-1000x375-14e92c2c7de77f23e3fca026bf84b903.png",
-      "md5": "14e92c2c7de77f23e3fca026bf84b903",
-      "width": 1000,
-      "height": 375,
-      "size": 245010,
-      "uploadedDate": "2019-12-16T18:51:56.791Z"
+      "url": "https://cdn1.epicgames.com/8f8bddb3ff464536984ce8e945cb5f8c/item/SPRK_Store_Portrait_1200x1600-1200x1600-2207f4307a22a4fc55bd08ee807c674d.jpg",
+      "md5": "2207f4307a22a4fc55bd08ee807c674d",
+      "width": 1200,
+      "height": 1600,
+      "size": 781645,
+      "uploadedDate": "2020-08-04T21:55:11.558Z"
     }
   ],
   "categories": [
@@ -45,7 +36,7 @@
   "namespace": "8f8bddb3ff464536984ce8e945cb5f8c",
   "status": "ACTIVE",
   "creationDate": "2019-10-28T21:42:56.956Z",
-  "lastModifiedDate": "2019-12-20T15:17:52.110Z",
+  "lastModifiedDate": "2020-08-05T18:47:54.481Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -89,7 +80,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "6d071536db384c8197f9f21ecbf482b5",
+      "id": "d87899a6f8cd4a80970a49e58848486e",
       "appId": "Alligator",
       "platform": [
         "Windows"
@@ -103,6 +94,6 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
+  "ageGatings": {},
   "unsearchable": false
 }
