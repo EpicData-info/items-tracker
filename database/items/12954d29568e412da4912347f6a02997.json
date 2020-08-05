@@ -1,7 +1,7 @@
 {
   "id": "12954d29568e412da4912347f6a02997",
-  "title": "Gold Pack 04 Audience",
-  "description": "Gold Pack 04 Audience",
+  "title": "Mountain of Gold Audience",
+  "description": "Mountain of Gold Audience",
   "keyImages": [
     {
       "type": "ESRB",
@@ -24,18 +24,19 @@
   "namespace": "newt",
   "status": "ACTIVE",
   "creationDate": "2020-04-09T13:58:14.472Z",
-  "lastModifiedDate": "2020-04-10T14:27:24.984Z",
+  "lastModifiedDate": "2020-08-05T14:47:20.764Z",
   "entitlementName": "12954d29568e412da4912347f6a02997",
   "entitlementType": "AUDIENCE",
   "itemType": "CONSUMABLE",
   "releaseInfo": [],
   "developer": "Proletariat, Inc.",
   "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
-  "useCount": 100,
+  "useCount": 1,
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
+  "ageGatings": {},
   "unsearchable": false
 }

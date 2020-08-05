@@ -1,7 +1,7 @@
 {
   "id": "a0ea8d9df28f4d05a99477f9a7a96817",
-  "title": "Gold Pack 03 Audience",
-  "description": "Gold Pack 03 Audience",
+  "title": "Chest of Gold Audience",
+  "description": "Chest of Gold Audience",
   "keyImages": [
     {
       "type": "ESRB",
@@ -24,18 +24,19 @@
   "namespace": "newt",
   "status": "ACTIVE",
   "creationDate": "2020-04-09T13:58:06.656Z",
-  "lastModifiedDate": "2020-04-10T14:27:14.606Z",
+  "lastModifiedDate": "2020-08-05T14:47:20.764Z",
   "entitlementName": "a0ea8d9df28f4d05a99477f9a7a96817",
   "entitlementType": "AUDIENCE",
   "itemType": "CONSUMABLE",
   "releaseInfo": [],
   "developer": "Proletariat, Inc.",
   "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
-  "useCount": 100,
+  "useCount": 1,
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
+  "ageGatings": {},
   "unsearchable": false
 }

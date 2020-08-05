@@ -1,7 +1,7 @@
 {
   "id": "5dcba59842cc437bb302a08f89af5ee4",
-  "title": "Gold Pack 02 Audience",
-  "description": "Gold Pack 02 Audience",
+  "title": "Bag of Gold Audience",
+  "description": "Bag of Gold Audience",
   "keyImages": [
     {
       "type": "ESRB",
@@ -24,18 +24,19 @@
   "namespace": "newt",
   "status": "ACTIVE",
   "creationDate": "2020-04-09T13:57:46.394Z",
-  "lastModifiedDate": "2020-04-10T14:27:07.858Z",
+  "lastModifiedDate": "2020-08-05T14:47:20.764Z",
   "entitlementName": "5dcba59842cc437bb302a08f89af5ee4",
   "entitlementType": "AUDIENCE",
   "itemType": "CONSUMABLE",
   "releaseInfo": [],
   "developer": "Proletariat, Inc.",
   "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
-  "useCount": 100,
+  "useCount": 1,
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
+  "ageGatings": {},
   "unsearchable": false
 }
