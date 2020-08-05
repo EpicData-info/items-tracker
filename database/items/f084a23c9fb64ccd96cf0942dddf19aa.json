@@ -4,31 +4,22 @@
   "description": "Far Cry Primal Apex Edition",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/larkspur/item/fcp_logo_white-4844x2552-24b382234e4f7c1bb60c27a6e2b910ef-4844x2552-24b382234e4f7c1bb60c27a6e2b910ef.png",
-      "md5": "24b382234e4f7c1bb60c27a6e2b910ef",
-      "width": 4844,
-      "height": 2552,
-      "size": 257115,
-      "uploadedDate": "2019-06-12T17:19:36.644Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/larkspur/item/FarCryPrimal_PrimaryPromo-1920x1080-438d745acb4826ddeeee4f4b5ac96bc9-1920x1080-438d745acb4826ddeeee4f4b5ac96bc9.jpg",
-      "md5": "438d745acb4826ddeeee4f4b5ac96bc9",
-      "width": 1920,
-      "height": 1080,
-      "size": 365849,
-      "uploadedDate": "2019-06-12T17:19:46.811Z"
+      "url": "https://cdn1.epicgames.com/larkspur/item/FCP_APEX_Store_Landscape_2560x1440-2560x1440-003650ebe3fdf82ec11f5b69d3adca00.jpg",
+      "md5": "003650ebe3fdf82ec11f5b69d3adca00",
+      "width": 2560,
+      "height": 1440,
+      "size": 859770,
+      "uploadedDate": "2020-08-05T15:49:12.675Z"
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/larkspur/item/fcp_icon-400x400-414341b1a001e5d1ca0ddf804864c73a-400x400-414341b1a001e5d1ca0ddf804864c73a.png",
-      "md5": "414341b1a001e5d1ca0ddf804864c73a",
-      "width": 400,
-      "height": 400,
-      "size": 109514,
-      "uploadedDate": "2019-06-12T17:20:16.805Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/larkspur/item/FCP_APEX_Store_Portrait_1200x1600-1200x1600-83dc7dac87d1279eed092bef7b877477.jpg",
+      "md5": "83dc7dac87d1279eed092bef7b877477",
+      "width": 1200,
+      "height": 1600,
+      "size": 694719,
+      "uploadedDate": "2020-08-05T15:49:03.954Z"
     }
   ],
   "categories": [
@@ -42,7 +33,7 @@
   "namespace": "larkspur",
   "status": "ACTIVE",
   "creationDate": "2019-02-13T17:25:32.565Z",
-  "lastModifiedDate": "2019-06-12T17:44:20.287Z",
+  "lastModifiedDate": "2020-08-05T15:49:20.331Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -91,5 +82,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

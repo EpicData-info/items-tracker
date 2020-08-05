@@ -4,49 +4,22 @@
   "description": "Far Cry Primal",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/larkspur/item/FarCryPrimal_PrimaryPromo-1920x1080-438d745acb4826ddeeee4f4b5ac96bc9.jpg",
-      "md5": "438d745acb4826ddeeee4f4b5ac96bc9",
-      "width": 1920,
-      "height": 1080,
-      "size": 365849,
-      "uploadedDate": "2019-02-13T15:18:35.592Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/larkspur/item/fcp_logo_white-4844x2552-24b382234e4f7c1bb60c27a6e2b910ef.png",
-      "md5": "24b382234e4f7c1bb60c27a6e2b910ef",
-      "width": 4844,
-      "height": 2552,
-      "size": 257115,
-      "uploadedDate": "2019-02-13T15:22:46.886Z"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/larkspur/item/farcryprimal_coderedemption-340x440-ab6537c717444fd634071e443e28b46c.jpg",
-      "md5": "ab6537c717444fd634071e443e28b46c",
-      "width": 340,
-      "height": 440,
-      "size": 56648,
-      "uploadedDate": "2019-02-13T15:22:55.597Z"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/larkspur/item/fcp_icon-400x400-414341b1a001e5d1ca0ddf804864c73a.png",
-      "md5": "414341b1a001e5d1ca0ddf804864c73a",
-      "width": 400,
-      "height": 400,
-      "size": 109514,
-      "uploadedDate": "2019-03-15T22:28:18.431Z"
-    },
-    {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/larkspur/item/FarCryPrimal_PortraitPromo-974x1080-ca1f52250a6e09cd81e3d89949090f1e.jpg",
-      "md5": "ca1f52250a6e09cd81e3d89949090f1e",
-      "width": 974,
-      "height": 1080,
-      "size": 229476,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/larkspur/item/FCP_UCS17665_Store_Portrait_1200x1600-1200x1600-1069539bdf73f4ca48f7f64027a6e921.jpg",
+      "md5": "1069539bdf73f4ca48f7f64027a6e921",
+      "width": 1200,
+      "height": 1600,
+      "size": 934330,
+      "uploadedDate": "2020-08-05T15:45:54.334Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/larkspur/item/FCP_UCS17665_Store_Landscape_2560x1440-2560x1440-7d928100112e95b33030b81c65e632d3.jpg",
+      "md5": "7d928100112e95b33030b81c65e632d3",
+      "width": 2560,
+      "height": 1440,
+      "size": 960914,
+      "uploadedDate": "2020-08-05T15:46:01.464Z"
     }
   ],
   "categories": [
@@ -60,7 +33,7 @@
   "namespace": "larkspur",
   "status": "ACTIVE",
   "creationDate": "2019-02-10T17:11:11.993Z",
-  "lastModifiedDate": "2019-11-19T17:02:41.212Z",
+  "lastModifiedDate": "2020-08-05T15:46:06.660Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -125,6 +98,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
   "unsearchable": false
 }
