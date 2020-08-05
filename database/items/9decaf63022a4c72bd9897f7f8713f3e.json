@@ -4,22 +4,31 @@
   "description": "The Patron and the Patriot",
   "keyImages": [
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-thepandpdlc-portrait-img-1200x1600-1200x1600-973f006d22750fd314267fc44bb13cb0.jpg",
+      "md5": "973f006d22750fd314267fc44bb13cb0",
+      "width": 1200,
+      "height": 1600,
+      "size": 777418,
+      "uploadedDate": "2020-08-05T15:46:50.073Z"
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyThePatronthePatriot_MohawkGames_DLC_IC1_A-320x180-c3bae6d0e00c417c6d4029a515adc8df.jpg",
-      "md5": "1880662344239d2caa93c339ce7c182c",
-      "width": 320,
-      "height": 180,
-      "size": 84921,
-      "uploadedDate": "2020-03-05T15:13:59.637Z"
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-thepandpdlc-portrait-img-1200x1600-1200x1600-973f006d22750fd314267fc44bb13cb0.jpg",
+      "md5": "973f006d22750fd314267fc44bb13cb0",
+      "width": 1200,
+      "height": 1600,
+      "size": 777418,
+      "uploadedDate": "2020-08-05T15:47:01.933Z"
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyThePatronthePatriot_MohawkGames_DLC_IC1_A-320x180-c3bae6d0e00c417c6d4029a515adc8df.jpg",
-      "md5": "1880662344239d2caa93c339ce7c182c",
-      "width": 320,
-      "height": 180,
-      "size": 84921,
-      "uploadedDate": "2020-03-05T15:15:15.030Z"
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-thepandpdlc-landscape-img-2560x1440-9329d26f8633066de37fda7d5adffe98.jpg",
+      "md5": "9329d26f8633066de37fda7d5adffe98",
+      "width": 2560,
+      "height": 1440,
+      "size": 1007612,
+      "uploadedDate": "2020-08-05T15:47:11.437Z"
     }
   ],
   "categories": [
@@ -33,7 +42,7 @@
   "namespace": "e8882546f28e4832af823c646aed232e",
   "status": "ACTIVE",
   "creationDate": "2020-02-17T22:09:14.640Z",
-  "lastModifiedDate": "2020-04-07T16:50:17.301Z",
+  "lastModifiedDate": "2020-08-05T16:17:14.587Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
