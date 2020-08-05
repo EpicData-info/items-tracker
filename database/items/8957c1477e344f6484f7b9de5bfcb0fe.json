@@ -1,6 +1,6 @@
 {
   "id": "8957c1477e344f6484f7b9de5bfcb0fe",
-  "title": "Twinmotion Presenter Cloud Beta",
+  "title": "Twinmotion Presenter Cloud Beta Audience",
   "description": "Beta test of Twinmotion Presenter Cloud",
   "keyImages": [],
   "categories": [
@@ -11,7 +11,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2020-07-01T17:57:13.924Z",
-  "lastModifiedDate": "2020-07-01T18:07:38.621Z",
+  "lastModifiedDate": "2020-08-05T14:41:15.439Z",
   "entitlementName": "TwinmotionPresenterCloudBeta",
   "entitlementType": "ENTITLEMENT",
   "itemType": "DURABLE",
