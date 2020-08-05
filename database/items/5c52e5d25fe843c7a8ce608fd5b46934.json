@@ -1,7 +1,7 @@
 {
   "id": "5c52e5d25fe843c7a8ce608fd5b46934",
-  "title": "Phoenix Point Public Beta",
-  "description": "Phoenix Point Public Beta",
+  "title": "Phoenix Point Closed Beta",
+  "description": "Phoenix Point Closed Beta",
   "keyImages": [
     {
       "type": "Thumbnail",
@@ -51,7 +51,7 @@
   "namespace": "iris",
   "status": "ACTIVE",
   "creationDate": "2020-02-14T17:28:15.220Z",
-  "lastModifiedDate": "2020-07-20T12:48:41.326Z",
+  "lastModifiedDate": "2020-08-05T12:48:40.401Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -71,7 +71,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "PhoenixPoint"
+      "value": "PhoenixPointBeta"
     },
     "SupportedPlatforms": {
       "type": "STRING",
