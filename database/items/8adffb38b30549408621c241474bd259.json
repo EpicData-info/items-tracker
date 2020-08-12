@@ -4,24 +4,6 @@
   "description": "Dauntless Experimental",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/jackal/item/EGS_Phoenix Labs_dauntless-logo-white-1920x694-c6bbd7ce30615dfa24d34cfef5a27ba9.png",
-      "md5": "c6bbd7ce30615dfa24d34cfef5a27ba9",
-      "width": 1920,
-      "height": 694,
-      "size": 35895,
-      "uploadedDate": "2019-03-18T20:06:32.249Z"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/jackal/item/Epic_DauntlessExperimental_FullGame_PortraitOffer-860x1148-ebc228d3328ed383e4b6b62fd676b49c.jpg",
-      "md5": "ebc228d3328ed383e4b6b62fd676b49c",
-      "width": 860,
-      "height": 1148,
-      "size": 219366,
-      "uploadedDate": "2020-08-12T15:15:17.692Z"
-    },
-    {
       "type": "DieselGameBoxTall",
       "url": "https://cdn1.epicgames.com/jackal/item/Epic_DauntlessExperimental_FullGame_PortraitOffer-860x1148-ebc228d3328ed383e4b6b62fd676b49c.jpg",
       "md5": "ebc228d3328ed383e4b6b62fd676b49c",
@@ -29,6 +11,15 @@
       "height": 1148,
       "size": 219366,
       "uploadedDate": "2020-08-12T15:16:46.273Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/jackal/item/Epic_DauntlessExperimental_FullGame_LandscapeOffer-2560x1440-621fa28976e0717322ec11de83e8f2c3.jpg",
+      "md5": "621fa28976e0717322ec11de83e8f2c3",
+      "width": 2560,
+      "height": 1440,
+      "size": 726924,
+      "uploadedDate": "2020-08-12T17:46:17.192Z"
     }
   ],
   "categories": [
@@ -42,7 +33,7 @@
   "namespace": "jackal",
   "status": "ACTIVE",
   "creationDate": "2020-07-23T12:55:06.168Z",
-  "lastModifiedDate": "2020-08-12T15:16:59.557Z",
+  "lastModifiedDate": "2020-08-12T17:46:59.759Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
