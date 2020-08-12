@@ -1,4 +1,5 @@
 require('dotenv').config({ path: `${__dirname}/.env` });
+const Url = require('url');
 const Fs = require('fs');
 const SimpleGit = require('simple-git');
 const Axios = require('axios');
@@ -28,10 +29,24 @@ class Main {
     if (!process.env.NAMESPACES_URL) {
       throw new Error('No enviroment variable NAMESPACES_URL');
     }
-    const { data } = await Axios.get(process.env.NAMESPACES_URL, {
-      responseType: 'json',
-    });
-    this.namespaces = Object.keys(data);
+  
+    var url = Url.parse(process.env.NAMESPACES_URL);
+
+    switch(url.protocol) {
+        case 'http:': case 'https:':
+            const { data } = await Axios.get(url.href, {
+              responseType: 'json',
+            });
+            this.namespaces = Object.keys(data);
+        break;
+
+        case 'file:':
+            this.namespaces = Object.keys(JSON.parse(Fs.readFileSync(url.path)));
+        break;
+
+        default:
+            throw new Error('Unsupported protocol: ' + url.protocol);
+    }
   }
 
   async update () {
