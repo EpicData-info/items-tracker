@@ -1,0 +1,71 @@
+{
+  "id": "fceea78070974c4d94615350ac568092",
+  "title": "Caracal",
+  "description": "Caracal",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fbab831cc1c94385b4e311f47f6fdc4f",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T16:47:02.578Z",
+  "lastModifiedDate": "2020-08-10T13:52:54.815Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "fbab831cc1c94385b4e311f47f6fdc4f"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Caracal"
+    }
+  },
+  "entitlementName": "fceea78070974c4d94615350ac568092",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c523294aec9e4ef2a9e502603bf3fa75",
+      "appId": "e68ae5d92f944ecbbb7d0b166e259941",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-10T13:51:35.910Z"
+    }
+  ],
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

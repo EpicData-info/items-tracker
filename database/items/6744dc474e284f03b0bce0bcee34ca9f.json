@@ -1,0 +1,51 @@
+{
+  "id": "6744dc474e284f03b0bce0bcee34ca9f",
+  "title": "CaracalStaging",
+  "description": "CaracalStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fbab831cc1c94385b4e311f47f6fdc4f",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T16:47:02.626Z",
+  "lastModifiedDate": "2020-08-10T13:52:54.813Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CaracalStaging"
+    }
+  },
+  "entitlementName": "6744dc474e284f03b0bce0bcee34ca9f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e658d90466f4406c969437001f245c9c",
+      "appId": "5ae2df2a33cb443b8bb1a19980a674e6",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-10T13:52:04.248Z"
+    }
+  ],
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

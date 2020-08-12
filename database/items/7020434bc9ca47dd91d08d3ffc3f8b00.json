@@ -1,0 +1,33 @@
+{
+  "id": "7020434bc9ca47dd91d08d3ffc3f8b00",
+  "title": "ServalGeneralAudience",
+  "description": "ServalGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "24285307a56445f1bc5d546df7af3025",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T16:48:48.131Z",
+  "lastModifiedDate": "2020-08-10T14:06:48.155Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7020434bc9ca47dd91d08d3ffc3f8b00",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

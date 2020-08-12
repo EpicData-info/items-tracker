@@ -36,7 +36,7 @@
   "namespace": "be4b391bc31d465ebeba92b9b822b798",
   "status": "ACTIVE",
   "creationDate": "2020-06-02T16:06:39.339Z",
-  "lastModifiedDate": "2020-07-13T15:23:54.246Z",
+  "lastModifiedDate": "2020-08-11T20:09:06.100Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -46,9 +46,17 @@
       "type": "STRING",
       "value": "be4b391bc31d465ebeba92b9b822b798"
     },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.santaragione.MWP/Saves/"
+    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Santa Ragione/MILKY WAY PRINCE/Saves/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -75,7 +83,8 @@
       "id": "94982a13a675496fb14ac75e9dccaa72",
       "appId": "97d90ab4704344e9b6f255994fee639c",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "dateAdded": "2020-06-03T00:00:00.000Z"
     }
@@ -87,5 +96,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "fghi4567E3xwlonwnbr1CSZHnCTusxH1",
   "unsearchable": false
 }

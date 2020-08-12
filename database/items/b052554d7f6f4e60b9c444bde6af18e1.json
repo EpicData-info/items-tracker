@@ -1,0 +1,33 @@
+{
+  "id": "b052554d7f6f4e60b9c444bde6af18e1",
+  "title": "DevCaracalAudience",
+  "description": "DevCaracalAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "fbab831cc1c94385b4e311f47f6fdc4f",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T16:47:02.519Z",
+  "lastModifiedDate": "2020-08-10T13:55:57.871Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b052554d7f6f4e60b9c444bde6af18e1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

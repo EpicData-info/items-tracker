@@ -1,0 +1,53 @@
+{
+  "id": "8d96d7cbc7aa4abdaaa7ef07ddb296fb",
+  "title": "ServiceDeliveryStaging",
+  "description": "ServiceDeliveryStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4c8474c1d0e8406ab17504b9e449b945",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-10T14:41:16.460Z",
+  "lastModifiedDate": "2020-08-11T19:04:03.675Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ServiceDeliveryStaging"
+    }
+  },
+  "entitlementName": "8d96d7cbc7aa4abdaaa7ef07ddb296fb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f17aa25f717e4678bba5505f0ec2fcc9",
+      "appId": "d8907e38486f476d80ad820fdfc29b29",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-11T18:03:32.132Z"
+    }
+  ],
+  "developer": "Service Delivery Train",
+  "developerId": "o-s2jrzqb5bwn6d3z4afdjgz4pr2yrs3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

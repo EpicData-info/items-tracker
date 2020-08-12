@@ -16,7 +16,7 @@
   "namespace": "23aa88cfbedf4dceb1c6a41e2c0eafc0",
   "status": "ACTIVE",
   "creationDate": "2020-06-27T01:17:36.931Z",
-  "lastModifiedDate": "2020-06-27T01:50:45.408Z",
+  "lastModifiedDate": "2020-08-11T19:53:26.377Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -37,7 +37,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-06-27T01:43:56.529Z"
+      "dateAdded": "2020-06-27T00:00:00.000Z"
     }
   ],
   "developer": "tinyBuild Games",
@@ -47,5 +47,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "fghi4567Ty8QFdn9iOSLTEpZWdqlIzu9",
   "unsearchable": false
 }

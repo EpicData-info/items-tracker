@@ -11,7 +11,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2020-01-14T10:00:59.352Z",
-  "lastModifiedDate": "2020-03-10T15:42:14.817Z",
+  "lastModifiedDate": "2020-08-10T12:19:16.166Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -47,7 +47,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "b713667d535d41a38e0f2bfd692ed07b",
+      "id": "a74f98c9c7c24ce3a1ad861c847b8445",
       "appId": "TM_2020.1",
       "compatibleApps": [],
       "platform": [

@@ -1,0 +1,71 @@
+{
+  "id": "84d991f3d0ad440ca783cc1d21d54a03",
+  "title": "Serval",
+  "description": "Serval",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "24285307a56445f1bc5d546df7af3025",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T16:48:48.232Z",
+  "lastModifiedDate": "2020-08-10T14:06:43.528Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "24285307a56445f1bc5d546df7af3025"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Serval"
+    }
+  },
+  "entitlementName": "84d991f3d0ad440ca783cc1d21d54a03",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c99e9ea81ae14edd8d4c303796dd32d9",
+      "appId": "77ecfd3c08c340aab57b8033e31a4875",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-10T14:04:19.230Z"
+    }
+  ],
+  "developer": "Stardock Entertainment, Inc",
+  "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

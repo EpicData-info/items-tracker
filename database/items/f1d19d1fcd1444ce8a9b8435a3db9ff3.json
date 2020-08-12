@@ -4,22 +4,22 @@
   "description": "SMITE",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/SMITE_EGS_7.7_AvatarAang_Portrait_860x1148-860x1148-3b72c575b65f8e3553f11d6205a6ccad.jpg",
-      "md5": "3b72c575b65f8e3553f11d6205a6ccad",
-      "width": 860,
-      "height": 1148,
-      "size": 241872,
-      "uploadedDate": "2020-07-14T16:11:24.740Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/SMITE_EGS_7.7_AvatarAang_Landscape_2560x1440-2560x1440-c1e6730e466d15049980c11d99399880.jpg",
-      "md5": "c1e6730e466d15049980c11d99399880",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Smite-EGS-7.8-Tsukuyomi-LandscapeIMG-2560x1440-2560x1440-75f3ecb0bc4b01788b19c2438f83cca7.jpg",
+      "md5": "75f3ecb0bc4b01788b19c2438f83cca7",
       "width": 2560,
       "height": 1440,
-      "size": 391539,
-      "uploadedDate": "2020-07-14T16:11:36.249Z"
+      "size": 354161,
+      "uploadedDate": "2020-08-11T14:10:50.789Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Smite-EGS-7.8-Tsukuyomi-PortraitIMG-860x1148-860x1148-6d078dfed9fc6fbb842c6579c2425837.jpg",
+      "md5": "6d078dfed9fc6fbb842c6579c2425837",
+      "width": 860,
+      "height": 1148,
+      "size": 166087,
+      "uploadedDate": "2020-08-11T14:11:05.474Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "076207fa2b5c4803a636af606c3c28b7",
   "status": "ACTIVE",
   "creationDate": "2019-10-18T01:53:04.913Z",
-  "lastModifiedDate": "2020-07-14T16:11:50.670Z",
+  "lastModifiedDate": "2020-08-11T14:11:11.075Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

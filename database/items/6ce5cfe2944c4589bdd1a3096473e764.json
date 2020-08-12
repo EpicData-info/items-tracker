@@ -24,7 +24,7 @@
   "namespace": "argyle",
   "status": "ACTIVE",
   "creationDate": "2019-09-03T21:54:57.698Z",
-  "lastModifiedDate": "2019-09-13T14:57:58.845Z",
+  "lastModifiedDate": "2020-08-07T23:03:43.539Z",
   "entitlementName": "6ce5cfe2944c4589bdd1a3096473e764",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
@@ -36,6 +36,5 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "TEEN",
-  "selfRefundable": true,
   "unsearchable": false
 }

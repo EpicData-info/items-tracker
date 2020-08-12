@@ -1,7 +1,7 @@
 {
   "id": "1e26ac928561417285dd41857549a511",
-  "title": "ExternalPreview1",
-  "description": "ExternalPreview1",
+  "title": "CarpExternalPreview1",
+  "description": "CarpExternalPreview1",
   "keyImages": [],
   "categories": [
     {
@@ -17,7 +17,7 @@
   "namespace": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
   "status": "ACTIVE",
   "creationDate": "2020-07-31T17:50:51.769Z",
-  "lastModifiedDate": "2020-08-05T16:35:16.682Z",
+  "lastModifiedDate": "2020-08-06T18:00:20.202Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -25,7 +25,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "ExternalPreview1"
+      "value": "CarpExternalPreview1"
     }
   },
   "entitlementName": "1e26ac928561417285dd41857549a511",

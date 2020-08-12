@@ -14,7 +14,7 @@
   "namespace": "anise",
   "status": "ACTIVE",
   "creationDate": "2019-04-02T19:26:02.177Z",
-  "lastModifiedDate": "2020-01-06T15:19:59.742Z",
+  "lastModifiedDate": "2020-08-07T23:27:48.789Z",
   "entitlementName": "ee8454da25fd4020a369d60f38f28992",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
@@ -25,6 +25,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
   "unsearchable": false
 }

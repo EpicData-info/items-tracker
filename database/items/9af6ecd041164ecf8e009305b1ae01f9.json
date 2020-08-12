@@ -1,0 +1,36 @@
+{
+  "id": "9af6ecd041164ecf8e009305b1ae01f9",
+  "title": "ServiceDeliveryGeneralAudience",
+  "description": "ServiceDeliveryGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "4c8474c1d0e8406ab17504b9e449b945",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-10T14:41:16.304Z",
+  "lastModifiedDate": "2020-08-11T19:04:03.675Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9af6ecd041164ecf8e009305b1ae01f9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Service Delivery Train",
+  "developerId": "o-s2jrzqb5bwn6d3z4afdjgz4pr2yrs3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

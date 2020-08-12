@@ -1,0 +1,73 @@
+{
+  "id": "2c75a91e5db44f0c8ab6374dc76fdf7c",
+  "title": "ServiceDeliveryBaseGame",
+  "description": "ServiceDeliveryBaseGame",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4c8474c1d0e8406ab17504b9e449b945",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-10T14:41:16.397Z",
+  "lastModifiedDate": "2020-08-11T19:04:03.675Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "4c8474c1d0e8406ab17504b9e449b945"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SDBaseGame"
+    }
+  },
+  "entitlementName": "2c75a91e5db44f0c8ab6374dc76fdf7c",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7d082ad1b8cc4826a5d5266c7a93adf7",
+      "appId": "6e0f320be4d0475aa6f97f5439bdf45f",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "Service Delivery Train",
+  "developerId": "o-s2jrzqb5bwn6d3z4afdjgz4pr2yrs3",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
