@@ -1,7 +1,7 @@
 {
   "id": "d25c2f27a32d4133941d73b9c38ab137",
-  "title": "CatnipExternalStable4DLC5Part2",
-  "description": "CatnipExternalStable4DLC5Part2",
+  "title": "CatnipExternalStable4DLC6",
+  "description": "CatnipExternalStable4DLC6",
   "keyImages": [
     {
       "type": "DieselGameBoxLogo",
@@ -42,7 +42,7 @@
   "namespace": "catnip",
   "status": "ACTIVE",
   "creationDate": "2020-06-15T20:02:40.215Z",
-  "lastModifiedDate": "2020-06-15T23:24:58.546Z",
+  "lastModifiedDate": "2020-08-14T18:59:24.607Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -62,7 +62,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "CatnipExternalStable4DLC5Pt2"
+      "value": "CatnipExternalStable4DLC6"
     }
   },
   "entitlementName": "d25c2f27a32d4133941d73b9c38ab137",

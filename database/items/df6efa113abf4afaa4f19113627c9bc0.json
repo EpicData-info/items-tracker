@@ -1,0 +1,32 @@
+{
+  "id": "df6efa113abf4afaa4f19113627c9bc0",
+  "title": "D_DLC8",
+  "description": "C_DLC8",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "435aaec1220447efbcfeb4f2abeb1027",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-18T22:32:59.642Z",
+  "lastModifiedDate": "2020-08-24T20:29:42.153Z",
+  "customAttributes": {},
+  "entitlementName": "df6efa113abf4afaa4f19113627c9bc0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

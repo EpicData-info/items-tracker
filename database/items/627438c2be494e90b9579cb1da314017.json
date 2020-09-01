@@ -3,7 +3,17 @@
   "title": "7800 Fortnite Points",
   "description": "7800 Fortnite Points",
   "longDescription": "Spend V-bucks in the loot store for heroes, schematics, upgrades and more!",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/fn/item/ESRB-369x217-12ce933005895ab9e61fb66a30485c90.png",
+      "md5": "12ce933005895ab9e61fb66a30485c90",
+      "width": 369,
+      "height": 217,
+      "size": 8558,
+      "uploadedDate": "2019-12-13T21:36:36.674Z"
+    }
+  ],
   "categories": [
     {
       "path": "points"
@@ -12,7 +22,7 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2015-05-20T19:12:59.335Z",
-  "lastModifiedDate": "2019-12-11T19:00:24.749Z",
+  "lastModifiedDate": "2020-08-13T08:54:01.826Z",
   "entitlementName": "FN_7500_POINTS",
   "entitlementType": "ENTITLEMENT",
   "itemType": "CONSUMABLE",

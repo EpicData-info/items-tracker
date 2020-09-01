@@ -42,7 +42,7 @@
   "namespace": "calluna",
   "status": "ACTIVE",
   "creationDate": "2019-09-09T16:35:36.400Z",
-  "lastModifiedDate": "2020-03-06T22:30:45.664Z",
+  "lastModifiedDate": "2020-08-28T17:23:26.054Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -103,6 +103,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
   "unsearchable": false
 }

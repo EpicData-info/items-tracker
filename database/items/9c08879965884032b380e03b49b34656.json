@@ -2,6 +2,17 @@
   "id": "9c08879965884032b380e03b49b34656",
   "title": "RubyGeneralAudience",
   "description": "RubyGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/ceaa24233cdb4b678a1cf515e3a912e8/item/ESRB_GodsTrigger-842x404-c7d95bd1fd5ff11e26284a9b2bed52d6.png",
+      "md5": "c7d95bd1fd5ff11e26284a9b2bed52d6",
+      "width": 842,
+      "height": 404,
+      "size": 73956,
+      "uploadedDate": "2020-08-12T22:38:50.180Z"
+    }
+  ],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +24,7 @@
   "namespace": "ceaa24233cdb4b678a1cf515e3a912e8",
   "status": "ACTIVE",
   "creationDate": "2020-06-30T02:37:51.524Z",
-  "lastModifiedDate": "2020-08-12T19:26:48.667Z",
+  "lastModifiedDate": "2020-08-27T14:44:50.060Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -29,5 +40,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
   "unsearchable": false
 }

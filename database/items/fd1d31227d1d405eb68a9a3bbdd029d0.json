@@ -1,0 +1,91 @@
+{
+  "id": "fd1d31227d1d405eb68a9a3bbdd029d0",
+  "title": "Shadowrun: Dragonfall - Director’s Cut",
+  "description": "Shadowrun: Dragonfall - Director’s Cut",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/805a1b31b65f4c3db221ab242f894482/item/EGS_ShadowrunDragonfallDirectorCut_HarebrainedSchemes_S1-2560x1440-97729d8febc2d0cee01869eabde8216b.jpg",
+      "md5": "97729d8febc2d0cee01869eabde8216b",
+      "width": 2560,
+      "height": 1440,
+      "size": 997448,
+      "uploadedDate": "2020-08-20T04:13:08.403Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/805a1b31b65f4c3db221ab242f894482/item/EGS_ShadowrunDragonfallDirectorCut_HarebrainedSchemes_S2-1200x1600-1cd6cd1d1b0a24e7925aa3db3a13ca69.jpg",
+      "md5": "1cd6cd1d1b0a24e7925aa3db3a13ca69",
+      "width": 1200,
+      "height": 1600,
+      "size": 980353,
+      "uploadedDate": "2020-08-20T04:13:19.411Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "805a1b31b65f4c3db221ab242f894482",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-18T16:15:40.905Z",
+  "lastModifiedDate": "2020-08-27T14:37:38.755Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "805a1b31b65f4c3db221ab242f894482"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ShadowrunDragonfall"
+    }
+  },
+  "entitlementName": "fd1d31227d1d405eb68a9a3bbdd029d0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e9f99591742f4a8da6fb2b432b665c48",
+      "appId": "5b41454974be4d5883056ba298e53675",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-18T00:00:00.000Z"
+    }
+  ],
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": "9b24f3e5e66b482f8c8592f7e2197526",
+  "title": "ApricotGeneralAudience",
+  "description": "ApricotGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "7ab8af3a04424eeaa509d37d7b5222b7",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-04T15:14:55.549Z",
+  "lastModifiedDate": "2020-08-25T15:05:30.709Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9b24f3e5e66b482f8c8592f7e2197526",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

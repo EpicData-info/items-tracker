@@ -17,11 +17,15 @@
   "namespace": "36336ee97ec543bbae85abaca618182b",
   "status": "ACTIVE",
   "creationDate": "2020-01-21T17:14:27.245Z",
-  "lastModifiedDate": "2020-01-23T00:38:40.218Z",
+  "lastModifiedDate": "2020-08-27T14:13:07.010Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Diabotical/CloudSave/"
     },
     "FolderName": {
       "type": "STRING",
@@ -47,5 +51,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

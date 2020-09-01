@@ -1,0 +1,32 @@
+{
+  "id": "6375b5e5b7474636b45e724cb86c405f",
+  "title": "D_DLC15",
+  "description": "D_DLC15",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "435aaec1220447efbcfeb4f2abeb1027",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-18T22:35:14.459Z",
+  "lastModifiedDate": "2020-08-24T20:30:21.189Z",
+  "customAttributes": {},
+  "entitlementName": "6375b5e5b7474636b45e724cb86c405f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

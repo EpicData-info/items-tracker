@@ -1,0 +1,50 @@
+{
+  "id": "db8245ea2881467b9a42865fa47b3772",
+  "title": "CeleryStaging",
+  "description": "CeleryStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bd8a7e894699493fb21503837f7b66c5",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-17T16:26:01.894Z",
+  "lastModifiedDate": "2020-08-27T14:28:29.542Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CeleryStaging"
+    }
+  },
+  "entitlementName": "db8245ea2881467b9a42865fa47b3772",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "42e9effaa3a141519365318cbce6c43a",
+      "appId": "CeleryStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Perfect World",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

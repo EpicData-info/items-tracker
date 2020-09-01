@@ -24,7 +24,7 @@
   "namespace": "rosemallow",
   "status": "ACTIVE",
   "creationDate": "2019-06-08T16:53:35.685Z",
-  "lastModifiedDate": "2020-04-09T20:50:35.377Z",
+  "lastModifiedDate": "2020-08-28T20:19:37.010Z",
   "customAttributes": {
     "availableDate": {
       "type": "STRING",
@@ -41,5 +41,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

@@ -1,0 +1,94 @@
+{
+  "id": "4e773935bb044ac29e62c282503e3e33",
+  "title": "3 out of 10, EP 4: \"Thank You For Being An Asset\"",
+  "description": "3 out of 10, EP 4: \"Thank You For Being An Asset\"",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/item/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S1-2560x1440-fcaf73701007096c6abc01415788d4c3.jpg",
+      "md5": "fcaf73701007096c6abc01415788d4c3",
+      "width": 2560,
+      "height": 1440,
+      "size": 881840,
+      "uploadedDate": "2020-08-25T22:32:25.052Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/item/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S2-1200x1600-1a465a21d91318bd7d0f6a7b968d4797.jpg",
+      "md5": "1a465a21d91318bd7d0f6a7b968d4797",
+      "width": 1200,
+      "height": 1600,
+      "size": 541020,
+      "uploadedDate": "2020-08-25T22:32:38.849Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d6a3cae34c5d4562832610b5b8664576",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-23T03:00:43.862Z",
+  "lastModifiedDate": "2020-08-27T02:50:23.116Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "d6a3cae34c5d4562832610b5b8664576"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "threeoutof10Ep4"
+    }
+  },
+  "entitlementName": "4e773935bb044ac29e62c282503e3e33",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2853992af37241a5879fd6b5e736e13d",
+      "appId": "b2f57e24edcb4537bd76dff8b056a03e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-23T00:00:00.000Z"
+    }
+  ],
+  "developer": "Terrible Posture Games, Inc.",
+  "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

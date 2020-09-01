@@ -45,7 +45,7 @@
   "namespace": "9b31326adff64c7fa7bbac6e8d4a9e6e",
   "status": "ACTIVE",
   "creationDate": "2020-04-23T19:03:05.840Z",
-  "lastModifiedDate": "2020-07-15T11:55:30.298Z",
+  "lastModifiedDate": "2020-08-17T21:29:51.183Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -54,6 +54,10 @@
     "PresenceId": {
       "type": "STRING",
       "value": "9b31326adff64c7fa7bbac6e8d4a9e6e"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/APPLICATION SUPPORT/Dry Cactus/Poly Bridge 2/"
     },
     "MonitorPresence": {
       "type": "STRING",

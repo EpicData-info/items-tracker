@@ -24,7 +24,7 @@
   "namespace": "rose",
   "status": "ACTIVE",
   "creationDate": "2019-08-01T15:37:43.086Z",
-  "lastModifiedDate": "2019-10-17T16:59:34.940Z",
+  "lastModifiedDate": "2020-08-24T20:24:42.372Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -42,6 +42,5 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "EVERYONE",
-  "selfRefundable": true,
   "unsearchable": false
 }

@@ -1,0 +1,72 @@
+{
+  "id": "7bb512dde9564ddda56673ff63e8e5e5",
+  "title": "TurtleDlcCert",
+  "description": "TurtleDlcCert",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "turtle",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-31T22:43:06.259Z",
+  "lastModifiedDate": "2020-09-01T20:02:32.195Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "turtle"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TurtleDlcCert"
+    }
+  },
+  "entitlementName": "7bb512dde9564ddda56673ff63e8e5e5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9d992522516444a8bc01cfb8457a47c1",
+      "appId": "4fe0bcae9d4a43e08a064fb616408b2a",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-31T00:00:00.000Z"
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

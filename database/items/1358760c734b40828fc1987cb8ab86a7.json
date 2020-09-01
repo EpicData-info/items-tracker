@@ -1,0 +1,33 @@
+{
+  "id": "1358760c734b40828fc1987cb8ab86a7",
+  "title": "C_DLC5",
+  "description": "C_DLC5",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "435aaec1220447efbcfeb4f2abeb1027",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-18T22:16:22.700Z",
+  "lastModifiedDate": "2020-08-24T20:29:22.518Z",
+  "customAttributes": {},
+  "entitlementName": "1358760c734b40828fc1987cb8ab86a7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

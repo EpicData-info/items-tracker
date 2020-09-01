@@ -1,0 +1,68 @@
+{
+  "id": "a6af1505b5714c00bba64fb2ccb677e4",
+  "title": "Shadowrun Hong Kong - Extended Edition Deluxe DLC",
+  "description": "Shadowrun Hong Kong - Extended Edition Deluxe DLC",
+  "longDescription": "Shadowrun Hong Kong - Extended Edition Deluxe DLC",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0d66818e2304485f8dc3ae90c8b622b4/item/EGS_ShadowrunHongKongExtendedEditionDeluxeDLC_HarebrainedSchemes_AddOn_S1-2560x1440-81c36e411cbf598de99ae1671044878c.jpg",
+      "md5": "81c36e411cbf598de99ae1671044878c",
+      "width": 2560,
+      "height": 1440,
+      "size": 846398,
+      "uploadedDate": "2020-08-27T03:47:52.309Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0d66818e2304485f8dc3ae90c8b622b4",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-17T19:05:07.594Z",
+  "lastModifiedDate": "2020-08-27T14:46:21.832Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ShadowrunHKDLC"
+    }
+  },
+  "entitlementName": "a6af1505b5714c00bba64fb2ccb677e4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "741d20a814f643e08a98c843305e3a73",
+      "appId": "fa97850f2c924c7f835ab18f94709e5a",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-17T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

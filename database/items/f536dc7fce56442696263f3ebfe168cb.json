@@ -1,0 +1,72 @@
+{
+  "id": "f536dc7fce56442696263f3ebfe168cb",
+  "title": "Copenhagen",
+  "description": "Copenhagen",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0f7039ef44ad4ee18f16f19d96cf2a6b",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-01T18:09:49.598Z",
+  "lastModifiedDate": "2020-09-01T16:32:05.229Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "0f7039ef44ad4ee18f16f19d96cf2a6b"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Copenhagen"
+    }
+  },
+  "entitlementName": "f536dc7fce56442696263f3ebfe168cb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "854bde88bd034ba199506081ef040a18",
+      "appId": "50d8518151d0498b83ff5d18a7bdb68b",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-01T00:00:00.000Z"
+    }
+  ],
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

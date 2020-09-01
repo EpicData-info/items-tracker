@@ -1,0 +1,100 @@
+{
+  "id": "e43aea161dda4d38b73817d41207ac7a",
+  "title": "Relicta",
+  "description": "Relicta",
+  "longDescription": "Relicta",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/d79920221de24b448e24516a7810804e/item/Blades_Mobile_horizontal-480x270-2f443f91cd89da427b8efd6a910fbe04.jpg",
+      "md5": "2f443f91cd89da427b8efd6a910fbe04",
+      "width": 480,
+      "height": 270,
+      "size": 157709,
+      "uploadedDate": "2020-08-24T16:01:05.150Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/d79920221de24b448e24516a7810804e/item/Blades_Desktop_vertical-400x530-8af5bcc5cc9fb63883346c5bbc0a06ea.jpg",
+      "md5": "8af5bcc5cc9fb63883346c5bbc0a06ea",
+      "width": 400,
+      "height": 530,
+      "size": 243196,
+      "uploadedDate": "2020-08-24T16:01:17.803Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d79920221de24b448e24516a7810804e",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-30T01:41:29.231Z",
+  "lastModifiedDate": "2020-08-24T16:39:47.758Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "d79920221de24b448e24516a7810804e"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/PAway/Saved/Savegames/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "RelictaSaveGame.sav"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Relicta"
+    }
+  },
+  "entitlementName": "e43aea161dda4d38b73817d41207ac7a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b8c30042d5e849a89084e882a9133f6e",
+      "appId": "b4670484aae24db492f0b468a98fe361",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-30T00:00:00.000Z"
+    }
+  ],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12685a896fdd4b6ba449e07132a66719",
+  "title": "VC_PlutoTestAudience",
+  "description": "VC_PlutoTestAudience",
+  "longDescription": "",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "06a97980aac14fdfb914ef603a113792",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-27T02:58:50.928Z",
+  "lastModifiedDate": "2020-08-28T17:48:22.050Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "12685a896fdd4b6ba449e07132a66719",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Perfect World",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

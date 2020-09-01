@@ -1,0 +1,32 @@
+{
+  "id": "5e5f096dd4434a4dbb3ff82ccbcd8705",
+  "title": "D_DLC10",
+  "description": "D_DLC10",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "435aaec1220447efbcfeb4f2abeb1027",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-18T22:34:11.335Z",
+  "lastModifiedDate": "2020-08-24T20:29:53.785Z",
+  "customAttributes": {},
+  "entitlementName": "5e5f096dd4434a4dbb3ff82ccbcd8705",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

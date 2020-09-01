@@ -24,7 +24,7 @@
   "namespace": "calluna",
   "status": "ACTIVE",
   "creationDate": "2019-03-25T23:06:56.139Z",
-  "lastModifiedDate": "2020-02-25T16:06:30.682Z",
+  "lastModifiedDate": "2020-08-27T14:49:37.702Z",
   "customAttributes": {
     "availableDate": {
       "type": "STRING",
@@ -41,6 +41,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
   "unsearchable": false
 }

@@ -1,0 +1,59 @@
+{
+  "id": "3d70a556fdbe430997a9d43474eb5b67",
+  "title": "StockholmStaging",
+  "description": "StockholmStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "71f938f91f0a4ccfaba0be708a930e8a",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-17T19:33:15.259Z",
+  "lastModifiedDate": "2020-08-18T14:55:43.780Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "ce57c476b84148108a6af249eabc3c37"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "StockholmStaging"
+    }
+  },
+  "entitlementName": "3d70a556fdbe430997a9d43474eb5b67",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8095e8107e46428e96d5a9855776b559",
+      "appId": "6227b88d0daa4d09b604abc9d145d86c",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

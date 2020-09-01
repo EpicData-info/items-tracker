@@ -1,0 +1,34 @@
+{
+  "id": "bea809c73675401b82f38d9ed72443dc",
+  "title": "CopenhagenGeneralAudience",
+  "description": "CopenhagenGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "0f7039ef44ad4ee18f16f19d96cf2a6b",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-01T18:09:49.412Z",
+  "lastModifiedDate": "2020-09-01T16:35:07.325Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "bea809c73675401b82f38d9ed72443dc",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

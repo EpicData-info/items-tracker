@@ -1,0 +1,46 @@
+{
+  "id": "a2c131430be643b597191d69c0e0f24f",
+  "title": "Barcelona Audience",
+  "description": "Barcelona Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/item/Diesel_product_ratings_ESRB_InnerSpace-842x404-40888e13b9690c3d6b3958bb2a2434493a9338da-842x404-2b0f62d48cb4a74ba147226031a47d04.jpg",
+      "md5": "2b0f62d48cb4a74ba147226031a47d04",
+      "width": 842,
+      "height": 404,
+      "size": 17926,
+      "uploadedDate": "2020-07-07T16:58:32.753Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "9cf250606722448887fa1447b1d9da06",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-29T22:27:33.089Z",
+  "lastModifiedDate": "2020-09-01T16:06:35.394Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a2c131430be643b597191d69c0e0f24f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bigben Interactive",
+  "developerId": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE",
+  "ageGatings": {},
+  "unsearchable": false
+}

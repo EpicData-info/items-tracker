@@ -1,0 +1,36 @@
+{
+  "id": "c9020b20c41a42449a4933c31bbbf2dc",
+  "title": "Spellbreak InfluencerPreview Audience",
+  "description": "Spellbreak InfluencerPreview Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-21T16:44:30.899Z",
+  "lastModifiedDate": "2020-08-24T11:43:59.649Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c9020b20c41a42449a4933c31bbbf2dc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

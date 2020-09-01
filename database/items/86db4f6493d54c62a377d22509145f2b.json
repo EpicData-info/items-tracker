@@ -1,16 +1,25 @@
 {
   "id": "86db4f6493d54c62a377d22509145f2b",
-  "title": "Phoenix Point Legacy of the Ancients Pre-Purchase",
-  "description": "Phoenix Point Legacy of the Ancients Pre-Purchase",
+  "title": "Phoenix Point Legacy of the Ancients",
+  "description": "Phoenix Point Legacy of the Ancients",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/iris/item/phoenix-point_legacy-of-the-ancients-2560x1440-33e83b8f9026d196d6b629750d523f85.png",
-      "md5": "33e83b8f9026d196d6b629750d523f85",
-      "width": 2560,
-      "height": 1440,
-      "size": 1978047,
-      "uploadedDate": "2019-12-03T18:57:26.948Z"
+      "url": "https://cdn1.epicgames.com/iris/item/EGS_LegacyoftheAncients_SnapshotGames_DLC_G1C_00-1920x1080-7fe55cf3442403028c245197b2bcaf70.jpg",
+      "md5": "7fe55cf3442403028c245197b2bcaf70",
+      "width": 1920,
+      "height": 1080,
+      "size": 659223,
+      "uploadedDate": "2020-08-26T14:34:30.139Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/iris/item/EGS_LegacyoftheAncients_SnapshotGames_DLC_S2-1200x1600-8c173ae781ada5e222142cfb5baeb8a5.jpg",
+      "md5": "8c173ae781ada5e222142cfb5baeb8a5",
+      "width": 1200,
+      "height": 1600,
+      "size": 692526,
+      "uploadedDate": "2020-08-26T14:34:40.334Z"
     }
   ],
   "categories": [
@@ -24,7 +33,7 @@
   "namespace": "iris",
   "status": "ACTIVE",
   "creationDate": "2019-11-12T19:50:38.650Z",
-  "lastModifiedDate": "2020-06-19T18:50:25.409Z",
+  "lastModifiedDate": "2020-08-26T14:34:54.168Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

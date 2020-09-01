@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/item/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S1-2560x1440-276c68f829d71be4e902d258448d223a.jpg",
-      "md5": "276c68f829d71be4e902d258448d223a",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/item/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S1-2560x1440-398789859e45bd603cbc4493a856597b.jpg",
+      "md5": "398789859e45bd603cbc4493a856597b",
       "width": 2560,
       "height": 1440,
-      "size": 899204,
-      "uploadedDate": "2020-06-16T15:16:37.005Z"
+      "size": 1000021,
+      "uploadedDate": "2020-08-11T20:34:34.092Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/item/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-95795b4b450e976e814192e5250ba124.jpg",
-      "md5": "95795b4b450e976e814192e5250ba124",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/item/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-7a60a1f38dfe384094002fde0cf57d31.jpg",
+      "md5": "7a60a1f38dfe384094002fde0cf57d31",
       "width": 1200,
       "height": 1600,
-      "size": 916441,
-      "uploadedDate": "2020-06-16T15:16:47.543Z"
+      "size": 916742,
+      "uploadedDate": "2020-08-11T20:34:51.126Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
   "status": "ACTIVE",
   "creationDate": "2019-09-03T15:22:15.253Z",
-  "lastModifiedDate": "2020-06-18T11:59:41.897Z",
+  "lastModifiedDate": "2020-08-13T11:58:36.076Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

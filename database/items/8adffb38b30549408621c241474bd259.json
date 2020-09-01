@@ -33,7 +33,7 @@
   "namespace": "jackal",
   "status": "ACTIVE",
   "creationDate": "2020-07-23T12:55:06.168Z",
-  "lastModifiedDate": "2020-08-12T17:46:59.759Z",
+  "lastModifiedDate": "2020-08-25T16:55:04.622Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

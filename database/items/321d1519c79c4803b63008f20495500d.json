@@ -16,7 +16,7 @@
   "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
   "status": "ACTIVE",
   "creationDate": "2019-08-15T17:54:14.872Z",
-  "lastModifiedDate": "2019-12-13T03:52:56.866Z",
+  "lastModifiedDate": "2020-08-18T15:38:06.783Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -37,14 +37,15 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2019-08-20T19:17:04.423Z"
+      "dateAdded": "2019-08-20T00:00:00.000Z"
     }
   ],
   "developer": "Epic Dev Test Account",
   "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
   "eulaIds": [
-    "egstore"
+    "(egstore && bossa)"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

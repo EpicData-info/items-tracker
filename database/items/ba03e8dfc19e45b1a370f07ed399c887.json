@@ -11,7 +11,7 @@
   "namespace": "poodle",
   "status": "ACTIVE",
   "creationDate": "2020-06-30T17:48:50.482Z",
-  "lastModifiedDate": "2020-08-10T12:19:16.166Z",
+  "lastModifiedDate": "2020-08-17T15:44:28.636Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

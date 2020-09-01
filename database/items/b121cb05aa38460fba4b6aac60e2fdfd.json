@@ -1,0 +1,92 @@
+{
+  "id": "b121cb05aa38460fba4b6aac60e2fdfd",
+  "title": "Alluris",
+  "description": "Alluris",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0b9773fa2e964cf7bb5346925c162cb5/item/EGS_Alluris_562Interactive_S1-2560x1440-974ec93edf8a585c9e85210b107d38e1.jpg",
+      "md5": "974ec93edf8a585c9e85210b107d38e1",
+      "width": 2560,
+      "height": 1440,
+      "size": 961632,
+      "uploadedDate": "2020-08-06T19:27:11.738Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0b9773fa2e964cf7bb5346925c162cb5/item/EGS_Alluris_562Interactive_S2-1200x1600-c6f4800b1cbfebb7383d73a01ada2e8f.jpg",
+      "md5": "c6f4800b1cbfebb7383d73a01ada2e8f",
+      "width": 1200,
+      "height": 1600,
+      "size": 268162,
+      "uploadedDate": "2020-08-06T19:27:23.058Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0b9773fa2e964cf7bb5346925c162cb5",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-20T18:18:44.129Z",
+  "lastModifiedDate": "2020-08-27T11:49:08.765Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "0b9773fa2e964cf7bb5346925c162cb5"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Alluris"
+    }
+  },
+  "entitlementName": "b121cb05aa38460fba4b6aac60e2fdfd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "42185e31db584a0890833bd6277de1a3",
+      "appId": "712a1086c52b413da55f9b38588575d9",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-28T00:00:00.000Z"
+    }
+  ],
+  "developer": "562 Interactive LLC",
+  "developerId": "o-3fwjhd84kkymslexsxxhea2lrtsj68",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

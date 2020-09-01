@@ -1,0 +1,103 @@
+{
+  "id": "5042320a4b2247b08d0726fa61a94dd3",
+  "title": "Far Cry 2",
+  "description": "Far Cry 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/a0b8d4482f3d4f939f35f87a3f367865/item/FC_FC2_Store_Landscape_2560x1440-2560x1440-ce43469cd4ebf6e168b727243fbe5d39.jpg",
+      "md5": "ce43469cd4ebf6e168b727243fbe5d39",
+      "width": 2560,
+      "height": 1440,
+      "size": 918416,
+      "uploadedDate": "2020-07-30T17:28:51.537Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/a0b8d4482f3d4f939f35f87a3f367865/item/FC_FC2_Store_Portrait_1200x1600-1200x1600-8e5fc0a55113b7eaa91781c61563ccd1.jpg",
+      "md5": "8e5fc0a55113b7eaa91781c61563ccd1",
+      "width": 1200,
+      "height": 1600,
+      "size": 995066,
+      "uploadedDate": "2020-07-30T17:28:56.869Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a0b8d4482f3d4f939f35f87a3f367865",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-17T19:41:19.523Z",
+  "lastModifiedDate": "2020-08-18T14:56:17.345Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "a0b8d4482f3d4f939f35f87a3f367865"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "7457e516cdcd43d0a585860e81ebb68b"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FarCry2"
+    },
+    "neverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "5042320a4b2247b08d0726fa61a94dd3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3c0554b0b71441a78ac7f21d64b73d31",
+      "appId": "3b78108a811d497db768899400edd842",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": "cd306a1bbbd44821bc2088ab7dcebab6",
+  "title": "Twinmotion Rhino Promo",
+  "description": "Twinmotion Rhino Promo",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "poodle",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-17T15:42:01.378Z",
+  "lastModifiedDate": "2020-08-17T15:44:28.636Z",
+  "entitlementName": "TwinmotionRhinoPromo",
+  "entitlementType": "ENTITLEMENT",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "twin"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

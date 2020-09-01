@@ -1,25 +1,25 @@
 {
   "id": "48832223fb834bc5bba847c115691ce2",
-  "title": "Calluna DLC 003 A",
-  "description": "Calluna DLC 003 A",
+  "title": "Control Expansion 2 AWE",
+  "description": "Control Expansion 2 AWE",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/calluna/item/CONTROL_logo_shadow-670x212-670x212-676c3d62788f269f00819451130394e3.png",
-      "md5": "676c3d62788f269f00819451130394e3",
-      "width": 670,
-      "height": 212,
-      "size": 28205,
-      "uploadedDate": "2019-12-11T18:13:14.922Z"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/calluna/item/AWE_Wide-2560x1440-bf9f368300c3fdb6116e63a99b405e49.jpg",
+      "md5": "bf9f368300c3fdb6116e63a99b405e49",
+      "width": 2560,
+      "height": 1440,
+      "size": 71863,
+      "uploadedDate": "2020-08-27T13:25:08.891Z"
     },
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/calluna/item/Control_Primary-Promo-2580x1450-2580x1450-462c24fa8565931a0f5a99516979b946.jpg",
-      "md5": "462c24fa8565931a0f5a99516979b946",
-      "width": 2580,
-      "height": 1450,
-      "size": 199509,
-      "uploadedDate": "2019-12-11T18:13:23.264Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/calluna/item/AWE_Tall-860x1148-2533e3f639edd227d591b5a1cdd36865.jpg",
+      "md5": "2533e3f639edd227d591b5a1cdd36865",
+      "width": 860,
+      "height": 1148,
+      "size": 31836,
+      "uploadedDate": "2020-08-27T13:25:40.563Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "calluna",
   "status": "ACTIVE",
   "creationDate": "2019-12-11T18:39:03.663Z",
-  "lastModifiedDate": "2020-03-06T21:50:04.881Z",
+  "lastModifiedDate": "2020-08-28T17:23:26.054Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,7 +49,7 @@
     },
     "UseAccessControl": {
       "type": "STRING",
-      "value": "true"
+      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -58,6 +58,10 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AWEDLC"
     }
   },
   "entitlementName": "48832223fb834bc5bba847c115691ce2",
@@ -82,6 +86,6 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": false,
+  "ageGatings": {},
   "unsearchable": false
 }

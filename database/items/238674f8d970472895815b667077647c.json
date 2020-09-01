@@ -33,7 +33,7 @@
   "namespace": "rose",
   "status": "ACTIVE",
   "creationDate": "2019-03-18T15:22:39.862Z",
-  "lastModifiedDate": "2019-10-17T16:59:27.363Z",
+  "lastModifiedDate": "2020-08-24T20:24:42.372Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -57,7 +57,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "08c6dc6ed1ad452dbae7e3e0ec606f7f",
+      "id": "6fd7b52121864d56acb62cbadfcf5695",
       "appId": "RoseStaging",
       "compatibleApps": [],
       "platform": [

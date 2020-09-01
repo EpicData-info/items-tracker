@@ -1,0 +1,34 @@
+{
+  "id": "c2a3c55aa75546fba665a3e55cdfb4a6",
+  "title": "CeleryGeneralAudience",
+  "description": "CeleryGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "bd8a7e894699493fb21503837f7b66c5",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-17T16:26:01.768Z",
+  "lastModifiedDate": "2020-08-27T14:28:29.542Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c2a3c55aa75546fba665a3e55cdfb4a6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Perfect World",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

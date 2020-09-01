@@ -12,6 +12,24 @@
       "height": 485,
       "size": 109719,
       "uploadedDate": "2020-05-05T14:34:37.380Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ZOMBIEARMY4_WISHLIST-LANDSCAPE_CrossbowPistolBundle-2560x1440-8ccfeafbf2d3455af5a5e423c07e4e62.jpg",
+      "md5": "8ccfeafbf2d3455af5a5e423c07e4e62",
+      "width": 2560,
+      "height": 1440,
+      "size": 1017651,
+      "uploadedDate": "2020-08-12T18:09:01.602Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/EGS_REBELLION_ZOMBIEARMY4_CrossbowPistolBundle_REDEMPTIONIMAGE-860x1180-7294e2ad5bf714a4f078a39ffc95d43c.jpg",
+      "md5": "7294e2ad5bf714a4f078a39ffc95d43c",
+      "width": 860,
+      "height": 1180,
+      "size": 895022,
+      "uploadedDate": "2020-08-12T18:18:09.915Z"
     }
   ],
   "categories": [
@@ -25,7 +43,7 @@
   "namespace": "dfd2530e80e4425d801913b0879be444",
   "status": "ACTIVE",
   "creationDate": "2020-06-29T17:49:12.444Z",
-  "lastModifiedDate": "2020-06-29T17:59:12.823Z",
+  "lastModifiedDate": "2020-09-01T14:09:15.083Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",

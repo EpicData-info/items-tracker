@@ -1,0 +1,72 @@
+{
+  "id": "54800d4059cd4ad8b32f2e20fb9ac797",
+  "title": "Shadowrun Returns Deluxe Edition Upgrade DLC",
+  "description": "Shadowrun Returns Deluxe Edition Upgrade DLC",
+  "longDescription": "Shadowrun Returns Deluxe Edition Upgrade DLC",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/a8400ce7530e4479b32dcaf0e92fce57/item/EGS_ShadowrunReturnsDeluxeEditionUpgradeDLC_HarebrainedSchemes_AddOn_S1-2560x1440-8c9b42f50c7fbaaadbf43d9dc14c0ee4.jpg",
+      "md5": "8c9b42f50c7fbaaadbf43d9dc14c0ee4",
+      "width": 2560,
+      "height": 1440,
+      "size": 735876,
+      "uploadedDate": "2020-08-27T03:29:50.302Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a8400ce7530e4479b32dcaf0e92fce57",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-17T20:02:31.594Z",
+  "lastModifiedDate": "2020-08-27T14:42:59.864Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ShadowrunReturnsDLC"
+    }
+  },
+  "entitlementName": "54800d4059cd4ad8b32f2e20fb9ac797",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1811a8bd25be4db5a3d92231e7b1239b",
+      "appId": "87f4223fbe5648adab44bc04c2fa855b",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-17T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -14,7 +14,7 @@
   "namespace": "calluna",
   "status": "ACTIVE",
   "creationDate": "2019-12-11T19:44:22.486Z",
-  "lastModifiedDate": "2020-02-25T16:00:56.698Z",
+  "lastModifiedDate": "2020-08-28T17:23:26.054Z",
   "entitlementName": "ea95620463d74ffa90b31defd434d2a6",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
@@ -25,6 +25,6 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
+  "ageGatings": {},
   "unsearchable": false
 }

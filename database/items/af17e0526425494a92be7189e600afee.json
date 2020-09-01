@@ -1,0 +1,35 @@
+{
+  "id": "af17e0526425494a92be7189e600afee",
+  "title": "PlutoDLC01Audience",
+  "description": "PlutoDLC01Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "06a97980aac14fdfb914ef603a113792",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-27T02:54:40.180Z",
+  "lastModifiedDate": "2020-08-28T17:48:57.248Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "af17e0526425494a92be7189e600afee",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Perfect World",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

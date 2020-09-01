@@ -16,7 +16,7 @@
   "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
   "status": "ACTIVE",
   "creationDate": "2020-06-18T21:00:55.118Z",
-  "lastModifiedDate": "2020-06-18T22:32:16.764Z",
+  "lastModifiedDate": "2020-09-01T11:43:20.200Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -29,6 +29,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Temp/EpicRailwayEmpire/datastorage/93b333eb973b45b582f3bdf68dfc1dc9/00025c02e97f4f9ab1e2b7b648e6a1bd/savegame/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -57,7 +61,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-06-18T22:32:13.930Z"
+      "dateAdded": "2020-06-18T00:00:00.000Z"
     }
   ],
   "developer": "Epic Dev Test Account",

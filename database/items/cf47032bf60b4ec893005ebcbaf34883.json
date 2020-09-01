@@ -2,7 +2,17 @@
   "id": "cf47032bf60b4ec893005ebcbaf34883",
   "title": "RoseGeneralAudience",
   "description": "RoseGeneralAudience",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/rose/item/ESRB_No_Descriptors-842x404-101b2c53a62bca99efa171b39547d0ff.jpg",
+      "md5": "101b2c53a62bca99efa171b39547d0ff",
+      "width": 842,
+      "height": 404,
+      "size": 58022,
+      "uploadedDate": "2019-10-16T21:31:38.559Z"
+    }
+  ],
   "categories": [
     {
       "path": "audience"
@@ -14,7 +24,7 @@
   "namespace": "rose",
   "status": "ACTIVE",
   "creationDate": "2019-03-18T15:24:40.631Z",
-  "lastModifiedDate": "2020-01-07T16:33:15.943Z",
+  "lastModifiedDate": "2020-08-29T15:19:37.697Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -31,6 +41,6 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
+  "ageGatings": {},
   "unsearchable": false
 }

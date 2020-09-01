@@ -33,7 +33,7 @@
   "namespace": "rosemallow",
   "status": "ACTIVE",
   "creationDate": "2020-02-10T16:43:16.357Z",
-  "lastModifiedDate": "2020-02-10T16:45:38.010Z",
+  "lastModifiedDate": "2020-08-26T16:18:06.985Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -86,5 +86,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

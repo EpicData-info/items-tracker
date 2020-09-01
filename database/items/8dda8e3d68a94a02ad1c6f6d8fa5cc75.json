@@ -24,7 +24,7 @@
   "namespace": "amaranth",
   "status": "ACTIVE",
   "creationDate": "2019-03-18T03:58:41.206Z",
-  "lastModifiedDate": "2020-01-06T15:18:23.103Z",
+  "lastModifiedDate": "2020-08-27T16:19:37.787Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -42,6 +42,6 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "TEEN",
-  "selfRefundable": true,
+  "ageGatings": {},
   "unsearchable": false
 }

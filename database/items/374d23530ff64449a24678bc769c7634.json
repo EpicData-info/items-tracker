@@ -1,0 +1,32 @@
+{
+  "id": "374d23530ff64449a24678bc769c7634",
+  "title": "D_DLC14",
+  "description": "D_DLC14",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "435aaec1220447efbcfeb4f2abeb1027",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-18T22:35:01.790Z",
+  "lastModifiedDate": "2020-08-24T20:30:16.326Z",
+  "customAttributes": {},
+  "entitlementName": "374d23530ff64449a24678bc769c7634",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

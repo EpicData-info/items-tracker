@@ -42,7 +42,7 @@
   "namespace": "rose",
   "status": "ACTIVE",
   "creationDate": "2019-03-18T15:19:54.165Z",
-  "lastModifiedDate": "2019-11-19T17:03:01.525Z",
+  "lastModifiedDate": "2020-08-29T15:19:49.998Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -78,7 +78,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "8fe7324b494a479e933588bf284860bb",
+      "id": "111d73b077304902ac65d2985d2c3186",
       "appId": "Rose",
       "compatibleApps": [],
       "platform": [
@@ -95,6 +95,6 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
+  "ageGatings": {},
   "unsearchable": false
 }

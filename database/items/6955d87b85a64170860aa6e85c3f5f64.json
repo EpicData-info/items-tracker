@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/carnation/item/R6SIEGE_Y5_FW_Store_Landscape_2580x1450-2580x1450-d115b172b77400e8d6574f03e94d1707.jpg",
-      "md5": "d115b172b77400e8d6574f03e94d1707",
-      "width": 2580,
-      "height": 1450,
-      "size": 1240955,
-      "uploadedDate": "2020-03-05T19:57:28.694Z"
+      "url": "https://cdn1.epicgames.com/carnation/item/Capsule_1920x1080-1920x1080-b52f43816ccc320ada852f433dc629ce.jpg",
+      "md5": "b52f43816ccc320ada852f433dc629ce",
+      "width": 1920,
+      "height": 1080,
+      "size": 457474,
+      "uploadedDate": "2020-08-24T23:20:10.714Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/carnation/item/R6SIEGE_Y5_FW_Store_Portrait_1280x1420-1280x1420-89d7af1f19d042e01a790e8dcf49d067.jpg",
-      "md5": "89d7af1f19d042e01a790e8dcf49d067",
-      "width": 1280,
-      "height": 1420,
-      "size": 565017,
-      "uploadedDate": "2020-03-05T19:57:47.905Z"
+      "url": "https://cdn1.epicgames.com/carnation/item/Store_Portrait_1200x1600-1200x1600-f59231ef52ab47568702849b4d99900e.jpg",
+      "md5": "f59231ef52ab47568702849b4d99900e",
+      "width": 1200,
+      "height": 1600,
+      "size": 649495,
+      "uploadedDate": "2020-08-24T23:20:13.992Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-08-22T19:24:49.545Z",
-  "lastModifiedDate": "2020-03-16T16:06:36.217Z",
+  "lastModifiedDate": "2020-08-25T15:56:14.125Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -67,6 +67,14 @@
       "type": "STRING",
       "value": "true"
     },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "70823d11554145d9a2f33b4473e16914"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "RainbowSixSiegeTrial"
@@ -81,7 +89,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "0e1dc4edc1524208942698b5bf5aa136",
+      "id": "e90ed68ee6b54d309efc58870a3a4c42",
       "appId": "CarnationWeek",
       "compatibleApps": [],
       "platform": [
@@ -98,5 +106,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

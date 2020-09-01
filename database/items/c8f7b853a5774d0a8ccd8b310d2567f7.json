@@ -1,0 +1,35 @@
+{
+  "id": "c8f7b853a5774d0a8ccd8b310d2567f7",
+  "title": "SarajevoDeluxeEditiionAudience",
+  "description": "SarajevoDeluxeEditiionAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "456d95ca54814c8d98db2f52346ff5de",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-21T15:00:45.142Z",
+  "lastModifiedDate": "2020-08-21T15:01:03.280Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c8f7b853a5774d0a8ccd8b310d2567f7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": "5f8a5af4673e4526afb067ab3aae2f14",
+  "title": "SaturnDurableAudience",
+  "description": "SaturnDurableAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "7ad5508d382e46228056f1d1a0189ae2",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-28T06:26:39.925Z",
+  "lastModifiedDate": "2020-08-18T07:20:32.461Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5f8a5af4673e4526afb067ab3aae2f14",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Saturn",
+  "developerId": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

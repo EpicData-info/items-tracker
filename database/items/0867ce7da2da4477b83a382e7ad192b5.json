@@ -1,0 +1,52 @@
+{
+  "id": "0867ce7da2da4477b83a382e7ad192b5",
+  "title": "CopenhagenStaging",
+  "description": "CopenhagenStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0f7039ef44ad4ee18f16f19d96cf2a6b",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-01T18:09:49.641Z",
+  "lastModifiedDate": "2020-09-01T16:32:05.228Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CopenhagenStaging"
+    }
+  },
+  "entitlementName": "0867ce7da2da4477b83a382e7ad192b5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f773410587994c4c9dc7aff9a3cdc7d7",
+      "appId": "11adef5ba14447b9916240de62d70bea",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-01T16:29:53.053Z"
+    }
+  ],
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

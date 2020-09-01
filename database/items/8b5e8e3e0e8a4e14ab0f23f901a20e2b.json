@@ -1,0 +1,32 @@
+{
+  "id": "8b5e8e3e0e8a4e14ab0f23f901a20e2b",
+  "title": "C_DLC2",
+  "description": "C_DLC2",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "435aaec1220447efbcfeb4f2abeb1027",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-18T20:27:53.354Z",
+  "lastModifiedDate": "2020-08-24T20:29:00.588Z",
+  "customAttributes": {},
+  "entitlementName": "8b5e8e3e0e8a4e14ab0f23f901a20e2b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

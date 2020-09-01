@@ -1,0 +1,104 @@
+{
+  "id": "f08811dcfb9f4de9bc253d1f455ecf2e",
+  "title": "Beyond Good & Evil",
+  "description": "Beyond Good & Evil",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7ab8af3a04424eeaa509d37d7b5222b7/item/BEVL_STD_Store_Landscape_2560x1440-2560x1440-6f8d7b33e421c336c15d41471ddc8eef.jpg",
+      "md5": "6f8d7b33e421c336c15d41471ddc8eef",
+      "width": 2560,
+      "height": 1440,
+      "size": 903321,
+      "uploadedDate": "2020-08-24T22:50:12.985Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7ab8af3a04424eeaa509d37d7b5222b7/item/BEVL_STD_Store_Portrait_1200x1600-1200x1600-14419a45aa7c89e07e611022bb7e95b2.jpg",
+      "md5": "14419a45aa7c89e07e611022bb7e95b2",
+      "width": 1200,
+      "height": 1600,
+      "size": 674595,
+      "uploadedDate": "2020-08-24T22:50:17.028Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7ab8af3a04424eeaa509d37d7b5222b7",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-04T15:14:55.639Z",
+  "lastModifiedDate": "2020-08-25T15:05:30.709Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "7ab8af3a04424eeaa509d37d7b5222b7"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "7299ce87cd624412865069a0e50405e5"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BeyondGoodAndEvil"
+    },
+    "neverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "f08811dcfb9f4de9bc253d1f455ecf2e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e85ddacd9d564116b2a4165920a16661",
+      "appId": "52f83a6af963426aaee2d603030ef7c9",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-04T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

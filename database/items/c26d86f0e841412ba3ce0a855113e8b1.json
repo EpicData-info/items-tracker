@@ -1,0 +1,35 @@
+{
+  "id": "c26d86f0e841412ba3ce0a855113e8b1",
+  "title": "Peppermint PrePurchaseGeneralAudience",
+  "description": "Peppermint PrePurchaseGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "bd46d4ce259349e5bd8b3ded20274737",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-12T15:57:33.204Z",
+  "lastModifiedDate": "2020-08-28T19:43:50.932Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c26d86f0e841412ba3ce0a855113e8b1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

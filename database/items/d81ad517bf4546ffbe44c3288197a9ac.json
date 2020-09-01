@@ -1,0 +1,37 @@
+{
+  "id": "d81ad517bf4546ffbe44c3288197a9ac",
+  "title": "CotingaExtendedEditionDLCUpgradeAudience",
+  "description": "CotingaExtendedEditionDLCUpgradeAudience",
+  "longDescription": "CotingaExtendedEditionDLCUpgradeAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "0d66818e2304485f8dc3ae90c8b622b4",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-17T21:31:11.886Z",
+  "lastModifiedDate": "2020-08-27T14:46:21.832Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d81ad517bf4546ffbe44c3288197a9ac",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Paradox Interactive",
+  "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

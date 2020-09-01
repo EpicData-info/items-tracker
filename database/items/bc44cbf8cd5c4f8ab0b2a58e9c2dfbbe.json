@@ -1,0 +1,35 @@
+{
+  "id": "bc44cbf8cd5c4f8ab0b2a58e9c2dfbbe",
+  "title": "DevTurtleDlcCertAudience",
+  "description": "DevTurtleDlcCertAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "turtle",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-31T22:43:06.198Z",
+  "lastModifiedDate": "2020-09-01T19:57:59.852Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "bc44cbf8cd5c4f8ab0b2a58e9c2dfbbe",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": "4a412897c19d49cd913dd3d764b8796f",
+  "title": "D_DLC17",
+  "description": "D_DLC17",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "435aaec1220447efbcfeb4f2abeb1027",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-18T22:54:07.028Z",
+  "lastModifiedDate": "2020-08-24T20:30:29.784Z",
+  "customAttributes": {},
+  "entitlementName": "4a412897c19d49cd913dd3d764b8796f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

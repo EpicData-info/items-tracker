@@ -1,0 +1,32 @@
+{
+  "id": "870de33f6411430ca568fde324071ce7",
+  "title": "D_DLC13",
+  "description": "D_DLC13",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "435aaec1220447efbcfeb4f2abeb1027",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-18T22:34:48.910Z",
+  "lastModifiedDate": "2020-08-24T20:30:11.216Z",
+  "customAttributes": {},
+  "entitlementName": "870de33f6411430ca568fde324071ce7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

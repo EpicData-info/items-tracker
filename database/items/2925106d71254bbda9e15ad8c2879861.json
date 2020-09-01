@@ -1,7 +1,27 @@
 {
   "id": "2925106d71254bbda9e15ad8c2879861",
-  "title": "Tanager",
-  "description": "Tanager",
+  "title": "Surgeon Simulator 2",
+  "description": "Surgeon Simulator 2",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7f1fa336313d48eca0a802170aa8dd8a/item/Diesel_productv2_surgeon-simulator-2_home_EGS_Bossa_SurgeonSimulator2_G1A_00-1920x1080-c689fdff3df72952307684fbae3ac97d09b5224e-1920x1080-e77e253316681b86fea36cbd0f4647a4.jpg",
+      "md5": "e77e253316681b86fea36cbd0f4647a4",
+      "width": 1920,
+      "height": 1080,
+      "size": 130963,
+      "uploadedDate": "2020-08-17T18:15:26.213Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7f1fa336313d48eca0a802170aa8dd8a/item/Diesel_productv2_surgeon-simulator-2_home_EGS_Bossa_SurgeonSimulator2_S2-860x1148-e30d1b3eddc80c7ef784995503aab9b1de5ce775-860x1148-8050340620583c842e7880859d313f5d.jpg",
+      "md5": "8050340620583c842e7880859d313f5d",
+      "width": 860,
+      "height": 1148,
+      "size": 97386,
+      "uploadedDate": "2020-08-17T18:15:34.577Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,11 +36,11 @@
   "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
   "status": "ACTIVE",
   "creationDate": "2019-08-15T17:54:14.813Z",
-  "lastModifiedDate": "2020-07-24T15:13:26.125Z",
+  "lastModifiedDate": "2020-08-21T23:07:01.652Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
-      "value": "true"
+      "value": "false"
     },
     "PresenceId": {
       "type": "STRING",
@@ -32,7 +52,7 @@
     },
     "UseAccessControl": {
       "type": "STRING",
-      "value": "false"
+      "value": "true"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -44,7 +64,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Tanager"
+      "value": "SurgeonSim2"
     }
   },
   "entitlementName": "2925106d71254bbda9e15ad8c2879861",
@@ -60,14 +80,12 @@
       "dateAdded": "2019-08-20T00:00:00.000Z"
     }
   ],
-  "developer": "Dragonest Game",
-  "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+  "developer": "Bossa Studios",
+  "developerId": "o-2xhhr8jdtcqt7uprgbpvf7g9k2vppu",
   "eulaIds": [
-    "egstore"
+    "(egstore && bossa)"
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "applicationId": "fghi45675nukXDCYMFZoAN4ByPC9Qwua",
-  "requiresSecureAccount": true,
   "unsearchable": false
 }

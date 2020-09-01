@@ -4,31 +4,31 @@
   "description": "Industries of Titan",
   "keyImages": [
     {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/protea/item/IoT_TT4_EGS_Library Tile Landscape-2560x1440-91c48350bc7ab7707649f82ef77a95f0.jpg",
+      "md5": "91c48350bc7ab7707649f82ef77a95f0",
+      "width": 2560,
+      "height": 1440,
+      "size": 819944,
+      "uploadedDate": "2020-08-31T15:36:01.076Z"
+    },
+    {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/protea/item/IOT_TT3_EGS_Library_Portrait-1200x1600-c2aeb34ea69e537d461f8b49fcae98bb.jpg",
-      "md5": "c2aeb34ea69e537d461f8b49fcae98bb",
+      "url": "https://cdn1.epicgames.com/protea/item/IoT_TT4_EGS_Library Tile Portrait-1200x1600-c4094e0d760ec695407db952052a7f15.jpg",
+      "md5": "c4094e0d760ec695407db952052a7f15",
       "width": 1200,
       "height": 1600,
-      "size": 588853,
-      "uploadedDate": "2020-08-04T14:52:33.077Z"
+      "size": 484787,
+      "uploadedDate": "2020-08-31T15:36:14.467Z"
     },
     {
       "type": "DieselGameBoxWide",
-      "url": "https://cdn1.epicgames.com/protea/item/IOT_TT3_EGS_Library_Landscape-2560x1440-97f9ba8375b47e561affcc58e5481f6a.jpg",
-      "md5": "97f9ba8375b47e561affcc58e5481f6a",
+      "url": "https://cdn1.epicgames.com/protea/item/IoT_TT4_EGS_Library Tile Landscape-2560x1440-91c48350bc7ab7707649f82ef77a95f0.jpg",
+      "md5": "91c48350bc7ab7707649f82ef77a95f0",
       "width": 2560,
       "height": 1440,
-      "size": 980190,
-      "uploadedDate": "2020-08-04T14:52:42.495Z"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/protea/item/IOT_TT3_EGS_Library_Landscape-2560x1440-97f9ba8375b47e561affcc58e5481f6a.jpg",
-      "md5": "97f9ba8375b47e561affcc58e5481f6a",
-      "width": 2560,
-      "height": 1440,
-      "size": 980190,
-      "uploadedDate": "2020-08-04T14:52:56.145Z"
+      "size": 819944,
+      "uploadedDate": "2020-08-31T15:36:31.411Z"
     }
   ],
   "categories": [
@@ -42,7 +42,7 @@
   "namespace": "protea",
   "status": "ACTIVE",
   "creationDate": "2019-03-18T05:15:08.763Z",
-  "lastModifiedDate": "2020-08-04T15:05:46.199Z",
+  "lastModifiedDate": "2020-09-01T17:55:03.217Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

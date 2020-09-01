@@ -1,0 +1,52 @@
+{
+  "id": "71a5453898674ae6a7e717ad4ea4b83b",
+  "title": "TurtleDlcCertStaging",
+  "description": "TurtleDlcCertStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "turtle",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-31T22:43:06.304Z",
+  "lastModifiedDate": "2020-08-31T23:17:22.311Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TurtleDlcCertStaging"
+    }
+  },
+  "entitlementName": "71a5453898674ae6a7e717ad4ea4b83b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "43ec3d2bdf124f2287fb314015f567df",
+      "appId": "cc1f225395404c1cb48cef8fdf99e858",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-31T22:45:58.042Z"
+    }
+  ],
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

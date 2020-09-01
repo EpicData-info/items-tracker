@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/iris/item/PP key art EGS Update 6 horizontal-2560x1440-05af4101b6b4a515b1e8caf86bf36479.jpg",
-      "md5": "05af4101b6b4a515b1e8caf86bf36479",
+      "url": "https://cdn1.epicgames.com/iris/item/PP key art EGS Update 7 horizontal-2560x1440-f0df241248094d55d612251f627a72f2.jpg",
+      "md5": "f0df241248094d55d612251f627a72f2",
       "width": 2560,
       "height": 1440,
-      "size": 859507,
-      "uploadedDate": "2020-07-30T15:52:51.680Z"
+      "size": 865696,
+      "uploadedDate": "2020-08-26T15:36:35.225Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/iris/item/PP key art EGS Update 6 vertical-860x1148-b493bcc16afadfcfc5bba0a9ea7994ff.jpg",
-      "md5": "b493bcc16afadfcfc5bba0a9ea7994ff",
+      "url": "https://cdn1.epicgames.com/iris/item/PP key art EGS Update 7 vertical-860x1148-83cfbf90639b34eef7ff9551f73b6b8c.jpg",
+      "md5": "83cfbf90639b34eef7ff9551f73b6b8c",
       "width": 860,
       "height": 1148,
-      "size": 417349,
-      "uploadedDate": "2020-07-30T15:53:05.532Z"
+      "size": 424013,
+      "uploadedDate": "2020-08-26T15:36:50.690Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "iris",
   "status": "ACTIVE",
   "creationDate": "2019-02-15T16:22:06.508Z",
-  "lastModifiedDate": "2020-07-30T15:53:29.922Z",
+  "lastModifiedDate": "2020-08-26T15:36:54.094Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

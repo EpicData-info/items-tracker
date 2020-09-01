@@ -14,7 +14,7 @@
   "namespace": "calluna",
   "status": "ACTIVE",
   "creationDate": "2020-03-16T03:07:04.632Z",
-  "lastModifiedDate": "2020-03-16T03:07:04.632Z",
+  "lastModifiedDate": "2020-08-27T14:49:37.702Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -31,6 +31,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": false,
   "unsearchable": false
 }

@@ -1,0 +1,32 @@
+{
+  "id": "8575fac9d67046f1b85436c0465a45d6",
+  "title": "D_DLC18",
+  "description": "D_DLC18",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "435aaec1220447efbcfeb4f2abeb1027",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-18T22:35:38.286Z",
+  "lastModifiedDate": "2020-08-24T20:30:34.452Z",
+  "customAttributes": {},
+  "entitlementName": "8575fac9d67046f1b85436c0465a45d6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

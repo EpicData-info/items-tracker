@@ -5,12 +5,12 @@
   "keyImages": [
     {
       "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/917551a8060244469eb4e6ab8a99cf24/item/Diesel_productv2_amnesia-the-dark-descent_home_ESRB_AmnesiaTDD-842x404-3861e6150747dc47894e3710ea9e56ff41f841a7-842x404-96d7bfe0f0f07d6d41957319f4251015.jpg",
-      "md5": "96d7bfe0f0f07d6d41957319f4251015",
+      "url": "https://cdn1.epicgames.com/917551a8060244469eb4e6ab8a99cf24/item/ESRB_DarkDescent-842x404-e1b03ab6e9de742e039e1da8d2bc8355.png",
+      "md5": "e1b03ab6e9de742e039e1da8d2bc8355",
       "width": 842,
       "height": 404,
-      "size": 28353,
-      "uploadedDate": "2020-04-30T14:38:18.070Z"
+      "size": 65462,
+      "uploadedDate": "2020-08-31T23:20:01.084Z"
     }
   ],
   "categories": [
@@ -24,7 +24,7 @@
   "namespace": "917551a8060244469eb4e6ab8a99cf24",
   "status": "ACTIVE",
   "creationDate": "2020-04-20T14:16:27.015Z",
-  "lastModifiedDate": "2020-06-03T17:11:29.031Z",
+  "lastModifiedDate": "2020-08-31T23:20:04.851Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",

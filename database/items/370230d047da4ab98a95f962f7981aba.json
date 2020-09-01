@@ -1,0 +1,59 @@
+{
+  "id": "370230d047da4ab98a95f962f7981aba",
+  "title": "BernStaging",
+  "description": "BernStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a0b8d4482f3d4f939f35f87a3f367865",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-17T19:41:19.569Z",
+  "lastModifiedDate": "2020-08-18T14:56:17.345Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "0d5c544c88774764b01d649850db9141"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BernStaging"
+    }
+  },
+  "entitlementName": "370230d047da4ab98a95f962f7981aba",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ab82ea371b1c4e08b3379ae3af61a88d",
+      "appId": "67caf0366b444ce38d6cb8e7d0fa2c6a",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

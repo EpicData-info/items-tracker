@@ -2,7 +2,17 @@
   "id": "5c3215c2547c4910abd5f0f9ceb70921",
   "title": "RavenGeneralAudience",
   "description": "RavenGeneralAudience",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/item/ESRB_NSR-842x404-1580b64c3a0ddc3119f9956a737ef5b9.png",
+      "md5": "1580b64c3a0ddc3119f9956a737ef5b9",
+      "width": 842,
+      "height": 404,
+      "size": 65127,
+      "uploadedDate": "2020-08-25T13:50:47.906Z"
+    }
+  ],
   "categories": [
     {
       "path": "audience"
@@ -14,7 +24,7 @@
   "namespace": "c0783fd957634390af33808d1a1f56dd",
   "status": "ACTIVE",
   "creationDate": "2019-08-27T21:10:01.986Z",
-  "lastModifiedDate": "2019-11-04T21:26:36.047Z",
+  "lastModifiedDate": "2020-08-25T13:50:58.266Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -24,12 +34,13 @@
   "entitlementName": "5c3215c2547c4910abd5f0f9ceb70921",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Sold-Out Software",
+  "developer": "Sold Out",
   "developerId": "o-gcm88kddcs2t3gtypyq9tvlx64bzyw",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "ageGatings": {},
   "unsearchable": false
 }

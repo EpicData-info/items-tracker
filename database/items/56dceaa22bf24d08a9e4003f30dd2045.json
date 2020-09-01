@@ -1,0 +1,35 @@
+{
+  "id": "56dceaa22bf24d08a9e4003f30dd2045",
+  "title": "Dev Game SarajevoAudience",
+  "description": "Dev Game SarajevoAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "456d95ca54814c8d98db2f52346ff5de",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-21T14:55:04.938Z",
+  "lastModifiedDate": "2020-08-21T14:57:50.110Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "56dceaa22bf24d08a9e4003f30dd2045",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

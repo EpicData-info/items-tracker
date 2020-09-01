@@ -13,7 +13,7 @@
   "namespace": "deab864e1abf4357b303bcd5ff6fe8da",
   "status": "ACTIVE",
   "creationDate": "2019-12-10T02:40:11.362Z",
-  "lastModifiedDate": "2020-07-09T16:07:14.688Z",
+  "lastModifiedDate": "2020-08-14T15:08:24.186Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -30,6 +30,5 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "selfRefundable": true,
   "unsearchable": false
 }

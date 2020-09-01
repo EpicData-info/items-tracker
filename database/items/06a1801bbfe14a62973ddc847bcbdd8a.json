@@ -1,0 +1,35 @@
+{
+  "id": "06a1801bbfe14a62973ddc847bcbdd8a",
+  "title": "TurtleDlcCertGeneralAudience",
+  "description": "TurtleDlcCertGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "turtle",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-31T22:43:06.036Z",
+  "lastModifiedDate": "2020-09-01T20:00:11.196Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "06a1801bbfe14a62973ddc847bcbdd8a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Tripwire Interactive",
+  "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

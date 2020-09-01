@@ -1,0 +1,70 @@
+{
+  "id": "3451da3d02f042488de6bc2102bfbd19",
+  "title": "Celery",
+  "description": "Celery",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bd8a7e894699493fb21503837f7b66c5",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-17T16:26:01.851Z",
+  "lastModifiedDate": "2020-08-27T14:28:29.541Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "bd8a7e894699493fb21503837f7b66c5"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Celery"
+    }
+  },
+  "entitlementName": "3451da3d02f042488de6bc2102bfbd19",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5aa1dff0ee2843b895e73a2a178c86b0",
+      "appId": "Celery",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Perfect World",
+  "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

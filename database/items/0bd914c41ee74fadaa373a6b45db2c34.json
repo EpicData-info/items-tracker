@@ -1,0 +1,87 @@
+{
+  "id": "0bd914c41ee74fadaa373a6b45db2c34",
+  "title": "RosemallowRelLatestDLC01",
+  "description": "RosemallowRelLatestDLC01",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/rosemallow/item/Diesel_product_rosemallow_home_EGS_Obsidian_OuterWorlds_N1_2560x1440-2560x1440-0302c1c0d01f50c0ac3b23d86d541546251c1645-2560x1440-86c56419e01e11478501598a200de2bc.png",
+      "md5": "86c56419e01e11478501598a200de2bc",
+      "width": 2560,
+      "height": 1440,
+      "size": 1355869,
+      "uploadedDate": "2019-06-04T18:52:47.763Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/rosemallow/item/The-Outer-Worlds-Logo-BLK-1604x721-364395cea772d6afe3e8538e74afc33e.png",
+      "md5": "364395cea772d6afe3e8538e74afc33e",
+      "width": 1604,
+      "height": 721,
+      "size": 19873,
+      "uploadedDate": "2019-06-04T18:52:56.110Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "rosemallow",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-28T22:23:39.780Z",
+  "lastModifiedDate": "2020-08-28T22:27:01.313Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceID": {
+      "type": "STRING",
+      "value": "rosemallow"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "{}"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RosemallowRelLatestDLC01"
+    }
+  },
+  "entitlementName": "0bd914c41ee74fadaa373a6b45db2c34",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "91e9ae9c8cb0466fb711d9effac28d36",
+      "appId": "d24304db8f4b4033a283f64438db49f1",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-06-04T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Private Division",
+  "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
