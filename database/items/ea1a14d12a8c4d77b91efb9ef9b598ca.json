@@ -1,0 +1,39 @@
+{
+  "id": "ea1a14d12a8c4d77b91efb9ef9b598ca",
+  "title": "Launch DLC Marker",
+  "description": "Launch DLC Marker",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "width": 842,
+      "height": 404,
+      "size": 51194,
+      "uploadedDate": "2019-04-23T19:39:00.273Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-28T12:45:30.575Z",
+  "lastModifiedDate": "2020-09-02T15:33:58.572Z",
+  "entitlementName": "ea1a14d12a8c4d77b91efb9ef9b598ca",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "RATING_PENDING",
+  "ageGatings": {},
+  "unsearchable": false
+}
