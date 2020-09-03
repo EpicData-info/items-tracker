@@ -1,0 +1,34 @@
+{
+  "id": "b2d9599bc40047de922193e3948377fe",
+  "title": "DevZagrebAudience",
+  "description": "DevZagrebAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "c03a3687567a4cf3910ea5ec7279664e",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-13T20:47:03.903Z",
+  "lastModifiedDate": "2020-09-03T12:47:51.121Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b2d9599bc40047de922193e3948377fe",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

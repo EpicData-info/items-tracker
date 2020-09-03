@@ -1,0 +1,52 @@
+{
+  "id": "853ecc545e74422788092f20738b7cc8",
+  "title": "NicosiaStaging",
+  "description": "NicosiaStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7ea93ab093004226baa70ca2c0ca1d25",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-13T14:40:22.805Z",
+  "lastModifiedDate": "2020-09-03T12:51:12.646Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NicosiaStaging"
+    }
+  },
+  "entitlementName": "853ecc545e74422788092f20738b7cc8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7e2879e2f2f34db988eb980d8147705c",
+      "appId": "320dd25c2c5a4a718a4d8d11699787b4",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-24T15:38:03.110Z"
+    }
+  ],
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

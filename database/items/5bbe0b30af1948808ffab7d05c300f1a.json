@@ -1,0 +1,92 @@
+{
+  "id": "5bbe0b30af1948808ffab7d05c300f1a",
+  "title": "Recompile",
+  "description": "Recompile",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7ea93ab093004226baa70ca2c0ca1d25/item/EGS_Recompile_Phigames_S5-1920x1080-86439e9b76ad4a6d06079f253feb0e06.jpg",
+      "md5": "86439e9b76ad4a6d06079f253feb0e06",
+      "width": 1920,
+      "height": 1080,
+      "size": 585648,
+      "uploadedDate": "2020-08-28T14:51:52.901Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7ea93ab093004226baa70ca2c0ca1d25/item/EGS_Recompile_Phigames_S6-1200x1600-a4cbd205628c6caa57e9222fe5543ba5.jpg",
+      "md5": "a4cbd205628c6caa57e9222fe5543ba5",
+      "width": 1200,
+      "height": 1600,
+      "size": 365711,
+      "uploadedDate": "2020-08-28T14:52:03.523Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7ea93ab093004226baa70ca2c0ca1d25",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-13T14:40:22.762Z",
+  "lastModifiedDate": "2020-09-03T12:51:12.646Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "7ea93ab093004226baa70ca2c0ca1d25"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Recompile"
+    }
+  },
+  "entitlementName": "5bbe0b30af1948808ffab7d05c300f1a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0ff155eb42824de4ad2dafc952dc1277",
+      "appId": "cf0f22344cd741578905ddb577cf795e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
