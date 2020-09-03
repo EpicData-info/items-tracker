@@ -4,31 +4,22 @@
   "description": "Tom Clancy’s Ghost Recon Breakpoint",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/Game_Logo_Neg_1000x375-1000x375-ba1dcba5b27ac88bce0b6d3271c608a9.png",
-      "md5": "ba1dcba5b27ac88bce0b6d3271c608a9",
-      "width": 1000,
-      "height": 375,
-      "size": 104250,
-      "uploadedDate": "2019-05-09T04:30:45.668Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/TargetPrimaryPromo-2580x1450-989ed2e98944eebffc504e23c958260d.jpg",
-      "md5": "989ed2e98944eebffc504e23c958260d",
-      "width": 2580,
-      "height": 1450,
-      "size": 498355,
-      "uploadedDate": "2019-05-09T04:30:34.789Z"
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/BREAKPOINT_STANDARD_BREAKPOINT_STANDARD_EPIC_Store_Landscape_2560x1440-2560x1440-1c1a73e5e63d08b2256d66b947467f23.jpg",
+      "md5": "1c1a73e5e63d08b2256d66b947467f23",
+      "width": 2560,
+      "height": 1440,
+      "size": 493351,
+      "uploadedDate": "2020-09-03T17:10:23.744Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/Target_Store_Portrait_Promo-1280x1420-b26ff533005794b5c3c70a2b8a1f7d33.jpg",
-      "md5": "b26ff533005794b5c3c70a2b8a1f7d33",
-      "width": 1280,
-      "height": 1420,
-      "size": 310568,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/BREAKPOINT_STANDARD_BREAKPOINT_STANDARD_EPIC_Store_Portrait_1200x1600_L-1200x1600-bd6073c4c9d1749d1fd6ec15e6090b72.jpg",
+      "md5": "bd6073c4c9d1749d1fd6ec15e6090b72",
+      "width": 1200,
+      "height": 1600,
+      "size": 992262,
+      "uploadedDate": "2020-09-03T17:10:26.746Z"
     }
   ],
   "categories": [
@@ -45,7 +36,7 @@
   "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
   "status": "ACTIVE",
   "creationDate": "2019-05-02T01:23:21.110Z",
-  "lastModifiedDate": "2020-04-01T15:12:13.245Z",
+  "lastModifiedDate": "2020-09-03T17:10:33.447Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
@@ -119,6 +110,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
   "unsearchable": false
 }
