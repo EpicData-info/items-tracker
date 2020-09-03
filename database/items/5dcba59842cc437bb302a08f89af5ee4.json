@@ -2,17 +2,7 @@
   "id": "5dcba59842cc437bb302a08f89af5ee4",
   "title": "Bag of Gold Audience",
   "description": "Bag of Gold Audience",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
-      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
-      "width": 842,
-      "height": 404,
-      "size": 51194,
-      "uploadedDate": "2019-04-23T19:23:42.731Z"
-    }
-  ],
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -24,7 +14,7 @@
   "namespace": "newt",
   "status": "ACTIVE",
   "creationDate": "2020-04-09T13:57:46.394Z",
-  "lastModifiedDate": "2020-09-03T13:37:40.282Z",
+  "lastModifiedDate": "2020-09-03T13:53:05.791Z",
   "entitlementName": "5dcba59842cc437bb302a08f89af5ee4",
   "entitlementType": "AUDIENCE",
   "itemType": "CONSUMABLE",
@@ -36,7 +26,6 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "esrbGameRatingValue": "RATING_PENDING",
   "ageGatings": {},
   "unsearchable": false
 }
