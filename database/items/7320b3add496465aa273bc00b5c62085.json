@@ -5,12 +5,12 @@
   "keyImages": [
     {
       "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
-      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
-      "width": 842,
-      "height": 404,
-      "size": 51194,
-      "uploadedDate": "2019-04-23T19:23:42.731Z"
+      "url": "https://cdn1.epicgames.com/newt/item/esrb-t-160x216-7db0693ecf5f1d8991f3b6117197c119.png",
+      "md5": "7db0693ecf5f1d8991f3b6117197c119",
+      "width": 160,
+      "height": 216,
+      "size": 3976,
+      "uploadedDate": "2020-09-03T14:23:30.253Z"
     }
   ],
   "categories": [
@@ -24,7 +24,7 @@
   "namespace": "newt",
   "status": "ACTIVE",
   "creationDate": "2020-02-28T19:12:32.409Z",
-  "lastModifiedDate": "2020-08-05T15:36:45.029Z",
+  "lastModifiedDate": "2020-09-03T14:23:34.731Z",
   "entitlementName": "7320b3add496465aa273bc00b5c62085",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
@@ -35,6 +35,7 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "esrbGameRatingValue": "RATING_PENDING",
+  "esrbGameRatingValue": "TEEN",
+  "ageGatings": {},
   "unsearchable": false
 }
