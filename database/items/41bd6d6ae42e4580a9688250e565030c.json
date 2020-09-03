@@ -1,0 +1,37 @@
+{
+  "id": "41bd6d6ae42e4580a9688250e565030c",
+  "title": "RosemallowExpansionPassAudience",
+  "description": "RosemallowExpansionPassAudience",
+  "longDescription": "RosemallowExpansionPassAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "rosemallow",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-03T21:49:57.430Z",
+  "lastModifiedDate": "2020-09-03T22:04:55.297Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "41bd6d6ae42e4580a9688250e565030c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Private Division",
+  "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
