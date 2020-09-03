@@ -1,7 +1,7 @@
 {
-  "id": "db8245ea2881467b9a42865fa47b3772",
-  "title": "CeleryStaging",
-  "description": "CeleryStaging",
+  "id": "80e61770187140aab131aa6050350839",
+  "title": "CarrotStaging",
+  "description": "CarrotStaging",
   "categories": [
     {
       "path": "public"
@@ -13,10 +13,10 @@
       "path": "applications"
     }
   ],
-  "namespace": "bd8a7e894699493fb21503837f7b66c5",
+  "namespace": "2ae3b43880cd447ea4b439a8a32dcae3",
   "status": "ACTIVE",
-  "creationDate": "2020-08-17T16:26:01.894Z",
-  "lastModifiedDate": "2020-09-03T14:43:52.437Z",
+  "creationDate": "2020-08-17T16:22:49.286Z",
+  "lastModifiedDate": "2020-09-03T14:46:46.979Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,16 +24,16 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "CeleryStaging"
+      "value": "CarrotStaging"
     }
   },
-  "entitlementName": "db8245ea2881467b9a42865fa47b3772",
+  "entitlementName": "80e61770187140aab131aa6050350839",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "42e9effaa3a141519365318cbce6c43a",
-      "appId": "CeleryStaging",
+      "id": "e32320d9abb146b6a55ec906252e584f",
+      "appId": "CarrotStaging",
       "platform": [
         "Windows"
       ]

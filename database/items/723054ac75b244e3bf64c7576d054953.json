@@ -1,7 +1,7 @@
 {
-  "id": "a3808255274543ff8002ad27dfd34161",
-  "title": "DevCeleryAudience",
-  "description": "DevCeleryAudience",
+  "id": "723054ac75b244e3bf64c7576d054953",
+  "title": "DevCarrotAudience",
+  "description": "DevCarrotAudience",
   "categories": [
     {
       "path": "audience"
@@ -10,17 +10,17 @@
       "path": "developer"
     }
   ],
-  "namespace": "bd8a7e894699493fb21503837f7b66c5",
+  "namespace": "2ae3b43880cd447ea4b439a8a32dcae3",
   "status": "ACTIVE",
-  "creationDate": "2020-08-17T16:26:01.815Z",
-  "lastModifiedDate": "2020-09-03T14:43:52.437Z",
+  "creationDate": "2020-08-17T16:22:49.143Z",
+  "lastModifiedDate": "2020-09-03T14:46:46.979Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "a3808255274543ff8002ad27dfd34161",
+  "entitlementName": "723054ac75b244e3bf64c7576d054953",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "developer": "Perfect World",
