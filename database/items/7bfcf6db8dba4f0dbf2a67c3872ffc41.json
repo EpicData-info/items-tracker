@@ -4,24 +4,6 @@
   "description": "Spellbreak",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/newt/item/EGS_ProletariatInc_Spellbreak_S4-510x680-7554fbe28edb464bc5447618e65202dd.jpg",
-      "md5": "7554fbe28edb464bc5447618e65202dd",
-      "width": 510,
-      "height": 680,
-      "size": 111107,
-      "uploadedDate": "2020-02-28T20:36:11.653Z"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/newt/item/EGS_ProletariatInc_Spellbreak_S3-1360x766-afa07da3663cba7e0269f44cb96be8bc.jpg",
-      "md5": "afa07da3663cba7e0269f44cb96be8bc",
-      "width": 1360,
-      "height": 766,
-      "size": 382253,
-      "uploadedDate": "2020-02-28T20:36:20.520Z"
-    },
-    {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/newt/item/EGS_ProletariatInc_Spellbreak_IC2-128x128-f2d69ef550d3718937e61621a70d9a35.png",
       "md5": "f2d69ef550d3718937e61621a70d9a35",
@@ -29,6 +11,24 @@
       "height": 128,
       "size": 13506,
       "uploadedDate": "2020-02-28T20:37:30.401Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/newt/item/EGS_Spellbreak_ProletariatInc_S5-1920x1080-256f590bad9f869587c0be7b358853fc-1920x1080-256f590bad9f869587c0be7b358853fc.jpg",
+      "md5": "256f590bad9f869587c0be7b358853fc",
+      "width": 1920,
+      "height": 1080,
+      "size": 640356,
+      "uploadedDate": "2020-08-28T12:24:37.937Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/newt/item/EGS_Spellbreak_ProletariatInc_S6-1200x1600-8cf5fbf5533eb5644cec429a257b6b69-1200x1600-8cf5fbf5533eb5644cec429a257b6b69.jpg",
+      "md5": "8cf5fbf5533eb5644cec429a257b6b69",
+      "width": 1200,
+      "height": 1600,
+      "size": 977340,
+      "uploadedDate": "2020-08-28T12:24:52.112Z"
     }
   ],
   "categories": [
@@ -42,7 +42,7 @@
   "namespace": "newt",
   "status": "ACTIVE",
   "creationDate": "2018-12-13T21:44:29.162Z",
-  "lastModifiedDate": "2020-08-11T13:35:59.650Z",
+  "lastModifiedDate": "2020-09-03T13:36:46.644Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -96,6 +96,5 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "selfRefundable": true,
   "unsearchable": false
 }
