@@ -2,6 +2,8 @@
   "id": "77770b6848284f85ba9393aee8aaf5b7",
   "title": "DevturtleDLCAudience",
   "description": "DevturtleDLCAudience",
+  "technicalDetails": "not a DLC",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +15,7 @@
   "namespace": "turtle",
   "status": "ACTIVE",
   "creationDate": "2020-08-27T02:26:37.321Z",
-  "lastModifiedDate": "2020-09-01T20:03:59.930Z",
+  "lastModifiedDate": "2020-09-04T02:52:19.643Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",

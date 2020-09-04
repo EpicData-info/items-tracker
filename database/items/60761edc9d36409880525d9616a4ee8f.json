@@ -2,6 +2,8 @@
   "id": "60761edc9d36409880525d9616a4ee8f",
   "title": "turtleDLCStaging",
   "description": "turtleDLCStaging",
+  "technicalDetails": "not a DLC",
+  "keyImages": [],
   "categories": [
     {
       "path": "public"
@@ -16,7 +18,7 @@
   "namespace": "turtle",
   "status": "ACTIVE",
   "creationDate": "2020-08-27T02:26:37.416Z",
-  "lastModifiedDate": "2020-09-04T01:47:51.727Z",
+  "lastModifiedDate": "2020-09-04T02:52:36.190Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

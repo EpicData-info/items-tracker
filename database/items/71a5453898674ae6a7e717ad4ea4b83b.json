@@ -2,6 +2,8 @@
   "id": "71a5453898674ae6a7e717ad4ea4b83b",
   "title": "TurtleDlcCertStaging",
   "description": "TurtleDlcCertStaging",
+  "technicalDetails": "not a DLC",
+  "keyImages": [],
   "categories": [
     {
       "path": "public"
@@ -16,7 +18,7 @@
   "namespace": "turtle",
   "status": "ACTIVE",
   "creationDate": "2020-08-31T22:43:06.304Z",
-  "lastModifiedDate": "2020-09-04T01:47:51.727Z",
+  "lastModifiedDate": "2020-09-04T02:52:52.919Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

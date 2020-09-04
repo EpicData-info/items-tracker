@@ -2,6 +2,8 @@
   "id": "06a1801bbfe14a62973ddc847bcbdd8a",
   "title": "TurtleDlcCertGeneralAudience",
   "description": "TurtleDlcCertGeneralAudience",
+  "technicalDetails": "not a DLC",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +15,7 @@
   "namespace": "turtle",
   "status": "ACTIVE",
   "creationDate": "2020-08-31T22:43:06.036Z",
-  "lastModifiedDate": "2020-09-01T20:00:11.196Z",
+  "lastModifiedDate": "2020-09-04T02:51:51.643Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",

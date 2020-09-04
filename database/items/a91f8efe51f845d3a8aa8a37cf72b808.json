@@ -2,6 +2,8 @@
   "id": "a91f8efe51f845d3a8aa8a37cf72b808",
   "title": "turtleDLC",
   "description": "turtleDLC",
+  "technicalDetails": "not a DLC",
+  "keyImages": [],
   "categories": [
     {
       "path": "public"
@@ -16,7 +18,7 @@
   "namespace": "turtle",
   "status": "ACTIVE",
   "creationDate": "2020-08-27T02:26:37.377Z",
-  "lastModifiedDate": "2020-09-04T01:47:51.727Z",
+  "lastModifiedDate": "2020-09-04T02:52:25.764Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
