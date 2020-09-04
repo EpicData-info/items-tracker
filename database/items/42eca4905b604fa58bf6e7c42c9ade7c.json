@@ -1,0 +1,47 @@
+{
+  "id": "42eca4905b604fa58bf6e7c42c9ade7c",
+  "title": "DLC00030 Audience",
+  "description": "DLC00030 Audience",
+  "longDescription": "DLC00030 Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+      "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+      "width": 842,
+      "height": 485,
+      "size": 109719,
+      "uploadedDate": "2020-05-05T14:37:11.413Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-04T12:05:01.066Z",
+  "lastModifiedDate": "2020-09-04T12:26:28.871Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "42eca4905b604fa58bf6e7c42c9ade7c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Rebellion",
+  "developerId": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
+  "unsearchable": false
+}
