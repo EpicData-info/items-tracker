@@ -16,7 +16,7 @@
   "namespace": "turtle",
   "status": "ACTIVE",
   "creationDate": "2020-08-27T02:26:37.416Z",
-  "lastModifiedDate": "2020-08-27T02:32:50.540Z",
+  "lastModifiedDate": "2020-09-04T01:47:51.727Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -33,11 +33,11 @@
   "releaseInfo": [
     {
       "id": "b5b0e305a8d04abca9edf9d16f882859",
-      "appId": "5bc264787cbf49f38dbdd6bfc1f40379",
+      "appId": "55ac8a247e2145c4a6e431296a413510",
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-08-27T02:31:05.427Z"
+      "dateAdded": "2020-08-27T00:00:00.000Z"
     }
   ],
   "developer": "Tripwire Interactive",

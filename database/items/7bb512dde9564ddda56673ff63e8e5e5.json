@@ -16,7 +16,7 @@
   "namespace": "turtle",
   "status": "ACTIVE",
   "creationDate": "2020-08-31T22:43:06.259Z",
-  "lastModifiedDate": "2020-09-01T20:02:32.195Z",
+  "lastModifiedDate": "2020-09-04T01:47:51.727Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -53,7 +53,7 @@
   "releaseInfo": [
     {
       "id": "9d992522516444a8bc01cfb8457a47c1",
-      "appId": "4fe0bcae9d4a43e08a064fb616408b2a",
+      "appId": "ba41b593abb3490ca30af41c4ad0eebd",
       "platform": [
         "Windows"
       ],
