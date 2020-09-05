@@ -6,9 +6,6 @@
   "keyImages": [],
   "categories": [
     {
-      "path": "public"
-    },
-    {
       "path": "games"
     },
     {
@@ -18,7 +15,7 @@
   "namespace": "turtle",
   "status": "ACTIVE",
   "creationDate": "2020-08-31T22:43:06.304Z",
-  "lastModifiedDate": "2020-09-05T00:04:04.726Z",
+  "lastModifiedDate": "2020-09-05T00:47:27.218Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
