@@ -27,7 +27,7 @@
       "path": "public"
     },
     {
-      "path": "games"
+      "path": "digitalextras"
     },
     {
       "path": "applications"
@@ -36,7 +36,7 @@
   "namespace": "0f86606a1622460898a7874d488f288a",
   "status": "ACTIVE",
   "creationDate": "2020-08-24T12:17:34.617Z",
-  "lastModifiedDate": "2020-09-03T18:19:06.611Z",
+  "lastModifiedDate": "2020-09-08T16:49:45.833Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

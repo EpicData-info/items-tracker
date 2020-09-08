@@ -2,6 +2,17 @@
   "id": "f5d672ee07684a99b9f3dd5538b36ddd",
   "title": "RadishGeneralAudience",
   "description": "RadishGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/0f86606a1622460898a7874d488f288a/item/esrb-mature17-842x404-888995445-842x404-4a2dbd7ff92f038eb863dddf3999a9a6.png",
+      "md5": "4a2dbd7ff92f038eb863dddf3999a9a6",
+      "width": 842,
+      "height": 404,
+      "size": 19680,
+      "uploadedDate": "2020-09-04T16:33:33.402Z"
+    }
+  ],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +24,7 @@
   "namespace": "0f86606a1622460898a7874d488f288a",
   "status": "ACTIVE",
   "creationDate": "2020-08-21T13:36:15.811Z",
-  "lastModifiedDate": "2020-09-03T18:19:13.838Z",
+  "lastModifiedDate": "2020-09-08T16:49:45.837Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -29,6 +40,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
   "ageGatings": {},
   "requiresSecureAccount": false,
   "unsearchable": false

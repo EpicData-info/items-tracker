@@ -1,6 +1,6 @@
 {
   "id": "72c6176a746a4db5a835cc340ff6faf6",
-  "title": "Kingdoms of Amalur Re-Reckoning (Dup)",
+  "title": "Kingdoms of Amalur Re-Reckoning (TESTING DUPLICATE)",
   "description": "Kingdoms of Amalur Re-Reckoning",
   "keyImages": [
     {
@@ -36,7 +36,7 @@
   "namespace": "0f86606a1622460898a7874d488f288a",
   "status": "ACTIVE",
   "creationDate": "2020-09-04T16:54:10.867Z",
-  "lastModifiedDate": "2020-09-05T18:42:03.323Z",
+  "lastModifiedDate": "2020-09-08T16:49:35.567Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
