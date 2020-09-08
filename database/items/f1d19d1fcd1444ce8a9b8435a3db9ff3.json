@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Smite-EGS-7.8-Tsukuyomi-LandscapeIMG-2560x1440-2560x1440-75f3ecb0bc4b01788b19c2438f83cca7.jpg",
-      "md5": "75f3ecb0bc4b01788b19c2438f83cca7",
-      "width": 2560,
-      "height": 1440,
-      "size": 354161,
-      "uploadedDate": "2020-08-11T14:10:50.789Z"
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Epic-SMITE-7.9-FeaturedCarousel-Desktop-1360x766-1360x766-47d5c573e7bcebe46a8aa34e29772a7a.jpg",
+      "md5": "47d5c573e7bcebe46a8aa34e29772a7a",
+      "width": 1360,
+      "height": 766,
+      "size": 351402,
+      "uploadedDate": "2020-09-03T22:06:46.963Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Smite-EGS-7.8-Tsukuyomi-PortraitIMG-860x1148-860x1148-6d078dfed9fc6fbb842c6579c2425837.jpg",
-      "md5": "6d078dfed9fc6fbb842c6579c2425837",
-      "width": 860,
-      "height": 1148,
-      "size": 166087,
-      "uploadedDate": "2020-08-11T14:11:05.474Z"
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Epic-SMITE-7.9-FeaturedCarousel-Mobile-510x680-510x680-2c06913e7cd4c77eecaa58d7eaffa638.jpg",
+      "md5": "2c06913e7cd4c77eecaa58d7eaffa638",
+      "width": 510,
+      "height": 680,
+      "size": 123351,
+      "uploadedDate": "2020-09-03T22:06:57.876Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "076207fa2b5c4803a636af606c3c28b7",
   "status": "ACTIVE",
   "creationDate": "2019-10-18T01:53:04.913Z",
-  "lastModifiedDate": "2020-08-11T14:11:11.075Z",
+  "lastModifiedDate": "2020-09-08T12:54:38.558Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -87,6 +87,5 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "selfRefundable": true,
   "unsearchable": false
 }
