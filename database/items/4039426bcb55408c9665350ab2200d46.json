@@ -1,0 +1,95 @@
+{
+  "id": "4039426bcb55408c9665350ab2200d46",
+  "title": "AzaleaMain",
+  "description": "AzaleaMain",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/azalea/item/Updated Logo - white-1134x1134-5043330ffaccd28ebe0a16a65fcc0a04.png",
+      "md5": "5043330ffaccd28ebe0a16a65fcc0a04",
+      "width": 1134,
+      "height": 1134,
+      "size": 40782,
+      "uploadedDate": "2019-07-04T02:53:59.540Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/azalea/item/YT_Cover_2560_x_1440-2560x1440-17d8baed51461c5daac9aa3abf7fa108.jpg",
+      "md5": "17d8baed51461c5daac9aa3abf7fa108",
+      "width": 2560,
+      "height": 1440,
+      "size": 433773,
+      "uploadedDate": "2019-06-20T17:55:50.390Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "azalea",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-08T14:56:16.531Z",
+  "lastModifiedDate": "2020-09-08T14:59:28.117Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MonitorPresense": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceeId": {
+      "type": "STRING",
+      "value": "azalea"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AzaleaMain"
+    },
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4039426bcb55408c9665350ab2200d46",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "9247f361e5214d15ba23da9ded11d805",
+      "appId": "715cbf1d84c6423690f097fe8a9d2b09",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-02-22T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "YAGER",
+  "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
