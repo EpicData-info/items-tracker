@@ -1,0 +1,34 @@
+{
+  "id": "5be90944c04d4b0b9dd7ed59996a5f2c",
+  "title": "DevRadishAudience",
+  "description": "DevRadishAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "0f86606a1622460898a7874d488f288a",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-21T13:36:15.875Z",
+  "lastModifiedDate": "2020-09-03T18:19:06.610Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5be90944c04d4b0b9dd7ed59996a5f2c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

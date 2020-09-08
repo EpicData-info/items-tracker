@@ -1,0 +1,35 @@
+{
+  "id": "f5d672ee07684a99b9f3dd5538b36ddd",
+  "title": "RadishGeneralAudience",
+  "description": "RadishGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "0f86606a1622460898a7874d488f288a",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-21T13:36:15.811Z",
+  "lastModifiedDate": "2020-09-03T18:19:13.838Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f5d672ee07684a99b9f3dd5538b36ddd",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

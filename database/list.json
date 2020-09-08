@@ -2160,6 +2160,19 @@
     1569073097
   ],
   [
+    "0aed1a506ebb42d7866dab91ab4c1ae1",
+    "0f86606a1622460898a7874d488f288a",
+    "RadishStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1598016976,
+    1599157146
+  ],
+  [
     "0aeea472014c492bac5e5b487d1a56bb",
     "catnip",
     "CatnipStaging2",
@@ -12861,6 +12874,18 @@
     1578494550
   ],
   [
+    "4296b13c66ed4a529c330626ba16f96c",
+    "0f86606a1622460898a7874d488f288a",
+    "RadishOSTAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "THQ Nordic GmbH",
+    1598271402,
+    1599157146
+  ],
+  [
     "4296ee87349c49f8b2b3d0dca2436188",
     "37baf50c268d47779020d73143bb02b0",
     "Silver Pack Audience",
@@ -18217,6 +18242,18 @@
     1593718711
   ],
   [
+    "5be90944c04d4b0b9dd7ed59996a5f2c",
+    "0f86606a1622460898a7874d488f288a",
+    "DevRadishAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "THQ Nordic GmbH",
+    1598016975,
+    1599157146
+  ],
+  [
     "5bea35ae4068456bacffd18eea5a4580",
     "2dbd2f64abdc4bbab077424d5c85e01b",
     "SaffronGoldEditionAudience",
@@ -22844,6 +22881,19 @@
     1592159853
   ],
   [
+    "725687406f8e4b0a9aa881b610f5af30",
+    "0f86606a1622460898a7874d488f288a",
+    "Kingdoms of Amalur Re-Reckoning OST",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1598271454,
+    1599157146
+  ],
+  [
     "725a3cba59ab401aa80a28f5ff90fb15",
     "fn",
     "NoodleHaus App Bundle",
@@ -22937,6 +22987,19 @@
     "Human Head Studios, Inc.",
     1558128735,
     1573581527
+  ],
+  [
+    "72c6176a746a4db5a835cc340ff6faf6",
+    "0f86606a1622460898a7874d488f288a",
+    "Kingdoms of Amalur Re-Reckoning (Dup)",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1599238450,
+    1599331323
   ],
   [
     "72c73bb4a566431f9e0ab6264cd376da",
@@ -28023,6 +28086,19 @@
     "Epic Dev Test Account",
     1595445329,
     1595446180
+  ],
+  [
+    "8e72f2cc46dc49fdb8b813e8699eb87d",
+    "0f86606a1622460898a7874d488f288a",
+    "Kingdoms of Amalur Re-Reckoning",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1598016975,
+    1599331308
   ],
   [
     "8e730b8ca41b43ceb752d95b3f1bb5a0",
@@ -42628,6 +42704,18 @@
     1566922472
   ],
   [
+    "d6f1f2e0781f4cb2b4d300e86c47e9a1",
+    "0f86606a1622460898a7874d488f288a",
+    "RadishFateAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "THQ Nordic GmbH",
+    1598271398,
+    1599157153
+  ],
+  [
     "d702f203956a49eda4e70a52264cd032",
     "e1055bf1e5654b93a27e19e6bb86cb2a",
     "WallStreetAudience",
@@ -48475,6 +48563,18 @@
     "Tomorrow Corporation",
     1550180380,
     1567196681
+  ],
+  [
+    "f5d672ee07684a99b9f3dd5538b36ddd",
+    "0f86606a1622460898a7874d488f288a",
+    "RadishGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "THQ Nordic GmbH",
+    1598016975,
+    1599157153
   ],
   [
     "f5d84259a95a4b11ade74a7e4e0bde66",

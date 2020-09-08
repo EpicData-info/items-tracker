@@ -1,0 +1,52 @@
+{
+  "id": "0aed1a506ebb42d7866dab91ab4c1ae1",
+  "title": "RadishStaging",
+  "description": "RadishStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0f86606a1622460898a7874d488f288a",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-21T13:36:16.002Z",
+  "lastModifiedDate": "2020-09-03T18:19:06.600Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RadishStaging"
+    }
+  },
+  "entitlementName": "0aed1a506ebb42d7866dab91ab4c1ae1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "156f5571c50d4aab98c257e879616668",
+      "appId": "d56851d08ca542359f2baf9de5c8b93d",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-21T13:44:08.313Z"
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

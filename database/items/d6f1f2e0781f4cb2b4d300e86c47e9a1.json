@@ -1,0 +1,36 @@
+{
+  "id": "d6f1f2e0781f4cb2b4d300e86c47e9a1",
+  "title": "RadishFateAudience",
+  "description": "RadishFateAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "0f86606a1622460898a7874d488f288a",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-24T12:16:38.702Z",
+  "lastModifiedDate": "2020-09-03T18:19:13.837Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d6f1f2e0781f4cb2b4d300e86c47e9a1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
