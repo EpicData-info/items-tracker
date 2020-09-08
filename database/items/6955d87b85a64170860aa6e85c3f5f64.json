@@ -33,7 +33,7 @@
   "namespace": "carnation",
   "status": "ACTIVE",
   "creationDate": "2019-08-22T19:24:49.545Z",
-  "lastModifiedDate": "2020-08-25T15:56:14.125Z",
+  "lastModifiedDate": "2020-09-07T23:51:44.520Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -66,14 +66,6 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
-    },
-    "partnerLinkId": {
-      "type": "STRING",
-      "value": "70823d11554145d9a2f33b4473e16914"
-    },
-    "partnerLinkType": {
-      "type": "STRING",
-      "value": "ubisoft"
     },
     "FolderName": {
       "type": "STRING",
