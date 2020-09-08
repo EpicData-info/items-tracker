@@ -19112,6 +19112,18 @@
     1597735232
   ],
   [
+    "5f8e4bc5157640d4bed49b22f2631c49",
+    "cosmos",
+    "Ice 1H Axe",
+    [
+      "audience",
+      "public"
+    ],
+    "Ragnarok Game, LLC",
+    1599592332,
+    1599593328
+  ],
+  [
     "5f92e5fd96554c668a733446bca859b6",
     "07f4a7dd3c884e5d87e9a209716962ca",
     "Old World (test branch)",
@@ -20027,6 +20039,18 @@
     "Bigben Interactive",
     1552883585,
     1561622029
+  ],
+  [
+    "6387f8489fa547c79d34e3b28fe16f55",
+    "cosmos",
+    "Ice 1H Sword",
+    [
+      "audience",
+      "public"
+    ],
+    "Ragnarok Game, LLC",
+    1599592320,
+    1599593328
   ],
   [
     "639029108963486dbdb58536fb58098f",
@@ -24053,6 +24077,18 @@
     1570712385
   ],
   [
+    "793b6ed8edd24208bb8c801c9a2f2e20",
+    "cosmos",
+    "Ice 2H Spear",
+    [
+      "audience",
+      "public"
+    ],
+    "Ragnarok Game, LLC",
+    1599592317,
+    1599593328
+  ],
+  [
     "795208dc36484e228646e267753c6d59",
     "argyle",
     "ArgyleDemoAudience",
@@ -25525,6 +25561,18 @@
     1574270020
   ],
   [
+    "8108148a90aa4dda850a4a421c05c30f",
+    "cosmos",
+    "Ice 2H Hammer",
+    [
+      "audience",
+      "public"
+    ],
+    "Ragnarok Game, LLC",
+    1599592311,
+    1599593328
+  ],
+  [
     "811632e0a81645d4855f397991a0864b",
     "cosmos",
     "CosmosStaging",
@@ -26147,6 +26195,18 @@
     1588024780
   ],
   [
+    "84487daffed4433e8c0cdcef3614f48f",
+    "cosmos",
+    "Community reward Axe",
+    [
+      "audience",
+      "public"
+    ],
+    "Ragnarok Game, LLC",
+    1599592338,
+    1599593328
+  ],
+  [
     "845468f052e7420ca24e51ab4c66a7a6",
     "cosmos",
     "Cosmos Dev Audience",
@@ -26465,6 +26525,18 @@
     1598301034
   ],
   [
+    "857cebfcf8e6447abbb0ba78f9763b54",
+    "cosmos",
+    "Ice 2H Sword",
+    [
+      "audience",
+      "public"
+    ],
+    "Ragnarok Game, LLC",
+    1599592309,
+    1599593328
+  ],
+  [
     "857e80debe844cf5a86a8ac010554848",
     "8b8fd2fe87a04bbab2eca292e71b5e2c",
     "SoundtrackAudience",
@@ -26634,6 +26706,18 @@
     "Square Enix",
     1576525753,
     1586442120
+  ],
+  [
+    "8641c11fbc4d459ca6cb5e39a55d8cfc",
+    "cosmos",
+    "Creator 2H Sword",
+    [
+      "audience",
+      "public"
+    ],
+    "Ragnarok Game, LLC",
+    1599592287,
+    1599593328
   ],
   [
     "864508e6edce49669a9e8511da18007f",
@@ -34043,6 +34127,18 @@
     1591894513
   ],
   [
+    "abde568072644a0f8a5b5177c53d1700",
+    "cosmos",
+    "Creator 2H Axe",
+    [
+      "audience",
+      "public"
+    ],
+    "Ragnarok Game, LLC",
+    1599592296,
+    1599593328
+  ],
+  [
     "abe2516a3f044f3ba75fd208828def5b",
     "ed355406eacb4633a648f682ddb492b8",
     "doveDevAudience",
@@ -34539,6 +34635,18 @@
     "THQ Nordic GmbH",
     1590592269,
     1592326309
+  ],
+  [
+    "ae511ca13e354aa98a6e5856e88546eb",
+    "cosmos",
+    "Community reward Sword",
+    [
+      "audience",
+      "public"
+    ],
+    "Ragnarok Game, LLC",
+    1599592335,
+    1599593328
   ],
   [
     "ae73e85580ff445db5374d210419b60a",
@@ -38597,6 +38705,18 @@
     "Koch Media",
     1576123306,
     1592308781
+  ],
+  [
+    "c2fa373660994a83ad2944db4b143c6b",
+    "cosmos",
+    "Creator 1H Sword",
+    [
+      "audience",
+      "public"
+    ],
+    "Ragnarok Game, LLC",
+    1599592302,
+    1599593328
   ],
   [
     "c31030e542f246e299305209352aac2b",
@@ -46712,6 +46832,18 @@
     1569074977
   ],
   [
+    "ea72adfd9c1e467a96ef16bad77c0512",
+    "cosmos",
+    "Creator 1H Axe",
+    [
+      "audience",
+      "public"
+    ],
+    "Ragnarok Game, LLC",
+    1599592305,
+    1599593328
+  ],
+  [
     "ea95620463d74ffa90b31defd434d2a6",
     "calluna",
     "Calluna SP Audience",
@@ -47941,6 +48073,18 @@
     1558461517
   ],
   [
+    "f1d111723a854b48b6f5d80db4cfba16",
+    "cosmos",
+    "Ice 2H Axe",
+    [
+      "audience",
+      "public"
+    ],
+    "Ragnarok Game, LLC",
+    1599592314,
+    1599593328
+  ],
+  [
     "f1d1779e3b434d429d954b49349bb4bb",
     "43605e89e49d438485298819a7ef17b4",
     "Minit",
@@ -48452,6 +48596,18 @@
     "Epic Dev Test Account",
     1575920414,
     1596841023
+  ],
+  [
+    "f50b6ec6e54240a0bba028425440e3c6",
+    "cosmos",
+    "Creator 2H Spear",
+    [
+      "audience",
+      "public"
+    ],
+    "Ragnarok Game, LLC",
+    1599592299,
+    1599593328
   ],
   [
     "f51b8a8cf5324646bedb061e18dba07b",
@@ -49545,6 +49701,18 @@
     "Zen Studios",
     1569251395,
     1569251438
+  ],
+  [
+    "faf3bf9713e647f0b5a320d1a477e341",
+    "cosmos",
+    "Create 2H Hammer",
+    [
+      "audience",
+      "public"
+    ],
+    "Ragnarok Game, LLC",
+    1599592293,
+    1599593328
   ],
   [
     "faf49a197adc4cc0970003c891966416",
