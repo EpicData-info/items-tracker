@@ -1,0 +1,72 @@
+{
+  "id": "24955da6dc4240d9a1f206aceff2691d",
+  "title": "Mooncake",
+  "description": "Mooncake",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b829cfd910554ad3ad2eb3b314e2b1ef",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-08T21:58:00.346Z",
+  "lastModifiedDate": "2020-09-08T23:03:50.986Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "b829cfd910554ad3ad2eb3b314e2b1ef"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Mooncake"
+    }
+  },
+  "entitlementName": "24955da6dc4240d9a1f206aceff2691d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3e9f9b79b856434099756861e90f1e1a",
+      "appId": "9a1aae61129247fb971ce96ab6a959da",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Terrible Posture Games, Inc.",
+  "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,53 @@
+{
+  "id": "3dfd863c90c34574abdbc3cd1985c99b",
+  "title": "MooncakeStaging",
+  "description": "MooncakeStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b829cfd910554ad3ad2eb3b314e2b1ef",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-08T21:58:00.419Z",
+  "lastModifiedDate": "2020-09-08T23:03:50.986Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MooncakeStaging"
+    }
+  },
+  "entitlementName": "3dfd863c90c34574abdbc3cd1985c99b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0e8f8f88e15f41c8b895bb8d20cf3706",
+      "appId": "0699dac22a534c9ca4be6801b26a6829",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Terrible Posture Games, Inc.",
+  "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
