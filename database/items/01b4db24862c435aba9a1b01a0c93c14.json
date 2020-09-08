@@ -36,15 +36,23 @@
   "namespace": "13bb5776b9e1424d84ce42d9ba61c0ca",
   "status": "ACTIVE",
   "creationDate": "2019-06-14T16:20:24.783Z",
-  "lastModifiedDate": "2020-07-28T11:43:48.237Z",
+  "lastModifiedDate": "2020-09-08T11:43:21.977Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
     },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.playdeadgames.inside.osx/"
+    },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{appdata}/../roaming/Playdead/Inside/"
+      "value": "{AppData}/../Roaming/Playdead/Inside/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Game2.sav"
     },
     "MaxSizeMB": {
       "type": "STRING",
