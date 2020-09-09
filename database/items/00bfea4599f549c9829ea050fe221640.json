@@ -4,15 +4,6 @@
   "description": "RUNE II",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/cosmos/item/RUNE II Box Art-1200x1600-d92375f36cfeb2b5eeb68e1519ebb7ab.jpg",
-      "md5": "d92375f36cfeb2b5eeb68e1519ebb7ab",
-      "width": 1200,
-      "height": 1600,
-      "size": 489728,
-      "uploadedDate": "2020-04-30T19:08:07.318Z"
-    },
-    {
       "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/cosmos/item/RUNE II Quick Launch-1920x1080-efbce6fe1b7d993066432082575f815f.jpg",
       "md5": "efbce6fe1b7d993066432082575f815f",
@@ -20,6 +11,15 @@
       "height": 1080,
       "size": 842441,
       "uploadedDate": "2020-04-30T19:08:34.598Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/cosmos/item/b4cd3b68-33c4-41d3-81bb-b0002cd6ad9b-1200x1600-8345fd405a0bd114b71ba571a36dccd2.jpg",
+      "md5": "8345fd405a0bd114b71ba571a36dccd2",
+      "width": 1200,
+      "height": 1600,
+      "size": 667240,
+      "uploadedDate": "2020-09-04T13:04:21.211Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "cosmos",
   "status": "ACTIVE",
   "creationDate": "2019-03-04T20:09:37.098Z",
-  "lastModifiedDate": "2020-04-30T19:08:43.229Z",
+  "lastModifiedDate": "2020-09-09T21:57:55.634Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -83,6 +83,5 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "selfRefundable": true,
   "unsearchable": false
 }
