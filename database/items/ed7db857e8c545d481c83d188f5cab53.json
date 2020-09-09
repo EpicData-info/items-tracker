@@ -1,0 +1,29 @@
+{
+  "id": "ed7db857e8c545d481c83d188f5cab53",
+  "title": "Twinmotion BricsCAD Promo",
+  "description": "Twinmotion BricsCAD Promo",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "poodle",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-09T14:04:46.493Z",
+  "lastModifiedDate": "2020-09-09T14:10:51.557Z",
+  "entitlementName": "TwinmotionBricsCADPromo",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2020-09-08T00:00:00.000Z",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "twin"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
