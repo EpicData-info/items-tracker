@@ -45,7 +45,7 @@
   "namespace": "13bb5776b9e1424d84ce42d9ba61c0ca",
   "status": "ACTIVE",
   "creationDate": "2019-06-14T16:20:24.733Z",
-  "lastModifiedDate": "2020-05-15T01:07:18.596Z",
+  "lastModifiedDate": "2020-09-09T11:18:39.174Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -55,13 +55,17 @@
       "type": "STRING",
       "value": "13bb5776b9e1424d84ce42d9ba61c0ca"
     },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.playdeadgames.inside.osx/"
+    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{appdata}/../roaming/Playdead/Inside/"
+      "value": "{AppData}/../Roaming/Playdead/Inside/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -70,6 +74,10 @@
     "RequirementsJson": {
       "type": "STRING",
       "value": "{}"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Game2.sav"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
