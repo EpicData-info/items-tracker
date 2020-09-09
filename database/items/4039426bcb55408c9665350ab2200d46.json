@@ -33,7 +33,7 @@
   "namespace": "azalea",
   "status": "ACTIVE",
   "creationDate": "2020-09-08T14:56:16.531Z",
-  "lastModifiedDate": "2020-09-08T14:59:28.117Z",
+  "lastModifiedDate": "2020-09-09T11:33:16.949Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,7 +49,7 @@
     },
     "UseAccessControl": {
       "type": "STRING",
-      "value": "true"
+      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
