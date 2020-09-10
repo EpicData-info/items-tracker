@@ -1,7 +1,7 @@
 {
-  "id": "7290258ef3d747f58200e031b54df9d5",
-  "title": "MooncakeOST",
-  "description": "MooncakeOST",
+  "id": "53218dfe062d43d0b2e6601408676aba",
+  "title": "MooncakeExternal",
+  "description": "MooncakeExternal",
   "categories": [
     {
       "path": "public"
@@ -15,8 +15,8 @@
   ],
   "namespace": "b829cfd910554ad3ad2eb3b314e2b1ef",
   "status": "ACTIVE",
-  "creationDate": "2020-09-08T22:07:02.428Z",
-  "lastModifiedDate": "2020-09-10T17:21:35.696Z",
+  "creationDate": "2020-09-10T17:15:07.367Z",
+  "lastModifiedDate": "2020-09-10T17:21:41.983Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,20 +44,20 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "MooncakeOST"
+      "value": "MooncakeExternal"
     }
   },
-  "entitlementName": "7290258ef3d747f58200e031b54df9d5",
+  "entitlementName": "53218dfe062d43d0b2e6601408676aba",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "a8feeb7a9462403bb90fec3b95497bf9",
-      "appId": "ef1dbe409e604f63a86676b0b58d94a2",
+      "id": "bf1029cf29c547279fb751dff1c7258a",
+      "appId": "347f0b4a283844dcb4f1fd2e75a595c7",
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-09-08T22:11:23.537Z"
+      "dateAdded": "2020-09-10T17:19:55.672Z"
     }
   ],
   "developer": "Terrible Posture Games, Inc.",
