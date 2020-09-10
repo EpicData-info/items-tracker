@@ -14,7 +14,7 @@
   "namespace": "92546d82a1d043ad8cff2c6c2cd78bb9",
   "status": "ACTIVE",
   "creationDate": "2020-08-10T21:14:53.844Z",
-  "lastModifiedDate": "2020-08-10T21:37:22.455Z",
+  "lastModifiedDate": "2020-09-10T14:19:45.332Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -24,8 +24,8 @@
   "entitlementName": "91bf6f3e3888408f84e6e7ec0105fd70",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Epic Dev Test Account",
-  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
   "eulaIds": [
     "egstore"
   ],
