@@ -1,0 +1,60 @@
+{
+  "id": "4c31cdacab41479aa908a9aff7aff97e",
+  "title": "MojitoStaging",
+  "description": "MojitoStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5c99f4b1cded415592255a53c1cad617",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-17T22:14:19.811Z",
+  "lastModifiedDate": "2020-09-10T13:49:18.101Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Annapurna Interactive/The Unfinished Swan/EGS/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "SAVE.BIN"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MojitoStaging"
+    }
+  },
+  "entitlementName": "4c31cdacab41479aa908a9aff7aff97e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "33ee98c59bfe4f86965cd114d33f1ec5",
+      "appId": "c6c2f2967bef4c7e8ed4e2f28caf9313",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-17T00:00:00.000Z"
+    }
+  ],
+  "developer": "Annapurna Interactive",
+  "developerId": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

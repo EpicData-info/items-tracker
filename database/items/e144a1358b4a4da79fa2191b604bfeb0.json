@@ -34,7 +34,7 @@
   "namespace": "catnip",
   "status": "ACTIVE",
   "creationDate": "2020-02-19T22:50:03.541Z",
-  "lastModifiedDate": "2020-09-10T15:41:23.657Z",
+  "lastModifiedDate": "2020-09-10T16:12:58.699Z",
   "customAttributes": {
     "OwnershipToken": {
       "type": "STRING",
@@ -42,7 +42,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "PsychoKriegFustercluck"
+      "value": "PsychoKrieg"
     }
   },
   "entitlementName": "e144a1358b4a4da79fa2191b604bfeb0",
@@ -54,7 +54,8 @@
       "appId": "CatnipDLC4",
       "compatibleApps": [],
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "dateAdded": "2019-12-06T00:00:00.000Z",
       "releaseNote": "",

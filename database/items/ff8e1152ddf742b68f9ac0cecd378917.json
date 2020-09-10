@@ -24,7 +24,13 @@
   "namespace": "catnip",
   "status": "ACTIVE",
   "creationDate": "2019-04-02T22:55:18.925Z",
-  "lastModifiedDate": "2020-09-10T15:41:23.657Z",
+  "lastModifiedDate": "2020-09-10T16:12:00.235Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
   "entitlementName": "ff8e1152ddf742b68f9ac0cecd378917",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
