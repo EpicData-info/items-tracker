@@ -1,0 +1,71 @@
+{
+  "id": "48372f5183b04aa3810dd224006121ec",
+  "title": "As Far As the Eye Supporter Content",
+  "description": "As Far As the Eye Supporter Content",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/c14dd3d3c8214149b27477dd4619f029/item/EGS_AsFarAsTheEye_UnexpectedStudio_S2-1200x1600-54d45d0a4e42603f0bceea6290da5a02.jpg",
+      "md5": "54d45d0a4e42603f0bceea6290da5a02",
+      "width": 1200,
+      "height": 1600,
+      "size": 360116,
+      "uploadedDate": "2020-09-04T12:32:49.289Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/c14dd3d3c8214149b27477dd4619f029/item/EGS_SupporterEdition_GoblinzStudio_DigitalExtras_G1A_00-1920x1080-c64d14911a13964fe564df753b4001d0.jpg",
+      "md5": "c64d14911a13964fe564df753b4001d0",
+      "width": 1920,
+      "height": 1080,
+      "size": 216077,
+      "uploadedDate": "2020-09-04T12:33:07.295Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "digitalextras"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c14dd3d3c8214149b27477dd4619f029",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-01T12:52:39.986Z",
+  "lastModifiedDate": "2020-09-10T16:03:10.443Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AFATEContent"
+    }
+  },
+  "entitlementName": "48372f5183b04aa3810dd224006121ec",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6c197ae19c424c7fb68ce7f491011ff3",
+      "appId": "0583c9703b25433191b85f60eddf01d2",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-04-07T00:00:00.000Z"
+    }
+  ],
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

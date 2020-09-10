@@ -2899,6 +2899,19 @@
     1580399858
   ],
   [
+    "0dd481c09edd484f9c8b2fb8e299af26",
+    "c14dd3d3c8214149b27477dd4619f029",
+    "As Far As the Eye Soundtrack",
+    [
+      "public",
+      "digitalextras",
+      "applications"
+    ],
+    "Plug In Digital SAS",
+    1598964763,
+    1599753787
+  ],
+  [
     "0e1b2200810e41a6aaa3aa09e40bfdba",
     "a8f9fb4a881e47b489715f18f7d08e2f",
     "CobblerGeneralAudience",
@@ -14184,6 +14197,19 @@
     "2K Games, Inc.",
     1582147839,
     1592254375
+  ],
+  [
+    "48372f5183b04aa3810dd224006121ec",
+    "c14dd3d3c8214149b27477dd4619f029",
+    "As Far As the Eye Supporter Content",
+    [
+      "public",
+      "digitalextras",
+      "applications"
+    ],
+    "Plug In Digital SAS",
+    1598964759,
+    1599753790
   ],
   [
     "4846b408b2e5424baecf1dc29683402e",
@@ -29301,7 +29327,7 @@
     ],
     "2K Games, Inc.",
     1554231407,
-    1593101060
+    1599752483
   ],
   [
     "93b2dfd9d7604a20b1f27b2d549a4bc0",
@@ -45306,14 +45332,14 @@
   [
     "e144a1358b4a4da79fa2191b604bfeb0",
     "catnip",
-    "CatnipDLC4",
+    "Borderlands 3 Psycho Krieg and the Fantastic Fustercluck",
     [
       "games",
       "applications"
     ],
     "2K Games, Inc.",
     1582152603,
-    1582152656
+    1599752483
   ],
   [
     "e15a8698b92c47d29ac8128044a2d572",
@@ -50859,7 +50885,7 @@
     ],
     "2K Games, Inc.",
     1554245718,
-    1578437428
+    1599752483
   ],
   [
     "ff90291521e14dc2bb8b41f8d993419a",
