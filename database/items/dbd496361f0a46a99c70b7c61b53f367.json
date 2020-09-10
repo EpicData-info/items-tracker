@@ -36,7 +36,7 @@
   "namespace": "4b35838425c74992ad42e1276b2161ca",
   "status": "ACTIVE",
   "creationDate": "2019-06-08T17:13:02.483Z",
-  "lastModifiedDate": "2020-09-10T19:57:40.894Z",
+  "lastModifiedDate": "2020-09-10T20:38:29.027Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
@@ -48,7 +48,7 @@
     },
     "releaseDate": {
       "type": "STRING",
-      "value": "1582642800"
+      "value": "1607007600"
     },
     "RequirementsJson": {
       "type": "STRING",
