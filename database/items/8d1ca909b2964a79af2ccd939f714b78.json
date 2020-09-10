@@ -36,7 +36,7 @@
   "namespace": "400347196e674de89c23cc2a7f2121db",
   "status": "ACTIVE",
   "creationDate": "2020-04-28T17:48:55.687Z",
-  "lastModifiedDate": "2020-04-30T17:09:43.479Z",
+  "lastModifiedDate": "2020-09-10T21:30:26.576Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -60,7 +60,7 @@
     },
     "availableDate": {
       "type": "STRING",
-      "value": "1609387200"
+      "value": "1605020400"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
