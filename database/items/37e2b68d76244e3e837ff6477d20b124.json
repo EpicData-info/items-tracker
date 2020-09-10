@@ -1,8 +1,7 @@
 {
-  "id": "b24a5651b1674abf9a76d2c5e2ee1ae1",
-  "title": "PheasantUltimateEditionAudience",
-  "description": "PheasantUltimateEditionAudience",
-  "keyImages": [],
+  "id": "37e2b68d76244e3e837ff6477d20b124",
+  "title": "UniversityGeneralAudience",
+  "description": "UniversityGeneralAudience",
   "categories": [
     {
       "path": "audience"
@@ -11,17 +10,17 @@
       "path": "public"
     }
   ],
-  "namespace": "4b35838425c74992ad42e1276b2161ca",
+  "namespace": "a443faa3d6304a7dacd7456e0f6b0fa6",
   "status": "ACTIVE",
-  "creationDate": "2019-06-08T17:38:43.927Z",
-  "lastModifiedDate": "2020-09-10T19:57:40.894Z",
+  "creationDate": "2020-08-31T18:20:59.058Z",
+  "lastModifiedDate": "2020-09-10T19:54:19.162Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "b24a5651b1674abf9a76d2c5e2ee1ae1",
+  "entitlementName": "37e2b68d76244e3e837ff6477d20b124",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "developer": "Ubisoft Entertainment",
@@ -30,5 +29,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "requiresSecureAccount": false,
   "unsearchable": false
 }

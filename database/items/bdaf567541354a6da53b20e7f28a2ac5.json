@@ -2,17 +2,7 @@
   "id": "bdaf567541354a6da53b20e7f28a2ac5",
   "title": "PheasantGeneralAudience",
   "description": "PheasantGeneralAudience",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/item/Store_Portrait_Promo_1280x1420-1280x1420-3c052689f4d8c008ef7c10594d1fe895.jpg",
-      "md5": "3c052689f4d8c008ef7c10594d1fe895",
-      "width": 1280,
-      "height": 1420,
-      "size": 195445,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
-    }
-  ],
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -24,7 +14,7 @@
   "namespace": "4b35838425c74992ad42e1276b2161ca",
   "status": "ACTIVE",
   "creationDate": "2019-06-08T17:13:02.407Z",
-  "lastModifiedDate": "2020-01-06T15:12:13.158Z",
+  "lastModifiedDate": "2020-09-10T19:57:40.894Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -40,6 +30,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
   "unsearchable": false
 }

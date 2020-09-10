@@ -1,7 +1,7 @@
 {
-  "id": "3402369317eb4659b9512da60a833bf5",
-  "title": "PheasantStaging",
-  "description": "PheasantStaging",
+  "id": "ff88610a28ea4d88b0fb76b1332b0fb0",
+  "title": "BlancaStaging",
+  "description": "BlancaStaging",
   "categories": [
     {
       "path": "public"
@@ -13,10 +13,10 @@
       "path": "applications"
     }
   ],
-  "namespace": "4b35838425c74992ad42e1276b2161ca",
+  "namespace": "83d6990f16444655866b04be562bf589",
   "status": "ACTIVE",
-  "creationDate": "2019-06-08T17:13:02.556Z",
-  "lastModifiedDate": "2020-09-10T19:57:40.894Z",
+  "creationDate": "2020-08-31T18:21:21.316Z",
+  "lastModifiedDate": "2020-09-10T19:46:06.184Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,16 +24,20 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "PheasantStaging"
+      "value": "BlancaStaging"
     }
   },
-  "entitlementName": "3402369317eb4659b9512da60a833bf5",
+  "entitlementName": "ff88610a28ea4d88b0fb76b1332b0fb0",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "4c07105a92d3455fabf47adb2e21b8fc",
-      "appId": "PheasantStaging"
+      "id": "8099e50e7abe4082a7ed4f638ad4f355",
+      "appId": "9b058ea23d4d4b51b74ef1fdbcd39262",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-10T19:34:32.672Z"
     }
   ],
   "developer": "Ubisoft Entertainment",
@@ -42,5 +46,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
   "unsearchable": false
 }

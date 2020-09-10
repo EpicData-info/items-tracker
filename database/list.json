@@ -72,7 +72,7 @@
     ],
     "Ubisoft Entertainment",
     1560015771,
-    1560545913
+    1599767860
   ],
   [
     "005d805f212d4e25a8a156d4580c91bb",
@@ -1297,7 +1297,7 @@
     ],
     "Epic Dev Test Account",
     1560014744,
-    1560545920
+    1599767860
   ],
   [
     "0686562dcf834389832221d03b556470",
@@ -2981,7 +2981,7 @@
     ],
     "Epic Dev Test Account",
     1560015061,
-    1560545920
+    1599767860
   ],
   [
     "0e6733ef1e5142739fdfb343df57ed9f",
@@ -9798,6 +9798,18 @@
     1589291430
   ],
   [
+    "3354e7dfc19941d0bb98ce1c9cfa4ee9",
+    "83d6990f16444655866b04be562bf589",
+    "DevBlancaAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Ubisoft Entertainment",
+    1598898081,
+    1599767669
+  ],
+  [
     "33593a3f9c8a459993a839353651d82d",
     "ceaa24233cdb4b678a1cf515e3a912e8",
     "RubyStaging",
@@ -9975,7 +9987,7 @@
     ],
     "Ubisoft Entertainment",
     1560013982,
-    1560545913
+    1599767860
   ],
   [
     "340b1a551d5b4354b76320b63dc0bfa0",
@@ -10925,6 +10937,18 @@
     "William Chyr Studio",
     1584372500,
     1597163335
+  ],
+  [
+    "37e2b68d76244e3e837ff6477d20b124",
+    "a443faa3d6304a7dacd7456e0f6b0fa6",
+    "UniversityGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Ubisoft Entertainment",
+    1598898059,
+    1599767659
   ],
   [
     "37f8c95ab7f84cbfb80dba928a57ad4d",
@@ -21851,7 +21875,7 @@
     ],
     "Ubisoft Entertainment",
     1560015740,
-    1560545913
+    1599767860
   ],
   [
     "6db1b6024432452dbaac2ed868896699",
@@ -22328,7 +22352,7 @@
     ],
     "Ubisoft Entertainment",
     1560014972,
-    1560545913
+    1599767860
   ],
   [
     "6f497455242046ca86887eedfd8b62b6",
@@ -27910,7 +27934,7 @@
     ],
     "Epic Dev Test Account",
     1560015319,
-    1560545920
+    1599767860
   ],
   [
     "8c3383782a064adb80d93816c4267b08",
@@ -28890,6 +28914,19 @@
     "Ubisoft Entertainment",
     1569613396,
     1580226992
+  ],
+  [
+    "9125207fd9d5490f94091afd8077d498",
+    "83d6990f16444655866b04be562bf589",
+    "Riders Republic",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1598898081,
+    1599767166
   ],
   [
     "912b6eebed2242e399de4ef14a9693de",
@@ -33342,7 +33379,7 @@
     ],
     "Ubisoft Entertainment",
     1560015436,
-    1560545913
+    1599767860
   ],
   [
     "a7854425f00c4865ac87917f9c0d5d2e",
@@ -35713,7 +35750,7 @@
     ],
     "Ubisoft Entertainment",
     1560015523,
-    1560545920
+    1599767860
   ],
   [
     "b271a23ccd894f109cb590993bb2b202",
@@ -35772,7 +35809,7 @@
     ],
     "Epic Dev Test Account",
     1560015248,
-    1560545920
+    1599767860
   ],
   [
     "b2ce5dd6399d472eb91a9b5631dca4ab",
@@ -36440,6 +36477,18 @@
     1556896102
   ],
   [
+    "b5b11751186b487593bb219b2556a724",
+    "a443faa3d6304a7dacd7456e0f6b0fa6",
+    "DevUniversityAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Ubisoft Entertainment",
+    1598898059,
+    1599767659
+  ],
+  [
     "b5b5e4c4e1fb48bda7ce383338b6d802",
     "wex",
     "Battle Breakers free app bundle",
@@ -36851,6 +36900,19 @@
     "Coffee Stain Studios",
     1568143811,
     1589302751
+  ],
+  [
+    "b81d7fb9ad394827976f0639a71e58ad",
+    "a443faa3d6304a7dacd7456e0f6b0fa6",
+    "Scott Pilgrim vs. The World: The Game",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1598898059,
+    1599767659
   ],
   [
     "b82003d7a38c49d695a24f52efe8fa30",
@@ -37820,7 +37882,7 @@
     ],
     "Epic Dev Test Account",
     1560013982,
-    1578323533
+    1599767860
   ],
   [
     "bdb7aed3777f4041ab84a73a465265e4",
@@ -38473,6 +38535,18 @@
     "Focus Home",
     1578608903,
     1594817666
+  ],
+  [
+    "c1043415b5ee4ee0bd8e192f5e92fa70",
+    "83d6990f16444655866b04be562bf589",
+    "BlancaGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Ubisoft Entertainment",
+    1598898081,
+    1599767669
   ],
   [
     "c107772e143246a3bca7b2a77f4b2d92",
@@ -44214,7 +44288,7 @@
   [
     "dbd496361f0a46a99c70b7c61b53f367",
     "4b35838425c74992ad42e1276b2161ca",
-    "Gods & Monsters",
+    "Immortals: Fenyx Rising",
     [
       "public",
       "games",
@@ -44222,7 +44296,7 @@
     ],
     "Ubisoft Entertainment",
     1560013982,
-    1574182968
+    1599767860
   ],
   [
     "dbdfda37b43b4960aa0ca3a480cf0be9",
@@ -45538,6 +45612,19 @@
     1581352691
   ],
   [
+    "e1e67bb7bdce4e9fad4179131216adf7",
+    "a443faa3d6304a7dacd7456e0f6b0fa6",
+    "UniversityStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1598898059,
+    1599767659
+  ],
+  [
     "e2050e5bd8c9484cac1e1cf79a0c0826",
     "ocn",
     "Ocean External - Apple Cert",
@@ -46740,7 +46827,7 @@
     ],
     "Epic Dev Test Account",
     1560013982,
-    1560545920
+    1599767860
   ],
   [
     "e8b329cd3689471ca5e1baa18a3b1c7a",
@@ -50949,6 +51036,19 @@
     "Ragnarok Game, LLC",
     1558129042,
     1588274023
+  ],
+  [
+    "ff88610a28ea4d88b0fb76b1332b0fb0",
+    "83d6990f16444655866b04be562bf589",
+    "BlancaStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1598898081,
+    1599767166
   ],
   [
     "ff8e1152ddf742b68f9ac0cecd378917",

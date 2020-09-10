@@ -18,7 +18,7 @@
   "namespace": "4b35838425c74992ad42e1276b2161ca",
   "status": "ACTIVE",
   "creationDate": "2019-06-08T17:42:20.456Z",
-  "lastModifiedDate": "2019-06-14T20:58:33.718Z",
+  "lastModifiedDate": "2020-09-10T19:57:40.894Z",
   "customAttributes": {
     "parentPartnerLinkId": {
       "type": "STRING",
@@ -38,7 +38,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "de1cd08f396c4050ba52367d10a1df5d",
+      "id": "b435e4d719db47a0853d46cd88f4b3e4",
       "appId": "PheasantSeasonPassTest",
       "compatibleApps": [],
       "platform": [

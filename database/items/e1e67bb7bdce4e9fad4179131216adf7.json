@@ -1,0 +1,52 @@
+{
+  "id": "e1e67bb7bdce4e9fad4179131216adf7",
+  "title": "UniversityStaging",
+  "description": "UniversityStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a443faa3d6304a7dacd7456e0f6b0fa6",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-31T18:20:59.309Z",
+  "lastModifiedDate": "2020-09-10T19:54:19.162Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "UniversityStaging"
+    }
+  },
+  "entitlementName": "e1e67bb7bdce4e9fad4179131216adf7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "547a8a9247584a5b9dc5eba950a00417",
+      "appId": "53838bf8bc75476c8ad0dab1453e22af",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-10T19:38:04.706Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,34 +1,25 @@
 {
   "id": "dbd496361f0a46a99c70b7c61b53f367",
-  "title": "Gods & Monsters",
-  "description": "Gods & Monsters",
+  "title": "Immortals: Fenyx Rising",
+  "description": "Immortals: Fenyx Rising",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/item/Game_Logo_Color_1000x375-1000x375-f06242470286a2db34d7015ad8fc65f7.png",
-      "md5": "f06242470286a2db34d7015ad8fc65f7",
-      "width": 1000,
-      "height": 375,
-      "size": 33259,
-      "uploadedDate": "2019-06-14T12:28:05.730Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/item/02_Orpheus_Landscape_FINAL-1920x1080-37b55ec93144f8018e50249923ec354e.jpg",
-      "md5": "37b55ec93144f8018e50249923ec354e",
-      "width": 1920,
-      "height": 1080,
-      "size": 298836,
-      "uploadedDate": "2019-06-14T12:28:15.563Z"
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/item/IFR_EPIC_STD_Store_Landscape_2560x1440_UK-2560x1440-4586f116e7b9be1c051793647b3dea3d.jpg",
+      "md5": "4586f116e7b9be1c051793647b3dea3d",
+      "width": 2560,
+      "height": 1440,
+      "size": 436670,
+      "uploadedDate": "2020-09-09T16:53:14.743Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/item/Store_Portrait_Promo_1280x1420-1280x1420-3c052689f4d8c008ef7c10594d1fe895.jpg",
-      "md5": "3c052689f4d8c008ef7c10594d1fe895",
-      "width": 1280,
-      "height": 1420,
-      "size": 195445,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/item/IFR_EPIC_STD_Store_Portrait_1200x1600_UK-1200x1600-160024289fd98b6a67a4dec9fadf9774.jpg",
+      "md5": "160024289fd98b6a67a4dec9fadf9774",
+      "width": 1200,
+      "height": 1600,
+      "size": 278775,
+      "uploadedDate": "2020-09-09T16:53:20.511Z"
     }
   ],
   "categories": [
@@ -45,7 +36,7 @@
   "namespace": "4b35838425c74992ad42e1276b2161ca",
   "status": "ACTIVE",
   "creationDate": "2019-06-08T17:13:02.483Z",
-  "lastModifiedDate": "2019-11-19T17:02:48.474Z",
+  "lastModifiedDate": "2020-09-10T19:57:40.894Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
@@ -77,7 +68,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "GodsAndMonsters"
+      "value": "ImmortalsFenyxRising"
     },
     "CanRunOffline": {
       "type": "STRING",
@@ -105,7 +96,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "ca5606455aa44ce9ad86f7c39a5c848a",
+      "id": "14ab9737300646b3b69dd879e46f5b35",
       "appId": "Pheasant",
       "platform": [
         "Windows"
@@ -119,6 +110,6 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
+  "ageGatings": {},
   "unsearchable": false
 }
