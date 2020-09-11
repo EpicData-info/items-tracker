@@ -1,0 +1,52 @@
+{
+  "id": "63373770600a4a8c8e165ac38318d14f",
+  "title": "AquariusStaging",
+  "description": "AquariusStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "71e66acf6bb34733bd98514ebf9fcaf8",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-31T23:39:19.720Z",
+  "lastModifiedDate": "2020-09-11T20:11:44.614Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AquariusStaging"
+    }
+  },
+  "entitlementName": "63373770600a4a8c8e165ac38318d14f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "00b95e03a53243bb87df595e5f12ee7a",
+      "appId": "fb12f6c5798a4a809e7b77eec443f517",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-11T20:06:36.360Z"
+    }
+  ],
+  "developer": "Bloober Team",
+  "developerId": "o-8nzuqrvr3dvkn9l7dydvhkekqd3xa9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

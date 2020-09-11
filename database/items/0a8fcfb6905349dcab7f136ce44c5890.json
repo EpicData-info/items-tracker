@@ -1,0 +1,34 @@
+{
+  "id": "0a8fcfb6905349dcab7f136ce44c5890",
+  "title": "AquariusGeneralAudience",
+  "description": "AquariusGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "71e66acf6bb34733bd98514ebf9fcaf8",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-31T23:39:19.534Z",
+  "lastModifiedDate": "2020-09-11T20:11:52.998Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0a8fcfb6905349dcab7f136ce44c5890",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bloober Team",
+  "developerId": "o-8nzuqrvr3dvkn9l7dydvhkekqd3xa9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

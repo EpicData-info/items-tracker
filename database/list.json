@@ -2100,6 +2100,18 @@
     1599181227
   ],
   [
+    "0a8fcfb6905349dcab7f136ce44c5890",
+    "71e66acf6bb34733bd98514ebf9fcaf8",
+    "AquariusGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Bloober Team",
+    1598917159,
+    1599855112
+  ],
+  [
     "0a904de9c7b1467dbd4d56753dbc5f34",
     "413361d2d5db4912ac2dfbcf27a38141",
     "OstrichPreview",
@@ -7051,6 +7063,19 @@
     1592254375
   ],
   [
+    "23b1ee48b7664249aaf564eac11740bc",
+    "71e66acf6bb34733bd98514ebf9fcaf8",
+    "Aquarius",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Bloober Team",
+    1598917159,
+    1599855104
+  ],
+  [
     "23b534af1a0c4f90ba2dfbfd713baad6",
     "b30b6d1b4dfd4dcc93b5490be5e094e5",
     "Red Dead Redemption 2 Pre-Purchase",
@@ -9109,6 +9134,18 @@
     "YAGER",
     1564597949,
     1594212254
+  ],
+  [
+    "2df8cc73dfc043b5a278a8db2782f60a",
+    "71e66acf6bb34733bd98514ebf9fcaf8",
+    "DevAquariusAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Bloober Team",
+    1598917159,
+    1599855112
   ],
   [
     "2dfee4313915455b8d96f8b60817a2c3",
@@ -20133,6 +20170,19 @@
     "Funcom",
     1590085238,
     1593095307
+  ],
+  [
+    "63373770600a4a8c8e165ac38318d14f",
+    "71e66acf6bb34733bd98514ebf9fcaf8",
+    "AquariusStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Bloober Team",
+    1598917159,
+    1599855104
   ],
   [
     "633995775cfa4d8aa30ead349d8c2cf6",

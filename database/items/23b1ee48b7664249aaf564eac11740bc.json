@@ -1,0 +1,72 @@
+{
+  "id": "23b1ee48b7664249aaf564eac11740bc",
+  "title": "Aquarius",
+  "description": "Aquarius",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "71e66acf6bb34733bd98514ebf9fcaf8",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-31T23:39:19.669Z",
+  "lastModifiedDate": "2020-09-11T20:11:44.614Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "71e66acf6bb34733bd98514ebf9fcaf8"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Aquarius"
+    }
+  },
+  "entitlementName": "23b1ee48b7664249aaf564eac11740bc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "7be3720ee8cf4c18ba6b1f37f0282596",
+      "appId": "eac14d6d8e534ac8a29047ecf0b27302",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-11T20:06:03.584Z"
+    }
+  ],
+  "developer": "Bloober Team",
+  "developerId": "o-8nzuqrvr3dvkn9l7dydvhkekqd3xa9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
