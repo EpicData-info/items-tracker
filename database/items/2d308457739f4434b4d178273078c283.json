@@ -15,7 +15,7 @@
   "namespace": "cosmos",
   "status": "ACTIVE",
   "creationDate": "2019-07-15T14:32:36.186Z",
-  "lastModifiedDate": "2020-01-08T14:44:19.504Z",
+  "lastModifiedDate": "2020-09-11T11:32:37.247Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -32,6 +32,6 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": false,
+  "ageGatings": {},
   "unsearchable": false
 }
