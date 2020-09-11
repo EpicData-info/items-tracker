@@ -1,0 +1,33 @@
+{
+  "id": "1c41a4918a1f473f9757355db81d7326",
+  "title": "DevNixAudience",
+  "description": "DevNixAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "afaeceac70d642ae89271029c794c08a",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T16:29:38.702Z",
+  "lastModifiedDate": "2020-09-11T16:15:48.496Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1c41a4918a1f473f9757355db81d7326",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "10144720 CANADA INC",
+  "developerId": "o-mbdx37qcfgjqbsq6w6apgmnt8vhmfb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -3162,7 +3162,7 @@
     ],
     "Crytek",
     1565895080,
-    1599840920
+    1599841101
   ],
   [
     "0f3f913cb0bf4444a5cf63f1770401a7",
@@ -5568,6 +5568,18 @@
     "CD PROJEKT RED",
     1588088125,
     1589505636
+  ],
+  [
+    "1c41a4918a1f473f9757355db81d7326",
+    "afaeceac70d642ae89271029c794c08a",
+    "DevNixAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "10144720 CANADA INC",
+    1593534578,
+    1599840948
   ],
   [
     "1c4e5064c92644a2983a0f4dcbddd3a2",
@@ -13234,6 +13246,19 @@
     "Ubisoft Entertainment",
     1564170386,
     1565366396
+  ],
+  [
+    "436305b89ed841a1a5b76f9f72c00fca",
+    "afaeceac70d642ae89271029c794c08a",
+    "Nix",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "10144720 CANADA INC",
+    1593534578,
+    1593726807
   ],
   [
     "436bfc82deb24582bf52e59339274c3f",
@@ -24156,6 +24181,18 @@
     "Ubisoft Entertainment",
     1565296571,
     1596842868
+  ],
+  [
+    "789f469f420d48468e68b3d52b29c128",
+    "afaeceac70d642ae89271029c794c08a",
+    "NixGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "10144720 CANADA INC",
+    1593534578,
+    1599840948
   ],
   [
     "78a0d387c97045a48d2756d06b321ada",
@@ -40811,6 +40848,19 @@
     "Thunder Lotus Games",
     1568307810,
     1575561314
+  ],
+  [
+    "cc0e95565499456598ac487bdcf0ede0",
+    "afaeceac70d642ae89271029c794c08a",
+    "NixStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "10144720 CANADA INC",
+    1593534578,
+    1593726807
   ],
   [
     "cc13d3839d374c9bbbd6fb113fd9df89",

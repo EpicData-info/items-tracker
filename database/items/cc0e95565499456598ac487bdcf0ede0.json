@@ -1,0 +1,51 @@
+{
+  "id": "cc0e95565499456598ac487bdcf0ede0",
+  "title": "NixStaging",
+  "description": "NixStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "afaeceac70d642ae89271029c794c08a",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T16:29:38.781Z",
+  "lastModifiedDate": "2020-07-02T21:53:27.930Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NixStaging"
+    }
+  },
+  "entitlementName": "cc0e95565499456598ac487bdcf0ede0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "114baf48055e49cf9fe2bbdaa71f21a0",
+      "appId": "3df56e4d6dc94908a630ddef0f742664",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-02T21:44:33.774Z"
+    }
+  ],
+  "developer": "10144720 CANADA INC",
+  "developerId": "o-mbdx37qcfgjqbsq6w6apgmnt8vhmfb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

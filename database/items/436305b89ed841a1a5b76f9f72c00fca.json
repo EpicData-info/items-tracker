@@ -1,0 +1,71 @@
+{
+  "id": "436305b89ed841a1a5b76f9f72c00fca",
+  "title": "Nix",
+  "description": "Nix",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "afaeceac70d642ae89271029c794c08a",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T16:29:38.739Z",
+  "lastModifiedDate": "2020-07-02T21:53:27.930Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "afaeceac70d642ae89271029c794c08a"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Nix"
+    }
+  },
+  "entitlementName": "436305b89ed841a1a5b76f9f72c00fca",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e6199bb2571a40b591475369787655c2",
+      "appId": "6a2e40d99714480093a7e00b589f5c16",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-02T21:43:22.584Z"
+    }
+  ],
+  "developer": "10144720 CANADA INC",
+  "developerId": "o-mbdx37qcfgjqbsq6w6apgmnt8vhmfb",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
