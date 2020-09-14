@@ -14,7 +14,7 @@
   "namespace": "7ad5508d382e46228056f1d1a0189ae2",
   "status": "ACTIVE",
   "creationDate": "2020-07-28T06:27:00.743Z",
-  "lastModifiedDate": "2020-08-18T07:19:54.386Z",
+  "lastModifiedDate": "2020-09-14T06:33:22.684Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -24,7 +24,7 @@
   "entitlementName": "eefa8dfa18ae41a9b61489954d67b46c",
   "entitlementType": "AUDIENCE",
   "itemType": "CONSUMABLE",
-  "developer": "Saturn",
+  "developer": "Grinding Gear Games",
   "developerId": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
   "useCount": 1,
   "eulaIds": [
