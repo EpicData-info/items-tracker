@@ -13,7 +13,7 @@
   "namespace": "b829cfd910554ad3ad2eb3b314e2b1ef",
   "status": "ACTIVE",
   "creationDate": "2020-09-08T21:58:00.262Z",
-  "lastModifiedDate": "2020-09-10T17:21:41.983Z",
+  "lastModifiedDate": "2020-09-14T16:38:53.334Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -23,12 +23,13 @@
   "entitlementName": "ca2da0c139f34c229bb6ffdad6677c5b",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Terrible Posture Games",
+  "developer": "Terrible Posture Games, Inc.",
   "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "requiresSecureAccount": false,
   "unsearchable": false
 }
