@@ -1,0 +1,71 @@
+{
+  "id": "ec68a02e93334525a07fe3464240610a",
+  "title": "Spellbreak Playtest",
+  "description": "Spellbreak Playtest",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/newt/item/egs-spellbreak-proletariatinc-s1-2560x1440-835765118-2560x1440-bfa7e113f6dadaf36b2d92db8308cb0c.jpg",
+      "md5": "bfa7e113f6dadaf36b2d92db8308cb0c",
+      "width": 2560,
+      "height": 1440,
+      "size": 379168,
+      "uploadedDate": "2020-09-15T14:18:38.914Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/newt/item/egs-spellbreak-proletariatinc-s6-1200x1600-835764623-1200x1600-f5d96c5f82a8cee1bc540567521588a3.jpg",
+      "md5": "f5d96c5f82a8cee1bc540567521588a3",
+      "width": 1200,
+      "height": 1600,
+      "size": 238200,
+      "uploadedDate": "2020-09-15T14:18:50.864Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "newt",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-15T14:15:51.284Z",
+  "lastModifiedDate": "2020-09-15T14:25:12.160Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SpellbreakPlaytest"
+    }
+  },
+  "entitlementName": "ec68a02e93334525a07fe3464240610a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d64279e5d48b419d85cd809345cd1570",
+      "appId": "f5e39033525d4ca19bad147739870f1d",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2018-12-13T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Proletariat, Inc.",
+  "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
