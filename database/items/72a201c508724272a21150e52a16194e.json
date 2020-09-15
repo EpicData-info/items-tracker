@@ -51,7 +51,7 @@
   "namespace": "lily",
   "status": "ACTIVE",
   "creationDate": "2019-01-28T19:59:11.721Z",
-  "lastModifiedDate": "2020-03-31T15:02:00.662Z",
+  "lastModifiedDate": "2020-09-15T16:38:32.588Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -65,6 +65,18 @@
       "type": "STRING",
       "value": "true"
     },
+    "defaultLaunchOption_Args": {
+      "type": "STRING",
+      "value": "-nohmd"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Operencia/Saved/SaveGames/"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-vr -hmd=SteamVR"
+    },
     "com.epicgames.app.developerName": {
       "type": "STRING",
       "value": "Zen Studios"
@@ -72,6 +84,10 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Launch in SteamVR"
     },
     "FolderName": {
       "type": "STRING",
@@ -104,6 +120,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
   "unsearchable": false
 }
