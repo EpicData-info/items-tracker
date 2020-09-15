@@ -81,7 +81,7 @@
   "namespace": "e509c16d53714b13ba8e393966507255",
   "status": "ACTIVE",
   "creationDate": "2019-09-26T21:03:15.781Z",
-  "lastModifiedDate": "2019-11-20T17:05:01.907Z",
+  "lastModifiedDate": "2020-09-15T18:37:04.596Z",
   "customAttributes": {
     "RequirementsJson": {
       "type": "STRING",
@@ -121,7 +121,7 @@
     },
     "AdditionalCommandline": {
       "type": "STRING",
-      "value": "&theme=jfo&platform=epic"
+      "value": "&theme=jfo&platform=epic&Hotfix=go"
     },
     "RegistryLocation": {
       "type": "STRING",
@@ -155,5 +155,6 @@
     "[egstore]"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

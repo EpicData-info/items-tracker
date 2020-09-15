@@ -1,7 +1,7 @@
 {
   "id": "8641c11fbc4d459ca6cb5e39a55d8cfc",
-  "title": "Creator 2H Sword",
-  "description": "Creator 2H Sword",
+  "title": "Molten 2H Sword",
+  "description": "Molten 2H Sword",
   "keyImages": [],
   "categories": [
     {
@@ -14,7 +14,7 @@
   "namespace": "cosmos",
   "status": "ACTIVE",
   "creationDate": "2020-09-08T19:11:27.795Z",
-  "lastModifiedDate": "2020-09-08T19:28:48.916Z",
+  "lastModifiedDate": "2020-09-15T18:36:28.258Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",

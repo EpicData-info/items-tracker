@@ -1,7 +1,7 @@
 {
   "id": "c2fa373660994a83ad2944db4b143c6b",
-  "title": "Creator 1H Sword",
-  "description": "Creator 1H Sword",
+  "title": "Molten 1H Sword",
+  "description": "Molten 1H Sword",
   "keyImages": [],
   "categories": [
     {
@@ -14,7 +14,7 @@
   "namespace": "cosmos",
   "status": "ACTIVE",
   "creationDate": "2020-09-08T19:11:42.698Z",
-  "lastModifiedDate": "2020-09-08T19:28:48.916Z",
+  "lastModifiedDate": "2020-09-15T18:38:30.972Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
