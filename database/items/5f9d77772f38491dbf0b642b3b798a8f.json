@@ -1,0 +1,47 @@
+{
+  "id": "5f9d77772f38491dbf0b642b3b798a8f",
+  "title": "OnionPrePurchaseAudience",
+  "description": "OnionPrePurchaseAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b2df9b20c72446d690718965da41c7ad/item/Diesel_product_ratings_RP_FOR_T_M_AO-418x189-4ba77d5f23e69a80afd3f40f76edc78212db5fe4-418x189-b886f081a21401b2aa02dfa48a72c383.png",
+      "md5": "b886f081a21401b2aa02dfa48a72c383",
+      "width": 418,
+      "height": 189,
+      "size": 6896,
+      "uploadedDate": "2020-09-15T16:07:12.217Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "b2df9b20c72446d690718965da41c7ad",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-10T19:17:30.660Z",
+  "lastModifiedDate": "2020-09-15T16:07:16.868Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5f9d77772f38491dbf0b642b3b798a8f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Frictional Games",
+  "developerId": "o-aclcw9pm582trqsqg66qfkfp9u9nw7",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "RATING_PENDING",
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
