@@ -1,7 +1,8 @@
 {
   "id": "abde568072644a0f8a5b5177c53d1700",
-  "title": "Creator 2H Axe",
-  "description": "Creator 2H Axe",
+  "title": "Blood 2H Axe",
+  "description": "Blood 2H Axe",
+  "longDescription": "Blood 2H Axe",
   "keyImages": [],
   "categories": [
     {
@@ -14,7 +15,7 @@
   "namespace": "cosmos",
   "status": "ACTIVE",
   "creationDate": "2020-09-08T19:11:36.681Z",
-  "lastModifiedDate": "2020-09-08T19:28:48.916Z",
+  "lastModifiedDate": "2020-09-15T18:46:54.686Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
