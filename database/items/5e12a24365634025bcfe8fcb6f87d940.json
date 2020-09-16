@@ -34,7 +34,7 @@
   "namespace": "min",
   "status": "ACTIVE",
   "creationDate": "2018-11-15T19:01:43.635Z",
-  "lastModifiedDate": "2020-06-24T02:02:07.910Z",
+  "lastModifiedDate": "2020-09-16T20:05:39.236Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -63,6 +63,7 @@
       "compatibleApps": [],
       "platform": [
         "Windows",
+        "Mac",
         "Win32"
       ],
       "dateAdded": "2018-11-15T00:00:00.000Z",
