@@ -17,7 +17,7 @@
   "namespace": "6af58339c2424644988e0fb83dfd9bd5",
   "status": "ACTIVE",
   "creationDate": "2020-06-16T17:49:58.994Z",
-  "lastModifiedDate": "2020-09-16T21:03:07.536Z",
+  "lastModifiedDate": "2020-09-16T21:23:25.762Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -25,7 +25,7 @@
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppData}C:\\Users\\<PC USERNAME>\\AppData\\Local\\Fuser\\Epic\\<EPIC USER ID STRING>\\SaveGames\\Fuser"
+      "value": "{AppData}/Fuser/Epic/{EpicID}/SaveGames/Fuser/"
     },
     "FolderName": {
       "type": "STRING",
