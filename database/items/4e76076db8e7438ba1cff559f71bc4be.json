@@ -36,7 +36,7 @@
   "namespace": "456d95ca54814c8d98db2f52346ff5de",
   "status": "ACTIVE",
   "creationDate": "2020-06-29T16:24:16.515Z",
-  "lastModifiedDate": "2020-09-09T16:10:49.215Z",
+  "lastModifiedDate": "2020-09-17T14:14:22.693Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -46,9 +46,17 @@
       "type": "STRING",
       "value": "456d95ca54814c8d98db2f52346ff5de"
     },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Artefacts Studio/Naheulbeuk/Save/"
+    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Artefacts Studio/Naheulbeuk/Save/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -87,5 +95,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "fghi456750xgC3MDwDRX4uD5QZxWj0wK",
   "unsearchable": false
 }
