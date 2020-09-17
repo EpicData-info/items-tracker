@@ -1,0 +1,91 @@
+{
+  "id": "df38ad3ac22e45c98182b6830730aedf",
+  "title": "RollerCoaster Tycoon® 3: Complete Edition",
+  "description": "RollerCoaster Tycoon® 3: Complete Edition",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/item/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg",
+      "md5": "689d96ca4d5a4e8de183b7a928960c87",
+      "width": 1920,
+      "height": 1080,
+      "size": 987776,
+      "uploadedDate": "2020-09-15T16:55:54.044Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/item/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S6-1200x1600-591ca93f3bee7bc55a90b77ccc36eb84.jpg",
+      "md5": "591ca93f3bee7bc55a90b77ccc36eb84",
+      "width": 1200,
+      "height": 1600,
+      "size": 987354,
+      "uploadedDate": "2020-09-15T16:56:04.134Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f01b3e0178d448f0b93911e292d8e614",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-05T16:50:07.882Z",
+  "lastModifiedDate": "2020-09-17T14:02:22.222Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "f01b3e0178d448f0b93911e292d8e614"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "RollerCoasterTycoon3"
+    }
+  },
+  "entitlementName": "df38ad3ac22e45c98182b6830730aedf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fcec490f1ae447909afeabe316c2a40b",
+      "appId": "281a47e363284108b82bf05c1a612145",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-05T00:00:00.000Z"
+    }
+  ],
+  "developer": "Frontier Developments",
+  "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
