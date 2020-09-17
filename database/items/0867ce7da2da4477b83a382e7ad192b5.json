@@ -16,11 +16,19 @@
   "namespace": "0f7039ef44ad4ee18f16f19d96cf2a6b",
   "status": "ACTIVE",
   "creationDate": "2020-07-01T18:09:49.641Z",
-  "lastModifiedDate": "2020-09-01T16:32:05.228Z",
+  "lastModifiedDate": "2020-09-17T02:19:57.398Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "/Users/[username]/Library/Application Support/com.headup.textorcist-mac/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "C:\\Users[username]\\AppData\\Local\\Textorcist"
     },
     "FolderName": {
       "type": "STRING",
@@ -35,9 +43,10 @@
       "id": "f773410587994c4c9dc7aff9a3cdc7d7",
       "appId": "11adef5ba14447b9916240de62d70bea",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
-      "dateAdded": "2020-09-01T16:29:53.053Z"
+      "dateAdded": "2020-09-01T00:00:00.000Z"
     }
   ],
   "developer": "Headup Gmbh",
