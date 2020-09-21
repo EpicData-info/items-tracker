@@ -37905,6 +37905,18 @@
     1581352921
   ],
   [
+    "bc5badf3d26e4409ad00ffccf8125031",
+    "19d54f4a6d7e4ba99c5caf8972fbfd02",
+    "MtHarvardGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Ubisoft Entertainment",
+    1600101388,
+    1600717230
+  ],
+  [
     "bc810b7f733e41789da4c87cba58d836",
     "oregano",
     "Sunken Treasures - DLC",
@@ -46093,6 +46105,18 @@
     1578410998
   ],
   [
+    "e3aa33881d9e4e07a68a787b10091b11",
+    "19d54f4a6d7e4ba99c5caf8972fbfd02",
+    "DevMtHarvardAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Ubisoft Entertainment",
+    1600101388,
+    1600717230
+  ],
+  [
     "e3bf7d5a8fa84975bdf84ba9718c5115",
     "0aaf0617ee0d47df87c0dc93509159dd",
     "Traders&BuildersAudience",
@@ -50225,6 +50249,19 @@
     "Ubisoft Entertainment",
     1546914846,
     1583359280
+  ],
+  [
+    "fa504cf648f74e7d99e041ad21b6e9b5",
+    "19d54f4a6d7e4ba99c5caf8972fbfd02",
+    "MtHarvardStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1600101388,
+    1600716843
   ],
   [
     "fa53ba48ca3248078937b97f2dfa2718",

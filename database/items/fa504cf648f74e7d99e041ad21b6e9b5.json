@@ -1,0 +1,53 @@
+{
+  "id": "fa504cf648f74e7d99e041ad21b6e9b5",
+  "title": "MtHarvardStaging",
+  "description": "MtHarvardStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "19d54f4a6d7e4ba99c5caf8972fbfd02",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-14T16:36:28.827Z",
+  "lastModifiedDate": "2020-09-21T19:34:03.006Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MtHarvardStaging"
+    }
+  },
+  "entitlementName": "fa504cf648f74e7d99e041ad21b6e9b5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f54184ce67fe411e90bce8c415c7199b",
+      "appId": "632b334cec734983b34b466e2657052f",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-21T19:21:56.365Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
