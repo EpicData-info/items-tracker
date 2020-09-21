@@ -1,0 +1,64 @@
+{
+  "id": "c93be11c41fd45299764fc66ba74a62d",
+  "title": "FizzStaging",
+  "description": "FizzStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e89efaeec0cd408abee8bd4dd02c8d32",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-03T13:53:49.126Z",
+  "lastModifiedDate": "2020-09-17T15:28:19.955Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Temp/EpicPortRoyale4/datastorage/e89efaeec0cd408abee8bd4dd02c8d32/00027a4714d14650a57c550f7dbd3bc2/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "savegames/,settings/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "8000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FizzStaging"
+    }
+  },
+  "entitlementName": "c93be11c41fd45299764fc66ba74a62d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "14d84364c8dd40c4aacd8ad62ae20e63",
+      "appId": "2844a2f11db04682a414c1ab8fdf5a73",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-03T00:00:00.000Z"
+    }
+  ],
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

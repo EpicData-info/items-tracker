@@ -1,0 +1,36 @@
+{
+  "id": "b90b8ad26a4e45a18401fb8f34775582",
+  "title": "Fizz Extended Edition Audience",
+  "description": "Fizz Extended Edition Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e89efaeec0cd408abee8bd4dd02c8d32",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-10T12:40:23.991Z",
+  "lastModifiedDate": "2020-09-17T15:29:19.782Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b90b8ad26a4e45a18401fb8f34775582",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

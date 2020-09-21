@@ -4,31 +4,22 @@
   "description": "Dauntless",
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/jackal/item/dauntless-game-icon-400x400-fedb667fba0c95b47137a8c5416b68d5.png",
-      "md5": "fedb667fba0c95b47137a8c5416b68d5",
-      "width": 400,
-      "height": 400,
-      "size": 28015,
-      "uploadedDate": "2019-01-28T20:33:34.435Z"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/jackal/item/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1-2560x1440-5eafbc727fe4728c9cb742b03abc6043.jpg",
+      "md5": "5eafbc727fe4728c9cb742b03abc6043",
+      "width": 2560,
+      "height": 1440,
+      "size": 664943,
+      "uploadedDate": "2020-09-15T18:09:21.160Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/jackal/item/epic-dauntlesscallofthevoid-fullgame-vertical-1410x1786-101912762-1410x1786-106740e181f59d1ac817d901c30c8844.jpg",
-      "md5": "106740e181f59d1ac817d901c30c8844",
-      "width": 1410,
-      "height": 1786,
-      "size": 198974,
-      "uploadedDate": "2020-06-11T16:42:59.074Z"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/jackal/item/dauntless-carousel-1360x766-withlogo-1360x766-101895964-1360x766-922608a1b0bab988fba4681201e9ccef.png",
-      "md5": "922608a1b0bab988fba4681201e9ccef",
-      "width": 1360,
-      "height": 766,
-      "size": 446159,
-      "uploadedDate": "2020-06-11T16:43:13.885Z"
+      "url": "https://cdn1.epicgames.com/jackal/item/EGS_LIVEFORTHEHUNT_PhoenixLabs_S6-1200x1600-ccc3d7de46f53b47a0574274ecd30a34.jpg",
+      "md5": "ccc3d7de46f53b47a0574274ecd30a34",
+      "width": 1200,
+      "height": 1600,
+      "size": 431629,
+      "uploadedDate": "2020-09-15T18:09:33.182Z"
     }
   ],
   "categories": [
@@ -42,7 +33,7 @@
   "namespace": "jackal",
   "status": "ACTIVE",
   "creationDate": "2019-01-28T20:38:56.842Z",
-  "lastModifiedDate": "2020-06-11T16:55:13.098Z",
+  "lastModifiedDate": "2020-09-17T16:57:54.326Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

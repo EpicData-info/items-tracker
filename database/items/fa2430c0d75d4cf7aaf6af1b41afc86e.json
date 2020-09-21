@@ -6,21 +6,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/jackal/item/Epic_DauntlessScorchedEarth_FullGame_LandscapeOffer_LogoTest-2560x1440-d4748c14657407b45891d1d3e17e5517-2560x1440-d4748c14657407b45891d1d3e17e5517.jpg",
-      "md5": "d4748c14657407b45891d1d3e17e5517",
+      "url": "https://cdn1.epicgames.com/jackal/item/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1-2560x1440-5eafbc727fe4728c9cb742b03abc6043.jpg",
+      "md5": "5eafbc727fe4728c9cb742b03abc6043",
       "width": 2560,
       "height": 1440,
-      "size": 587855,
-      "uploadedDate": "2020-03-30T16:30:19.171Z"
+      "size": 664943,
+      "uploadedDate": "2020-09-15T18:16:00.189Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/jackal/item/EGS_LIVEFORTHEHUNT_PhoenixLabs_S4-510x680-e555c4296ba40636fd72db5ce5f56a95-510x680-e555c4296ba40636fd72db5ce5f56a95.jpg",
-      "md5": "e555c4296ba40636fd72db5ce5f56a95",
-      "width": 510,
-      "height": 680,
-      "size": 200053,
-      "uploadedDate": "2020-03-30T16:30:40.969Z"
+      "url": "https://cdn1.epicgames.com/jackal/item/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-ccc3d7de46f53b47a0574274ecd30a34.jpg",
+      "md5": "ccc3d7de46f53b47a0574274ecd30a34",
+      "width": 1200,
+      "height": 1600,
+      "size": 431629,
+      "uploadedDate": "2020-09-15T18:16:09.601Z"
     }
   ],
   "categories": [
@@ -34,7 +34,7 @@
   "namespace": "jackal",
   "status": "ACTIVE",
   "creationDate": "2019-10-03T17:07:36.825Z",
-  "lastModifiedDate": "2020-06-11T16:55:13.098Z",
+  "lastModifiedDate": "2020-09-17T16:57:54.326Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -75,5 +75,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

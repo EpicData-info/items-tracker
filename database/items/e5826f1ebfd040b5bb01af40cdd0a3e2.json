@@ -1,0 +1,36 @@
+{
+  "id": "e5826f1ebfd040b5bb01af40cdd0a3e2",
+  "title": "FizzOSTAudience",
+  "description": "FizzOSTAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e89efaeec0cd408abee8bd4dd02c8d32",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-10T12:37:21.295Z",
+  "lastModifiedDate": "2020-09-17T15:28:19.963Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e5826f1ebfd040b5bb01af40cdd0a3e2",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

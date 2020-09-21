@@ -21,11 +21,11 @@
   "namespace": "min",
   "status": "ACTIVE",
   "creationDate": "2019-12-09T14:02:11.538Z",
-  "lastModifiedDate": "2020-06-23T16:58:05.147Z",
+  "lastModifiedDate": "2020-09-17T15:57:22.050Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
-      "value": "Windows,Win32"
+      "value": "Windows,Win32,Mac"
     }
   },
   "entitlementName": "d6c3519c087c4a5e92e7ab3fee2dd4f5",
@@ -37,5 +37,6 @@
   "eulaIds": [],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
+  "ageGatings": {},
   "unsearchable": false
 }

@@ -1,7 +1,7 @@
 {
-  "id": "2e7099462b4c40289fc1f7cd82efb998",
-  "title": "BobcatPrePurchaseAudience",
-  "description": "BobcatPrePurchaseAudience",
+  "id": "142a724fc4d64744a89482e1950cfa14",
+  "title": "BobcatPressAudience",
+  "description": "BobcatPressAudience",
   "keyImages": [],
   "categories": [
     {
@@ -13,15 +13,15 @@
   ],
   "namespace": "bc2b0372eaa448469cb9a769f27acea1",
   "status": "ACTIVE",
-  "creationDate": "2020-05-28T17:30:24.788Z",
-  "lastModifiedDate": "2020-09-21T16:53:20.200Z",
+  "creationDate": "2020-09-21T16:41:58.167Z",
+  "lastModifiedDate": "2020-09-21T16:53:20.199Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "2e7099462b4c40289fc1f7cd82efb998",
+  "entitlementName": "142a724fc4d64744a89482e1950cfa14",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "developer": "Electronic Arts",

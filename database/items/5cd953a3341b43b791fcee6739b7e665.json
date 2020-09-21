@@ -42,7 +42,7 @@
   "namespace": "min",
   "status": "ACTIVE",
   "creationDate": "2020-06-09T19:17:19.629Z",
-  "lastModifiedDate": "2020-06-23T17:42:45.297Z",
+  "lastModifiedDate": "2020-09-17T16:52:12.558Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -79,6 +79,7 @@
       "compatibleApps": [],
       "platform": [
         "Windows",
+        "Mac",
         "Win32"
       ],
       "dateAdded": "2018-11-28T00:00:00.000Z",

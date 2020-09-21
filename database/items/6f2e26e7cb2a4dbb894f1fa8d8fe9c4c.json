@@ -33,7 +33,7 @@
   "namespace": "min",
   "status": "ACTIVE",
   "creationDate": "2019-11-14T22:50:14.736Z",
-  "lastModifiedDate": "2020-06-23T16:58:05.147Z",
+  "lastModifiedDate": "2020-09-17T16:17:14.987Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -74,6 +74,7 @@
       "compatibleApps": [],
       "platform": [
         "Windows",
+        "Mac",
         "Win32"
       ],
       "dateAdded": "2019-11-14T00:00:00.000Z",
@@ -87,5 +88,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

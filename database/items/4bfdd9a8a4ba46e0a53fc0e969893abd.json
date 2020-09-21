@@ -1,0 +1,47 @@
+{
+  "id": "4bfdd9a8a4ba46e0a53fc0e969893abd",
+  "title": "Fizz Pre-Purchase Audience",
+  "description": "Fizz Pre-Purchase Audience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/e89efaeec0cd408abee8bd4dd02c8d32/item/ESRB_E10rating-842x404-63b20a4c1137f6c41f8d6804432cb688.png",
+      "md5": "63b20a4c1137f6c41f8d6804432cb688",
+      "width": 842,
+      "height": 404,
+      "size": 68949,
+      "uploadedDate": "2020-09-10T13:37:33.732Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e89efaeec0cd408abee8bd4dd02c8d32",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-10T20:21:35.409Z",
+  "lastModifiedDate": "2020-09-17T15:29:19.781Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4bfdd9a8a4ba46e0a53fc0e969893abd",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

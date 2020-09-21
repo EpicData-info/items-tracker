@@ -1,0 +1,34 @@
+{
+  "id": "e4563053202a472aa92707e51e11c899",
+  "title": "DevFizzAudience",
+  "description": "DevFizzAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "e89efaeec0cd408abee8bd4dd02c8d32",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-03T13:53:49.000Z",
+  "lastModifiedDate": "2020-09-17T15:29:19.787Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e4563053202a472aa92707e51e11c899",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

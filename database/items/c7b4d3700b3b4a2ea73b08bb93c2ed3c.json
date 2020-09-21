@@ -24,7 +24,7 @@
   "namespace": "angelonia",
   "status": "ACTIVE",
   "creationDate": "2019-02-10T16:52:59.965Z",
-  "lastModifiedDate": "2020-09-16T21:25:46.915Z",
+  "lastModifiedDate": "2020-09-17T15:09:13.879Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -41,6 +41,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
   "ageGatings": {},
   "selfRefundable": true,
   "unsearchable": false

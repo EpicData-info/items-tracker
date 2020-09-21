@@ -1,0 +1,108 @@
+{
+  "id": "4e424c1ac65d45db8cc637a6de29fae8",
+  "title": "Port Royale 4 Pre-Purchase",
+  "description": "Port Royale 4 Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e89efaeec0cd408abee8bd4dd02c8d32/item/EGS_PortRoyale4StandardEdition_GamingMindsStudios_S1-2560x1440-14fbcb872ba70ad27b102f87389806fa.jpg",
+      "md5": "14fbcb872ba70ad27b102f87389806fa",
+      "width": 2560,
+      "height": 1440,
+      "size": 940218,
+      "uploadedDate": "2020-09-10T20:17:57.998Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e89efaeec0cd408abee8bd4dd02c8d32/item/EGS_PortRoyale4StandardEdition_GamingMindsStudios_S2-1200x1600-d64a2c6eb6f754d0b5f09fe7f325cd72.jpg",
+      "md5": "d64a2c6eb6f754d0b5f09fe7f325cd72",
+      "width": 1200,
+      "height": 1600,
+      "size": 670271,
+      "uploadedDate": "2020-09-10T20:18:06.886Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e89efaeec0cd408abee8bd4dd02c8d32",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-10T20:19:02.712Z",
+  "lastModifiedDate": "2020-09-17T15:28:19.954Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "e89efaeec0cd408abee8bd4dd02c8d32"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Temp/EpicPortRoyale4/datastorage/e89efaeec0cd408abee8bd4dd02c8d32/00027a4714d14650a57c550f7dbd3bc2/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "savegames/,settings/"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1601074800"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "8000"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PortRoyale4"
+    }
+  },
+  "entitlementName": "4e424c1ac65d45db8cc637a6de29fae8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "30be19011c014e6fa99f187608b0854f",
+      "appId": "Port Royale 4 Dummy",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-03T00:00:00.000Z"
+    }
+  ],
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
