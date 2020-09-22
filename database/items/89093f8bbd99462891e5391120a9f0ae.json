@@ -1,0 +1,72 @@
+{
+  "id": "89093f8bbd99462891e5391120a9f0ae",
+  "title": "LaPlata",
+  "description": "LaPlata",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d5ac79ba9e7946908d8e22c002468348",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-15T15:19:01.088Z",
+  "lastModifiedDate": "2020-09-15T15:36:38.803Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "d5ac79ba9e7946908d8e22c002468348"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LaPlata"
+    }
+  },
+  "entitlementName": "89093f8bbd99462891e5391120a9f0ae",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "72c7a49e57a84726b1bd76869c35fa4e",
+      "appId": "162623ee6c524e41919d1efa24ce58ce",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-15T15:34:57.364Z"
+    }
+  ],
+  "developer": "Bithell Games",
+  "developerId": "o-frem9pgcxxhtu5j9sns7scmzncv8q9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

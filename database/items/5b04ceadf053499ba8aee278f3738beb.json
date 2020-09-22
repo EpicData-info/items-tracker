@@ -1,0 +1,34 @@
+{
+  "id": "5b04ceadf053499ba8aee278f3738beb",
+  "title": "LaPlataGeneralAudience",
+  "description": "LaPlataGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "d5ac79ba9e7946908d8e22c002468348",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-15T15:19:00.833Z",
+  "lastModifiedDate": "2020-09-15T15:36:44.015Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5b04ceadf053499ba8aee278f3738beb",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bithell Games",
+  "developerId": "o-frem9pgcxxhtu5j9sns7scmzncv8q9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

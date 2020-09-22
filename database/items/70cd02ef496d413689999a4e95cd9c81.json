@@ -1,0 +1,52 @@
+{
+  "id": "70cd02ef496d413689999a4e95cd9c81",
+  "title": "LaPlataStaging",
+  "description": "LaPlataStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d5ac79ba9e7946908d8e22c002468348",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-15T15:19:01.187Z",
+  "lastModifiedDate": "2020-09-15T15:36:38.803Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LaPlataStaging"
+    }
+  },
+  "entitlementName": "70cd02ef496d413689999a4e95cd9c81",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1849b5326e98435fa6d9f91810fe8c09",
+      "appId": "9a8ee185eba14d2299997859f32334ee",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-15T15:34:07.428Z"
+    }
+  ],
+  "developer": "Bithell Games",
+  "developerId": "o-frem9pgcxxhtu5j9sns7scmzncv8q9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

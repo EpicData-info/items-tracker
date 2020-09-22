@@ -5689,6 +5689,18 @@
     1581001173
   ],
   [
+    "1c878c128f5d44a58eef594dd4c3f10a",
+    "d5ac79ba9e7946908d8e22c002468348",
+    "DevLaPlataAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Bithell Games",
+    1600183140,
+    1600184204
+  ],
+  [
     "1c8a832ba5964b668a757ad7ea752314",
     "5645a537b6a44f6f82d122729f3253ed",
     "OpalStaging",
@@ -18371,6 +18383,18 @@
     1572963927
   ],
   [
+    "5b04ceadf053499ba8aee278f3738beb",
+    "d5ac79ba9e7946908d8e22c002468348",
+    "LaPlataGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Bithell Games",
+    1600183140,
+    1600184204
+  ],
+  [
     "5b2a9dfe949049eca8e2d84bd566fe82",
     "4b5f1eb366dc45f0920d397c01b291ba",
     "Soundtrack Audience",
@@ -22820,6 +22844,19 @@
     "Ragnarok Game, LLC",
     1558139054,
     1578494472
+  ],
+  [
+    "70cd02ef496d413689999a4e95cd9c81",
+    "d5ac79ba9e7946908d8e22c002468348",
+    "LaPlataStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Bithell Games",
+    1600183141,
+    1600184198
   ],
   [
     "70d465b0278444be9fd4abea8c62397e",
@@ -27540,6 +27577,19 @@
     "tinyBuild Games",
     1576513790,
     1576513996
+  ],
+  [
+    "89093f8bbd99462891e5391120a9f0ae",
+    "d5ac79ba9e7946908d8e22c002468348",
+    "LaPlata",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Bithell Games",
+    1600183141,
+    1600184198
   ],
   [
     "8914dc9a7f43416da4941898fce9a98f",
