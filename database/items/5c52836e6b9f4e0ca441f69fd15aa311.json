@@ -4,31 +4,22 @@
   "description": "Tom Clancy's The Division 2 - Trial",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/impala/item/TCTD2_OpenBeta_Promo-2048x1151-cce9a8a830443aaf82f23ae88dcf6141.jpg",
-      "md5": "cce9a8a830443aaf82f23ae88dcf6141",
-      "width": 2048,
-      "height": 1151,
-      "size": 496655,
-      "uploadedDate": "2019-03-01T09:09:00.258Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/impala/item/Tctd2_logo_twe8black_1000x375-1000x375-58b36c15b48073a8a846d0cd84ad046c.png",
-      "md5": "58b36c15b48073a8a846d0cd84ad046c",
-      "width": 1000,
-      "height": 375,
-      "size": 40590,
-      "uploadedDate": "2019-10-17T14:44:13.600Z"
-    },
-    {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/impala/item/TD2_Portrait-Promo_1280x1420-1280x1420-4f0c658d399e26d7120aa6b04d4f77a0.jpg",
-      "md5": "4f0c658d399e26d7120aa6b04d4f77a0",
-      "width": 1280,
-      "height": 1420,
-      "size": 199408,
-      "uploadedDate": "2020-02-21T21:40:31.280Z"
+      "url": "https://cdn1.epicgames.com/impala/item/TCTD2_Trial_Weekend_1200x1600-1200x1600-fce93abc3ae467399de852c3560572aa.png",
+      "md5": "fce93abc3ae467399de852c3560572aa",
+      "width": 1200,
+      "height": 1600,
+      "size": 3426320,
+      "uploadedDate": "2020-09-22T18:25:18.442Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/impala/item/TD2_FREEWEEK_Capsule_1920x1080_UK-1920x1080-b640aa1d45cde4478638cdfbd26e7c06.jpg",
+      "md5": "b640aa1d45cde4478638cdfbd26e7c06",
+      "width": 1920,
+      "height": 1080,
+      "size": 1126873,
+      "uploadedDate": "2020-09-22T18:25:21.575Z"
     }
   ],
   "categories": [
@@ -42,7 +33,7 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2019-10-14T22:52:03.772Z",
-  "lastModifiedDate": "2020-03-12T18:01:45.483Z",
+  "lastModifiedDate": "2020-09-22T18:29:00.577Z",
   "customAttributes": {
     "PresenceID": {
       "type": "STRING",
@@ -66,7 +57,7 @@
     },
     "availableDate": {
       "type": "STRING",
-      "value": "1582790400"
+      "value": "1600959600"
     },
     "FolderName": {
       "type": "STRING",
@@ -93,5 +84,6 @@
   "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
   "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }
