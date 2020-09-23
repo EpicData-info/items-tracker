@@ -1,0 +1,48 @@
+{
+  "id": "c0bc32bbc5d349f5a6fde13de09871c7",
+  "title": "BobcatStaging",
+  "description": "BobcatStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    }
+  ],
+  "namespace": "bc2b0372eaa448469cb9a769f27acea1",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-16T20:33:06.762Z",
+  "lastModifiedDate": "2020-09-23T14:38:29.681Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "BobcatStaging"
+    }
+  },
+  "entitlementName": "c0bc32bbc5d349f5a6fde13de09871c7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4613a6ebefe2469ebc3e4a408424176e",
+      "appId": "34bc033e560947aebd5d5ba2ba048857",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-04-16T00:00:00.000Z"
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
