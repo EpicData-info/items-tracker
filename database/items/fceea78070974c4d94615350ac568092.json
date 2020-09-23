@@ -16,7 +16,7 @@
   "namespace": "fbab831cc1c94385b4e311f47f6fdc4f",
   "status": "ACTIVE",
   "creationDate": "2020-05-08T16:47:02.578Z",
-  "lastModifiedDate": "2020-08-10T13:52:54.815Z",
+  "lastModifiedDate": "2020-09-23T18:48:31.446Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -57,7 +57,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-08-10T13:51:35.910Z"
+      "dateAdded": "2020-08-10T00:00:00.000Z"
     }
   ],
   "developer": "Stardock Entertainment, Inc",
@@ -67,5 +67,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "fghi4567mQkAAEJ1R0Dy2FqDLxcYSrIV",
   "unsearchable": false
 }
