@@ -1,0 +1,115 @@
+{
+  "id": "8cf2931625ac41cead9f0baf2c3fdfde",
+  "title": "Star Wars Squadrons",
+  "description": "Star Wars Squadrons",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bc2b0372eaa448469cb9a769f27acea1/item/MAV_EPIC_LANDSCAPE-Product-Image_2560x1440-2560x1440-f09b204b4eb17f85e997a247901b8d81-2560x1440-f09b204b4eb17f85e997a247901b8d81.jpg",
+      "md5": "f09b204b4eb17f85e997a247901b8d81",
+      "width": 2560,
+      "height": 1440,
+      "size": 2265899,
+      "uploadedDate": "2020-09-21T16:40:26.491Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/bc2b0372eaa448469cb9a769f27acea1/item/MAV_EPIC_PORTRAIT-Product-Image_1200x1600-1200x1600-6a837e2b6a5b216a2d994b4ad6661a33-1200x1600-6a837e2b6a5b216a2d994b4ad6661a33.jpg",
+      "md5": "6a837e2b6a5b216a2d994b4ad6661a33",
+      "width": 1200,
+      "height": 1600,
+      "size": 1642764,
+      "uploadedDate": "2020-09-21T16:40:36.915Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "bc2b0372eaa448469cb9a769f27acea1",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-16T20:33:06.704Z",
+  "lastModifiedDate": "2020-09-23T13:57:33.395Z",
+  "customAttributes": {
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "starwarssquadrons.exe"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "StarWarsSquadrons"
+    },
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "bc2b0372eaa448469cb9a769f27acea1"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RegistryPath": {
+      "type": "STRING",
+      "value": "SOFTWARE\\WOW6432Node\\EA Games\\STAR WARS Squadrons"
+    },
+    "AdditionalCommandline": {
+      "type": "STRING",
+      "value": "&theme=sws&platform=epic&Hotfix=go"
+    },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "starwarssquadrons.exe"
+    },
+    "RegistryLocation": {
+      "type": "STRING",
+      "value": "SOFTWARE\\EA Games\\STAR WARS Squadrons\\Install Dir"
+    },
+    "RegistryKey": {
+      "type": "STRING",
+      "value": "Install Dir"
+    }
+  },
+  "entitlementName": "8cf2931625ac41cead9f0baf2c3fdfde",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "65c52de6ee4540599b0181db4610439e",
+      "appId": "ce2628db05f24ea1b38647a963d8b049",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-04-16T00:00:00.000Z"
+    }
+  ],
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
