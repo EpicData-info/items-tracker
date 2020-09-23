@@ -12698,6 +12698,18 @@
     1592254375
   ],
   [
+    "40a69fd3f9ed4971ab80259e1b22208a",
+    "bc2b0372eaa448469cb9a769f27acea1",
+    "DevBobcatAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Electronic Arts",
+    1587069186,
+    1600869716
+  ],
+  [
     "40c86958e5024a4787dd17e2a30f6cab",
     "impala",
     "OpenBetaAudience",
@@ -16262,7 +16274,7 @@
     ],
     "Epic Games",
     1410535206,
-    1599573605
+    1600869017
   ],
   [
     "500cea2fd85d48f0bdbcf5e2e07d4d68",
@@ -28292,7 +28304,7 @@
     ],
     "Electronic Arts",
     1587069186,
-    1600869453
+    1600870050
   ],
   [
     "8d191697a975457bbaff9f2df563399a",

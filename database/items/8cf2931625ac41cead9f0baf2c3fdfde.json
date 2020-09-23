@@ -36,7 +36,7 @@
   "namespace": "bc2b0372eaa448469cb9a769f27acea1",
   "status": "ACTIVE",
   "creationDate": "2020-04-16T20:33:06.704Z",
-  "lastModifiedDate": "2020-09-23T13:57:33.395Z",
+  "lastModifiedDate": "2020-09-23T14:07:30.881Z",
   "customAttributes": {
     "UseAccessControl": {
       "type": "STRING",
@@ -74,6 +74,10 @@
       "type": "STRING",
       "value": "SOFTWARE\\WOW6432Node\\EA Games\\STAR WARS Squadrons"
     },
+    "ThirdPartyManagedApp": {
+      "type": "STRING",
+      "value": "Origin"
+    },
     "AdditionalCommandline": {
       "type": "STRING",
       "value": "&theme=sws&platform=epic&Hotfix=go"
@@ -107,7 +111,7 @@
   "developer": "Electronic Arts",
   "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
   "eulaIds": [
-    "egstore"
+    "[egstore]"
   ],
   "endOfSupport": false,
   "ageGatings": {},
