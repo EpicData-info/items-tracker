@@ -4,31 +4,22 @@
   "description": "CastleStorm 2",
   "keyImages": [
     {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/item/CS_Tall-860x1148-213900280aebee003c51430ec685c436.jpg",
+      "md5": "213900280aebee003c51430ec685c436",
+      "width": 860,
+      "height": 1148,
+      "size": 397706,
+      "uploadedDate": "2020-09-23T13:59:43.481Z"
+    },
+    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/item/EGS_ZenStudios_CastleStorm2_Carousel_2560x1440-2560x1440-833c50d1ef9112b04192df46afe41802.jpg",
-      "md5": "833c50d1ef9112b04192df46afe41802",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/item/CS_Wide-2560x1440-d4f530905cc10785c1a6d2b459fe77c0.jpg",
+      "md5": "d4f530905cc10785c1a6d2b459fe77c0",
       "width": 2560,
       "height": 1440,
-      "size": 196869,
-      "uploadedDate": "2019-06-03T18:47:51.156Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/item/EGS_ZenStudios_CastleStorm2_IC1_GameLogo_White-6521x2488-a91b21a9823e9339423c1c6557243513.png",
-      "md5": "a91b21a9823e9339423c1c6557243513",
-      "width": 6521,
-      "height": 2488,
-      "size": 121958,
-      "uploadedDate": "2019-06-03T18:48:13.936Z"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/item/EGS_ZenStudios_CastleStorm2_S3_PortraitPromo-1280x1440-bed5781dffbc9a57df5d92810ed0c1c9-1280x1440-bed5781dffbc9a57df5d92810ed0c1c9.jpg",
-      "md5": "bed5781dffbc9a57df5d92810ed0c1c9",
-      "width": 1280,
-      "height": 1440,
-      "size": 109595,
-      "uploadedDate": "2019-11-20T16:20:12.090Z"
+      "size": 419520,
+      "uploadedDate": "2020-09-23T14:00:00.792Z"
     }
   ],
   "categories": [
@@ -45,7 +36,7 @@
   "namespace": "ed355406eacb4633a648f682ddb492b8",
   "status": "ACTIVE",
   "creationDate": "2019-06-03T18:28:26.803Z",
-  "lastModifiedDate": "2020-09-08T22:03:52.359Z",
+  "lastModifiedDate": "2020-09-23T14:59:41.383Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
