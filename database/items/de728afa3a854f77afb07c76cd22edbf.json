@@ -1,0 +1,50 @@
+{
+  "id": "de728afa3a854f77afb07c76cd22edbf",
+  "title": "KoratStaging",
+  "description": "KoratStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6504cc61472e498796e0b4963a201438",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-13T17:06:58.481Z",
+  "lastModifiedDate": "2020-06-13T20:17:46.764Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "KoratStaging"
+    }
+  },
+  "entitlementName": "de728afa3a854f77afb07c76cd22edbf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d25761b045ef441a9046393d991b5e10",
+      "appId": "KoratStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Red Barrels Inc",
+  "developerId": "o-43vl99bsbv9r5mtf76dv98b7um7kn4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}

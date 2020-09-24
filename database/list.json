@@ -42582,6 +42582,18 @@
     1593523511
   ],
   [
+    "d2bedc1d0adf4a5193e122580cb6f725",
+    "6504cc61472e498796e0b4963a201438",
+    "DevKoratAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Red Barrels Inc",
+    1592068018,
+    1592079466
+  ],
+  [
     "d2ca9714bd8d44ea82541c5208edf85b",
     "158a0eaa18574bb39347c04286d118c7",
     "MorganiteGeneralAudience",
@@ -45151,6 +45163,19 @@
     "Saber Interactive",
     1575640778,
     1576590630
+  ],
+  [
+    "de728afa3a854f77afb07c76cd22edbf",
+    "6504cc61472e498796e0b4963a201438",
+    "KoratStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Red Barrels Inc",
+    1592068018,
+    1592079466
   ],
   [
     "de829d3c422347c594903e6d50dc0dd6",

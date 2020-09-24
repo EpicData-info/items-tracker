@@ -1,0 +1,34 @@
+{
+  "id": "d2bedc1d0adf4a5193e122580cb6f725",
+  "title": "DevKoratAudience",
+  "description": "DevKoratAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "6504cc61472e498796e0b4963a201438",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-13T17:06:58.349Z",
+  "lastModifiedDate": "2020-06-13T20:17:46.764Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d2bedc1d0adf4a5193e122580cb6f725",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Red Barrels Inc",
+  "developerId": "o-43vl99bsbv9r5mtf76dv98b7um7kn4",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}
