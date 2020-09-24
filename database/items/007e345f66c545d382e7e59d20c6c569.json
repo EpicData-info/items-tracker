@@ -1,0 +1,70 @@
+{
+  "id": "007e345f66c545d382e7e59d20c6c569",
+  "title": "Danish",
+  "description": "Danish",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ad2a1760f21a4df6aa597fc4b58ac719",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-17T17:33:59.777Z",
+  "lastModifiedDate": "2020-07-17T19:08:52.238Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ad2a1760f21a4df6aa597fc4b58ac719"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Danish"
+    }
+  },
+  "entitlementName": "007e345f66c545d382e7e59d20c6c569",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2f9b50ff57c743f9b862a9e649359588",
+      "appId": "Danish",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Terrible Posture Games",
+  "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

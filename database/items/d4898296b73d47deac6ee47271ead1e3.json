@@ -1,0 +1,50 @@
+{
+  "id": "d4898296b73d47deac6ee47271ead1e3",
+  "title": "DanishStaging",
+  "description": "DanishStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ad2a1760f21a4df6aa597fc4b58ac719",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-17T17:33:59.823Z",
+  "lastModifiedDate": "2020-07-17T19:08:52.238Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DanishStaging"
+    }
+  },
+  "entitlementName": "d4898296b73d47deac6ee47271ead1e3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "624722be1af64f27919cd592697f98b3",
+      "appId": "DanishStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Terrible Posture Games",
+  "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "ab17572d551545208ca6fcb3e52b98bb",
+  "title": "DanishGeneralAudience",
+  "description": "DanishGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ad2a1760f21a4df6aa597fc4b58ac719",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-17T17:33:59.670Z",
+  "lastModifiedDate": "2020-07-17T19:08:15.369Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ab17572d551545208ca6fcb3e52b98bb",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Terrible Posture Games",
+  "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
