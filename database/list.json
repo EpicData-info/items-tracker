@@ -2476,6 +2476,19 @@
     1573581527
   ],
   [
+    "0bdedfa816174f53a5533d46fe2418b2",
+    "94a50905f377470c84c8e4b7c38f9cdd",
+    "MangoStagingD2",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Square Enix Japan",
+    1599575481,
+    1600889540
+  ],
+  [
     "0bedf73dc07045cebc9cdc089810df29",
     "coriander",
     "LOM_DLC_Audience_redeemable",
@@ -6436,6 +6449,18 @@
     "Zen Studios",
     1548705813,
     1585666920
+  ],
+  [
+    "2008dbb1d6b54bb7b83d91fc30b80835",
+    "94a50905f377470c84c8e4b7c38f9cdd",
+    "MangoPre-PurchaseAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Square Enix Japan",
+    1600775586,
+    1600889797
   ],
   [
     "2026e86c7ed44b0fbae1de4c43b97145",
@@ -16972,6 +16997,19 @@
     1574183023
   ],
   [
+    "5374ad3bed594c379661659fe36a00ab",
+    "94a50905f377470c84c8e4b7c38f9cdd",
+    "MangoStagingD",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Square Enix Japan",
+    1599575476,
+    1600889540
+  ],
+  [
     "5376782374134cec8dcf1ca09859c915",
     "helloneighbor",
     "HNModkitDevAudience",
@@ -18226,6 +18264,19 @@
     "Epic Games",
     1537374773,
     1538673517
+  ],
+  [
+    "59e7ddc5cca240ce848db2f964196a85",
+    "94a50905f377470c84c8e4b7c38f9cdd",
+    "MangoStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Square Enix Japan",
+    1597259419,
+    1600889540
   ],
   [
     "5a0970483e694cada2ba74bff3514b4c",
@@ -23195,6 +23246,19 @@
     "Focus Home",
     1570133130,
     1595244621
+  ],
+  [
+    "720574bd36a84a29b2034c37e6b8b424",
+    "94a50905f377470c84c8e4b7c38f9cdd",
+    "DRAGON QUEST® XI S: Echoes of an Elusive Age™ Pre-Purchase",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Square Enix Japan",
+    1600777187,
+    1600936883
   ],
   [
     "7219fd0219fa492da426a79c8078f1e4",
@@ -29095,6 +29159,18 @@
     1557502158
   ],
   [
+    "90d54c0a8af14aa2845848d43d8a2fb0",
+    "94a50905f377470c84c8e4b7c38f9cdd",
+    "DevMangoAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Square Enix Japan",
+    1597259419,
+    1600889797
+  ],
+  [
     "90dea14cff6449e090e0ce2e2d9dcc1e",
     "fa0c74ef7780498fb222dcd099bf82a2",
     "OrioleStaging",
@@ -31202,6 +31278,19 @@
     1585855431
   ],
   [
+    "9b4493182c754128b0b0eb7e0af9f8b4",
+    "94a50905f377470c84c8e4b7c38f9cdd",
+    "MangoStagingD3",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Square Enix Japan",
+    1599575470,
+    1600889540
+  ],
+  [
     "9b4ee5f785444db1a5a4f34d71ee3f75",
     "fn",
     "[Promo] Samsung 5000 V-Bucks",
@@ -31969,6 +32058,19 @@
     "Deimos Games",
     1549577205,
     1557161833
+  ],
+  [
+    "9f10695533754035a328c1554a3a9d68",
+    "94a50905f377470c84c8e4b7c38f9cdd",
+    "MangoStaging3",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Square Enix Japan",
+    1599575484,
+    1600889540
   ],
   [
     "9f132621250b4718a3adbb81ea8b478a",
@@ -40798,6 +40900,18 @@
     "Hi-Rez Studios",
     1585278901,
     1588950919
+  ],
+  [
+    "ca046be203794c8681dd3c1ee0b591c1",
+    "94a50905f377470c84c8e4b7c38f9cdd",
+    "MangoGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Square Enix Japan",
+    1597259419,
+    1600889797
   ],
   [
     "ca15ed6e32a74b63aa3fa7d7f41151bd",
@@ -49780,6 +49894,19 @@
     "Focus Home",
     1570133130,
     1594829875
+  ],
+  [
+    "f7217404c29d46c382471de0b5725a1e",
+    "94a50905f377470c84c8e4b7c38f9cdd",
+    "MangoStaging2",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Square Enix Japan",
+    1599575479,
+    1600889540
   ],
   [
     "f722d5e3f1e84ff1b2fc2c8f032fd35e",

@@ -1,0 +1,52 @@
+{
+  "id": "59e7ddc5cca240ce848db2f964196a85",
+  "title": "MangoStaging",
+  "description": "MangoStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "94a50905f377470c84c8e4b7c38f9cdd",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-12T19:10:19.693Z",
+  "lastModifiedDate": "2020-09-23T19:32:20.313Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MangoStaging"
+    }
+  },
+  "entitlementName": "59e7ddc5cca240ce848db2f964196a85",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5e0f9b1041564824b71cf89b2d14460c",
+      "appId": "3d7d8e33e1294e2aafe094e1e6cb56eb",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-12T19:15:44.485Z"
+    }
+  ],
+  "developer": "Square Enix Japan",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

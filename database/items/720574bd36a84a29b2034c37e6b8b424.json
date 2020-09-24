@@ -1,0 +1,96 @@
+{
+  "id": "720574bd36a84a29b2034c37e6b8b424",
+  "title": "DRAGON QUEST® XI S: Echoes of an Elusive Age™ Pre-Purchase",
+  "description": "DRAGON QUEST® XI S: Echoes of an Elusive Age™ Pre-Purchase",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/94a50905f377470c84c8e4b7c38f9cdd/item/EGS_DRAGONQUESTXISEchoesofanElusiveAge_SquareEnix_S1-2560x1440-8c53482ccea57e56b7140fd0865cf74c.jpg",
+      "md5": "8c53482ccea57e56b7140fd0865cf74c",
+      "width": 2560,
+      "height": 1440,
+      "size": 877031,
+      "uploadedDate": "2020-09-08T23:22:17.555Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/94a50905f377470c84c8e4b7c38f9cdd/item/EGS_DRAGONQUESTXISEchoesofanElusiveAge_SquareEnix_S2-1200x1600-85fb72821e496f64e3945969c6fd4290.jpg",
+      "md5": "85fb72821e496f64e3945969c6fd4290",
+      "width": 1200,
+      "height": 1600,
+      "size": 820292,
+      "uploadedDate": "2020-09-08T23:22:27.669Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "94a50905f377470c84c8e4b7c38f9cdd",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-22T12:19:47.479Z",
+  "lastModifiedDate": "2020-09-24T08:41:23.182Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "94a50905f377470c84c8e4b7c38f9cdd"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "availableDate": {
+      "type": "STRING",
+      "value": "1607122800"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DRAGONQUESTXIS"
+    }
+  },
+  "entitlementName": "720574bd36a84a29b2034c37e6b8b424",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c04ced8087df4b7f86d97276e45fc9f8",
+      "appId": "DragonQuest Dummy",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-12T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix Japan",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
