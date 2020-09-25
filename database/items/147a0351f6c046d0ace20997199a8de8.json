@@ -1,0 +1,61 @@
+{
+  "id": "147a0351f6c046d0ace20997199a8de8",
+  "title": "SDK test mod",
+  "description": "Unnamed mod description",
+  "longDescription": "[{\"id\":\"1601055538820.4565\",\"type\":\"text\",\"value\":{\"title\":\"test\",\"description\":\"test\"}}]",
+  "keyImages": [
+    {
+      "type": "carousel",
+      "url": "https://cdn1.epicgames.com/mods/b57455ede0604d83892c3412ec3d610e/147a0351f6c046d0ace20997199a8de8/1601055518987_Fortnite_blog_save-the-worlds-newest-update-4-14-2020_fortnite-carbide-hero-1920x1080-44bcc3c863ecc419406109bb493591b762b93b19.jpg",
+      "md5": "aa5d816d638c968a95faef4bb8021100",
+      "width": 1920,
+      "height": 1080,
+      "size": 105383,
+      "uploadedDate": "2020-04-16T14:39:31.000Z"
+    },
+    {
+      "type": "storefront",
+      "url": "https://cdn1.epicgames.com/mods/b57455ede0604d83892c3412ec3d610e/147a0351f6c046d0ace20997199a8de8/1601055525186_1200x1600.jpg",
+      "md5": "bbf6dbc503c2895a9296fceb8075b639",
+      "width": 1200,
+      "height": 1600,
+      "size": 48207,
+      "uploadedDate": "2020-08-04T11:25:44.327Z"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/mods/b57455ede0604d83892c3412ec3d610e/147a0351f6c046d0ace20997199a8de8/1601055530927_2560x1440.jpg",
+      "md5": "8ecb7a8e4037bc32d73aa7eddcbf08fb",
+      "width": 2560,
+      "height": 1440,
+      "size": 14622,
+      "uploadedDate": "2019-10-24T09:27:41.570Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "mods"
+    }
+  ],
+  "namespace": "b57455ede0604d83892c3412ec3d610e",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-25T17:39:27.265Z",
+  "lastModifiedDate": "2020-09-25T17:39:27.265Z",
+  "entitlementName": "147a0351f6c046d0ace20997199a8de8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4191fa03217f4453af87b570eb18309d",
+      "appId": "ae5f6ec938d24377b3bb0cab6d5e8b58",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "EPAM",
+  "developerId": "o-4u27qbdqvv6696cs5zlryn4hta8vrk",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

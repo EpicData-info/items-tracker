@@ -1,0 +1,29 @@
+{
+  "id": "060a79ad12b145229ce6fc36a9ad45fa",
+  "title": "ModSDKAudience",
+  "description": "ModSDKAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "mod"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b57455ede0604d83892c3412ec3d610e",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-24T15:27:43.882Z",
+  "lastModifiedDate": "2020-09-24T15:37:40.878Z",
+  "entitlementName": "060a79ad12b145229ce6fc36a9ad45fa",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "EPAM",
+  "developerId": "o-4u27qbdqvv6696cs5zlryn4hta8vrk",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

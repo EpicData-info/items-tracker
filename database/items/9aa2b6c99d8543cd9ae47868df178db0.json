@@ -1,0 +1,43 @@
+{
+  "id": "9aa2b6c99d8543cd9ae47868df178db0",
+  "title": "Fortmods",
+  "description": "Fortmods",
+  "longDescription": "Fortmods",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "mod"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b57455ede0604d83892c3412ec3d610e",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-15T12:48:47.788Z",
+  "lastModifiedDate": "2020-04-15T12:50:08.360Z",
+  "entitlementName": "9aa2b6c99d8543cd9ae47868df178db0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e5b4ee2674564758a711b2325d8c4b53",
+      "appId": "Fortmods",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2020-04-15T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "EPAM",
+  "developerId": "o-4u27qbdqvv6696cs5zlryn4hta8vrk",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

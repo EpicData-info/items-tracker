@@ -1,0 +1,50 @@
+{
+  "id": "33828c826665421ca6c4f77740fb2cc7",
+  "title": "ModSDK",
+  "description": "ModSDK",
+  "longDescription": "Fortmods",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b57455ede0604d83892c3412ec3d610e",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-24T15:27:40.939Z",
+  "lastModifiedDate": "2020-09-24T18:54:35.435Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "ModSDK"
+    }
+  },
+  "entitlementName": "33828c826665421ca6c4f77740fb2cc7",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e5b4ee2674564758a711b2325d8c4b53",
+      "appId": "bea4a56e46c74881ba1564d18bc0906d",
+      "compatibleApps": [],
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2020-04-15T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "EPAM",
+  "developerId": "o-4u27qbdqvv6696cs5zlryn4hta8vrk",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}

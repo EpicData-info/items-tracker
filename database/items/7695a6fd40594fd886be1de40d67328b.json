@@ -1,0 +1,61 @@
+{
+  "id": "7695a6fd40594fd886be1de40d67328b",
+  "title": "Kyrylo Test",
+  "description": "Unnamed mod description",
+  "longDescription": "[{\"id\":\"1601053314356.8533\",\"type\":\"text\",\"value\":{\"title\":\"Test\",\"description\":\"test\"}}]",
+  "keyImages": [
+    {
+      "type": "carousel",
+      "url": "https://cdn1.epicgames.com/mods/b57455ede0604d83892c3412ec3d610e/7695a6fd40594fd886be1de40d67328b/1601053288890_Fortnite_blog_save-the-worlds-newest-update-4-14-2020_fortnite-the-cloaked-star-1920x1080-8ed336c1952e2cc921128e6cde1e87f8186cee0a.jpg",
+      "md5": "41069537ac9e33f6ab88af20489e8b87",
+      "width": 1920,
+      "height": 1080,
+      "size": 100804,
+      "uploadedDate": "2020-04-16T14:39:41.000Z"
+    },
+    {
+      "type": "storefront",
+      "url": "https://cdn1.epicgames.com/mods/b57455ede0604d83892c3412ec3d610e/7695a6fd40594fd886be1de40d67328b/1601053297497_1200x1600.jpg",
+      "md5": "3baaa2b9b5a6b7cdc41e723896bda626",
+      "width": 1200,
+      "height": 1600,
+      "size": 48207,
+      "uploadedDate": "2020-08-04T11:25:44.327Z"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/mods/b57455ede0604d83892c3412ec3d610e/7695a6fd40594fd886be1de40d67328b/1601053304113_2560x1440.jpg",
+      "md5": "ad4f478b8a0534afab9e3efa88d134ce",
+      "width": 2560,
+      "height": 1440,
+      "size": 14622,
+      "uploadedDate": "2019-10-24T09:27:41.570Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "mods"
+    }
+  ],
+  "namespace": "b57455ede0604d83892c3412ec3d610e",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-25T17:30:23.741Z",
+  "lastModifiedDate": "2020-09-25T17:30:23.741Z",
+  "entitlementName": "7695a6fd40594fd886be1de40d67328b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fca2f4e13c7d444fb1e1652ba201859d",
+      "appId": "8f36ea1e6b0c46f8a2e40def991c6437",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "EPAM",
+  "developerId": "o-4u27qbdqvv6696cs5zlryn4hta8vrk",
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": "e8c6d17850a5416fbdf2a2f259441c15",
+  "title": "FortmodsAudience",
+  "description": "FortmodsAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "mod"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b57455ede0604d83892c3412ec3d610e",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-15T12:49:50.116Z",
+  "lastModifiedDate": "2020-04-15T12:49:50.116Z",
+  "entitlementName": "e8c6d17850a5416fbdf2a2f259441c15",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "EPAM",
+  "developerId": "o-4u27qbdqvv6696cs5zlryn4hta8vrk",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}
