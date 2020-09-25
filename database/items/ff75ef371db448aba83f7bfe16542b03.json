@@ -1,0 +1,34 @@
+{
+  "id": "ff75ef371db448aba83f7bfe16542b03",
+  "title": "BobcatGeneralAudience",
+  "description": "BobcatGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "bc2b0372eaa448469cb9a769f27acea1",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-16T20:33:06.566Z",
+  "lastModifiedDate": "2020-09-25T21:03:12.735Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ff75ef371db448aba83f7bfe16542b03",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Electronic Arts",
+  "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
