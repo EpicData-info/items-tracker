@@ -4,15 +4,6 @@
   "description": "Limbo",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/92053006068e4aa9b1ad413f72090f5e/item/EGS_PLAYDEAD_LIMBO_LOGO_IC1_WHITE-2000x657-85b24057bcfbd6e070644f35e6db12ec.png",
-      "md5": "85b24057bcfbd6e070644f35e6db12ec",
-      "width": 2000,
-      "height": 657,
-      "size": 39129,
-      "uploadedDate": "2019-07-09T17:44:39.657Z"
-    },
-    {
       "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/92053006068e4aa9b1ad413f72090f5e/item/LIMBO_LIBRARY_PROMO-2560x1440-2560x1440-6c93379907b03def09fcd60c6677a5d9.jpg",
       "md5": "6c93379907b03def09fcd60c6677a5d9",
@@ -23,12 +14,12 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/92053006068e4aa9b1ad413f72090f5e/item/EGS_PLAYDEAD_LIMBO_STORE PORTRAIT_S3-1280x1440-58450376b5462d7c9779aafa3886df19.jpg",
-      "md5": "58450376b5462d7c9779aafa3886df19",
-      "width": 1280,
-      "height": 1440,
-      "size": 542650,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/92053006068e4aa9b1ad413f72090f5e/item/LIMBO_340X440-340x440-5d0f4083d70fdfc1656a15428e98ec43.jpg",
+      "md5": "5d0f4083d70fdfc1656a15428e98ec43",
+      "width": 340,
+      "height": 440,
+      "size": 55342,
+      "uploadedDate": "2020-09-25T11:00:02.903Z"
     }
   ],
   "categories": [
@@ -45,7 +36,7 @@
   "namespace": "92053006068e4aa9b1ad413f72090f5e",
   "status": "ACTIVE",
   "creationDate": "2019-06-14T15:50:45.335Z",
-  "lastModifiedDate": "2019-11-19T17:03:07.109Z",
+  "lastModifiedDate": "2020-09-25T11:00:06.748Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -103,6 +94,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
   "unsearchable": false
 }
