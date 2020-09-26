@@ -1,0 +1,36 @@
+{
+  "id": "d24e4ef776b44af696ad27b3f6e06b75",
+  "title": "No Straight Roads Deluxe Edition",
+  "description": "No Straight Roads Deluxe Edition",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c0783fd957634390af33808d1a1f56dd",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-03T14:07:41.913Z",
+  "lastModifiedDate": "2020-08-03T14:10:39.569Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d24e4ef776b44af696ad27b3f6e06b75",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Sold-Out Software",
+  "developerId": "o-gcm88kddcs2t3gtypyq9tvlx64bzyw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

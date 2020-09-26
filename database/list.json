@@ -6337,7 +6337,7 @@
     ],
     "Sold Out",
     1566940202,
-    1596666113
+    1598356528
   ],
   [
     "1f9480f11dc54c7f8ebe9bb8bccb93f2",
@@ -18612,6 +18612,17 @@
     "Epic Games",
     1491407162,
     1573596728
+  ],
+  [
+    "5b48ea4b817b429fb1e595da7c6faf71",
+    "c0783fd957634390af33808d1a1f56dd",
+    "No Straight Roads- Press Audience",
+    [
+      "audience"
+    ],
+    "Sold Out",
+    1596659443,
+    1598358641
   ],
   [
     "5b5fde0276f2463f8e23353e85370336",
@@ -39408,6 +39419,19 @@
     1577550322
   ],
   [
+    "c279e6f87d9b4013975a4d6e0963ad65",
+    "c0783fd957634390af33808d1a1f56dd",
+    "No Straight Roads Mother and Child Demo",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Sold Out",
+    1585251679,
+    1593435389
+  ],
+  [
     "c27bdf89a8804294b58911370f138834",
     "coriander",
     "CorianderDevAudience",
@@ -42755,6 +42779,18 @@
     "Focus Home",
     1574285466,
     1596611452
+  ],
+  [
+    "d24e4ef776b44af696ad27b3f6e06b75",
+    "c0783fd957634390af33808d1a1f56dd",
+    "No Straight Roads Deluxe Edition",
+    [
+      "audience",
+      "public"
+    ],
+    "Sold-Out Software",
+    1596463661,
+    1596463839
   ],
   [
     "d25c2f27a32d4133941d73b9c38ab137",

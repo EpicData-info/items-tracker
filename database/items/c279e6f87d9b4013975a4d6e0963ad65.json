@@ -1,0 +1,82 @@
+{
+  "id": "c279e6f87d9b4013975a4d6e0963ad65",
+  "title": "No Straight Roads Mother and Child Demo",
+  "description": "No Straight Roads Mother and Child Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/item/EGS_NoStraightRoadsMotherChildDEMO_Metronomik_Demo_S1-2560x1440-7bd90e3f82dd287998dbe04d6d2cb29a.jpg",
+      "md5": "7bd90e3f82dd287998dbe04d6d2cb29a",
+      "width": 2560,
+      "height": 1440,
+      "size": 320099,
+      "uploadedDate": "2020-06-27T00:50:10.912Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/item/EGS_NoStraightRoadsMotherChildDEMO_Metronomik_Demo_S2-1200x1600-d3684ae3e76999a8359dc08cbdc69108.jpg",
+      "md5": "d3684ae3e76999a8359dc08cbdc69108",
+      "width": 1200,
+      "height": 1600,
+      "size": 229416,
+      "uploadedDate": "2020-06-27T00:50:29.589Z"
+    },
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/item/EGS_NoStraightRoadsMotherChildDEMO_Metronomik_Demo_S1-2560x1440-7bd90e3f82dd287998dbe04d6d2cb29a.jpg",
+      "md5": "7bd90e3f82dd287998dbe04d6d2cb29a",
+      "width": 2560,
+      "height": 1440,
+      "size": 320099,
+      "uploadedDate": "2020-06-27T00:50:39.080Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c0783fd957634390af33808d1a1f56dd",
+  "status": "ACTIVE",
+  "creationDate": "2020-03-26T19:41:19.216Z",
+  "lastModifiedDate": "2020-06-29T12:56:29.689Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NSRMNCDemo"
+    }
+  },
+  "entitlementName": "c279e6f87d9b4013975a4d6e0963ad65",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5544549aae4c4d44bf22333982ee9766",
+      "appId": "8a73560c045545cbab2735018c13eef9",
+      "platform": [
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2019-08-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "Sold Out",
+  "developerId": "o-gcm88kddcs2t3gtypyq9tvlx64bzyw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": true
+}
