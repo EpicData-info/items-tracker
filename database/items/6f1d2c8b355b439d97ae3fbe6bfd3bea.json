@@ -2,7 +2,6 @@
   "id": "6f1d2c8b355b439d97ae3fbe6bfd3bea",
   "title": "MoscowStaging",
   "description": "MoscowStaging",
-  "keyImages": [],
   "categories": [
     {
       "path": "public"
@@ -17,15 +16,11 @@
   "namespace": "6af58339c2424644988e0fb83dfd9bd5",
   "status": "ACTIVE",
   "creationDate": "2020-06-16T17:49:58.994Z",
-  "lastModifiedDate": "2020-09-16T21:23:25.762Z",
+  "lastModifiedDate": "2020-09-26T01:34:16.477Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
-    },
-    "CloudSaveFolder": {
-      "type": "STRING",
-      "value": "{AppData}/Fuser/Epic/{EpicID}/SaveGames/Fuser/"
     },
     "FolderName": {
       "type": "STRING",
@@ -42,7 +37,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-06-19T00:00:00.000Z"
+      "dateAdded": "2020-06-19T20:19:14.685Z"
     }
   ],
   "developer": "NCSoft",
