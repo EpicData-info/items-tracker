@@ -1,0 +1,49 @@
+{
+  "id": "66c4e3ebb497403a8a0bdfa57321287b",
+  "title": "DragonfishStaging",
+  "description": "DragonfishStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b39977dadbb24d79b62a9f716e5df28d",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-29T02:28:53.476Z",
+  "lastModifiedDate": "2020-01-29T02:37:05.216Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DragonfishStaging"
+    }
+  },
+  "entitlementName": "66c4e3ebb497403a8a0bdfa57321287b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ae16cdbc7d77451a9566e80076a24adb",
+      "appId": "DragonfishStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "2K Games CoreTech",
+  "developerId": "o-4182fad898be4907b36f756ddc8218",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

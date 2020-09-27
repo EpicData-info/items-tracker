@@ -1,0 +1,49 @@
+{
+  "id": "48cc8f94220b4460a2e9caa4d31d6c88",
+  "title": "DLC Kings",
+  "description": "DLC Kings",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    }
+  ],
+  "namespace": "213259527d2f41baa90cbe0ae5555271",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T15:34:38.111Z",
+  "lastModifiedDate": "2020-05-08T16:24:58.389Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "kings"
+    }
+  },
+  "entitlementName": "48cc8f94220b4460a2e9caa4d31d6c88",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f64e616ce4e74592a9cbcd497a78375a",
+      "appId": "880dc7bb671a4534a85a46fc8c6a66db",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Kalypso Media",
+  "developerId": "o-ntj9m7f2v76uksvjujurjfxtjkfawq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

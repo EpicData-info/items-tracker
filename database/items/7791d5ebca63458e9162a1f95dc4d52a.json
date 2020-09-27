@@ -1,0 +1,51 @@
+{
+  "id": "7791d5ebca63458e9162a1f95dc4d52a",
+  "title": "MercuryStaging",
+  "description": "MercuryStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fb65b4e98ed24a208cb0f51ad1a87be2",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-04T23:40:34.123Z",
+  "lastModifiedDate": "2020-05-04T23:47:47.445Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MercuryStaging"
+    }
+  },
+  "entitlementName": "7791d5ebca63458e9162a1f95dc4d52a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c7fa7eca51004977869b2f163019a14a",
+      "appId": "058900b0f8824f0d8d67d22ea984903c",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-04T23:47:45.169Z"
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

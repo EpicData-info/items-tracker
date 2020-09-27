@@ -1,0 +1,58 @@
+{
+  "id": "7e3096aef2e549fe8d04ac8bebc097ab",
+  "title": "Angelfish Season Pass",
+  "description": "Angelfish Season Pass",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "hidden"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "8780226cc80d4dee860a382ab8a529e6",
+  "status": "ACTIVE",
+  "creationDate": "2020-02-20T19:41:58.701Z",
+  "lastModifiedDate": "2020-03-03T23:25:02.314Z",
+  "customAttributes": {
+    "parentPartnerLinkId": {
+      "type": "STRING",
+      "value": "de8cea6038c849f1a7327becdd4392d3"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "b33bf7f5b82e422687f55bccb8890d03"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    }
+  },
+  "entitlementName": "7e3096aef2e549fe8d04ac8bebc097ab",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a3c075705e2f47d4829daab7d132ab9c",
+      "appId": "AngelfishSeasonPass",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-02-20T00:00:00.000Z"
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

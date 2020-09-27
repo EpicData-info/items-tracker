@@ -1,0 +1,49 @@
+{
+  "id": "4d8a8601510b4c25b2c32194f670a7e4",
+  "title": "DLC Gods",
+  "description": "DLC Gods",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    }
+  ],
+  "namespace": "213259527d2f41baa90cbe0ae5555271",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T15:34:40.481Z",
+  "lastModifiedDate": "2020-05-08T16:24:58.391Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "gods"
+    }
+  },
+  "entitlementName": "4d8a8601510b4c25b2c32194f670a7e4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f64e616ce4e74592a9cbcd497a78375a",
+      "appId": "d220ca009f7d4418a036ad85017ef405",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Kalypso Media",
+  "developerId": "o-ntj9m7f2v76uksvjujurjfxtjkfawq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

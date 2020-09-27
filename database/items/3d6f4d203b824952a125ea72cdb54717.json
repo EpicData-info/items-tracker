@@ -1,0 +1,33 @@
+{
+  "id": "3d6f4d203b824952a125ea72cdb54717",
+  "title": "DragonfishDevAudience",
+  "description": "DragonfishDevAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "b39977dadbb24d79b62a9f716e5df28d",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-29T02:28:53.388Z",
+  "lastModifiedDate": "2020-01-29T02:37:05.216Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3d6f4d203b824952a125ea72cdb54717",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "2K Games CoreTech",
+  "developerId": "o-4182fad898be4907b36f756ddc8218",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

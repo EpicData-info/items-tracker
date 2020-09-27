@@ -1,0 +1,35 @@
+{
+  "id": "f0450baba9a140b4afda422be6370ce6",
+  "title": "KingsAudience",
+  "description": "KingsAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "213259527d2f41baa90cbe0ae5555271",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T15:43:47.689Z",
+  "lastModifiedDate": "2020-05-08T16:24:58.412Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "f0450baba9a140b4afda422be6370ce6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Kalypso Media",
+  "developerId": "o-ntj9m7f2v76uksvjujurjfxtjkfawq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,70 @@
+{
+  "id": "48892828a0fe40f49b90df91c0cd3143",
+  "title": "Dragonfish",
+  "description": "Dragonfish",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b39977dadbb24d79b62a9f716e5df28d",
+  "status": "ACTIVE",
+  "creationDate": "2020-01-29T02:28:53.434Z",
+  "lastModifiedDate": "2020-01-29T02:37:05.216Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "b39977dadbb24d79b62a9f716e5df28d"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Dragonfish"
+    }
+  },
+  "entitlementName": "48892828a0fe40f49b90df91c0cd3143",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "54c57ebb424d492bb1be47066e97d9e2",
+      "appId": "Dragonfish",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "2K Games CoreTech",
+  "developerId": "o-4182fad898be4907b36f756ddc8218",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

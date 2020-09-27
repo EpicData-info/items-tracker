@@ -1,0 +1,51 @@
+{
+  "id": "6b882406e68e4baeac9a929f0ad1973a",
+  "title": "AmaryllisStaging",
+  "description": "AmaryllisStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-15T17:08:42.660Z",
+  "lastModifiedDate": "2020-08-17T20:03:35.221Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AmaryllisStaging"
+    }
+  },
+  "entitlementName": "6b882406e68e4baeac9a929f0ad1973a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2e19b5d4a29145268433a2097a98ae9a",
+      "appId": "45354f00e9644ec1a10f72c4bf781b1f",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-21T00:00:00.000Z"
+    }
+  ],
+  "developer": "Hidden Path",
+  "developerId": "o-lr4ubnee8h8ya6fjmgfqy63uftabu6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

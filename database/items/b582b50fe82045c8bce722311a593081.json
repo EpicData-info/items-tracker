@@ -1,0 +1,33 @@
+{
+  "id": "b582b50fe82045c8bce722311a593081",
+  "title": "RagdollGeneralAudience",
+  "description": "RagdollGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "213259527d2f41baa90cbe0ae5555271",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-15T18:51:09.001Z",
+  "lastModifiedDate": "2020-05-08T16:24:58.404Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b582b50fe82045c8bce722311a593081",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Kalypso Media",
+  "developerId": "o-ntj9m7f2v76uksvjujurjfxtjkfawq",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

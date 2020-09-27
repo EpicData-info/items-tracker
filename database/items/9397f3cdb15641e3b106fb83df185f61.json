@@ -1,0 +1,49 @@
+{
+  "id": "9397f3cdb15641e3b106fb83df185f61",
+  "title": "Once Upon A Time",
+  "description": "Once Upon A Time",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    }
+  ],
+  "namespace": "213259527d2f41baa90cbe0ae5555271",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T15:34:19.037Z",
+  "lastModifiedDate": "2020-06-30T15:55:49.266Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OnceUponATime"
+    }
+  },
+  "entitlementName": "9397f3cdb15641e3b106fb83df185f61",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f64e616ce4e74592a9cbcd497a78375a",
+      "appId": "f125759bf285439d92ca5a4420236d8c",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "d57b197676f14207977145c45718f293",
+  "title": "MercuryGeneralAudience",
+  "description": "MercuryGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "fb65b4e98ed24a208cb0f51ad1a87be2",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-04T23:40:33.851Z",
+  "lastModifiedDate": "2020-05-04T23:45:37.262Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d57b197676f14207977145c45718f293",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "selfRefundable": true,
+  "unsearchable": false
+}

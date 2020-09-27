@@ -1,0 +1,71 @@
+{
+  "id": "a5f02d4bdd2e4e999febfd1c3d39b9f2",
+  "title": "Mercury",
+  "description": "Mercury",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fb65b4e98ed24a208cb0f51ad1a87be2",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-04T23:40:34.069Z",
+  "lastModifiedDate": "2020-05-04T23:47:05.728Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "fb65b4e98ed24a208cb0f51ad1a87be2"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Mercury"
+    }
+  },
+  "entitlementName": "a5f02d4bdd2e4e999febfd1c3d39b9f2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4ee8a676132a4967b295b3b9b7817d0e",
+      "appId": "64711deae634474687dcd08a0a8c29ca",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-04T23:47:02.977Z"
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

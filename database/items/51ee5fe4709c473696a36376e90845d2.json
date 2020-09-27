@@ -1,0 +1,71 @@
+{
+  "id": "51ee5fe4709c473696a36376e90845d2",
+  "title": "Amaryllis",
+  "description": "Amaryllis",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
+  "status": "ACTIVE",
+  "creationDate": "2020-04-15T17:08:42.606Z",
+  "lastModifiedDate": "2020-08-17T20:03:26.351Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "0dabb0f14acf4fef84bd2b2bf3085dfc"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Amaryllis"
+    }
+  },
+  "entitlementName": "51ee5fe4709c473696a36376e90845d2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dd836dc7a0cd4ef997bb04cd617f2879",
+      "appId": "a434dcb20f0d439b93aaa31dac9e3210",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-21T00:00:00.000Z"
+    }
+  ],
+  "developer": "Hidden Path",
+  "developerId": "o-lr4ubnee8h8ya6fjmgfqy63uftabu6",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
