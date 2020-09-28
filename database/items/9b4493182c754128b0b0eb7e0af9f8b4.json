@@ -1,7 +1,7 @@
 {
   "id": "9b4493182c754128b0b0eb7e0af9f8b4",
-  "title": "MangoStagingD3",
-  "description": "MangoStagingD3",
+  "title": "MangoStagingTemp2",
+  "description": "MangoStagingTemp2",
   "keyImages": [],
   "categories": [
     {
@@ -17,7 +17,7 @@
   "namespace": "94a50905f377470c84c8e4b7c38f9cdd",
   "status": "ACTIVE",
   "creationDate": "2020-09-08T14:31:10.361Z",
-  "lastModifiedDate": "2020-09-23T19:32:20.322Z",
+  "lastModifiedDate": "2020-09-28T12:01:46.171Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

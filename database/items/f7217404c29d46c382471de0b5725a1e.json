@@ -1,7 +1,7 @@
 {
   "id": "f7217404c29d46c382471de0b5725a1e",
-  "title": "MangoStaging2",
-  "description": "MangoStaging2",
+  "title": "MangoStagingTest",
+  "description": "MangoStagingTest",
   "keyImages": [],
   "categories": [
     {
@@ -17,7 +17,7 @@
   "namespace": "94a50905f377470c84c8e4b7c38f9cdd",
   "status": "ACTIVE",
   "creationDate": "2020-09-08T14:31:19.175Z",
-  "lastModifiedDate": "2020-09-23T19:32:20.327Z",
+  "lastModifiedDate": "2020-09-28T12:00:48.923Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

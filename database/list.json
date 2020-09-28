@@ -2503,7 +2503,7 @@
   [
     "0bdedfa816174f53a5533d46fe2418b2",
     "94a50905f377470c84c8e4b7c38f9cdd",
-    "MangoStagingD2",
+    "MangoStagingDevelopment",
     [
       "public",
       "games",
@@ -2511,7 +2511,7 @@
     ],
     "Square Enix Japan",
     1599575481,
-    1600889540
+    1601294468
   ],
   [
     "0bedf73dc07045cebc9cdc089810df29",
@@ -17182,7 +17182,7 @@
   [
     "5374ad3bed594c379661659fe36a00ab",
     "94a50905f377470c84c8e4b7c38f9cdd",
-    "MangoStagingD",
+    "MangoStagingShipping",
     [
       "public",
       "games",
@@ -17190,7 +17190,7 @@
     ],
     "Square Enix Japan",
     1599575476,
-    1600889540
+    1601294430
   ],
   [
     "5376782374134cec8dcf1ca09859c915",
@@ -18459,7 +18459,7 @@
     ],
     "Square Enix Japan",
     1597259419,
-    1600889540
+    1601294028
   ],
   [
     "5a0970483e694cada2ba74bff3514b4c",
@@ -31587,7 +31587,7 @@
   [
     "9b4493182c754128b0b0eb7e0af9f8b4",
     "94a50905f377470c84c8e4b7c38f9cdd",
-    "MangoStagingD3",
+    "MangoStagingTemp2",
     [
       "public",
       "games",
@@ -31595,7 +31595,7 @@
     ],
     "Square Enix Japan",
     1599575470,
-    1600889540
+    1601294506
   ],
   [
     "9b4ee5f785444db1a5a4f34d71ee3f75",
@@ -32369,7 +32369,7 @@
   [
     "9f10695533754035a328c1554a3a9d68",
     "94a50905f377470c84c8e4b7c38f9cdd",
-    "MangoStaging3",
+    "MangoStagingTemp1",
     [
       "public",
       "games",
@@ -32377,7 +32377,7 @@
     ],
     "Square Enix Japan",
     1599575484,
-    1600889540
+    1601294486
   ],
   [
     "9f132621250b4718a3adbb81ea8b478a",
@@ -50352,7 +50352,7 @@
   [
     "f7217404c29d46c382471de0b5725a1e",
     "94a50905f377470c84c8e4b7c38f9cdd",
-    "MangoStaging2",
+    "MangoStagingTest",
     [
       "public",
       "games",
@@ -50360,7 +50360,7 @@
     ],
     "Square Enix Japan",
     1599575479,
-    1600889540
+    1601294448
   ],
   [
     "f722d5e3f1e84ff1b2fc2c8f032fd35e",
