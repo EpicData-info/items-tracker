@@ -36,7 +36,7 @@
   "namespace": "c50f4a5c796e4abdbf8025cfbf5cff21",
   "status": "ACTIVE",
   "creationDate": "2020-09-24T09:41:36.346Z",
-  "lastModifiedDate": "2020-09-24T09:43:29.735Z",
+  "lastModifiedDate": "2020-09-28T17:13:27.359Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -46,9 +46,17 @@
       "type": "STRING",
       "value": "c50f4a5c796e4abdbf8025cfbf5cff21"
     },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.Sectordub.Pikuniku/saves/"
+    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Sectordub/Pikuniku/saves/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -76,7 +84,8 @@
       "appId": "48619f5656da446abccb727b78cda644",
       "platform": [
         "Windows",
-        "Mac"
+        "Mac",
+        "Win32"
       ],
       "dateAdded": "2019-09-10T00:00:00.000Z"
     }
