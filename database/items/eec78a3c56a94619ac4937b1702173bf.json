@@ -14,7 +14,7 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2019-02-18T18:43:26.888Z",
-  "lastModifiedDate": "2019-05-06T16:57:15.171Z",
+  "lastModifiedDate": "2020-09-28T14:54:22.704Z",
   "customAttributes": {
     "isUplay": {
       "type": "STRING",
@@ -34,7 +34,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "2e905d7cde5d464f81f1b13d13c99361",
+      "id": "a3160eaa86d846609f92120c6f4fe91e",
       "appId": "ImpalaBetaStaging",
       "compatibleApps": [],
       "platform": [

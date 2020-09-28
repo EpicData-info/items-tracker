@@ -42,7 +42,7 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2019-01-24T19:46:36.182Z",
-  "lastModifiedDate": "2020-02-11T20:50:56.680Z",
+  "lastModifiedDate": "2020-09-28T14:54:22.704Z",
   "customAttributes": {
     "PresenceID": {
       "type": "STRING",
@@ -94,7 +94,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "4bcc66ff081b4627bd2ad192ad0039de",
+      "id": "a9c606e5a13c4751ac12ae44240db911",
       "appId": "Impala",
       "compatibleApps": [],
       "platform": [
@@ -111,6 +111,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
   "unsearchable": false
 }

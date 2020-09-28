@@ -17,7 +17,7 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2019-03-13T17:54:06.153Z",
-  "lastModifiedDate": "2020-02-06T23:11:56.708Z",
+  "lastModifiedDate": "2020-09-28T14:54:22.704Z",
   "customAttributes": {
     "parentPartnerLinkId": {
       "type": "STRING",
@@ -37,7 +37,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "a49776f1ad5d42eea57e109b40626971",
+      "id": "e303b2c169c1461aa2e5041a401dff33",
       "appId": "SeasonPassTest",
       "compatibleApps": [],
       "platform": [

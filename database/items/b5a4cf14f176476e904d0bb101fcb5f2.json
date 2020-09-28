@@ -24,7 +24,7 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2019-01-08T02:34:10.098Z",
-  "lastModifiedDate": "2020-03-04T22:00:56.406Z",
+  "lastModifiedDate": "2020-09-28T14:56:01.982Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -42,6 +42,5 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "MATURE",
-  "selfRefundable": true,
   "unsearchable": false
 }

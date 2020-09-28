@@ -33,7 +33,7 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2019-02-18T18:42:11.499Z",
-  "lastModifiedDate": "2019-06-14T15:17:38.011Z",
+  "lastModifiedDate": "2020-09-28T14:54:22.704Z",
   "customAttributes": {
     "PresenceID": {
       "type": "STRING",
@@ -65,7 +65,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "67304a1b9dab45438e680a7a1694fc21",
+      "id": "c04e06e323544cdf8bd3267b5b77f9bb",
       "appId": "Dummyapp",
       "compatibleApps": [],
       "platform": [

@@ -33,7 +33,7 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2020-04-07T18:05:29.291Z",
-  "lastModifiedDate": "2020-04-20T19:05:34.394Z",
+  "lastModifiedDate": "2020-09-28T14:54:22.704Z",
   "customAttributes": {
     "PresenceID": {
       "type": "STRING",

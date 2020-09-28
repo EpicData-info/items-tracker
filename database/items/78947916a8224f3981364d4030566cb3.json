@@ -14,7 +14,7 @@
   "namespace": "impala",
   "status": "ACTIVE",
   "creationDate": "2019-01-24T19:47:30.494Z",
-  "lastModifiedDate": "2019-05-06T16:57:11.155Z",
+  "lastModifiedDate": "2020-09-28T14:54:22.704Z",
   "customAttributes": {
     "NeverUpdate": {
       "type": "STRING",
@@ -46,7 +46,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "782aa8a982054ad88e62a15dfd05aa33",
+      "id": "d9a444e62bd248f8b37730b7d470ef1d",
       "appId": "ImpalaStaging",
       "compatibleApps": [],
       "platform": [
