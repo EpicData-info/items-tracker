@@ -16,11 +16,23 @@
   "namespace": "d5ac79ba9e7946908d8e22c002468348",
   "status": "ACTIVE",
   "creationDate": "2020-09-15T15:19:01.187Z",
-  "lastModifiedDate": "2020-09-15T15:36:38.803Z",
+  "lastModifiedDate": "2020-09-28T18:42:06.743Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/ Bithell Games/The Solitaire Conspiracy/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Bithell Games/The Solitaire Conspiracy/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "saveData.bat"
     },
     "FolderName": {
       "type": "STRING",
@@ -37,7 +49,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-09-15T15:34:07.428Z"
+      "dateAdded": "2020-09-15T00:00:00.000Z"
     }
   ],
   "developer": "Bithell Games",
