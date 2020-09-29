@@ -16,7 +16,7 @@
   "namespace": "0a4fc789eb0143c29296de79df5387ab",
   "status": "ACTIVE",
   "creationDate": "2020-06-30T15:50:20.512Z",
-  "lastModifiedDate": "2020-09-29T17:56:55.928Z",
+  "lastModifiedDate": "2020-09-29T18:54:50.068Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -28,7 +28,7 @@
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{AppDate}/../LocalLow/Alt Shift/Crying Suns/saves/save0"
+      "value": "{AppData}/../LocalLow/Alt Shift/Crying Suns/saves/save0"
     },
     "CloudExcludeList": {
       "type": "STRING",
