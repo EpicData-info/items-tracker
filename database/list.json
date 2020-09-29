@@ -4475,14 +4475,14 @@
   [
     "157ea2bfc8df4960a22d01e9929b0ec9",
     "conanexiles",
-    "DLC 11",
+    "Conan Exiles: Isle of Siptah",
     [
       "games",
       "applications"
     ],
-    "Funcom",
+    "Funcom Oslo AS",
     1589985831,
-    1593095307
+    1601389622
   ],
   [
     "159657140ef94b129c0d29bfe7b26a38",
@@ -15057,6 +15057,19 @@
     "Quantic Dream",
     1565712201,
     1571235964
+  ],
+  [
+    "4a4f344a71184fd38177b349499eb323",
+    "96d9e862cd3947c28ea4206e89c1ea48",
+    "SofiaStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Plug In Digital SAS",
+    1592241870,
+    1599147629
   ],
   [
     "4a5737045a7047de9cbbb68169af5fbf",
@@ -29044,6 +29057,18 @@
     1568300364
   ],
   [
+    "8ed590708b0d421594b7ebf54eea51c4",
+    "96d9e862cd3947c28ea4206e89c1ea48",
+    "DevSofiaAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Plug In Digital SAS",
+    1592241870,
+    1599147642
+  ],
+  [
     "8eec9f18d79149b58b1874c5c651b77d",
     "2dbd2f64abdc4bbab077424d5c85e01b",
     "SaffronOpenBetaAudience",
@@ -31983,6 +32008,19 @@
     "YAGER",
     1578584285,
     1594212111
+  ],
+  [
+    "9d79245f82bb4f4ea7e9c0cf05cdff6d",
+    "96d9e862cd3947c28ea4206e89c1ea48",
+    "Sofia",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Plug In Digital SAS",
+    1592241870,
+    1599147629
   ],
   [
     "9daaf4635bfa43f4b9c7471da4eafabd",
@@ -47916,6 +47954,18 @@
     "Ubisoft Entertainment",
     1552499646,
     1601304862
+  ],
+  [
+    "e96233047a4b4049a890e2d795c8009a",
+    "96d9e862cd3947c28ea4206e89c1ea48",
+    "SofiaGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Plug In Digital SAS",
+    1592241870,
+    1601389960
   ],
   [
     "e98b9f1edc45417bb368c55874187be9",

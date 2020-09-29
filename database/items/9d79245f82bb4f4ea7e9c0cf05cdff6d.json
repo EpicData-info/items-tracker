@@ -1,0 +1,71 @@
+{
+  "id": "9d79245f82bb4f4ea7e9c0cf05cdff6d",
+  "title": "Sofia",
+  "description": "Sofia",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "96d9e862cd3947c28ea4206e89c1ea48",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-15T17:24:30.431Z",
+  "lastModifiedDate": "2020-09-03T15:40:29.192Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "96d9e862cd3947c28ea4206e89c1ea48"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Sofia"
+    }
+  },
+  "entitlementName": "9d79245f82bb4f4ea7e9c0cf05cdff6d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "209536c609244160a0298217ef687d6a",
+      "appId": "06efba7b35c6459cba1919c524c0d7fa",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-03T15:39:26.767Z"
+    }
+  ],
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

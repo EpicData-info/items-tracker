@@ -1,0 +1,33 @@
+{
+  "id": "8ed590708b0d421594b7ebf54eea51c4",
+  "title": "DevSofiaAudience",
+  "description": "DevSofiaAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "96d9e862cd3947c28ea4206e89c1ea48",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-15T17:24:30.366Z",
+  "lastModifiedDate": "2020-09-03T15:40:42.652Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "8ed590708b0d421594b7ebf54eea51c4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": "e96233047a4b4049a890e2d795c8009a",
+  "title": "SofiaGeneralAudience",
+  "description": "SofiaGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "96d9e862cd3947c28ea4206e89c1ea48",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-15T17:24:30.300Z",
+  "lastModifiedDate": "2020-09-29T14:32:40.949Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e96233047a4b4049a890e2d795c8009a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Plug In Digital SAS",
+  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

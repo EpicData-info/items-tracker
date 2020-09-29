@@ -1,8 +1,27 @@
 {
   "id": "157ea2bfc8df4960a22d01e9929b0ec9",
-  "title": "DLC 11",
-  "description": "DLC 11",
-  "keyImages": [],
+  "title": "Conan Exiles: Isle of Siptah",
+  "description": "Conan Exiles: Isle of Siptah",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/conanexiles/item/wide-2560x1440-31ec0cab2c657ced3c2e3e2c96e17c98.jpg",
+      "md5": "31ec0cab2c657ced3c2e3e2c96e17c98",
+      "width": 2560,
+      "height": 1440,
+      "size": 997580,
+      "uploadedDate": "2020-09-29T14:23:00.929Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/conanexiles/item/tall-1200x1600-5af56e292f1923558b00217151b4f25d.jpg",
+      "md5": "5af56e292f1923558b00217151b4f25d",
+      "width": 1200,
+      "height": 1600,
+      "size": 718054,
+      "uploadedDate": "2020-09-29T14:23:09.009Z"
+    }
+  ],
   "categories": [
     {
       "path": "games"
@@ -14,7 +33,7 @@
   "namespace": "conanexiles",
   "status": "ACTIVE",
   "creationDate": "2020-05-20T14:43:51.665Z",
-  "lastModifiedDate": "2020-06-25T14:28:27.423Z",
+  "lastModifiedDate": "2020-09-29T14:27:02.233Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -42,7 +61,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "DLC11"
+      "value": "ConanIsleofSiptah"
     }
   },
   "entitlementName": "157ea2bfc8df4960a22d01e9929b0ec9",
@@ -58,7 +77,7 @@
       "dateAdded": "2020-03-09T00:00:00.000Z"
     }
   ],
-  "developer": "Funcom",
+  "developer": "Funcom Oslo AS",
   "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
   "eulaIds": [
     "egstore"
