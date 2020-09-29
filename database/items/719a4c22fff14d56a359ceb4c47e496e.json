@@ -16,11 +16,23 @@
   "namespace": "0a4fc789eb0143c29296de79df5387ab",
   "status": "ACTIVE",
   "creationDate": "2020-06-30T15:50:20.512Z",
-  "lastModifiedDate": "2020-07-02T19:38:31.883Z",
+  "lastModifiedDate": "2020-09-29T17:56:55.928Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/unity.Alt Shift.Crying Suns/saves/save0"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppDate}/../LocalLow/Alt Shift/Crying Suns/saves/save0"
+    },
+    "CloudExcludeList": {
+      "type": "STRING",
+      "value": "backup_*"
     },
     "FolderName": {
       "type": "STRING",
@@ -37,7 +49,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-06-30T19:49:45.561Z"
+      "dateAdded": "2020-06-30T00:00:00.000Z"
     }
   ],
   "developer": "Humble Bundle",
