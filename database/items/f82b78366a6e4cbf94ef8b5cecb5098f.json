@@ -1,0 +1,36 @@
+{
+  "id": "f82b78366a6e4cbf94ef8b5cecb5098f",
+  "title": "Auto Chess PioneerAudience",
+  "description": "Auto Chess PioneerAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "37baf50c268d47779020d73143bb02b0",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-29T14:03:02.730Z",
+  "lastModifiedDate": "2020-09-29T14:03:29.873Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Win32"
+    }
+  },
+  "entitlementName": "f82b78366a6e4cbf94ef8b5cecb5098f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Dragonest Game",
+  "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "selfRefundable": true,
+  "unsearchable": false
+}
