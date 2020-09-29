@@ -9426,6 +9426,18 @@
     1581453231
   ],
   [
+    "2e8fef09c30045aa993a145a2c80ad07",
+    "6b2ba3389f034a388f602047551b0bf5",
+    "DevBlueberryAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Team17 Digital Ltd",
+    1596722154,
+    1601395141
+  ],
+  [
     "2ea6c26b06b9494fadf8313ccda583ab",
     "fn",
     "Paragon Banner",
@@ -19594,6 +19606,18 @@
     "Epic Games",
     1557433166,
     1557433166
+  ],
+  [
+    "5eca31eca8c0466d83632d372e487eef",
+    "6b2ba3389f034a388f602047551b0bf5",
+    "BlueberryGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Team17 Digital Ltd",
+    1596722154,
+    1601395141
   ],
   [
     "5ee819c6403f417b8cc763c0b72e2c45",
@@ -44063,6 +44087,19 @@
     "Annapurna Interactive",
     1546902298,
     1565183942
+  ],
+  [
+    "d7231f4fdb0d445bb25a491c13e55782",
+    "6b2ba3389f034a388f602047551b0bf5",
+    "Going Under",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Team17 Digital Ltd",
+    1596722154,
+    1601395022
   ],
   [
     "d7486cb5fc0c4eeab23b2075d1d49440",

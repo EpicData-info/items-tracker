@@ -1,0 +1,36 @@
+{
+  "id": "5eca31eca8c0466d83632d372e487eef",
+  "title": "BlueberryGeneralAudience",
+  "description": "BlueberryGeneralAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "6b2ba3389f034a388f602047551b0bf5",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-06T13:55:54.081Z",
+  "lastModifiedDate": "2020-09-29T15:59:01.181Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5eca31eca8c0466d83632d372e487eef",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
