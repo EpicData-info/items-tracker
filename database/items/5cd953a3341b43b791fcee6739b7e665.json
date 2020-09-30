@@ -1,7 +1,7 @@
 {
   "id": "5cd953a3341b43b791fcee6739b7e665",
-  "title": "Hades Tech Beta",
-  "description": "Hades Tech Beta",
+  "title": "Hades Test Branch",
+  "description": "Hades Test Branch",
   "keyImages": [
     {
       "type": "DieselGameBoxLogo",
@@ -42,7 +42,7 @@
   "namespace": "min",
   "status": "ACTIVE",
   "creationDate": "2020-06-09T19:17:19.629Z",
-  "lastModifiedDate": "2020-09-17T16:52:12.558Z",
+  "lastModifiedDate": "2020-09-30T10:50:48.620Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
