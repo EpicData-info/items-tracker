@@ -36,7 +36,7 @@
   "namespace": "bc2b0372eaa448469cb9a769f27acea1",
   "status": "ACTIVE",
   "creationDate": "2020-04-16T20:33:06.704Z",
-  "lastModifiedDate": "2020-09-23T14:35:58.781Z",
+  "lastModifiedDate": "2020-09-30T11:23:07.646Z",
   "customAttributes": {
     "RequirementsJson": {
       "type": "STRING",
@@ -97,7 +97,7 @@
   "releaseInfo": [
     {
       "id": "65c52de6ee4540599b0181db4610439e",
-      "appId": "ce2628db05f24ea1b38647a963d8b049",
+      "appId": "bobcat",
       "platform": [
         "Windows"
       ],
