@@ -1,0 +1,72 @@
+{
+  "id": "16d6fbdf1f784345bf6d2e01a3e16e37",
+  "title": "MtAntero",
+  "description": "MtAntero",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "39697c68e46b48d2b75e17bdc417d859",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-30T17:24:28.310Z",
+  "lastModifiedDate": "2020-10-01T21:56:17.778Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "39697c68e46b48d2b75e17bdc417d859"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MtAntero"
+    }
+  },
+  "entitlementName": "16d6fbdf1f784345bf6d2e01a3e16e37",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dc59ba4784304a3bbfb45d63486219da",
+      "appId": "998af0ab527c493baefb8049250c9a0e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-01T21:53:39.655Z"
+    }
+  ],
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

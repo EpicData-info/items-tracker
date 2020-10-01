@@ -1,0 +1,52 @@
+{
+  "id": "34fc6344f0f1412fbdced35deedee53d",
+  "title": "MtAnteroStaging",
+  "description": "MtAnteroStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "39697c68e46b48d2b75e17bdc417d859",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-30T17:24:28.455Z",
+  "lastModifiedDate": "2020-10-01T21:56:17.778Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MtAnteroStaging"
+    }
+  },
+  "entitlementName": "34fc6344f0f1412fbdced35deedee53d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "8f272b4be9e84220b533735b856a5000",
+      "appId": "680fc6443d01401493725a139ba5dd9c",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-01T21:54:10.787Z"
+    }
+  ],
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

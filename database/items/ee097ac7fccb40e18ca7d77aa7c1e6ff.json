@@ -1,0 +1,34 @@
+{
+  "id": "ee097ac7fccb40e18ca7d77aa7c1e6ff",
+  "title": "MtAnteroGeneralAudience",
+  "description": "MtAnteroGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "39697c68e46b48d2b75e17bdc417d859",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-30T17:24:28.177Z",
+  "lastModifiedDate": "2020-10-01T21:58:40.785Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ee097ac7fccb40e18ca7d77aa7c1e6ff",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
