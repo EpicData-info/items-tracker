@@ -1,0 +1,72 @@
+{
+  "id": "b61305fc1b184d289c6707ef7ee0f72b",
+  "title": "Lisbon",
+  "description": "Lisbon",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-01T17:53:10.738Z",
+  "lastModifiedDate": "2020-10-01T18:09:16.666Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "16fc138ed83846bc90d923fe0d87ad72"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Lisbon"
+    }
+  },
+  "entitlementName": "b61305fc1b184d289c6707ef7ee0f72b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d23e544290b24940af1c076df545ce09",
+      "appId": "2dc25e07aa624edf9ff132c09ce23a7c",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-01T18:00:00.687Z"
+    }
+  ],
+  "developer": "Passion Republic Games",
+  "developerId": "o-rbx4uqtxzlz5fmxe82f2frtebbz92h",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

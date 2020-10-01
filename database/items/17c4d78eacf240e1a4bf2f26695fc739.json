@@ -1,0 +1,52 @@
+{
+  "id": "17c4d78eacf240e1a4bf2f26695fc739",
+  "title": "LisbonStaging",
+  "description": "LisbonStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-01T17:53:10.835Z",
+  "lastModifiedDate": "2020-10-01T18:09:16.666Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LisbonStaging"
+    }
+  },
+  "entitlementName": "17c4d78eacf240e1a4bf2f26695fc739",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1efd7444b76d499da54a37c4a795e353",
+      "appId": "dd32eeaa801a4558b628aa834c0ad198",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-01T18:02:42.540Z"
+    }
+  ],
+  "developer": "Passion Republic Games",
+  "developerId": "o-rbx4uqtxzlz5fmxe82f2frtebbz92h",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

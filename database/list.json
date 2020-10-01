@@ -4666,6 +4666,18 @@
     1596063218
   ],
   [
+    "169841e5c2804a30a3ae378eaa027e66",
+    "16fc138ed83846bc90d923fe0d87ad72",
+    "LisbonGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Passion Republic Games",
+    1601574790,
+    1601576135
+  ],
+  [
     "169d5056c7834d2c8c75dea90db50906",
     "93b333eb973b45b582f3bdf68dfc1dc9",
     "Railway Empire Northern Europe Audience",
@@ -4908,6 +4920,19 @@
     "Epic Games",
     1559676482,
     1559679853
+  ],
+  [
+    "17c4d78eacf240e1a4bf2f26695fc739",
+    "16fc138ed83846bc90d923fe0d87ad72",
+    "LisbonStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Passion Republic Games",
+    1601574790,
+    1601575756
   ],
   [
     "17d118fa574c48d9b678d3e9003f129e",
@@ -37341,6 +37366,19 @@
     1556203465
   ],
   [
+    "b61305fc1b184d289c6707ef7ee0f72b",
+    "16fc138ed83846bc90d923fe0d87ad72",
+    "Lisbon",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Passion Republic Games",
+    1601574790,
+    1601575756
+  ],
+  [
     "b61bc70641044a3c97f3b233c0d32a55",
     "2dbd2f64abdc4bbab077424d5c85e01b",
     "SaffronUltimatePack_marker",
@@ -47110,6 +47148,18 @@
     "2K Games, Inc.",
     1562090049,
     1576774655
+  ],
+  [
+    "e4e2729135b5406eb47aa4e466b7a446",
+    "16fc138ed83846bc90d923fe0d87ad72",
+    "DevLisbonAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Passion Republic Games",
+    1601574790,
+    1601576135
   ],
   [
     "e4eae8f72da34a3196f0485193f3daa3",
