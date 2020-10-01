@@ -54,7 +54,7 @@
   "namespace": "f7dc1618d0bd4810a61f50d44333900e",
   "status": "ACTIVE",
   "creationDate": "2019-12-03T17:46:26.535Z",
-  "lastModifiedDate": "2019-12-26T16:06:21.944Z",
+  "lastModifiedDate": "2020-10-01T15:35:27.599Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -94,7 +94,8 @@
       "appId": "Blowfish",
       "platform": [
         "Windows",
-        "Mac"
+        "Mac",
+        "Win32"
       ],
       "dateAdded": "2019-12-26T00:00:00.000Z"
     }
@@ -106,6 +107,7 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "ageGatings": {},
   "selfRefundable": true,
   "unsearchable": false
 }
