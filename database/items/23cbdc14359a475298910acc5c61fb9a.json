@@ -17,7 +17,7 @@
   "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
   "status": "ACTIVE",
   "creationDate": "2020-03-12T17:36:09.446Z",
-  "lastModifiedDate": "2020-03-12T17:41:20.956Z",
+  "lastModifiedDate": "2020-10-01T22:47:35.349Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -47,5 +47,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

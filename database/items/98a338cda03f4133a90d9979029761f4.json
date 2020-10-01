@@ -16,7 +16,7 @@
   "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
   "status": "ACTIVE",
   "creationDate": "2019-07-24T21:49:28.663Z",
-  "lastModifiedDate": "2019-10-23T12:58:28.358Z",
+  "lastModifiedDate": "2020-10-01T22:45:30.708Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -37,7 +37,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2019-07-24T21:56:16.028Z"
+      "dateAdded": "2019-07-24T00:00:00.000Z"
     }
   ],
   "developer": "Rockstar Games",
@@ -46,5 +46,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }
