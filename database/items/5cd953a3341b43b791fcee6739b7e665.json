@@ -4,24 +4,6 @@
   "description": "Hades Test Branch",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/min/item/image (1)-5000x2200-be8b98d686ce8b06d94cb4d26134f03c.png",
-      "md5": "be8b98d686ce8b06d94cb4d26134f03c",
-      "width": 5000,
-      "height": 2200,
-      "size": 405668,
-      "uploadedDate": "2020-06-10T15:29:00.287Z"
-    },
-    {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/min/item/image-1280x1420-8d1e567ab349f228bdcc94766c89244e.png",
-      "md5": "8d1e567ab349f228bdcc94766c89244e",
-      "width": 1280,
-      "height": 1420,
-      "size": 2203939,
-      "uploadedDate": "2020-06-10T15:29:34.050Z"
-    },
-    {
       "type": "DieselGameBox",
       "url": "https://cdn1.epicgames.com/min/item/Hades_PrimaryPromo_Nighty_02-2580x1450-bae136fc72a0a757905b58b19bce23a6-2580x1450-bae136fc72a0a757905b58b19bce23a6-2580x1450-bae136fc72a0a757905b58b19bce23a6.jpg",
       "md5": "bae136fc72a0a757905b58b19bce23a6",
@@ -29,6 +11,15 @@
       "height": 1450,
       "size": 1550182,
       "uploadedDate": "2020-06-10T15:30:23.341Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/min/item/Hades_Portrait_01_Title-1200x1600-eb267156efded262edf78ec01a3f4ad5.png",
+      "md5": "eb267156efded262edf78ec01a3f4ad5",
+      "width": 1200,
+      "height": 1600,
+      "size": 93776,
+      "uploadedDate": "2020-10-01T18:30:11.262Z"
     }
   ],
   "categories": [
@@ -42,7 +33,7 @@
   "namespace": "min",
   "status": "ACTIVE",
   "creationDate": "2020-06-09T19:17:19.629Z",
-  "lastModifiedDate": "2020-09-30T10:50:48.620Z",
+  "lastModifiedDate": "2020-10-01T18:33:12.782Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
