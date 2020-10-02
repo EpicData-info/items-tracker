@@ -16,7 +16,7 @@
   "namespace": "d5ac79ba9e7946908d8e22c002468348",
   "status": "ACTIVE",
   "creationDate": "2020-09-15T15:19:01.088Z",
-  "lastModifiedDate": "2020-09-29T15:10:12.818Z",
+  "lastModifiedDate": "2020-10-02T16:25:34.783Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -26,17 +26,9 @@
       "type": "STRING",
       "value": "d5ac79ba9e7946908d8e22c002468348"
     },
-    "CloudSaveFolder_MAC": {
-      "type": "STRING",
-      "value": "{UserLibrary}/Application Support/ Bithell Games/The Solitaire Conspiracy/"
-    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
-    },
-    "CloudSaveFolder": {
-      "type": "STRING",
-      "value": "{AppData}/../LocalLow/Bithell Games/The Solitaire Conspiracy/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -45,10 +37,6 @@
     "RequirementsJson": {
       "type": "STRING",
       "value": "[]"
-    },
-    "CloudIncludeList": {
-      "type": "STRING",
-      "value": "saveData.bat"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
