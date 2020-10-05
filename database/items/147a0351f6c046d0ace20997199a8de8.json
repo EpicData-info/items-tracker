@@ -40,7 +40,7 @@
   "namespace": "b57455ede0604d83892c3412ec3d610e",
   "status": "ACTIVE",
   "creationDate": "2020-09-25T17:39:27.265Z",
-  "lastModifiedDate": "2020-09-25T17:39:27.265Z",
+  "lastModifiedDate": "2020-10-05T13:05:10.914Z",
   "entitlementName": "147a0351f6c046d0ace20997199a8de8",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
@@ -49,13 +49,18 @@
       "id": "4191fa03217f4453af87b570eb18309d",
       "appId": "ae5f6ec938d24377b3bb0cab6d5e8b58",
       "platform": [
-        "Windows"
-      ]
+        "Windows",
+        "Mac",
+        "Win32"
+      ],
+      "dateAdded": "2020-10-05T13:05:03.522Z"
     }
   ],
   "developer": "EPAM",
   "developerId": "o-4u27qbdqvv6696cs5zlryn4hta8vrk",
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "requiresSecureAccount": false,
   "unsearchable": false
 }
