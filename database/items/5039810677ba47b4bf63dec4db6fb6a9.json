@@ -16,7 +16,7 @@
   "namespace": "0a4fc789eb0143c29296de79df5387ab",
   "status": "ACTIVE",
   "creationDate": "2020-06-30T15:50:20.468Z",
-  "lastModifiedDate": "2020-07-02T19:38:31.883Z",
+  "lastModifiedDate": "2020-10-05T18:41:12.510Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -55,9 +55,10 @@
       "id": "934d22ccb93d4a2da2aa78194026be23",
       "appId": "18fafa2d70d64831ab500a9d65ba9ab8",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
-      "dateAdded": "2020-06-30T19:51:24.663Z"
+      "dateAdded": "2020-06-30T00:00:00.000Z"
     }
   ],
   "developer": "Humble Bundle",
