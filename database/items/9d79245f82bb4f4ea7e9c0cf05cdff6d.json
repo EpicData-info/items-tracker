@@ -1,7 +1,27 @@
 {
   "id": "9d79245f82bb4f4ea7e9c0cf05cdff6d",
-  "title": "Sofia",
-  "description": "Sofia",
+  "title": "Paper Beast",
+  "description": "Paper Beast",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/96d9e862cd3947c28ea4206e89c1ea48/item/wide2-2560x1440-ed002594edbbb107cf4b524835294d27.jpg",
+      "md5": "ed002594edbbb107cf4b524835294d27",
+      "width": 2560,
+      "height": 1440,
+      "size": 967668,
+      "uploadedDate": "2020-09-16T11:52:30.053Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/96d9e862cd3947c28ea4206e89c1ea48/item/Tall-1200x1600-f72389a48bb27dd90bcfa812004a48cb.jpg",
+      "md5": "f72389a48bb27dd90bcfa812004a48cb",
+      "width": 1200,
+      "height": 1600,
+      "size": 850855,
+      "uploadedDate": "2020-09-16T11:52:47.610Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,7 +36,7 @@
   "namespace": "96d9e862cd3947c28ea4206e89c1ea48",
   "status": "ACTIVE",
   "creationDate": "2020-06-15T17:24:30.431Z",
-  "lastModifiedDate": "2020-09-03T15:40:29.192Z",
+  "lastModifiedDate": "2020-10-05T14:56:33.731Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +64,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Sofia"
+      "value": "PaperBeast"
     }
   },
   "entitlementName": "9d79245f82bb4f4ea7e9c0cf05cdff6d",
@@ -57,7 +77,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-09-03T15:39:26.767Z"
+      "dateAdded": "2020-09-03T00:00:00.000Z"
     }
   ],
   "developer": "Plug In Digital SAS",

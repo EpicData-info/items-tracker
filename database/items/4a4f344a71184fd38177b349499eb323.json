@@ -16,11 +16,19 @@
   "namespace": "96d9e862cd3947c28ea4206e89c1ea48",
   "status": "ACTIVE",
   "creationDate": "2020-06-15T17:24:30.476Z",
-  "lastModifiedDate": "2020-09-03T15:40:29.191Z",
+  "lastModifiedDate": "2020-10-05T14:44:07.816Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Pixel Reef/Paper Beast/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "500"
     },
     "FolderName": {
       "type": "STRING",
@@ -37,7 +45,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-09-03T15:39:47.738Z"
+      "dateAdded": "2020-09-03T00:00:00.000Z"
     }
   ],
   "developer": "Plug In Digital SAS",
