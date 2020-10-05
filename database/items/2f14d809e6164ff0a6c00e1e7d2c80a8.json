@@ -1,8 +1,8 @@
 {
   "id": "2f14d809e6164ff0a6c00e1e7d2c80a8",
-  "title": "DLC00040 Audience",
-  "description": "DLC00040 Audience",
-  "longDescription": "DLC00040 Audience",
+  "title": "Occult Ritual Weapon Skins Audience",
+  "description": "Occult Ritual Weapon Skins Audience",
+  "longDescription": "Occult Ritual Weapon Skins Audience",
   "keyImages": [
     {
       "type": "ESRB",
@@ -25,7 +25,7 @@
   "namespace": "dfd2530e80e4425d801913b0879be444",
   "status": "ACTIVE",
   "creationDate": "2020-09-04T12:04:53.744Z",
-  "lastModifiedDate": "2020-09-04T12:26:28.871Z",
+  "lastModifiedDate": "2020-10-05T19:13:57.069Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",

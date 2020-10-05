@@ -1,25 +1,25 @@
 {
   "id": "590ff62274ab46db99071672ebd78e05",
-  "title": "SparrowMission4",
-  "description": "SparrowMission4",
+  "title": "Mission 4 - Damnation Valley",
+  "description": "Mission 4 - Damnation Valley",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/Diesel_productv2_zombie-army-4-dead-war_home_EGS_REBELLION_ZOMBIEARMY4_EDITIONCAPSULE_STANDARDEDITION-900x450-d9c7708b9ce7262d605151d696ae85a1ca513d20-900x450-3228a9f6390e741fc297097869bf1cec.png",
-      "md5": "3228a9f6390e741fc297097869bf1cec",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_DamnationValley-900x450-ab8dc9e8d539b179869e0169286f1a4a.png",
+      "md5": "ab8dc9e8d539b179869e0169286f1a4a",
       "width": 900,
       "height": 450,
-      "size": 207086,
-      "uploadedDate": "2020-02-03T19:14:39.467Z"
+      "size": 731184,
+      "uploadedDate": "2020-10-05T18:29:29.250Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg",
-      "md5": "3102dff3377403c09f5bd5c9e43a3ad3",
-      "width": 330,
-      "height": 440,
-      "size": 85825,
-      "uploadedDate": "2020-02-03T19:15:03.788Z"
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/EGS_REBELLION_ZOMBIEARMY4_DamnationValley_REDEMPTIONIMAGE-860x1180-591456d46e1dee9676dcb97fd4cb0dcf.png",
+      "md5": "591456d46e1dee9676dcb97fd4cb0dcf",
+      "width": 860,
+      "height": 1180,
+      "size": 1516175,
+      "uploadedDate": "2020-10-05T18:29:42.486Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "dfd2530e80e4425d801913b0879be444",
   "status": "ACTIVE",
   "creationDate": "2020-05-22T18:16:04.026Z",
-  "lastModifiedDate": "2020-05-22T19:03:06.822Z",
+  "lastModifiedDate": "2020-10-05T19:13:57.069Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -68,7 +68,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "SparrowMission4"
+      "value": "DamnationValley"
     }
   },
   "entitlementName": "590ff62274ab46db99071672ebd78e05",
