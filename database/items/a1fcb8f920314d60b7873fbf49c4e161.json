@@ -1,0 +1,34 @@
+{
+  "id": "a1fcb8f920314d60b7873fbf49c4e161",
+  "title": "DevVermilionPeakAudience",
+  "description": "DevVermilionPeakAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "131e306949034972959ca401ca27837e",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-06T21:22:48.557Z",
+  "lastModifiedDate": "2020-10-06T22:21:42.629Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a1fcb8f920314d60b7873fbf49c4e161",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

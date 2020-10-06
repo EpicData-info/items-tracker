@@ -1,0 +1,52 @@
+{
+  "id": "f58f5d3e5c5340dbb1cddbcf62a96bed",
+  "title": "VermilionPeakStaging",
+  "description": "VermilionPeakStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "131e306949034972959ca401ca27837e",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-06T21:22:48.792Z",
+  "lastModifiedDate": "2020-10-06T22:21:42.629Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "VermilionPeakStaging"
+    }
+  },
+  "entitlementName": "f58f5d3e5c5340dbb1cddbcf62a96bed",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "11e74aa73eee44c493f7cd3be9b7e4c0",
+      "appId": "4ed6db27f4a74b659fe92549ce992a22",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-06T22:19:52.020Z"
+    }
+  ],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

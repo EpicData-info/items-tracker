@@ -1,0 +1,34 @@
+{
+  "id": "1370227204cd4e8089f39ac46a769744",
+  "title": "VermilionPeakGeneralAudience",
+  "description": "VermilionPeakGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "131e306949034972959ca401ca27837e",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-06T21:22:48.456Z",
+  "lastModifiedDate": "2020-10-06T22:21:42.629Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "1370227204cd4e8089f39ac46a769744",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

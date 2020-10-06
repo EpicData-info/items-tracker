@@ -1,0 +1,72 @@
+{
+  "id": "85846943589049acb5ee1e746a087195",
+  "title": "VermilionPeak",
+  "description": "VermilionPeak",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "131e306949034972959ca401ca27837e",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-06T21:22:48.687Z",
+  "lastModifiedDate": "2020-10-06T22:21:42.629Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "131e306949034972959ca401ca27837e"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "VermilionPeak"
+    }
+  },
+  "entitlementName": "85846943589049acb5ee1e746a087195",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "0c410adece7e412c8504a154bf7535ce",
+      "appId": "ce2a78bf70b646e9b9f57c46dac99184",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-06T00:00:00.000Z"
+    }
+  ],
+  "developer": "Team17 Digital Ltd",
+  "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
