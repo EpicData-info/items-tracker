@@ -24,7 +24,7 @@
   "namespace": "lotus",
   "status": "ACTIVE",
   "creationDate": "2019-02-13T14:49:42.552Z",
-  "lastModifiedDate": "2019-07-30T16:01:26.108Z",
+  "lastModifiedDate": "2020-10-06T14:45:58.772Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -41,7 +41,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "esrbGameRatingValue": "RATING_PENDING",
-  "selfRefundable": true,
   "unsearchable": false
 }
