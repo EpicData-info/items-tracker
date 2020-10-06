@@ -42,7 +42,7 @@
   "namespace": "protea",
   "status": "ACTIVE",
   "creationDate": "2019-03-18T05:15:08.763Z",
-  "lastModifiedDate": "2020-09-01T17:55:03.217Z",
+  "lastModifiedDate": "2020-10-06T17:53:31.112Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

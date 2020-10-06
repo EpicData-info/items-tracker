@@ -1,7 +1,7 @@
 {
   "id": "c1656319f938445892cb581d84c6f57f",
-  "title": "Industries of Titan Under Construction OST",
-  "description": "Industries of Titan Under Construction OST",
+  "title": "ProteaSoundtrack",
+  "description": "ProteaSoundtrack",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -14,12 +14,12 @@
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/protea/item/EGS_IndustriesofTitanUnderConstructionOST_BraceYourselfGames_DigitalExtras_S2-1200x1600-eefc4134c485a42bd995beb36c76ec92.jpg",
-      "md5": "eefc4134c485a42bd995beb36c76ec92",
+      "url": "https://cdn1.epicgames.com/protea/item/IoT_Soundtrack_Cover-1200x1600-e8d7ca5577d4fc81c0fec11c5d804573.jpg",
+      "md5": "e8d7ca5577d4fc81c0fec11c5d804573",
       "width": 1200,
       "height": 1600,
-      "size": 703321,
-      "uploadedDate": "2020-07-07T16:35:40.703Z"
+      "size": 1353154,
+      "uploadedDate": "2020-10-05T16:08:13.928Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "protea",
   "status": "ACTIVE",
   "creationDate": "2020-04-13T18:25:12.718Z",
-  "lastModifiedDate": "2020-07-13T17:05:56.256Z",
+  "lastModifiedDate": "2020-10-06T17:53:31.113Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
