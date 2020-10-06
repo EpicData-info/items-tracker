@@ -5,30 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/protea/item/IoT_TT4_EGS_Library Tile Landscape-2560x1440-91c48350bc7ab7707649f82ef77a95f0.jpg",
-      "md5": "91c48350bc7ab7707649f82ef77a95f0",
-      "width": 2560,
-      "height": 1440,
-      "size": 819944,
-      "uploadedDate": "2020-08-31T15:36:01.076Z"
+      "url": "https://cdn1.epicgames.com/protea/item/IoT_TT5_EGS_Headline image-1920x1080-6e7893c0e185a105de8db97df32f3d04.png",
+      "md5": "6e7893c0e185a105de8db97df32f3d04",
+      "width": 1920,
+      "height": 1080,
+      "size": 2049281,
+      "uploadedDate": "2020-10-06T20:02:33.843Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/protea/item/IoT_TT4_EGS_Library Tile Portrait-1200x1600-c4094e0d760ec695407db952052a7f15.jpg",
-      "md5": "c4094e0d760ec695407db952052a7f15",
+      "url": "https://cdn1.epicgames.com/protea/item/IoT_TT5_EGS_Library Tile Portrait_00000-1200x1600-cb919801007a973a78b9fffb02dfae99.png",
+      "md5": "cb919801007a973a78b9fffb02dfae99",
       "width": 1200,
       "height": 1600,
-      "size": 484787,
-      "uploadedDate": "2020-08-31T15:36:14.467Z"
-    },
-    {
-      "type": "DieselGameBoxWide",
-      "url": "https://cdn1.epicgames.com/protea/item/IoT_TT4_EGS_Library Tile Landscape-2560x1440-91c48350bc7ab7707649f82ef77a95f0.jpg",
-      "md5": "91c48350bc7ab7707649f82ef77a95f0",
-      "width": 2560,
-      "height": 1440,
-      "size": 819944,
-      "uploadedDate": "2020-08-31T15:36:31.411Z"
+      "size": 1871209,
+      "uploadedDate": "2020-10-06T20:02:43.766Z"
     }
   ],
   "categories": [
@@ -42,7 +33,7 @@
   "namespace": "protea",
   "status": "ACTIVE",
   "creationDate": "2019-03-18T05:15:08.763Z",
-  "lastModifiedDate": "2020-10-06T17:55:38.686Z",
+  "lastModifiedDate": "2020-10-06T20:03:52.766Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
