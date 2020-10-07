@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/SMITE_EGS_7.7_AvatarAang_Landscape_2560x1440-2560x1440-c1e6730e466d15049980c11d99399880.jpg",
-      "md5": "04901e128c65f5acda0c6745213ffd81",
-      "width": 2560,
-      "height": 1440,
-      "size": 391539,
-      "uploadedDate": "2020-07-14T16:12:54.766Z"
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Epic-SMITE-7.10-FeaturedCarousel-Desktop-1360x766-1360x766-5b16bcd86435926b64f19b6158410d2c.jpg",
+      "md5": "5b16bcd86435926b64f19b6158410d2c",
+      "width": 1360,
+      "height": 766,
+      "size": 244053,
+      "uploadedDate": "2020-10-07T10:58:13.928Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/SMITE_EGS_7.7_AvatarAang_Portrait_860x1148-860x1148-3b72c575b65f8e3553f11d6205a6ccad.jpg",
-      "md5": "5a580dc81cecc55496acd63b29c457f1",
-      "width": 860,
-      "height": 1148,
-      "size": 241872,
-      "uploadedDate": "2020-07-14T16:13:23.195Z"
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Epic-SMITE-7.10-FeaturedCarousel-Mobile-510x680-510x680-f5e12f5d94a35eecc3fa6701f64debb8.jpg",
+      "md5": "f5e12f5d94a35eecc3fa6701f64debb8",
+      "width": 510,
+      "height": 680,
+      "size": 118011,
+      "uploadedDate": "2020-10-07T10:58:22.838Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "076207fa2b5c4803a636af606c3c28b7",
   "status": "ACTIVE",
   "creationDate": "2020-05-04T16:55:10.217Z",
-  "lastModifiedDate": "2020-07-14T16:13:58.062Z",
+  "lastModifiedDate": "2020-10-07T11:00:30.974Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
