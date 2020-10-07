@@ -4,15 +4,6 @@
   "description": "JackalProdTest",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/jackal/item/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1-2560x1440-5eafbc727fe4728c9cb742b03abc6043.jpg",
-      "md5": "5eafbc727fe4728c9cb742b03abc6043",
-      "width": 2560,
-      "height": 1440,
-      "size": 664943,
-      "uploadedDate": "2020-09-15T18:13:27.966Z"
-    },
-    {
       "type": "DieselGameBoxTall",
       "url": "https://cdn1.epicgames.com/jackal/item/EGS_PRODTEST-1200x1600-c7ed994710b7f341d1e9de3e1f8960de.jpg",
       "md5": "c7ed994710b7f341d1e9de3e1f8960de",
@@ -20,6 +11,15 @@
       "height": 1600,
       "size": 986638,
       "uploadedDate": "2020-10-05T14:18:10.553Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/jackal/item/EGS_PRODTEST-2560x1440-f616e455ed43649e692a46a2a229384d.jpg",
+      "md5": "f616e455ed43649e692a46a2a229384d",
+      "width": 2560,
+      "height": 1440,
+      "size": 2075189,
+      "uploadedDate": "2020-10-07T19:24:56.651Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "jackal",
   "status": "ACTIVE",
   "creationDate": "2019-04-25T14:03:57.863Z",
-  "lastModifiedDate": "2020-10-05T14:18:13.953Z",
+  "lastModifiedDate": "2020-10-07T19:24:59.697Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

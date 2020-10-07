@@ -4,15 +4,6 @@
   "description": "Dauntless Playtest",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/jackal/item/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1-2560x1440-5eafbc727fe4728c9cb742b03abc6043.jpg",
-      "md5": "5eafbc727fe4728c9cb742b03abc6043",
-      "width": 2560,
-      "height": 1440,
-      "size": 664943,
-      "uploadedDate": "2020-09-15T18:15:18.965Z"
-    },
-    {
       "type": "DieselGameBoxTall",
       "url": "https://cdn1.epicgames.com/jackal/item/EGS_PLAYTEST-1200x1600-3b46a5c71c3b78d595c4ac22dd13c16d.jpg",
       "md5": "3b46a5c71c3b78d595c4ac22dd13c16d",
@@ -20,6 +11,15 @@
       "height": 1600,
       "size": 983179,
       "uploadedDate": "2020-10-05T14:18:44.898Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/jackal/item/EGS_PLAYTEST-2560x1440-1ee5a91c6f0ed0358d42d9fead39c431.jpg",
+      "md5": "1ee5a91c6f0ed0358d42d9fead39c431",
+      "width": 2560,
+      "height": 1440,
+      "size": 2069629,
+      "uploadedDate": "2020-10-07T19:23:24.309Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "jackal",
   "status": "ACTIVE",
   "creationDate": "2019-10-03T17:13:40.102Z",
-  "lastModifiedDate": "2020-10-05T14:18:54.114Z",
+  "lastModifiedDate": "2020-10-07T19:23:30.811Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
