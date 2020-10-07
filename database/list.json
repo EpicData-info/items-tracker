@@ -21282,6 +21282,18 @@
     1595412133
   ],
   [
+    "66f33f7896754b01affc9461e857db07",
+    "newt",
+    "NewtPublishing01Audience",
+    [
+      "audience",
+      "public"
+    ],
+    "Proletariat, Inc.",
+    1602076049,
+    1602076827
+  ],
+  [
     "6723917a5b0f4aaaa33c92e85cf6ea50",
     "calluna",
     "CallunaDLC002 TF DevAudience",
@@ -37603,6 +37615,18 @@
     "Coffee Stain Studios",
     1588185995,
     1589302743
+  ],
+  [
+    "b6894edb92e84596824274f1552562ef",
+    "newt",
+    "NewtPublishing02Audience",
+    [
+      "audience",
+      "public"
+    ],
+    "Proletariat, Inc.",
+    1602076055,
+    1602076827
   ],
   [
     "b6937239ac4d416bacfeaf5a16639975",
