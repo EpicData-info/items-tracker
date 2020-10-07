@@ -1,7 +1,7 @@
 {
-  "id": "91bf6f3e3888408f84e6e7ec0105fd70",
-  "title": "BlackpollDemoAudience",
-  "description": "BlackpollDemoAudience",
+  "id": "be82881ba7b3427d925e590082f172f1",
+  "title": "BlackpollPrePurchaseAudience",
+  "description": "BlackpollPrePurchaseAudience",
   "keyImages": [],
   "categories": [
     {
@@ -13,7 +13,7 @@
   ],
   "namespace": "92546d82a1d043ad8cff2c6c2cd78bb9",
   "status": "ACTIVE",
-  "creationDate": "2020-08-10T21:14:53.844Z",
+  "creationDate": "2020-10-07T21:16:04.116Z",
   "lastModifiedDate": "2020-10-07T21:36:15.811Z",
   "customAttributes": {
     "SupportedPlatforms": {
@@ -21,7 +21,7 @@
       "value": "Windows"
     }
   },
-  "entitlementName": "91bf6f3e3888408f84e6e7ec0105fd70",
+  "entitlementName": "be82881ba7b3427d925e590082f172f1",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "developer": "tinyBuild Games",
