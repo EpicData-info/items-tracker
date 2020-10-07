@@ -5,12 +5,12 @@
   "keyImages": [
     {
       "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/item/GTAV_EGS_Artwork_1000x200_ESRB-1000x200-2052370da0aba7f10f6bb005ce8e9162.png",
-      "md5": "2052370da0aba7f10f6bb005ce8e9162",
-      "width": 1000,
-      "height": 200,
-      "size": 82248,
-      "uploadedDate": "2020-05-14T01:12:16.433Z"
+      "url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/item/esrb-gta5-842x485-967648723-842x485-2f633fd0b294653c25870ad736e31bda.png",
+      "md5": "2f633fd0b294653c25870ad736e31bda",
+      "width": 842,
+      "height": 485,
+      "size": 30186,
+      "uploadedDate": "2020-10-07T14:37:41.989Z"
     }
   ],
   "categories": [
@@ -24,7 +24,7 @@
   "namespace": "0584d2013f0149a791e7b9bad0eec102",
   "status": "ACTIVE",
   "creationDate": "2020-03-20T00:38:55.791Z",
-  "lastModifiedDate": "2020-05-14T15:04:21.533Z",
+  "lastModifiedDate": "2020-10-07T14:44:43.934Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -40,6 +40,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "esrbGameRatingValue": "MATURE",
   "ageGatings": {},
   "unsearchable": false
 }
