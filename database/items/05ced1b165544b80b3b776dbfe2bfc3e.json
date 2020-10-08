@@ -1,0 +1,34 @@
+{
+  "id": "05ced1b165544b80b3b776dbfe2bfc3e",
+  "title": "DevEggplantAudience",
+  "description": "DevEggplantAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "5d24ed888f9542a09dc406f66705631a",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-21T13:37:00.217Z",
+  "lastModifiedDate": "2020-10-08T15:30:26.159Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "05ced1b165544b80b3b776dbfe2bfc3e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

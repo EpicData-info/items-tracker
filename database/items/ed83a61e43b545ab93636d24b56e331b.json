@@ -1,0 +1,35 @@
+{
+  "id": "ed83a61e43b545ab93636d24b56e331b",
+  "title": "EggplantGeneralAudience",
+  "description": "EggplantGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "5d24ed888f9542a09dc406f66705631a",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-21T13:37:00.180Z",
+  "lastModifiedDate": "2020-10-08T15:30:26.165Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ed83a61e43b545ab93636d24b56e331b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1171,6 +1171,18 @@
     1575395954
   ],
   [
+    "05ced1b165544b80b3b776dbfe2bfc3e",
+    "5d24ed888f9542a09dc406f66705631a",
+    "DevEggplantAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "THQ Nordic GmbH",
+    1598017020,
+    1602171026
+  ],
+  [
     "05ec18d07e344737b560a147c7164c6b",
     "badb0ee71b474ed591ec43212547cfc8",
     "Obsidian Pack Audience",
@@ -15759,6 +15771,19 @@
     1562252373
   ],
   [
+    "4cad01fc93ad4b26b84891d2b89edaa8",
+    "5d24ed888f9542a09dc406f66705631a",
+    "EggplantStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1598017020,
+    1602170914
+  ],
+  [
     "4cb6fc07d9d6469eb00f50f9865c11ef",
     "764eb429792649e4a606413cd649de2c",
     "From Dusk Till Casa Bonita - DLC",
@@ -24333,6 +24358,19 @@
     "Epic Games",
     1409677463,
     1555395303
+  ],
+  [
+    "75964039608649a7ad62927d749165d8",
+    "5d24ed888f9542a09dc406f66705631a",
+    "Eggplant Back From Hell [OLD]",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1601039152,
+    1602170914
   ],
   [
     "759b6298432b428eb47bf08636f6c4f7",
@@ -49062,6 +49100,18 @@
     1599660651
   ],
   [
+    "ed83a61e43b545ab93636d24b56e331b",
+    "5d24ed888f9542a09dc406f66705631a",
+    "EggplantGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "THQ Nordic GmbH",
+    1598017020,
+    1602171026
+  ],
+  [
     "ed854eefdd374a788037409bac01481e",
     "bd46d4ce259349e5bd8b3ded20274737",
     "Chivalry 2 - Testing",
@@ -49359,6 +49409,19 @@
     "Coffee Stain Studios",
     1554323488,
     1581440119
+  ],
+  [
+    "ef4e65cc05a8435d87fdbea0eadb0fa3",
+    "5d24ed888f9542a09dc406f66705631a",
+    "Neighbours back From Hell",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1598017020,
+    1602170914
   ],
   [
     "ef587942fc694d77b0e7366a46b3c302",

@@ -1,0 +1,73 @@
+{
+  "id": "75964039608649a7ad62927d749165d8",
+  "title": "Eggplant Back From Hell [OLD]",
+  "description": "Eggplant Back From Hell",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5d24ed888f9542a09dc406f66705631a",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-25T13:05:52.753Z",
+  "lastModifiedDate": "2020-10-08T15:28:34.944Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "5d24ed888f9542a09dc406f66705631a"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EggplantBFH"
+    }
+  },
+  "entitlementName": "75964039608649a7ad62927d749165d8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "566b6acd96a84a36b905d733683b85ed",
+      "appId": "409cd1fcc0e947199e61af5a8225717b",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-21T00:00:00.000Z"
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

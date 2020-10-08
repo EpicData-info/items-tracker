@@ -1,0 +1,52 @@
+{
+  "id": "4cad01fc93ad4b26b84891d2b89edaa8",
+  "title": "EggplantStaging",
+  "description": "EggplantStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "5d24ed888f9542a09dc406f66705631a",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-21T13:37:00.343Z",
+  "lastModifiedDate": "2020-10-08T15:28:34.944Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EggplantStaging"
+    }
+  },
+  "entitlementName": "4cad01fc93ad4b26b84891d2b89edaa8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "61f4140f2d1340fdbcdff1d808f1db0c",
+      "appId": "504846f452ea497a82e4ca8cfe623db8",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-21T13:47:22.852Z"
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
