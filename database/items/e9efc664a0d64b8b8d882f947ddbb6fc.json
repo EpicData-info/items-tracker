@@ -1,0 +1,73 @@
+{
+  "id": "e9efc664a0d64b8b8d882f947ddbb6fc",
+  "title": "Flute",
+  "description": "Flute",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ca16315212fe486b96969e8fc6d6faf6",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-22T13:36:24.178Z",
+  "lastModifiedDate": "2020-10-08T12:15:35.201Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "ca16315212fe486b96969e8fc6d6faf6"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Flute"
+    }
+  },
+  "entitlementName": "e9efc664a0d64b8b8d882f947ddbb6fc",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "04e1c53307c64a979fed8f3d590a575f",
+      "appId": "bb026ee643614690b3f65f4f341bae4c",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-22T13:38:58.718Z"
+    }
+  ],
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

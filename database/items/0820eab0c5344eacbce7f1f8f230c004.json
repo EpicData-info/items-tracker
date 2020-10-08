@@ -1,0 +1,34 @@
+{
+  "id": "0820eab0c5344eacbce7f1f8f230c004",
+  "title": "FluteGeneralAudience",
+  "description": "FluteGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ca16315212fe486b96969e8fc6d6faf6",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-22T13:36:24.040Z",
+  "lastModifiedDate": "2020-10-08T12:17:13.922Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0820eab0c5344eacbce7f1f8f230c004",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

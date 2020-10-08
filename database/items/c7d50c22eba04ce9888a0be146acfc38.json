@@ -1,0 +1,52 @@
+{
+  "id": "c7d50c22eba04ce9888a0be146acfc38",
+  "title": "FluteStaging",
+  "description": "FluteStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "ca16315212fe486b96969e8fc6d6faf6",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-22T13:36:24.290Z",
+  "lastModifiedDate": "2020-10-08T12:15:35.200Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "FluteStaging"
+    }
+  },
+  "entitlementName": "c7d50c22eba04ce9888a0be146acfc38",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4b32d189232c4ff69500d74e82c263f4",
+      "appId": "482065a9d5dd443f8d92329d4cf0addb",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-22T13:39:14.808Z"
+    }
+  ],
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
