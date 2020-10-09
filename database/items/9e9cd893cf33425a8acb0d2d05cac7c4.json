@@ -1,0 +1,35 @@
+{
+  "id": "9e9cd893cf33425a8acb0d2d05cac7c4",
+  "title": "TaurusGeneralAudience",
+  "description": "TaurusGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e192c537dd6d47ce9a9b00b643c3cdb9",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-25T22:23:35.762Z",
+  "lastModifiedDate": "2020-10-09T12:53:40.886Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "9e9cd893cf33425a8acb0d2d05cac7c4",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bloober Team",
+  "developerId": "o-8nzuqrvr3dvkn9l7dydvhkekqd3xa9",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

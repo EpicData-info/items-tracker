@@ -19973,7 +19973,7 @@
     ],
     "TaleWorlds Entertainment",
     1602243706,
-    1602244032
+    1602249190
   ],
   [
     "601c213026b0425087dd71758ab91fef",
@@ -21256,6 +21256,19 @@
     "Thunder Lotus Games",
     1568311813,
     1578335316
+  ],
+  [
+    "669fcda0fd754032a2a58de5230db711",
+    "e192c537dd6d47ce9a9b00b643c3cdb9",
+    "The Medium",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Bloober Team",
+    1598394215,
+    1602248020
   ],
   [
     "66a7574d8c87420f856a7fdafe750dcd",
@@ -29231,6 +29244,18 @@
     1592254375
   ],
   [
+    "8e5ffd937bdc4059b8775239f06efb5f",
+    "e192c537dd6d47ce9a9b00b643c3cdb9",
+    "DevTaurusAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Bloober Team",
+    1598394215,
+    1602248020
+  ],
+  [
     "8e622739bba34206bb9910c839fe1e30",
     "39697c68e46b48d2b75e17bdc417d859",
     "DevMtAnteroAudience",
@@ -32521,6 +32546,18 @@
     "Devolver Digital, Inc.",
     1572274465,
     1574868513
+  ],
+  [
+    "9e9cd893cf33425a8acb0d2d05cac7c4",
+    "e192c537dd6d47ce9a9b00b643c3cdb9",
+    "TaurusGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Bloober Team",
+    1598394215,
+    1602248020
   ],
   [
     "9ea8124c525944f6a63a1ed2cb216ad0",
@@ -47794,7 +47831,7 @@
     ],
     "TaleWorlds Entertainment",
     1602243710,
-    1602244032
+    1602249190
   ],
   [
     "e6a573de9f32463eaf176271b8a455b7",
@@ -50678,6 +50715,19 @@
     "Santa Ragione",
     1591113999,
     1597318883
+  ],
+  [
+    "f64a374d723d4a16acc837cdaa23fd7a",
+    "e192c537dd6d47ce9a9b00b643c3cdb9",
+    "TaurusStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Bloober Team",
+    1598394215,
+    1602247314
   ],
   [
     "f64e39c5500f40bfa7302ee180b9b8d2",
