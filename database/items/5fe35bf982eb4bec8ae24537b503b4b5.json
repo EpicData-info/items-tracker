@@ -1,0 +1,35 @@
+{
+  "id": "5fe35bf982eb4bec8ae24537b503b4b5",
+  "title": "ChickadeeBetaAudience",
+  "description": "ChickadeeBetaAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "aeac94c7a11048758064b82f8f8d20ed",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-09T11:41:46.172Z",
+  "lastModifiedDate": "2020-10-09T11:47:12.774Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5fe35bf982eb4bec8ae24537b503b4b5",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "TaleWorlds Entertainment",
+  "developerId": "o-e2fanamv6wpuy3gpyyscsnzjth7hrg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

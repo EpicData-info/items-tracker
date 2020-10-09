@@ -19964,6 +19964,18 @@
     1595955773
   ],
   [
+    "5fe35bf982eb4bec8ae24537b503b4b5",
+    "aeac94c7a11048758064b82f8f8d20ed",
+    "ChickadeeBetaAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "TaleWorlds Entertainment",
+    1602243706,
+    1602244032
+  ],
+  [
     "601c213026b0425087dd71758ab91fef",
     "413361d2d5db4912ac2dfbcf27a38141",
     "OstrichGeneralAudience",
@@ -47771,6 +47783,18 @@
     "Epic Games",
     1495754202,
     1497981362
+  ],
+  [
+    "e69b08457eca47bb9fedec94b5bc273a",
+    "aeac94c7a11048758064b82f8f8d20ed",
+    "ChickadeeModAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "TaleWorlds Entertainment",
+    1602243710,
+    1602244032
   ],
   [
     "e6a573de9f32463eaf176271b8a455b7",

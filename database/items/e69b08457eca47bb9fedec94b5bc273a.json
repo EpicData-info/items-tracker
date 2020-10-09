@@ -1,0 +1,35 @@
+{
+  "id": "e69b08457eca47bb9fedec94b5bc273a",
+  "title": "ChickadeeModAudience",
+  "description": "ChickadeeModAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "aeac94c7a11048758064b82f8f8d20ed",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-09T11:41:50.434Z",
+  "lastModifiedDate": "2020-10-09T11:47:12.774Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e69b08457eca47bb9fedec94b5bc273a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "TaleWorlds Entertainment",
+  "developerId": "o-e2fanamv6wpuy3gpyyscsnzjth7hrg",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
