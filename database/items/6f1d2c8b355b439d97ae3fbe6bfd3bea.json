@@ -1,7 +1,8 @@
 {
   "id": "6f1d2c8b355b439d97ae3fbe6bfd3bea",
-  "title": "MoscowStaging",
-  "description": "MoscowStaging",
+  "title": "Moscow_Latest_Development",
+  "description": "Moscow_Latest_Development",
+  "keyImages": [],
   "categories": [
     {
       "path": "public"
@@ -16,7 +17,7 @@
   "namespace": "6af58339c2424644988e0fb83dfd9bd5",
   "status": "ACTIVE",
   "creationDate": "2020-06-16T17:49:58.994Z",
-  "lastModifiedDate": "2020-10-06T18:04:54.085Z",
+  "lastModifiedDate": "2020-10-09T21:52:28.333Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -37,7 +38,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-06-19T20:19:14.685Z"
+      "dateAdded": "2020-06-19T00:00:00.000Z"
     }
   ],
   "developer": "NCSoft",
