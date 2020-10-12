@@ -16,11 +16,23 @@
   "namespace": "39697c68e46b48d2b75e17bdc417d859",
   "status": "ACTIVE",
   "creationDate": "2020-09-30T17:24:28.455Z",
-  "lastModifiedDate": "2020-10-01T21:56:17.778Z",
+  "lastModifiedDate": "2020-10-12T20:14:34.659Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/ClockStone Software GmbH/BC TWD/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/ClockStone Software GmbH/BC TWD/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Profile.dat"
     },
     "FolderName": {
       "type": "STRING",
@@ -37,7 +49,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-10-01T21:54:10.787Z"
+      "dateAdded": "2020-10-01T00:00:00.000Z"
     }
   ],
   "developer": "Headup Gmbh",
