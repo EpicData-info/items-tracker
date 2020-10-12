@@ -17,15 +17,19 @@
   "namespace": "6af58339c2424644988e0fb83dfd9bd5",
   "status": "ACTIVE",
   "creationDate": "2020-06-16T17:49:58.994Z",
-  "lastModifiedDate": "2020-10-09T21:52:28.333Z",
+  "lastModifiedDate": "2020-10-12T23:01:12.646Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
     },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Fuser/Epic/{EpicID} /SaveGames/Fuser/"
+    },
     "FolderName": {
       "type": "STRING",
-      "value": "MoscowStaging"
+      "value": "MoscowLatestDevolpement"
     }
   },
   "entitlementName": "6f1d2c8b355b439d97ae3fbe6bfd3bea",
