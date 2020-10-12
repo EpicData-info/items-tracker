@@ -16,7 +16,7 @@
   "namespace": "43cff3223381422ca04404a811784296",
   "status": "ACTIVE",
   "creationDate": "2020-10-01T18:51:13.818Z",
-  "lastModifiedDate": "2020-10-01T19:21:53.292Z",
+  "lastModifiedDate": "2020-10-12T17:12:58.951Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -29,6 +29,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/PumpkinJack/Saved/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -57,7 +61,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-10-01T19:12:32.355Z"
+      "dateAdded": "2020-10-01T00:00:00.000Z"
     }
   ],
   "developer": "Headup Gmbh",
