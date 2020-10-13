@@ -1,0 +1,33 @@
+{
+  "id": "d1154575bf9e4e05a8d689c8c9211107",
+  "title": "QA 3000 Credits Audience",
+  "description": "QA 3000 Credits Audience",
+  "technicalDetails": "QA 3000 Credits for QA purchase testing",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-13T14:32:07.644Z",
+  "lastModifiedDate": "2020-10-13T15:01:21.342Z",
+  "entitlementName": "d1154575bf9e4e05a8d689c8c9211107",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Psyonix LLC",
+  "developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

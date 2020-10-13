@@ -1,0 +1,104 @@
+{
+  "id": "11a20f9efc0e4cee975b12f7f9c0d523",
+  "title": "Zombi",
+  "description": "Zombi",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/143474ab55ec49e8b9b9d79931cb2512/item/ZMBU_Store_Landscape_2560x1440-2560x1440-cb04f08d196fe06f7f90721a1f4addc3.jpg",
+      "md5": "cb04f08d196fe06f7f90721a1f4addc3",
+      "width": 2560,
+      "height": 1440,
+      "size": 846181,
+      "uploadedDate": "2020-10-09T14:28:52.975Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/143474ab55ec49e8b9b9d79931cb2512/item/ZMBU_Store_Portrait_1200x1600-1200x1600-226b28b636dd94f29f332a5db78c630a.jpg",
+      "md5": "226b28b636dd94f29f332a5db78c630a",
+      "width": 1200,
+      "height": 1600,
+      "size": 852848,
+      "uploadedDate": "2020-10-09T14:28:57.329Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "143474ab55ec49e8b9b9d79931cb2512",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-13T19:26:05.215Z",
+  "lastModifiedDate": "2020-10-13T15:16:41.357Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "143474ab55ec49e8b9b9d79931cb2512"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "6181be08624d4ca6984c2cf45cea3185"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Zombi"
+    },
+    "neverUpdate": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "11a20f9efc0e4cee975b12f7f9c0d523",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e5b32322e89c43cbb06ec66f6ef096c5",
+      "appId": "91b23d48ead64764b90a217a11baf209",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

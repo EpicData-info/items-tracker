@@ -3660,6 +3660,19 @@
     1558447022
   ],
   [
+    "11a20f9efc0e4cee975b12f7f9c0d523",
+    "143474ab55ec49e8b9b9d79931cb2512",
+    "Zombi",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1597346765,
+    1602602201
+  ],
+  [
     "11b2b288944e4490a2d28257817ab7e5",
     "lemur",
     "Journey Pre-Purchase",
@@ -4519,6 +4532,18 @@
     "Funcom Oslo AS",
     1589985831,
     1601389622
+  ],
+  [
+    "159124745fe0427692a39d5367e091c1",
+    "143474ab55ec49e8b9b9d79931cb2512",
+    "potatoGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Ubisoft Entertainment",
+    1597346765,
+    1602602201
   ],
   [
     "159657140ef94b129c0d29bfe7b26a38",
@@ -11591,6 +11616,19 @@
     "Devolver Digital, Inc.",
     1565987006,
     1570125692
+  ],
+  [
+    "392d464da8674c0e8b037676615c6635",
+    "143474ab55ec49e8b9b9d79931cb2512",
+    "potatoStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Ubisoft Entertainment",
+    1597346765,
+    1602006405
   ],
   [
     "3948c3bd501c46639f695782aec95d4b",
@@ -20287,6 +20325,18 @@
     "Paradox Interactive",
     1568318907,
     1578408207
+  ],
+  [
+    "613133edc06848bf981a566c0e340288",
+    "143474ab55ec49e8b9b9d79931cb2512",
+    "DevpotatoAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Ubisoft Entertainment",
+    1597346765,
+    1597347099
   ],
   [
     "6154f8d94c6b462eb0775d022cda9ab7",
@@ -43162,6 +43212,18 @@
     "Paradox Interactive",
     1552669001,
     1560515520
+  ],
+  [
+    "d1154575bf9e4e05a8d689c8c9211107",
+    "9773aa1aa54f4f7b80e44bef04986cea",
+    "QA 3000 Credits Audience",
+    [
+      "audience",
+      "public"
+    ],
+    "Psyonix LLC",
+    1602599527,
+    1602601281
   ],
   [
     "d11f9b1c9dd643e18eeb5c8cbd24610e",

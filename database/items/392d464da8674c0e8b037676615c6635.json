@@ -1,0 +1,60 @@
+{
+  "id": "392d464da8674c0e8b037676615c6635",
+  "title": "potatoStaging",
+  "description": "potatoStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "143474ab55ec49e8b9b9d79931cb2512",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-13T19:26:05.260Z",
+  "lastModifiedDate": "2020-10-06T17:46:45.315Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "1b8e78f459644b31a5db74d57db3b07f"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "potatoStaging"
+    }
+  },
+  "entitlementName": "392d464da8674c0e8b037676615c6635",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1cac406789774906a9678dd84fd4ffa0",
+      "appId": "d6b4eb9fe2314adb80aea0463e990705",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-13T00:00:00.000Z"
+    }
+  ],
+  "developer": "Ubisoft Entertainment",
+  "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
