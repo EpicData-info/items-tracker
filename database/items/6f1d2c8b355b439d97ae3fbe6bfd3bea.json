@@ -1,7 +1,7 @@
 {
   "id": "6f1d2c8b355b439d97ae3fbe6bfd3bea",
-  "title": "Moscow_Latest_Development",
-  "description": "Moscow_Latest_Development",
+  "title": "MoscowLatestDev",
+  "description": "MoscowLatestDev",
   "keyImages": [],
   "categories": [
     {
@@ -17,7 +17,7 @@
   "namespace": "6af58339c2424644988e0fb83dfd9bd5",
   "status": "ACTIVE",
   "creationDate": "2020-06-16T17:49:58.994Z",
-  "lastModifiedDate": "2020-10-12T23:01:12.646Z",
+  "lastModifiedDate": "2020-10-13T23:19:28.560Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -29,7 +29,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "MoscowLatestDevolpement"
+      "value": "MoscowLatestDev"
     }
   },
   "entitlementName": "6f1d2c8b355b439d97ae3fbe6bfd3bea",
