@@ -17790,6 +17790,18 @@
     1561622218
   ],
   [
+    "55c1948aa635451897a45323c3a9dd31",
+    "92546d82a1d043ad8cff2c6c2cd78bb9",
+    "BlackpollBetaAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "tinyBuild Games",
+    1602788579,
+    1602788726
+  ],
+  [
     "55c6294210e5469aaa21c44fa04f96ab",
     "wren",
     "WrenDLCDevAudience",
@@ -37633,6 +37645,18 @@
     "Kalypso Media",
     1586976669,
     1588955098
+  ],
+  [
+    "b58e6fb0cd4240fb8e7e50f0ee5672cc",
+    "92546d82a1d043ad8cff2c6c2cd78bb9",
+    "BlackpollEarlyAccessAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "tinyBuild Games",
+    1602789662,
+    1602789744
   ],
   [
     "b59aa34734f64c839e7a392aabfc50be",

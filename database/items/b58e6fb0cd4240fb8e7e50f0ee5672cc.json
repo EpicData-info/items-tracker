@@ -1,0 +1,35 @@
+{
+  "id": "b58e6fb0cd4240fb8e7e50f0ee5672cc",
+  "title": "BlackpollEarlyAccessAudience",
+  "description": "BlackpollEarlyAccessAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "92546d82a1d043ad8cff2c6c2cd78bb9",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-15T19:21:02.714Z",
+  "lastModifiedDate": "2020-10-15T19:22:24.870Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b58e6fb0cd4240fb8e7e50f0ee5672cc",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "tinyBuild Games",
+  "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
