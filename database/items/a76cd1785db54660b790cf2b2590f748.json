@@ -1,0 +1,50 @@
+{
+  "id": "a76cd1785db54660b790cf2b2590f748",
+  "title": "GriffinStaging",
+  "description": "GriffinStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "be8e76b808f54c8fa4974e3f516f1960",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-14T16:29:46.759Z",
+  "lastModifiedDate": "2020-10-14T18:57:42.553Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GriffinStaging"
+    }
+  },
+  "entitlementName": "a76cd1785db54660b790cf2b2590f748",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4bde6943aea84f11bc5f563a1feb59e1",
+      "appId": "GriffinStaging",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

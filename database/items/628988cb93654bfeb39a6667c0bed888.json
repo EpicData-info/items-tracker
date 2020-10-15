@@ -1,0 +1,35 @@
+{
+  "id": "628988cb93654bfeb39a6667c0bed888",
+  "title": "DevGraysAudience",
+  "description": "DevGraysAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "fcefd39bedb14d6282fe2ac41edbd5f8",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-31T15:48:04.817Z",
+  "lastModifiedDate": "2020-10-15T12:58:18.672Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "628988cb93654bfeb39a6667c0bed888",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Jackbox Games, Inc.",
+  "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

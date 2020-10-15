@@ -36,7 +36,7 @@
   "namespace": "30bf97ae13f74c3d87c9f3fe04d507ba",
   "status": "ACTIVE",
   "creationDate": "2020-01-27T15:04:37.834Z",
-  "lastModifiedDate": "2020-04-29T15:22:03.374Z",
+  "lastModifiedDate": "2020-10-14T19:19:55.108Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,7 +72,7 @@
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "b813a685f25a4990b92c1a21b2cdf410",
+      "id": "8052e0a80e234899ac9ab89df0feb165",
       "appId": "Opah",
       "platform": [
         "Windows"
@@ -86,6 +86,5 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "selfRefundable": true,
   "unsearchable": false
 }

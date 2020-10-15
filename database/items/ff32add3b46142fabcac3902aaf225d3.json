@@ -1,36 +1,34 @@
 {
-  "id": "8456122f40074d5a84566f0a061f302b",
-  "title": "Operencia - Explorer's Pack Audience",
-  "description": "Operencia - Explorer's Pack Audience",
-  "keyImages": [],
+  "id": "ff32add3b46142fabcac3902aaf225d3",
+  "title": "DevGriffinAudience",
+  "description": "DevGriffinAudience",
   "categories": [
     {
       "path": "audience"
     },
     {
-      "path": "public"
+      "path": "developer"
     }
   ],
-  "namespace": "lily",
+  "namespace": "be8e76b808f54c8fa4974e3f516f1960",
   "status": "ACTIVE",
-  "creationDate": "2020-02-24T18:38:46.434Z",
-  "lastModifiedDate": "2020-10-14T19:19:55.108Z",
+  "creationDate": "2020-10-14T16:29:46.592Z",
+  "lastModifiedDate": "2020-10-14T18:57:42.553Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "8456122f40074d5a84566f0a061f302b",
+  "entitlementName": "ff32add3b46142fabcac3902aaf225d3",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "releaseInfo": [],
   "developer": "Zen Studios",
   "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
-  "ageGatings": {},
+  "requiresSecureAccount": false,
   "unsearchable": false
 }

@@ -51,7 +51,7 @@
   "namespace": "lily",
   "status": "ACTIVE",
   "creationDate": "2019-01-28T19:59:11.721Z",
-  "lastModifiedDate": "2020-09-16T16:12:05.984Z",
+  "lastModifiedDate": "2020-10-14T19:19:55.108Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -65,13 +65,13 @@
       "type": "STRING",
       "value": "true"
     },
-    "CloudSaveFolder": {
-      "type": "STRING",
-      "value": "{AppData}/Operencia/Saved/SaveGames/"
-    },
     "defaultLaunchOption_Args": {
       "type": "STRING",
       "value": "-nohmd"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Operencia/Saved/SaveGames/"
     },
     "extraLaunchOption_001_Args": {
       "type": "STRING",
@@ -121,6 +121,5 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "selfRefundable": true,
   "unsearchable": false
 }

@@ -14,7 +14,7 @@
   "namespace": "catnip",
   "status": "ACTIVE",
   "creationDate": "2020-06-15T19:59:41.089Z",
-  "lastModifiedDate": "2020-08-14T18:58:38.079Z",
+  "lastModifiedDate": "2020-10-14T23:48:19.483Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -34,7 +34,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "CatnipExternalStable3DLC6"
+      "value": "ExternalStable3DLC6"
     }
   },
   "entitlementName": "185cdf9fb76c418bae27841336701328",

@@ -1,7 +1,7 @@
 {
-  "id": "6f8da58694dc4624876024ccc91b1c54",
-  "title": "Moscow",
-  "description": "Moscow",
+  "id": "a631512142c348ad8232f94205144a44",
+  "title": "Griffin",
+  "description": "Griffin",
   "categories": [
     {
       "path": "public"
@@ -13,10 +13,10 @@
       "path": "applications"
     }
   ],
-  "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+  "namespace": "be8e76b808f54c8fa4974e3f516f1960",
   "status": "ACTIVE",
-  "creationDate": "2020-06-16T17:49:58.945Z",
-  "lastModifiedDate": "2020-10-14T19:07:41.544Z",
+  "creationDate": "2020-10-14T16:29:46.676Z",
+  "lastModifiedDate": "2020-10-14T18:57:42.553Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,15 +24,11 @@
     },
     "PresenceId": {
       "type": "STRING",
-      "value": "6af58339c2424644988e0fb83dfd9bd5"
+      "value": "be8e76b808f54c8fa4974e3f516f1960"
     },
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
-    },
-    "CloudSaveFolder": {
-      "type": "STRING",
-      "value": "{AppData}/Fuser/Epic/{EpicID}/SaveGames/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -48,28 +44,27 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Moscow"
+      "value": "Griffin"
     }
   },
-  "entitlementName": "6f8da58694dc4624876024ccc91b1c54",
+  "entitlementName": "a631512142c348ad8232f94205144a44",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "47d8cb3b3ce4457bab8e95897be9426f",
-      "appId": "2939f4752d4b4ace95a8e1b16e79d3f5",
+      "id": "721d944f94234b638458566596d3c2ed",
+      "appId": "Griffin",
       "platform": [
         "Windows"
-      ],
-      "dateAdded": "2020-06-19T00:00:00.000Z"
+      ]
     }
   ],
-  "developer": "NCSoft",
-  "developerId": "o-k8ltvz7rz3r7b29xdtafqvdkhnj2ux",
+  "developer": "Zen Studios",
+  "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
-  "ageGatings": {},
+  "requiresSecureAccount": false,
   "unsearchable": false
 }

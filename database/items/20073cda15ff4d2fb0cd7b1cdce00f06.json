@@ -14,7 +14,7 @@
   "namespace": "lily",
   "status": "ACTIVE",
   "creationDate": "2019-01-28T20:03:33.335Z",
-  "lastModifiedDate": "2020-03-31T15:02:00.662Z",
+  "lastModifiedDate": "2020-10-14T19:19:55.108Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -31,6 +31,6 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
+  "ageGatings": {},
   "unsearchable": false
 }
