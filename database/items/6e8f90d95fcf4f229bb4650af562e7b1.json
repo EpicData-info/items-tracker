@@ -1,0 +1,64 @@
+{
+  "id": "6e8f90d95fcf4f229bb4650af562e7b1",
+  "title": "item title",
+  "description": "description",
+  "longDescription": "long description",
+  "technicalDetails": "technical information",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/SeaQA/item/Desert-1024x768-ba45c8f60456a672e003a875e469d0eb.jpg",
+      "md5": "ba45c8f60456a672e003a875e469d0eb",
+      "width": 1024,
+      "height": 768,
+      "size": 845941,
+      "uploadedDate": "2014-10-20T07:15:09.073Z"
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/SeaQA/item/Chrysanthemum-1024x768-076e3caed758a1c18c91a0e9cae3368f.jpg",
+      "md5": "076e3caed758a1c18c91a0e9cae3368f",
+      "width": 1024,
+      "height": 768,
+      "size": 879394,
+      "uploadedDate": "2015-07-28T02:03:04.097Z"
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/SeaQA/item/Penguins-1024x768-9d377b10ce778c4938b3c7e2c63a229a.jpg",
+      "md5": "9d377b10ce778c4938b3c7e2c63a229a",
+      "width": 1024,
+      "height": 768,
+      "size": 777835,
+      "uploadedDate": "2015-07-28T01:52:54.231Z"
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/SeaQA/item/Hydrangeas-1024x768-bdf3bf1da3405725be763540d6601144.jpg",
+      "md5": "bdf3bf1da3405725be763540d6601144",
+      "width": 1024,
+      "height": 768,
+      "size": 595284,
+      "uploadedDate": "2014-10-20T07:16:49.869Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2014-10-20T07:26:40.606Z",
+  "lastModifiedDate": "2020-01-20T03:13:31.143Z",
+  "entitlementName": "57d37356ef55443ca77252c0b4eb9f98",
+  "entitlementType": "EXECUTABLE",
+  "entitlementEndDate": "2027-10-26T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 3,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": true
+}

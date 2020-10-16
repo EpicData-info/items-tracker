@@ -1,0 +1,36 @@
+{
+  "id": "8bf7479e063d4b33bc5fc270aece7dc1",
+  "title": "Landy Test BaseGame",
+  "description": "Landy Test BaseGame",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "application"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-31T02:45:11.632Z",
+  "lastModifiedDate": "2020-07-31T02:45:11.632Z",
+  "entitlementName": "8bf7479e063d4b33bc5fc270aece7dc1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f7f6dc90b51c4191a2c97ab8ae6ba071",
+      "appId": "Landy Test Basegame",
+      "compatibleApps": [],
+      "platform": [],
+      "dateAdded": "2020-07-31T02:44:44.094Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

@@ -1,0 +1,26 @@
+{
+  "id": "379e48e4986a49fe9fe6511d122f11c6",
+  "title": "Landy Test DLC 1",
+  "description": "Landy Test DLC 1",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "addons"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-31T02:41:01.676Z",
+  "lastModifiedDate": "2020-07-31T02:41:01.676Z",
+  "entitlementName": "379e48e4986a49fe9fe6511d122f11c6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

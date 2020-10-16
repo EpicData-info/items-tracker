@@ -1,0 +1,39 @@
+{
+  "id": "f67dc420219b46dcbe24d9dc38b3133e",
+  "title": "Landy Test DLC2",
+  "description": "Landy Test DLC2",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-31T02:42:37.333Z",
+  "lastModifiedDate": "2020-07-31T02:42:37.333Z",
+  "entitlementName": "f67dc420219b46dcbe24d9dc38b3133e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e0a1c44dd7484d5a8e4e4c54d393fb5e",
+      "appId": "LandyTestDLC2",
+      "compatibleApps": [],
+      "platform": [],
+      "dateAdded": "2020-07-31T02:42:15.120Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Epic Dev Test Account",
+  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}

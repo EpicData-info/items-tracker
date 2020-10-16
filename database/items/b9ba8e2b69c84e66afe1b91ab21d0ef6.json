@@ -1,0 +1,26 @@
+{
+  "id": "b9ba8e2b69c84e66afe1b91ab21d0ef6",
+  "title": "chucktest",
+  "description": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "SeaQA",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-14T08:34:13.816Z",
+  "lastModifiedDate": "2020-10-14T08:34:13.816Z",
+  "entitlementName": "b9ba8e2b69c84e66afe1b91ab21d0ef6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": true
+}
