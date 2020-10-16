@@ -1,0 +1,52 @@
+{
+  "id": "45139839e7b2465f85ae2104434164a8",
+  "title": "AzuriteDevRelease",
+  "description": "AzuriteDevRelease",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1c4745021d4243a783b459d928b9088f",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-16T12:35:26.355Z",
+  "lastModifiedDate": "2020-10-16T12:37:28.488Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AzuriteDevRelease"
+    }
+  },
+  "entitlementName": "45139839e7b2465f85ae2104434164a8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c8d8e4e48e9b4dc1aa6c54af3fde15ff",
+      "appId": "cfffc782fa1347f29ab1acd3ae83c6d9",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "Square Enix",
+  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

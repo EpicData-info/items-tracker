@@ -1702,6 +1702,19 @@
     1601049053
   ],
   [
+    "0894dad1e54c43608664b8477e620248",
+    "1c4745021d4243a783b459d928b9088f",
+    "AzuriteQARelease",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Square Enix",
+    1602851708,
+    1602851775
+  ],
+  [
     "08a2b6a333714523808fa31ea142ead4",
     "ba8062bdcc1342c0b78743e3c6242575",
     "Kakopo Neon Audience",
@@ -14117,6 +14130,19 @@
     1559178425
   ],
   [
+    "45139839e7b2465f85ae2104434164a8",
+    "1c4745021d4243a783b459d928b9088f",
+    "AzuriteDevRelease",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Square Enix",
+    1602851726,
+    1602851848
+  ],
+  [
     "4540bf2e3b4c4f589fa108d6a079ed21",
     "aster",
     "Heavy Rain JA Demo Audience",
@@ -19894,6 +19920,19 @@
     1582566784
   ],
   [
+    "5f692623d7af4beda6760a4f04f1ac2c",
+    "1c4745021d4243a783b459d928b9088f",
+    "AzuriteQADebug",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Square Enix",
+    1602851717,
+    1602851794
+  ],
+  [
     "5f70764ca11a4cf4933e1141c5e7ba19",
     "oregano",
     "ANNO1800TrialAudience",
@@ -24419,6 +24458,19 @@
     "Epic Games",
     1424710406,
     1461353440
+  ],
+  [
+    "75593c777d7c4a638a56caa0d3cd43b2",
+    "1c4745021d4243a783b459d928b9088f",
+    "AzuriteDevDebug",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Square Enix",
+    1602851729,
+    1602851861
   ],
   [
     "757dcc774bbd4af1b71c450dd9e9159f",
@@ -41443,6 +41495,19 @@
     1602073127
   ],
   [
+    "c8529a779c4f4414b29abca872c764bf",
+    "1c4745021d4243a783b459d928b9088f",
+    "AzuriteLQARelease",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Square Enix",
+    1602851720,
+    1602851815
+  ],
+  [
     "c8581f13b1b0418e9a7ab712ac6fcd78",
     "0d66818e2304485f8dc3ae90c8b622b4",
     "Shadowrun Hong Kong",
@@ -47184,6 +47249,19 @@
     "landy tian",
     1470908212,
     1470908212
+  ],
+  [
+    "e2fc4b34e25f476eacc776af10743d13",
+    "1c4745021d4243a783b459d928b9088f",
+    "AzuriteLQADebug",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Square Enix",
+    1602851723,
+    1602851834
   ],
   [
     "e311871f74b84ce79b304d6ae1c28ce8",
