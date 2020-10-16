@@ -1,7 +1,7 @@
 {
   "id": "0894dad1e54c43608664b8477e620248",
-  "title": "AzuriteQARelease",
-  "description": "AzuriteQARelease",
+  "title": "FrigateQARelease",
+  "description": "FrigateQARelease",
   "keyImages": [],
   "categories": [
     {
@@ -17,7 +17,7 @@
   "namespace": "1c4745021d4243a783b459d928b9088f",
   "status": "ACTIVE",
   "creationDate": "2020-10-16T12:35:08.493Z",
-  "lastModifiedDate": "2020-10-16T12:36:15.069Z",
+  "lastModifiedDate": "2020-10-16T12:46:03.269Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -25,7 +25,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "AzuriteQARelease"
+      "value": "FrigateQARelease"
     }
   },
   "entitlementName": "0894dad1e54c43608664b8477e620248",
@@ -34,15 +34,15 @@
   "releaseInfo": [
     {
       "id": "c8d8e4e48e9b4dc1aa6c54af3fde15ff",
-      "appId": "cfffc782fa1347f29ab1acd3ae83c6d9",
+      "appId": "15ee8f801cf74e2195374db9672f2de3",
       "platform": [
         "Windows"
       ],
       "dateAdded": "2020-06-19T00:00:00.000Z"
     }
   ],
-  "developer": "Square Enix",
-  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "developer": "Square Enix Japan",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
   "eulaIds": [
     "egstore"
   ],

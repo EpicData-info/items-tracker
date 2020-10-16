@@ -1704,15 +1704,15 @@
   [
     "0894dad1e54c43608664b8477e620248",
     "1c4745021d4243a783b459d928b9088f",
-    "AzuriteQARelease",
+    "FrigateQARelease",
     [
       "public",
       "games",
       "applications"
     ],
-    "Square Enix",
+    "Square Enix Japan",
     1602851708,
-    1602851775
+    1602852363
   ],
   [
     "08a2b6a333714523808fa31ea142ead4",
@@ -14132,15 +14132,15 @@
   [
     "45139839e7b2465f85ae2104434164a8",
     "1c4745021d4243a783b459d928b9088f",
-    "AzuriteDevRelease",
+    "FrigateDevRelease",
     [
       "public",
       "games",
       "applications"
     ],
-    "Square Enix",
+    "Square Enix Japan",
     1602851726,
-    1602851848
+    1602852466
   ],
   [
     "4540bf2e3b4c4f589fa108d6a079ed21",
@@ -17481,14 +17481,14 @@
   [
     "53b32623629f4bc9ae82e05edf17df69",
     "1c4745021d4243a783b459d928b9088f",
-    "DevAzuriteAudience",
+    "DevFrigateAudience",
     [
       "audience",
       "developer"
     ],
     "Square Enix",
     1582038985,
-    1592589961
+    1602852526
   ],
   [
     "53d5a34ecb864e9aa99cc9cfd6099124",
@@ -19922,15 +19922,15 @@
   [
     "5f692623d7af4beda6760a4f04f1ac2c",
     "1c4745021d4243a783b459d928b9088f",
-    "AzuriteQADebug",
+    "FrigateQADebug",
     [
       "public",
       "games",
       "applications"
     ],
-    "Square Enix",
+    "Square Enix Japan",
     1602851717,
-    1602851794
+    1602852395
   ],
   [
     "5f70764ca11a4cf4933e1141c5e7ba19",
@@ -24462,15 +24462,15 @@
   [
     "75593c777d7c4a638a56caa0d3cd43b2",
     "1c4745021d4243a783b459d928b9088f",
-    "AzuriteDevDebug",
+    "FrigateDevDebug",
     [
       "public",
       "games",
       "applications"
     ],
-    "Square Enix",
+    "Square Enix Japan",
     1602851729,
-    1602851861
+    1602852492
   ],
   [
     "757dcc774bbd4af1b71c450dd9e9159f",
@@ -25654,14 +25654,14 @@
   [
     "7b6277bf64f145f7b4fd028372d81606",
     "1c4745021d4243a783b459d928b9088f",
-    "AzuriteGeneralAudience",
+    "FrigateGeneralAudience",
     [
       "audience",
       "public"
     ],
     "Square Enix",
     1582038985,
-    1592589961
+    1602852537
   ],
   [
     "7b7711b9f1d848a5a8b177c1c5a9dcbc",
@@ -30131,7 +30131,7 @@
   [
     "9194c1b9255f47809a71eafc04db4fa5",
     "1c4745021d4243a783b459d928b9088f",
-    "AzuriteStaging",
+    "FrigateStaging",
     [
       "public",
       "games",
@@ -30139,7 +30139,7 @@
     ],
     "Square Enix",
     1582038985,
-    1592590075
+    1602852243
   ],
   [
     "9198ef207cc84e5d803af55a4ce37298",
@@ -41497,15 +41497,15 @@
   [
     "c8529a779c4f4414b29abca872c764bf",
     "1c4745021d4243a783b459d928b9088f",
-    "AzuriteLQARelease",
+    "FrigateLQARelease",
     [
       "public",
       "games",
       "applications"
     ],
-    "Square Enix",
+    "Square Enix Japan",
     1602851720,
-    1602851815
+    1602852417
   ],
   [
     "c8581f13b1b0418e9a7ab712ac6fcd78",
@@ -41971,7 +41971,7 @@
   [
     "ca426dbad4024677b1d95808ab6941e5",
     "1c4745021d4243a783b459d928b9088f",
-    "Azurite",
+    "Frigate",
     [
       "public",
       "games",
@@ -41979,7 +41979,7 @@
     ],
     "Square Enix Japan",
     1582038985,
-    1602070613
+    1602852256
   ],
   [
     "ca52868aa7634c24859656aed98eb154",
@@ -47253,15 +47253,15 @@
   [
     "e2fc4b34e25f476eacc776af10743d13",
     "1c4745021d4243a783b459d928b9088f",
-    "AzuriteLQADebug",
+    "FrigateLQADebug",
     [
       "public",
       "games",
       "applications"
     ],
-    "Square Enix",
+    "Square Enix Japan",
     1602851723,
-    1602851834
+    1602852439
   ],
   [
     "e311871f74b84ce79b304d6ae1c28ce8",

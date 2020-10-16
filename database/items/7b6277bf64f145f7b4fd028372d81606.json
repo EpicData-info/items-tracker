@@ -1,7 +1,8 @@
 {
   "id": "7b6277bf64f145f7b4fd028372d81606",
-  "title": "AzuriteGeneralAudience",
-  "description": "AzuriteGeneralAudience",
+  "title": "FrigateGeneralAudience",
+  "description": "FrigateGeneralAudience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +14,7 @@
   "namespace": "1c4745021d4243a783b459d928b9088f",
   "status": "ACTIVE",
   "creationDate": "2020-02-18T15:16:25.014Z",
-  "lastModifiedDate": "2020-06-19T18:06:01.647Z",
+  "lastModifiedDate": "2020-10-16T12:48:57.225Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -29,5 +30,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

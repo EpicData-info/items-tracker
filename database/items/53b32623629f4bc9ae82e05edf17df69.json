@@ -1,7 +1,8 @@
 {
   "id": "53b32623629f4bc9ae82e05edf17df69",
-  "title": "DevAzuriteAudience",
-  "description": "DevAzuriteAudience",
+  "title": "DevFrigateAudience",
+  "description": "DevFrigateAudience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +14,7 @@
   "namespace": "1c4745021d4243a783b459d928b9088f",
   "status": "ACTIVE",
   "creationDate": "2020-02-18T15:16:25.072Z",
-  "lastModifiedDate": "2020-06-19T18:06:01.647Z",
+  "lastModifiedDate": "2020-10-16T12:48:46.808Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -29,5 +30,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

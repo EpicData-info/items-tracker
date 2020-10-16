@@ -1,7 +1,8 @@
 {
   "id": "ca426dbad4024677b1d95808ab6941e5",
-  "title": "Azurite",
-  "description": "Azurite",
+  "title": "Frigate",
+  "description": "Frigate",
+  "keyImages": [],
   "categories": [
     {
       "path": "public"
@@ -16,7 +17,7 @@
   "namespace": "1c4745021d4243a783b459d928b9088f",
   "status": "ACTIVE",
   "creationDate": "2020-02-18T15:16:25.110Z",
-  "lastModifiedDate": "2020-10-07T11:36:53.548Z",
+  "lastModifiedDate": "2020-10-16T12:44:16.446Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +45,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Azurite"
+      "value": "Frigate"
     }
   },
   "entitlementName": "ca426dbad4024677b1d95808ab6941e5",

@@ -1,7 +1,7 @@
 {
   "id": "e2fc4b34e25f476eacc776af10743d13",
-  "title": "AzuriteLQADebug",
-  "description": "AzuriteLQADebug",
+  "title": "FrigateLQADebug",
+  "description": "FrigateLQADebug",
   "keyImages": [],
   "categories": [
     {
@@ -17,7 +17,7 @@
   "namespace": "1c4745021d4243a783b459d928b9088f",
   "status": "ACTIVE",
   "creationDate": "2020-10-16T12:35:23.685Z",
-  "lastModifiedDate": "2020-10-16T12:37:14.067Z",
+  "lastModifiedDate": "2020-10-16T12:47:19.931Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -25,7 +25,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "AzuriteLQADebug"
+      "value": "FrigateLQADebug"
     }
   },
   "entitlementName": "e2fc4b34e25f476eacc776af10743d13",
@@ -34,15 +34,15 @@
   "releaseInfo": [
     {
       "id": "c8d8e4e48e9b4dc1aa6c54af3fde15ff",
-      "appId": "cfffc782fa1347f29ab1acd3ae83c6d9",
+      "appId": "4f5bfee8898c45048c973b54e9555269",
       "platform": [
         "Windows"
       ],
       "dateAdded": "2020-06-19T00:00:00.000Z"
     }
   ],
-  "developer": "Square Enix",
-  "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+  "developer": "Square Enix Japan",
+  "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
   "eulaIds": [
     "egstore"
   ],
