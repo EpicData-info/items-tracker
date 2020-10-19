@@ -24,7 +24,7 @@
   "namespace": "iris",
   "status": "ACTIVE",
   "creationDate": "2019-11-01T20:11:05.474Z",
-  "lastModifiedDate": "2019-12-03T18:19:44.528Z",
+  "lastModifiedDate": "2020-10-19T21:53:20.976Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -42,5 +42,6 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
+  "ageGatings": {},
   "unsearchable": false
 }
