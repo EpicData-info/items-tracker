@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/b2df9b20c72446d690718965da41c7ad/item/EGS_AmnesiaRebirth_FrictionalGames_S1-2560x1440-1eafa9cbe8d27afcaf0190b4e149e1c3.jpg",
-      "md5": "1eafa9cbe8d27afcaf0190b4e149e1c3",
+      "url": "https://cdn1.epicgames.com/b2df9b20c72446d690718965da41c7ad/item/EGS_AmnesiaRebirth_FrictionalGames_S1-2560x1440-7d6c96d8e0ab6bfd7347f6730a7260a1.jpg",
+      "md5": "7d6c96d8e0ab6bfd7347f6730a7260a1",
       "width": 2560,
       "height": 1440,
-      "size": 548735,
-      "uploadedDate": "2020-09-10T19:25:18.431Z"
+      "size": 1006522,
+      "uploadedDate": "2020-10-19T21:16:34.301Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/b2df9b20c72446d690718965da41c7ad/item/EGS_AmnesiaRebirth_FrictionalGames_S2-1200x1600-06aff3408268ec4f2ea6638228818c35.jpg",
-      "md5": "06aff3408268ec4f2ea6638228818c35",
+      "url": "https://cdn1.epicgames.com/b2df9b20c72446d690718965da41c7ad/item/EGS_AmnesiaRebirth_FrictionalGames_S2-1200x1600-06261861317a4d878f0391cbcf127a5a.jpg",
+      "md5": "06261861317a4d878f0391cbcf127a5a",
       "width": 1200,
       "height": 1600,
-      "size": 307089,
-      "uploadedDate": "2020-09-15T16:09:19.780Z"
+      "size": 960451,
+      "uploadedDate": "2020-10-19T21:16:45.161Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "b2df9b20c72446d690718965da41c7ad",
   "status": "ACTIVE",
   "creationDate": "2020-09-10T19:18:19.012Z",
-  "lastModifiedDate": "2020-09-15T18:08:15.181Z",
+  "lastModifiedDate": "2020-10-19T21:16:49.151Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
