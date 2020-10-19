@@ -1,0 +1,34 @@
+{
+  "id": "fd37239236f144129169a7729690e361",
+  "title": "DevPikesPeakAudience",
+  "description": "DevPikesPeakAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "bb9f87bb3d0042258bb1c97397bc60f2",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-25T19:53:46.046Z",
+  "lastModifiedDate": "2020-10-19T19:56:40.226Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "fd37239236f144129169a7729690e361",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Unit 2 Games",
+  "developerId": "o-3wg8cebzdas9bt56adlsslgzr8mcue",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
