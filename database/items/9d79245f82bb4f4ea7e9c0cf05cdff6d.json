@@ -36,7 +36,7 @@
   "namespace": "96d9e862cd3947c28ea4206e89c1ea48",
   "status": "ACTIVE",
   "creationDate": "2020-06-15T17:24:30.431Z",
-  "lastModifiedDate": "2020-10-14T15:02:48.474Z",
+  "lastModifiedDate": "2020-10-20T14:19:07.902Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -88,5 +88,6 @@
   "endOfSupport": false,
   "ageGatings": {},
   "applicationId": "fghi4567oUSLsUcirglhDKetA2p9MMtz",
+  "requiresSecureAccount": false,
   "unsearchable": false
 }
