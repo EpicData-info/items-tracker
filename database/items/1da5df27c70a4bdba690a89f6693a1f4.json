@@ -10,7 +10,7 @@
       "width": 2560,
       "height": 1440,
       "size": 1006522,
-      "uploadedDate": "2020-10-19T21:16:34.301Z"
+      "uploadedDate": "2020-10-19T21:39:30.086Z"
     },
     {
       "type": "DieselGameBoxTall",
@@ -19,7 +19,7 @@
       "width": 1200,
       "height": 1600,
       "size": 960451,
-      "uploadedDate": "2020-10-19T21:16:45.161Z"
+      "uploadedDate": "2020-10-19T21:39:39.261Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "b2df9b20c72446d690718965da41c7ad",
   "status": "ACTIVE",
   "creationDate": "2020-09-10T19:18:19.012Z",
-  "lastModifiedDate": "2020-10-19T21:16:49.151Z",
+  "lastModifiedDate": "2020-10-20T14:57:53.672Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
