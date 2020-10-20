@@ -1,0 +1,52 @@
+{
+  "id": "a36857ef62d3418b8183964d36d93ddf",
+  "title": "MilanoStaging",
+  "description": "MilanoStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "116b93c8b15c4304b7629f0861523322",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-21T13:37:20.544Z",
+  "lastModifiedDate": "2020-10-20T13:26:37.127Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MilanoStaging"
+    }
+  },
+  "entitlementName": "a36857ef62d3418b8183964d36d93ddf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ba4cc4c05a22479b837d97a1631dfbd6",
+      "appId": "9276f40bf7a042348383fbb02d6ecd29",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-08-21T13:50:53.031Z"
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

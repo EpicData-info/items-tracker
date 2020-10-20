@@ -1,0 +1,36 @@
+{
+  "id": "005df6130efa414ba135ca7ad0791126",
+  "title": "MilanoDigitalExtrasAudience",
+  "description": "MilanoDigitalExtrasAudience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "116b93c8b15c4304b7629f0861523322",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-09T14:00:15.142Z",
+  "lastModifiedDate": "2020-10-20T13:27:39.929Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "005df6130efa414ba135ca7ad0791126",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
