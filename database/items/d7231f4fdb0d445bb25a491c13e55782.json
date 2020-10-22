@@ -36,7 +36,7 @@
   "namespace": "6b2ba3389f034a388f602047551b0bf5",
   "status": "ACTIVE",
   "creationDate": "2020-08-06T13:55:54.208Z",
-  "lastModifiedDate": "2020-09-29T15:57:02.431Z",
+  "lastModifiedDate": "2020-10-22T22:11:29.645Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,6 +49,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Aggro Crab/Going Under/EpicStore/"
     },
     "UseAccessControl": {
       "type": "STRING",
