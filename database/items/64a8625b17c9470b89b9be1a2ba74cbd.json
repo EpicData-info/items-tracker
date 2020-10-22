@@ -1,8 +1,8 @@
 {
-  "id": "d7d693bd8a2c4a4685467c1adb091b4c",
-  "title": "Fuser VIP Pack Edition Audience",
-  "description": "Fuser VIP Pack Edition Audience",
-  "longDescription": "Fuser VIP Pack Edition Audience",
+  "id": "64a8625b17c9470b89b9be1a2ba74cbd",
+  "title": "1 Thing Audience",
+  "description": "1 Thing Audience",
+  "longDescription": "1 Thing Audience",
   "keyImages": [],
   "categories": [
     {
@@ -14,15 +14,15 @@
   ],
   "namespace": "6af58339c2424644988e0fb83dfd9bd5",
   "status": "ACTIVE",
-  "creationDate": "2020-06-25T19:46:03.420Z",
-  "lastModifiedDate": "2020-10-22T21:11:32.095Z",
+  "creationDate": "2020-09-25T23:32:47.079Z",
+  "lastModifiedDate": "2020-10-22T21:11:32.094Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "d7d693bd8a2c4a4685467c1adb091b4c",
+  "entitlementName": "64a8625b17c9470b89b9be1a2ba74cbd",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "developer": "NCSoft",
@@ -32,5 +32,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "requiresSecureAccount": false,
   "unsearchable": false
 }

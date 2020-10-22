@@ -1,8 +1,7 @@
 {
-  "id": "d7d693bd8a2c4a4685467c1adb091b4c",
-  "title": "Fuser VIP Pack Edition Audience",
-  "description": "Fuser VIP Pack Edition Audience",
-  "longDescription": "Fuser VIP Pack Edition Audience",
+  "id": "f5f217b04f454feea119c3e50227690b",
+  "title": "Moscow PrePurchase Audience",
+  "description": "Moscow PrePurchase Audience",
   "keyImages": [],
   "categories": [
     {
@@ -14,7 +13,7 @@
   ],
   "namespace": "6af58339c2424644988e0fb83dfd9bd5",
   "status": "ACTIVE",
-  "creationDate": "2020-06-25T19:46:03.420Z",
+  "creationDate": "2020-06-19T15:02:10.874Z",
   "lastModifiedDate": "2020-10-22T21:11:32.095Z",
   "customAttributes": {
     "SupportedPlatforms": {
@@ -22,7 +21,7 @@
       "value": "Windows"
     }
   },
-  "entitlementName": "d7d693bd8a2c4a4685467c1adb091b4c",
+  "entitlementName": "f5f217b04f454feea119c3e50227690b",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "developer": "NCSoft",

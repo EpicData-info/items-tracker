@@ -1,8 +1,8 @@
 {
-  "id": "d7d693bd8a2c4a4685467c1adb091b4c",
-  "title": "Fuser VIP Pack Edition Audience",
-  "description": "Fuser VIP Pack Edition Audience",
-  "longDescription": "Fuser VIP Pack Edition Audience",
+  "id": "85a347a2eddd4496a86c0f5c68fda989",
+  "title": "Trap Queen Audience",
+  "description": "Trap Queen Audience",
+  "longDescription": "Trap Queen Audience",
   "keyImages": [],
   "categories": [
     {
@@ -14,7 +14,7 @@
   ],
   "namespace": "6af58339c2424644988e0fb83dfd9bd5",
   "status": "ACTIVE",
-  "creationDate": "2020-06-25T19:46:03.420Z",
+  "creationDate": "2020-09-25T23:36:26.741Z",
   "lastModifiedDate": "2020-10-22T21:11:32.095Z",
   "customAttributes": {
     "SupportedPlatforms": {
@@ -22,7 +22,7 @@
       "value": "Windows"
     }
   },
-  "entitlementName": "d7d693bd8a2c4a4685467c1adb091b4c",
+  "entitlementName": "85a347a2eddd4496a86c0f5c68fda989",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "developer": "NCSoft",
@@ -32,5 +32,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "requiresSecureAccount": false,
   "unsearchable": false
 }

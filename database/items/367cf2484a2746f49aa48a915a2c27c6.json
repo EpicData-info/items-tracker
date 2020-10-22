@@ -1,8 +1,8 @@
 {
-  "id": "d7d693bd8a2c4a4685467c1adb091b4c",
-  "title": "Fuser VIP Pack Edition Audience",
-  "description": "Fuser VIP Pack Edition Audience",
-  "longDescription": "Fuser VIP Pack Edition Audience",
+  "id": "367cf2484a2746f49aa48a915a2c27c6",
+  "title": "Funky Cold Medina Audience",
+  "description": "Funky Cold Medina Audience",
+  "longDescription": "Funky Cold Medina Audience",
   "keyImages": [],
   "categories": [
     {
@@ -14,15 +14,15 @@
   ],
   "namespace": "6af58339c2424644988e0fb83dfd9bd5",
   "status": "ACTIVE",
-  "creationDate": "2020-06-25T19:46:03.420Z",
-  "lastModifiedDate": "2020-10-22T21:11:32.095Z",
+  "creationDate": "2020-09-25T23:45:48.478Z",
+  "lastModifiedDate": "2020-10-22T21:11:32.094Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "d7d693bd8a2c4a4685467c1adb091b4c",
+  "entitlementName": "367cf2484a2746f49aa48a915a2c27c6",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "developer": "NCSoft",
@@ -32,5 +32,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "requiresSecureAccount": false,
   "unsearchable": false
 }
