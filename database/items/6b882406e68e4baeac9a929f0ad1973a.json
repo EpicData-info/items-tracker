@@ -16,11 +16,15 @@
   "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
   "status": "ACTIVE",
   "creationDate": "2020-04-15T17:08:42.660Z",
-  "lastModifiedDate": "2020-08-17T20:03:35.221Z",
+  "lastModifiedDate": "2020-10-22T16:49:53.261Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData} /DefenseGrid/"
     },
     "FolderName": {
       "type": "STRING",
