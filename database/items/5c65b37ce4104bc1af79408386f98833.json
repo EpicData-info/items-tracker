@@ -1,25 +1,26 @@
 {
   "id": "5c65b37ce4104bc1af79408386f98833",
-  "title": "Airborne Kingdom Pre-Purchase",
-  "description": "Airborne Kingdom Pre-Purchase",
+  "title": "Airborne Kingdom",
+  "description": "Airborne Kingdom",
+  "technicalDetails": "This is the Pre-Purchase artifact",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_AirborneKingdom_TheWanderingBan_S1-2560x1440-622868d9ba16337834baa187c1293188-2560x1440-622868d9ba16337834baa187c1293188.jpg",
-      "md5": "622868d9ba16337834baa187c1293188",
-      "width": 2560,
-      "height": 1440,
-      "size": 504114,
-      "uploadedDate": "2020-09-18T20:38:14.085Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_AirborneKingdom_TheWanderingBan_S4-510x680--510x680-0c7e1ea031ccfca05216f1ec6f3a2988.jpg",
+      "md5": "0c7e1ea031ccfca05216f1ec6f3a2988",
+      "width": 510,
+      "height": 680,
+      "size": 42723,
+      "uploadedDate": "2020-06-13T18:55:22.873Z"
     },
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_AirborneKingdom_TheWanderingBan_S2-860x1148-73860673400d93eddfef753655cc55cf-860x1148-73860673400d93eddfef753655cc55cf.jpg",
-      "md5": "73860673400d93eddfef753655cc55cf",
-      "width": 860,
-      "height": 1148,
-      "size": 496150,
-      "uploadedDate": "2020-09-18T20:38:25.674Z"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_AirborneKingdom_TheWanderingBan_S3-1360x766-1360x766-66c3e3bfc42f10d6f68ab49c9c19bf6a.jpg",
+      "md5": "66c3e3bfc42f10d6f68ab49c9c19bf6a",
+      "width": 1360,
+      "height": 766,
+      "size": 147216,
+      "uploadedDate": "2020-06-13T18:55:35.813Z"
     }
   ],
   "categories": [
@@ -36,7 +37,7 @@
   "namespace": "e1809e1742cb498080d8849b11a99c5a",
   "status": "ACTIVE",
   "creationDate": "2020-06-13T18:36:11.284Z",
-  "lastModifiedDate": "2020-09-18T20:38:34.827Z",
+  "lastModifiedDate": "2020-10-22T19:12:10.425Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -89,6 +90,5 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "selfRefundable": true,
   "unsearchable": false
 }

@@ -4,22 +4,22 @@
   "description": "MacawStaging",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_AirborneKingdom_TheWanderingBan_S2-860x1148-73860673400d93eddfef753655cc55cf-860x1148-73860673400d93eddfef753655cc55cf.jpg",
-      "md5": "73860673400d93eddfef753655cc55cf",
-      "width": 860,
-      "height": 1148,
-      "size": 496150,
-      "uploadedDate": "2020-09-18T20:40:22.356Z"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_WanderingBand_AirborneKingdom_IC1_color-200x200-7371be8d9858a68d70fe5da214fc8ed6.png",
+      "md5": "7371be8d9858a68d70fe5da214fc8ed6",
+      "width": 200,
+      "height": 200,
+      "size": 6360,
+      "uploadedDate": "2019-08-28T19:59:04.551Z"
     },
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_AirborneKingdom_TheWanderingBan_S1-2560x1440-622868d9ba16337834baa187c1293188-2560x1440-622868d9ba16337834baa187c1293188.jpg",
-      "md5": "622868d9ba16337834baa187c1293188",
-      "width": 2560,
-      "height": 1440,
-      "size": 504114,
-      "uploadedDate": "2020-09-18T20:40:32.239Z"
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_WanderingBand_AirborneKingdom_Facebook_01-1920x1080-2712acb6db262f45254f72a7d6e35c1a.jpg",
+      "md5": "2712acb6db262f45254f72a7d6e35c1a",
+      "width": 1920,
+      "height": 1080,
+      "size": 239259,
+      "uploadedDate": "2019-08-28T19:59:16.466Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "e1809e1742cb498080d8849b11a99c5a",
   "status": "ACTIVE",
   "creationDate": "2019-07-12T21:27:32.522Z",
-  "lastModifiedDate": "2020-09-18T20:40:37.179Z",
+  "lastModifiedDate": "2020-10-22T19:12:10.425Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -76,6 +76,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "ageGatings": {},
   "unsearchable": false
 }
