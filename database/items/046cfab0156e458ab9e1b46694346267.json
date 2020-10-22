@@ -4,31 +4,22 @@
   "description": "Ancestors The Humankind Odyssey",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/amaranth/item/EGS_PanacheDigitalGames_AncestorsTheHumankindOdyssey_IC1_GameLogoDarkbg-3000x1206-32a3a2c8b1036e5d757171bfc9c960ed.png",
-      "md5": "32a3a2c8b1036e5d757171bfc9c960ed",
-      "width": 3000,
-      "height": 1206,
-      "size": 55259,
-      "uploadedDate": "2019-05-23T18:34:29.538Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/amaranth/item/EGS_PanacheDigitalGames_Ancestors_N2_2560x1440-2560x1440-50339597c82243866cade177e5ed78cf.png",
-      "md5": "50339597c82243866cade177e5ed78cf",
+      "url": "https://cdn1.epicgames.com/amaranth/item/Ancestors_EGS_LandscapeProductImage_2560x1440-2560x1440-9d85873bedb2885c6cdef5f17b2426f7.jpg",
+      "md5": "9d85873bedb2885c6cdef5f17b2426f7",
       "width": 2560,
       "height": 1440,
-      "size": 1603409,
-      "uploadedDate": "2019-05-23T18:34:38.819Z"
+      "size": 292438,
+      "uploadedDate": "2020-10-20T17:35:03.971Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/amaranth/item/EGS_PanacheDigitalGames_Ancestors_S4_1280x1440-1280x1440-4a62ef24f5cd0f4fc0d40b70b80b5869.png",
-      "md5": "4a62ef24f5cd0f4fc0d40b70b80b5869",
-      "width": 1280,
-      "height": 1440,
-      "size": 918547,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/amaranth/item/Ancestors_EGS_PortraitProductImage_1200x1600-1200x1600-ddddb93fd9f6c66a1a34d4be4673bf17.jpg",
+      "md5": "ddddb93fd9f6c66a1a34d4be4673bf17",
+      "width": 1200,
+      "height": 1600,
+      "size": 202522,
+      "uploadedDate": "2020-10-20T17:35:32.691Z"
     }
   ],
   "categories": [
@@ -42,7 +33,7 @@
   "namespace": "amaranth",
   "status": "ACTIVE",
   "creationDate": "2019-03-18T03:55:03.231Z",
-  "lastModifiedDate": "2020-08-27T16:19:37.787Z",
+  "lastModifiedDate": "2020-10-20T17:35:38.331Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -99,5 +90,6 @@
     "(egstore && amaranth)"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

@@ -1,0 +1,91 @@
+{
+  "id": "86d5286d1b254e10902d6e2d7fc3bb76",
+  "title": "Darkest Dungeon II",
+  "description": "Darkest Dungeon II",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/6ff9efdef6dc45ecb40ed20fcd2c4621/item/EGS_DarkestDungeonII_RedHookStudios_S1-2560x1440-8abebbbd833c118b5e8347efdee8a222.jpg",
+      "md5": "8abebbbd833c118b5e8347efdee8a222",
+      "width": 2560,
+      "height": 1440,
+      "size": 682040,
+      "uploadedDate": "2020-10-19T10:03:41.337Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/6ff9efdef6dc45ecb40ed20fcd2c4621/item/EGS_DarkestDungeonII_RedHookStudios_S2-1200x1600-c54177d1168a70c7b9ddf2083a774324.jpg",
+      "md5": "c54177d1168a70c7b9ddf2083a774324",
+      "width": 1200,
+      "height": 1600,
+      "size": 678846,
+      "uploadedDate": "2020-10-19T10:03:44.587Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "6ff9efdef6dc45ecb40ed20fcd2c4621",
+  "status": "ACTIVE",
+  "creationDate": "2019-08-23T21:23:54.176Z",
+  "lastModifiedDate": "2020-10-21T15:59:30.380Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "6ff9efdef6dc45ecb40ed20fcd2c4621"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DarkestDungeon2"
+    }
+  },
+  "entitlementName": "86d5286d1b254e10902d6e2d7fc3bb76",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e9117dc77d014df7afdf1dc0577f2b28",
+      "appId": "Suka",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2019-08-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Red Hook Studios",
+  "developerId": "o-w5yb6awebxmp362nvut3qd3xb4jmur",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

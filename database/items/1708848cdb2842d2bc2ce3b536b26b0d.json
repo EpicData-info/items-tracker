@@ -1,7 +1,7 @@
 {
-  "id": "d7e89e3063f24173bfe174a07fe0a08e",
-  "title": "EiderCampaignPack",
-  "description": "EiderCampaignPack",
+  "id": "1708848cdb2842d2bc2ce3b536b26b0d",
+  "title": "Scorpio",
+  "description": "Scorpio",
   "categories": [
     {
       "path": "public"
@@ -13,10 +13,10 @@
       "path": "applications"
     }
   ],
-  "namespace": "ed55aa5edc5941de92fd7f64de415793",
+  "namespace": "02c14a01b7044db98de3f3a10813a42e",
   "status": "ACTIVE",
-  "creationDate": "2020-02-04T16:16:55.928Z",
-  "lastModifiedDate": "2020-10-21T15:01:43.058Z",
+  "creationDate": "2020-09-08T17:30:29.527Z",
+  "lastModifiedDate": "2020-10-21T15:40:06.767Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,7 +24,7 @@
     },
     "PresenceId": {
       "type": "STRING",
-      "value": "ed55aa5edc5941de92fd7f64de415793"
+      "value": "02c14a01b7044db98de3f3a10813a42e"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -44,27 +44,29 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "EiderCampaignPack"
+      "value": "Scorpio"
     }
   },
-  "entitlementName": "d7e89e3063f24173bfe174a07fe0a08e",
+  "entitlementName": "1708848cdb2842d2bc2ce3b536b26b0d",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "821f23429b2c45d3bfb7d70db7956d5d",
-      "appId": "EiderCampaignPack",
+      "id": "fb1ca8df8f514499a40df647efc80aa4",
+      "appId": "5fc579fbef6a4bf99171861b68b8fcb2",
       "platform": [
         "Windows"
-      ]
+      ],
+      "dateAdded": "2020-10-13T00:00:00.000Z"
     }
   ],
-  "developer": "IO Interactive",
-  "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "requiresSecureAccount": false,
   "unsearchable": false
 }

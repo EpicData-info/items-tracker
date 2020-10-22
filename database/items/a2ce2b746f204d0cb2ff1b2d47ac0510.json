@@ -13,11 +13,11 @@
   "namespace": "ca16315212fe486b96969e8fc6d6faf6",
   "status": "ACTIVE",
   "creationDate": "2020-09-22T13:36:24.098Z",
-  "lastModifiedDate": "2020-10-08T12:17:13.929Z",
+  "lastModifiedDate": "2020-10-22T02:26:44.224Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
-      "value": "Windows"
+      "value": "Windows, Mac"
     }
   },
   "entitlementName": "a2ce2b746f204d0cb2ff1b2d47ac0510",
@@ -29,6 +29,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "requiresSecureAccount": false,
   "unsearchable": false
 }

@@ -1,0 +1,92 @@
+{
+  "id": "d8feca711b13448d992d2988e25e784b",
+  "title": "Democracy 4",
+  "description": "Democracy 4",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/74b602736d704ed2a5915c31319d99f6/item/EGS_Theultimatepoliticalstrategygameisback_PositechGames_S1-2560x1440-33f27e8ec9ac5a10cd1318a5e3d1d591.jpg",
+      "md5": "33f27e8ec9ac5a10cd1318a5e3d1d591",
+      "width": 2560,
+      "height": 1440,
+      "size": 888103,
+      "uploadedDate": "2020-10-19T06:28:28.602Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/74b602736d704ed2a5915c31319d99f6/item/EGS_Theultimatepoliticalstrategygameisback_PositechGames_S2-1200x1600-ec91fbed991c7124fb9257b86d57c90b.jpg",
+      "md5": "ec91fbed991c7124fb9257b86d57c90b",
+      "width": 1200,
+      "height": 1600,
+      "size": 512620,
+      "uploadedDate": "2020-10-19T06:28:30.536Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "74b602736d704ed2a5915c31319d99f6",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-24T03:23:30.482Z",
+  "lastModifiedDate": "2020-10-21T14:55:31.831Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "74b602736d704ed2a5915c31319d99f6"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Democracy4"
+    }
+  },
+  "entitlementName": "d8feca711b13448d992d2988e25e784b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a0112d9fec464dc0b72545ce77825ebf",
+      "appId": "5e8da4f19dae455e948e568d8a0272bf",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-24T00:00:00.000Z"
+    }
+  ],
+  "developer": "Positech Computing Ltd",
+  "developerId": "o-hrszwkzbhb269y9we9tpukac2zxb5e",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

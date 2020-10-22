@@ -1,7 +1,7 @@
 {
-  "id": "c7d50c22eba04ce9888a0be146acfc38",
-  "title": "FluteStaging",
-  "description": "FluteStaging",
+  "id": "48ceee0337394033990f4e1507d176bd",
+  "title": "ScorpioStaging",
+  "description": "ScorpioStaging",
   "categories": [
     {
       "path": "public"
@@ -13,10 +13,10 @@
       "path": "applications"
     }
   ],
-  "namespace": "ca16315212fe486b96969e8fc6d6faf6",
+  "namespace": "02c14a01b7044db98de3f3a10813a42e",
   "status": "ACTIVE",
-  "creationDate": "2020-09-22T13:36:24.290Z",
-  "lastModifiedDate": "2020-10-22T02:26:44.236Z",
+  "creationDate": "2020-09-08T17:30:29.626Z",
+  "lastModifiedDate": "2020-10-21T15:40:06.767Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,24 +24,24 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "FluteStaging"
+      "value": "ScorpioStaging"
     }
   },
-  "entitlementName": "c7d50c22eba04ce9888a0be146acfc38",
+  "entitlementName": "48ceee0337394033990f4e1507d176bd",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "4b32d189232c4ff69500d74e82c263f4",
-      "appId": "482065a9d5dd443f8d92329d4cf0addb",
+      "id": "add8e2f8cea745febd6f0f3ca6013fbf",
+      "appId": "17390905d75b4c60802c172a681bb510",
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-09-22T13:39:14.808Z"
+      "dateAdded": "2020-10-13T18:32:14.238Z"
     }
   ],
-  "developer": "Devolver Digital, Inc.",
-  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
   "eulaIds": [
     "egstore"
   ],

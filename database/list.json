@@ -915,7 +915,7 @@
     ],
     "Private Division",
     1552881303,
-    1598545177
+    1603215338
   ],
   [
     "0472b1838bb54e229b1bc552f78fe886",
@@ -1624,7 +1624,7 @@
     ],
     "Devolver Digital, Inc.",
     1600781784,
-    1602159433
+    1603333604
   ],
   [
     "0832c097a3924f60b2e2fe3d14a9b982",
@@ -4198,6 +4198,19 @@
     1589461658
   ],
   [
+    "13cbf52366674d75a7c1d06a40045122",
+    "02c14a01b7044db98de3f3a10813a42e",
+    "HUMANKIND™",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "SEGA of Europe",
+    1602613582,
+    1603294806
+  ],
+  [
     "13e4b8ea3c6c41c4a1dfd44e4b03d5f7",
     "5a82d5954a1943d79dc6b49cde2fe972",
     "48 hours Double XP",
@@ -4889,6 +4902,18 @@
     1589774866
   ],
   [
+    "16f543a42c76498a8d4c197cd9654a52",
+    "02c14a01b7044db98de3f3a10813a42e",
+    "DevScorpioAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "SEGA of Europe",
+    1599586229,
+    1603294806
+  ],
+  [
     "1707c766f9094b499adc1b0269ee043e",
     "52613245bcd34a8eb99078f423620a4d",
     "Character skin + Plasma Weapon Audience",
@@ -4899,6 +4924,19 @@
     "Bigben Interactive",
     1570543895,
     1575554259
+  ],
+  [
+    "1708848cdb2842d2bc2ce3b536b26b0d",
+    "02c14a01b7044db98de3f3a10813a42e",
+    "Scorpio",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "SEGA of Europe",
+    1599586229,
+    1603294806
   ],
   [
     "1723f87d7d9e40a3895feacfa2aa51fa",
@@ -5993,7 +6031,7 @@
     ],
     "Brace Yourself Games",
     1560006916,
-    1588876620
+    1603320494
   ],
   [
     "1d4ebc23d5894841b1b65391d8e6dbfd",
@@ -7284,7 +7322,7 @@
     ],
     "Plug In Digital SAS",
     1602072422,
-    1602073054
+    1603286508
   ],
   [
     "23739529fe6746bd92b2308d565d4c72",
@@ -7725,6 +7763,18 @@
     "Frictional Games",
     1587392187,
     1598916004
+  ],
+  [
+    "255285d27739442397ed07ef9f8e2f66",
+    "02c14a01b7044db98de3f3a10813a42e",
+    "ScorpioPrePurchaseAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "SEGA of Europe",
+    1602613582,
+    1603294806
   ],
   [
     "2570dc2fefcf4611a3ab9419f216fed5",
@@ -9406,7 +9456,7 @@
     ],
     "Plug In Digital SAS",
     1602072233,
-    1602073127
+    1603286590
   ],
   [
     "2d5bff99883b46a2990c701e44157881",
@@ -12702,7 +12752,7 @@
     ],
     "THQ Nordic GmbH",
     1598017040,
-    1603200397
+    1603295325
   ],
   [
     "3edb41a778104f5ba39f46884cc7d1f0",
@@ -15038,6 +15088,19 @@
     1588955098
   ],
   [
+    "48ceee0337394033990f4e1507d176bd",
+    "02c14a01b7044db98de3f3a10813a42e",
+    "ScorpioStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "SEGA of Europe",
+    1599586229,
+    1603294806
+  ],
+  [
     "48d281f487154bb29dd75bd7bb95ac8e",
     "ut",
     "Pistola",
@@ -15356,7 +15419,7 @@
     ],
     "Plug In Digital SAS",
     1592241870,
-    1603203547
+    1603278392
   ],
   [
     "4a5737045a7047de9cbbb68169af5fbf",
@@ -15759,7 +15822,7 @@
     ],
     "Plug In Digital SAS",
     1597351623,
-    1602592546
+    1603297999
   ],
   [
     "4c0e3fe1792140d1baab926de1a008d9",
@@ -22794,7 +22857,7 @@
     ],
     "Plug In Digital SAS",
     1602072419,
-    1602073054
+    1603286508
   ],
   [
     "6d8ead1f183b4a85b68b74867374ad57",
@@ -23246,7 +23309,7 @@
     ],
     "NCSoft",
     1592329798,
-    1602693479
+    1603313839
   ],
   [
     "6f1e176f7b6340fba18065452e21dede",
@@ -27157,7 +27220,7 @@
     ],
     "Plug In Digital SAS",
     1602072240,
-    1602073127
+    1603286590
   ],
   [
     "82bb58c77fbf495bb8dfeff78d18aadf",
@@ -28111,6 +28174,19 @@
     "Square Enix",
     1576525136,
     1586442120
+  ],
+  [
+    "86d5286d1b254e10902d6e2d7fc3bb76",
+    "6ff9efdef6dc45ecb40ed20fcd2c4621",
+    "Darkest Dungeon II",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Red Hook Studios",
+    1566595434,
+    1603295970
   ],
   [
     "86db4f6493d54c62a377d22509145f2b",
@@ -29600,7 +29676,7 @@
     ],
     "Plug In Digital SAS",
     1602072246,
-    1602073127
+    1603286590
   ],
   [
     "8eb9fc0326344d11887d5bef1b512b82",
@@ -32578,7 +32654,7 @@
     ],
     "Plug In Digital SAS",
     1592241870,
-    1603203547
+    1603278329
   ],
   [
     "9daaf4635bfa43f4b9c7471da4eafabd",
@@ -33834,7 +33910,7 @@
     ],
     "Devolver Digital, Inc.",
     1600781784,
-    1602159433
+    1603333604
   ],
   [
     "a2cef7ca703340d988e218933d8c93c4",
@@ -33997,7 +34073,7 @@
     ],
     "THQ Nordic GmbH",
     1598017040,
-    1603200397
+    1603295349
   ],
   [
     "a3710423f12e423c9b1b1c24e2a21d18",
@@ -34711,6 +34787,18 @@
     "Epic Dev Test Account",
     1583941768,
     1591035802
+  ],
+  [
+    "a72585838efe416bbc19b8e6e9bb9491",
+    "02c14a01b7044db98de3f3a10813a42e",
+    "ScorpioGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "SEGA of Europe",
+    1599586229,
+    1603294806
   ],
   [
     "a740636431f34480b32ae2ef1646e84b",
@@ -36785,7 +36873,7 @@
   [
     "b0ab6f6318084c8588733d1a2344178b",
     "c03a3687567a4cf3910ea5ec7279664e",
-    "ScourgebringerStaging",
+    "ZagrebStaging",
     [
       "public",
       "games",
@@ -36793,7 +36881,7 @@
     ],
     "Plug In Digital SAS",
     1597351624,
-    1602592678
+    1603286508
   ],
   [
     "b0b4f92ee2fc4b908914864067375b56",
@@ -37237,7 +37325,7 @@
     ],
     "Plug In Digital SAS",
     1597351623,
-    1602073127
+    1603286590
   ],
   [
     "b2e4a9b2f8474048bc258a23307b43d1",
@@ -41590,7 +41678,7 @@
     ],
     "Devolver Digital, Inc.",
     1600781784,
-    1602159335
+    1603333604
   ],
   [
     "c7ede27c22654e85a266412984245346",
@@ -41662,7 +41750,7 @@
     ],
     "Plug In Digital SAS",
     1597351623,
-    1602073127
+    1603286590
   ],
   [
     "c8529a779c4f4414b29abca872c764bf",
@@ -45092,12 +45180,11 @@
     [
       "public",
       "games",
-      "dlc",
       "applications"
     ],
-    "Epic Dev Test Account",
+    "IO Interactive",
     1580833015,
-    1598540424
+    1603292503
   ],
   [
     "d7ef79ff2f0e4934a6dc1bb15d681aa0",
@@ -45402,6 +45489,19 @@
     "Quantic Dream",
     1559809454,
     1571236722
+  ],
+  [
+    "d8feca711b13448d992d2988e25e784b",
+    "74b602736d704ed2a5915c31319d99f6",
+    "Democracy 4",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Positech Computing Ltd",
+    1600917810,
+    1603292131
   ],
   [
     "d90f1828c6e6467087fc79c53a7b2746",
@@ -48861,7 +48961,7 @@
   [
     "e9efc664a0d64b8b8d882f947ddbb6fc",
     "ca16315212fe486b96969e8fc6d6faf6",
-    "Flute",
+    "Disc Room",
     [
       "public",
       "games",
@@ -48869,7 +48969,7 @@
     ],
     "Devolver Digital, Inc.",
     1600781784,
-    1602159335
+    1603333604
   ],
   [
     "e9efc79efa0845e9b4798bff69f9799c",
@@ -51887,7 +51987,7 @@
     ],
     "Private Division",
     1552717232,
-    1601591780
+    1603219632
   ],
   [
     "fa17c2d5a19a4672a7e267bdb89708e2",
@@ -52201,7 +52301,7 @@
     ],
     "Dragonest Game",
     1559850880,
-    1589333413
+    1603307503
   ],
   [
     "fbd90bc3d83e4b62b56deb900169d1ad",

@@ -36,7 +36,7 @@
   "namespace": "96d9e862cd3947c28ea4206e89c1ea48",
   "status": "ACTIVE",
   "creationDate": "2020-06-15T17:24:30.431Z",
-  "lastModifiedDate": "2020-10-20T14:19:07.902Z",
+  "lastModifiedDate": "2020-10-21T11:05:29.310Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -50,6 +50,10 @@
       "type": "STRING",
       "value": "false"
     },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Pixel Reef/Paper Beast/"
+    },
     "UseAccessControl": {
       "type": "STRING",
       "value": "false"
@@ -61,6 +65,10 @@
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "500"
     },
     "FolderName": {
       "type": "STRING",

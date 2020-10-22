@@ -1,7 +1,7 @@
 {
-  "id": "b2d9599bc40047de922193e3948377fe",
-  "title": "DevZagrebAudience",
-  "description": "DevZagrebAudience",
+  "id": "16f543a42c76498a8d4c197cd9654a52",
+  "title": "DevScorpioAudience",
+  "description": "DevScorpioAudience",
   "categories": [
     {
       "path": "audience"
@@ -10,21 +10,21 @@
       "path": "developer"
     }
   ],
-  "namespace": "c03a3687567a4cf3910ea5ec7279664e",
+  "namespace": "02c14a01b7044db98de3f3a10813a42e",
   "status": "ACTIVE",
-  "creationDate": "2020-08-13T20:47:03.903Z",
-  "lastModifiedDate": "2020-10-21T13:23:10.657Z",
+  "creationDate": "2020-09-08T17:30:29.428Z",
+  "lastModifiedDate": "2020-10-21T15:40:06.767Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "b2d9599bc40047de922193e3948377fe",
+  "entitlementName": "16f543a42c76498a8d4c197cd9654a52",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Plug In Digital SAS",
-  "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
   "eulaIds": [
     "egstore"
   ],

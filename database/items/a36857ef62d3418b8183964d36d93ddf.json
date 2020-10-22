@@ -16,11 +16,15 @@
   "namespace": "116b93c8b15c4304b7629f0861523322",
   "status": "ACTIVE",
   "creationDate": "2020-08-21T13:37:20.544Z",
-  "lastModifiedDate": "2020-10-20T13:26:37.127Z",
+  "lastModifiedDate": "2020-10-21T15:49:09.090Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/ANX/Saved/SaveGames/"
     },
     "FolderName": {
       "type": "STRING",
@@ -37,7 +41,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-08-21T13:50:53.031Z"
+      "dateAdded": "2020-08-21T00:00:00.000Z"
     }
   ],
   "developer": "THQ Nordic GmbH",

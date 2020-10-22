@@ -36,7 +36,7 @@
   "namespace": "116b93c8b15c4304b7629f0861523322",
   "status": "ACTIVE",
   "creationDate": "2020-08-21T13:37:20.483Z",
-  "lastModifiedDate": "2020-10-20T13:26:37.126Z",
+  "lastModifiedDate": "2020-10-21T15:48:45.396Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,6 +49,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/ANX/Saved/SaveGames/"
     },
     "UseAccessControl": {
       "type": "STRING",
