@@ -1,0 +1,36 @@
+{
+  "id": "4c0e8062d53f47bba98547aef1d1b089",
+  "title": "DLC1 Audience",
+  "description": "DLC1 Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "1368a7f14c3344bbaededbae528fafed",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-28T15:43:33.675Z",
+  "lastModifiedDate": "2020-10-22T14:33:54.821Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4c0e8062d53f47bba98547aef1d1b089",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Motion Twin",
+  "developerId": "o-7saqb478dnbhsw9awuk67h7lu2ynua",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

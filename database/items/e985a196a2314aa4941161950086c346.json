@@ -1,0 +1,34 @@
+{
+  "id": "e985a196a2314aa4941161950086c346",
+  "title": "DevFlanAudience",
+  "description": "DevFlanAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "1368a7f14c3344bbaededbae528fafed",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-27T13:09:17.365Z",
+  "lastModifiedDate": "2020-10-22T14:33:54.829Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e985a196a2314aa4941161950086c346",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Motion Twin",
+  "developerId": "o-7saqb478dnbhsw9awuk67h7lu2ynua",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

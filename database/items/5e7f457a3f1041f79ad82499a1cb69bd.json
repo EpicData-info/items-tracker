@@ -1,0 +1,97 @@
+{
+  "id": "5e7f457a3f1041f79ad82499a1cb69bd",
+  "title": "Dead Cells",
+  "description": "Dead Cells",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/item/EGS_DeadCells_MotionTwin_S1-2560x1440-87045359c3856ef941959aeeb00dbc7f.jpg",
+      "md5": "87045359c3856ef941959aeeb00dbc7f",
+      "width": 2560,
+      "height": 1440,
+      "size": 1024033,
+      "uploadedDate": "2020-10-19T20:56:08.359Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/item/EGS_DeadCells_MotionTwin_S2-1200x1600-34d9d5ebca89e17e0a26ddb2cb158b75.jpg",
+      "md5": "34d9d5ebca89e17e0a26ddb2cb158b75",
+      "width": 1200,
+      "height": 1600,
+      "size": 960985,
+      "uploadedDate": "2020-10-19T20:56:16.094Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "1368a7f14c3344bbaededbae528fafed",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-27T13:09:17.434Z",
+  "lastModifiedDate": "2020-10-22T14:30:54.751Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "1368a7f14c3344bbaededbae528fafed"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{InstallDir}/save/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "DeadCells"
+    }
+  },
+  "entitlementName": "5e7f457a3f1041f79ad82499a1cb69bd",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "1be897e126344882a58f9b2ec9d0ce37",
+      "appId": "ca0e1d19d3b640b39d8d20e966067872",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-07-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "Motion Twin",
+  "developerId": "o-7saqb478dnbhsw9awuk67h7lu2ynua",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567idaGrktffM1xK8hmUKcWwgjF",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
