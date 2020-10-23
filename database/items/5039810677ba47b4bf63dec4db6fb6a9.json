@@ -2,6 +2,26 @@
   "id": "5039810677ba47b4bf63dec4db6fb6a9",
   "title": "Citrine",
   "description": "Citrine",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/0a4fc789eb0143c29296de79df5387ab/item/EGS_CryingSunsisatacticalroguelite_AltShift_S1-2560x1440-fe76927669c4b3d6e03da9d614693a9c.jpg",
+      "md5": "fe76927669c4b3d6e03da9d614693a9c",
+      "width": 2560,
+      "height": 1440,
+      "size": 527448,
+      "uploadedDate": "2020-10-06T22:48:42.952Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/0a4fc789eb0143c29296de79df5387ab/item/EGS_CryingSunsisatacticalroguelite_AltShift_S2-1200x1600-cade755556a8d2b988626591b9464449.jpg",
+      "md5": "cade755556a8d2b988626591b9464449",
+      "width": 1200,
+      "height": 1600,
+      "size": 361774,
+      "uploadedDate": "2020-10-06T22:48:45.798Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,7 +36,7 @@
   "namespace": "0a4fc789eb0143c29296de79df5387ab",
   "status": "ACTIVE",
   "creationDate": "2020-06-30T15:50:20.468Z",
-  "lastModifiedDate": "2020-10-05T18:41:12.510Z",
+  "lastModifiedDate": "2020-10-23T18:11:11.278Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

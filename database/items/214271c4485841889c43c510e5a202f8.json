@@ -1,0 +1,74 @@
+{
+  "id": "214271c4485841889c43c510e5a202f8",
+  "title": "CitrineSoundtrack",
+  "description": "CitrineSoundtrack",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "0a4fc789eb0143c29296de79df5387ab",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-03T21:38:07.131Z",
+  "lastModifiedDate": "2020-10-23T18:11:11.277Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "0a4fc789eb0143c29296de79df5387ab"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CitrineSoundtrack"
+    }
+  },
+  "entitlementName": "214271c4485841889c43c510e5a202f8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a5e7a9a4557f458cb74ad2c0454b4634",
+      "appId": "588cd870b7414042a9fde0e2703a29da",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-08-03T00:00:00.000Z"
+    }
+  ],
+  "developer": "Humble Bundle",
+  "developerId": "o-pldxyabsslnt6jth2z634mmr2pw8lu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
