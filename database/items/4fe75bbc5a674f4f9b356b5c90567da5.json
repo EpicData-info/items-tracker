@@ -24,24 +24,6 @@
       "uploadedDate": "2020-06-16T18:23:58.589Z"
     },
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/fn/item/14BR_BPLaunch_EGS_S1_2560x1440-2560x1440-051f34e4a0536fdd01ba728521b6afae.jpg",
-      "md5": "051f34e4a0536fdd01ba728521b6afae",
-      "width": 2560,
-      "height": 1440,
-      "size": 2320983,
-      "uploadedDate": "2020-08-27T07:31:18.815Z"
-    },
-    {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/fn/item/14BR_BPLaunch_EGS_S2_1200x1600-1200x1600-d31d390c22d23717659df2b807342d25.jpg",
-      "md5": "d31d390c22d23717659df2b807342d25",
-      "width": 1200,
-      "height": 1600,
-      "size": 1195283,
-      "uploadedDate": "2020-08-27T07:31:32.119Z"
-    },
-    {
       "type": "Screenshot",
       "url": "https://cdn1.epicgames.com/fn/item/EN_14BR_Screenshots_In-Game_MarvelHeroes-1242x2688-c95f462c347676c1e358a0775e85eab5.jpg",
       "md5": "c95f462c347676c1e358a0775e85eab5",
@@ -103,6 +85,24 @@
       "height": 2688,
       "size": 1743786,
       "uploadedDate": "2020-08-28T14:30:18.166Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fn/item/EGS_Fortnitemares_S1-2560x1440-653047c96405c5dfe7efe6b8330f1b35.jpg",
+      "md5": "653047c96405c5dfe7efe6b8330f1b35",
+      "width": 2560,
+      "height": 1440,
+      "size": 2605495,
+      "uploadedDate": "2020-10-23T19:43:31.829Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/fn/item/EGS_Fortnitemares_S2-1200x1600-c7a1e774a4fb1cd6fec1ac124882027d.jpg",
+      "md5": "c7a1e774a4fb1cd6fec1ac124882027d",
+      "width": 1200,
+      "height": 1600,
+      "size": 1399266,
+      "uploadedDate": "2020-10-23T19:43:42.563Z"
     }
   ],
   "categories": [
@@ -116,7 +116,7 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2014-09-12T15:20:06.103Z",
-  "lastModifiedDate": "2020-09-23T13:50:17.081Z",
+  "lastModifiedDate": "2020-10-23T19:46:09.248Z",
   "customAttributes": {
     "com.epicgames.portal.product.privacyPolicyUrl": {
       "type": "STRING",
