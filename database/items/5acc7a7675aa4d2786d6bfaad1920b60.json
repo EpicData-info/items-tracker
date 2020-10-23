@@ -29,6 +29,15 @@
       "height": 1800,
       "size": 544082,
       "uploadedDate": "2019-11-20T17:10:18.829Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/item/Diesel_product_geum_home_thepathless_StorePortraitPromo-1623x1800-8bb385ae94d88abcc67f8432405f442cfc10902a-1623x1800-ab2b18cc57a12a5c705d2778bbf44f4f.jpg",
+      "md5": "ab2b18cc57a12a5c705d2778bbf44f4f",
+      "width": 1623,
+      "height": 1800,
+      "size": 505361,
+      "uploadedDate": "2020-10-23T00:28:16.447Z"
     }
   ],
   "categories": [
@@ -45,7 +54,7 @@
   "namespace": "a9dad8af015a422eb89a5f88e6def923",
   "status": "ACTIVE",
   "creationDate": "2019-05-02T19:22:07.847Z",
-  "lastModifiedDate": "2019-11-20T17:10:23.430Z",
+  "lastModifiedDate": "2020-10-23T00:28:39.959Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -73,7 +82,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "geum"
+      "value": "ThePathless"
     },
     "SupportedPlatforms": {
       "type": "STRING",
@@ -100,5 +109,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }
