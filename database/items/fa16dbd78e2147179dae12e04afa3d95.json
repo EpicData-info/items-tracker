@@ -4,22 +4,31 @@
   "description": "The Outer Worlds",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/rosemallow/item/TOW_EGS_PortraitProductImage_1200x1600-1200x1600-cf974f29088af4a870970a09371a404a.jpg",
-      "md5": "cf974f29088af4a870970a09371a404a",
-      "width": 1200,
-      "height": 1600,
-      "size": 232189,
-      "uploadedDate": "2020-10-20T18:46:54.460Z"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/rosemallow/item/Diesel_productv2_the-outer-worlds_home_ANC_Banner_TOW_NoLogo_1920x1080-(1)-1920x1080-ebae8a5f2e33aeda17905df7c4d61ae65d6c72da-1920x1080-d71ee9b36e9b95adace99e39cc33e557.jpg",
+      "md5": "d71ee9b36e9b95adace99e39cc33e557",
+      "width": 1920,
+      "height": 1080,
+      "size": 300546,
+      "uploadedDate": "2019-10-24T00:55:15.657Z"
     },
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/rosemallow/item/TOW_EGS_LandscapeProductImage_2560x1440-2560x1440-4f2adef2a0292ae2e3a91a7b6b076547.jpg",
-      "md5": "4f2adef2a0292ae2e3a91a7b6b076547",
-      "width": 2560,
-      "height": 1440,
-      "size": 368481,
-      "uploadedDate": "2020-10-20T18:47:05.728Z"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/rosemallow/item/TheOuterWorlds_Logo-1558x730-90519fa5dc9d7baa45ad3afd7fdb4cb1.png",
+      "md5": "90519fa5dc9d7baa45ad3afd7fdb4cb1",
+      "width": 1558,
+      "height": 730,
+      "size": 120253,
+      "uploadedDate": "2019-10-24T00:55:31.247Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/rosemallow/item/ANC_Banner_TOW_NoLogo_1280x1440 (2)-1280x1140-5b445a5bbd0ba31cc63cbcb373ccfaa0.jpg",
+      "md5": "5b445a5bbd0ba31cc63cbcb373ccfaa0",
+      "width": 1280,
+      "height": 1140,
+      "size": 241075,
+      "uploadedDate": "2019-10-22T09:41:44.790Z"
     }
   ],
   "categories": [
@@ -33,7 +42,7 @@
   "namespace": "rosemallow",
   "status": "ACTIVE",
   "creationDate": "2019-03-16T06:20:32.358Z",
-  "lastModifiedDate": "2020-10-20T18:47:12.047Z",
+  "lastModifiedDate": "2020-10-23T14:06:24.573Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

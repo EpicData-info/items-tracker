@@ -24,7 +24,7 @@
   "namespace": "rosemallow",
   "status": "ACTIVE",
   "creationDate": "2020-02-10T16:44:22.801Z",
-  "lastModifiedDate": "2020-02-10T16:44:49.449Z",
+  "lastModifiedDate": "2020-10-23T14:06:24.573Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -42,6 +42,5 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "MATURE",
-  "selfRefundable": true,
   "unsearchable": false
 }
