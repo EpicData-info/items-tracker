@@ -1,0 +1,65 @@
+{
+  "id": "a21b481ebcbf4857901a0561d5f0ea69",
+  "title": "MtRainierStaging",
+  "description": "MtRainierStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "95d0b9561be1464cb43bd029e94cf526",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-10T17:42:51.645Z",
+  "lastModifiedDate": "2020-10-29T20:16:42.991Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/MyGames/Ghostrunner/Saved/SaveGames/"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-ExeId 1"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "Ghostrunner DirectX 12"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MtRainierStaging"
+    }
+  },
+  "entitlementName": "a21b481ebcbf4857901a0561d5f0ea69",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a5f3f8e3c4834f6e9c338a84b38f8ad4",
+      "appId": "392c538ca3884b3c8a4155eb48a682b2",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567myKtwTv7asezeSt7hwkcjrjF",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

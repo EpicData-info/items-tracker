@@ -1,0 +1,93 @@
+{
+  "id": "7613ed9b20b8444e88fc596a3679c470",
+  "title": "Ghostrunner Demo",
+  "description": "Ghostrunner Demo",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/item/GR_Epic_Landscape_Offer2560x1440-2560x1440-08987c0c3e1701ea6a7217ed5616922d.jpg",
+      "md5": "08987c0c3e1701ea6a7217ed5616922d",
+      "width": 2560,
+      "height": 1440,
+      "size": 942683,
+      "uploadedDate": "2020-10-13T17:20:16.446Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/item/GR_Portrait_Offer_1200x1600-1200x1600-a7811e23904db375486535513d10412f.jpg",
+      "md5": "a7811e23904db375486535513d10412f",
+      "width": 1200,
+      "height": 1600,
+      "size": 580015,
+      "uploadedDate": "2020-10-13T17:20:32.500Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "95d0b9561be1464cb43bd029e94cf526",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-10T18:17:26.641Z",
+  "lastModifiedDate": "2020-10-29T20:17:27.310Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "95d0b9561be1464cb43bd029e94cf526"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "GhostrunnerDemo"
+    }
+  },
+  "entitlementName": "7613ed9b20b8444e88fc596a3679c470",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cf8ea665ab554c42ada1a19c2cf334bb",
+      "appId": "38163ebe5d014a0a930686f1777643fa",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567myKtwTv7asezeSt7hwkcjrjF",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

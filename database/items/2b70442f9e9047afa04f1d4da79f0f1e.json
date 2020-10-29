@@ -1,0 +1,74 @@
+{
+  "id": "2b70442f9e9047afa04f1d4da79f0f1e",
+  "title": "MtRainierDemoStaging",
+  "description": "MtRainierDemoStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "95d0b9561be1464cb43bd029e94cf526",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-10T18:18:05.915Z",
+  "lastModifiedDate": "2020-10-29T20:17:13.431Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "95d0b9561be1464cb43bd029e94cf526"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MtRainierDemoStag"
+    }
+  },
+  "entitlementName": "2b70442f9e9047afa04f1d4da79f0f1e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "cf8ea665ab554c42ada1a19c2cf334bb",
+      "appId": "718309ada16e44b4aba95b1f303db5aa",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "505 Games",
+  "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567myKtwTv7asezeSt7hwkcjrjF",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
