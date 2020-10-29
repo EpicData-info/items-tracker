@@ -1,7 +1,7 @@
 {
-  "id": "5f5416726fa948cb9df451e138523617",
-  "title": "PikesPeak",
-  "description": "PikesPeak",
+  "id": "836a7a21bd5f4b61be75b9099fa2f13c",
+  "title": "PikesPeakDev",
+  "description": "PikesPeakDev",
   "categories": [
     {
       "path": "public"
@@ -15,7 +15,7 @@
   ],
   "namespace": "bb9f87bb3d0042258bb1c97397bc60f2",
   "status": "ACTIVE",
-  "creationDate": "2020-09-25T19:53:46.131Z",
+  "creationDate": "2020-10-29T16:17:49.171Z",
   "lastModifiedDate": "2020-10-29T20:36:58.816Z",
   "customAttributes": {
     "CanRunOffline": {
@@ -44,20 +44,20 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "PikesPeak"
+      "value": "PikesPeakDev"
     }
   },
-  "entitlementName": "5f5416726fa948cb9df451e138523617",
+  "entitlementName": "836a7a21bd5f4b61be75b9099fa2f13c",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "2858424089da425caf6d6e600ce94c14",
-      "appId": "a0a49d82e3f64c1b81873397a6e92f09",
+      "id": "1d31c3c13f29401c9f19b1acd236c6e6",
+      "appId": "7f21369d03074fc4b0392a1c6792acc8",
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-10-19T19:43:13.227Z"
+      "dateAdded": "2020-10-29T16:41:02.701Z"
     }
   ],
   "developer": "Unit 2 Games",
