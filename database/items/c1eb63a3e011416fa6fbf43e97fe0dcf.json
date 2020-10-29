@@ -1,0 +1,73 @@
+{
+  "id": "c1eb63a3e011416fa6fbf43e97fe0dcf",
+  "title": "QA_B_DLC_5_Lockdown",
+  "description": "QA_B_DLC_5_Lockdown",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "df37f065c3f14eadbf011177396e2966",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-26T20:57:45.779Z",
+  "lastModifiedDate": "2020-10-28T01:32:17.155Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "df37f065c3f14eadbf011177396e2966"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "QA_B_DLC_5_Lockdown"
+    }
+  },
+  "entitlementName": "c1eb63a3e011416fa6fbf43e97fe0dcf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e420d51df0204cac9d974d0b03000ff5",
+      "appId": "10e0023452074fe1a5af078a5a7e8be1",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

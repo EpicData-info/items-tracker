@@ -1,0 +1,35 @@
+{
+  "id": "349c65ed0b7d4fe9b2bb9c78286b1329",
+  "title": "AI_FI_QA_Branch_AGeneralAudience",
+  "description": "AI_FI_QA_Branch_AGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "df37f065c3f14eadbf011177396e2966",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-26T21:24:23.318Z",
+  "lastModifiedDate": "2020-10-28T01:32:17.155Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "349c65ed0b7d4fe9b2bb9c78286b1329",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

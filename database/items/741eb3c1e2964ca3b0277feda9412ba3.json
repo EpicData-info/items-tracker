@@ -1,0 +1,60 @@
+{
+  "id": "741eb3c1e2964ca3b0277feda9412ba3",
+  "title": "CelloStaging",
+  "description": "CelloStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7c6d889f36124ae4b6269f8e1698a547",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-19T17:41:53.719Z",
+  "lastModifiedDate": "2020-10-29T12:39:47.994Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Phobia/Carrion/saves/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.crn"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CelloStaging"
+    }
+  },
+  "entitlementName": "741eb3c1e2964ca3b0277feda9412ba3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "5d5347c88387413fa698930d9fa5a6b0",
+      "appId": "17290fccc3614d84b8652c7e5f5074ed",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

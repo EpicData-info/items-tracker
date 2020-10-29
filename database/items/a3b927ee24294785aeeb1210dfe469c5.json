@@ -1,0 +1,35 @@
+{
+  "id": "a3b927ee24294785aeeb1210dfe469c5",
+  "title": "CelloGeneralAudience",
+  "description": "CelloGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "7c6d889f36124ae4b6269f8e1698a547",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-19T17:41:53.446Z",
+  "lastModifiedDate": "2020-10-29T12:39:47.994Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "a3b927ee24294785aeeb1210dfe469c5",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

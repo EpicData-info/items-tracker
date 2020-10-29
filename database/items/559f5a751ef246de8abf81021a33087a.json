@@ -1,0 +1,35 @@
+{
+  "id": "559f5a751ef246de8abf81021a33087a",
+  "title": "QA_B_DLC_7_CrewGeneralAudience",
+  "description": "QA_B_DLC_7_CrewGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "df37f065c3f14eadbf011177396e2966",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-26T20:59:00.833Z",
+  "lastModifiedDate": "2020-10-28T01:32:17.155Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "559f5a751ef246de8abf81021a33087a",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

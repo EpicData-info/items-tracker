@@ -1,0 +1,34 @@
+{
+  "id": "4646166ab44c49b0a83e00ab59df5292",
+  "title": "LetheGeneralAudience",
+  "description": "LetheGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "df37f065c3f14eadbf011177396e2966",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-26T16:28:13.150Z",
+  "lastModifiedDate": "2020-10-28T01:32:17.155Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4646166ab44c49b0a83e00ab59df5292",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

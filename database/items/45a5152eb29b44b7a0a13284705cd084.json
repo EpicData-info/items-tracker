@@ -1,0 +1,35 @@
+{
+  "id": "45a5152eb29b44b7a0a13284705cd084",
+  "title": "QA_B_DLC_5_LockdownGeneralAudience",
+  "description": "QA_B_DLC_5_LockdownGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "df37f065c3f14eadbf011177396e2966",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-26T20:57:45.516Z",
+  "lastModifiedDate": "2020-10-28T01:32:17.155Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "45a5152eb29b44b7a0a13284705cd084",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

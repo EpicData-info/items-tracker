@@ -1,0 +1,35 @@
+{
+  "id": "7e2adfa3d6bb4f39a9fa8dfa7edf579c",
+  "title": "DevStEliasAudience",
+  "description": "DevStEliasAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "3bff88989b2b4eee8ec2356ea9667b52",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-31T21:21:28.161Z",
+  "lastModifiedDate": "2020-10-27T16:58:33.726Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "7e2adfa3d6bb4f39a9fa8dfa7edf579c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Humble Bundle",
+  "developerId": "o-pldxyabsslnt6jth2z634mmr2pw8lu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

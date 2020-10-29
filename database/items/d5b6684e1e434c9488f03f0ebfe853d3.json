@@ -1,0 +1,35 @@
+{
+  "id": "d5b6684e1e434c9488f03f0ebfe853d3",
+  "title": "StEliasGeneralAudience",
+  "description": "StEliasGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3bff88989b2b4eee8ec2356ea9667b52",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-31T21:21:28.108Z",
+  "lastModifiedDate": "2020-10-27T16:58:33.726Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
+  "entitlementName": "d5b6684e1e434c9488f03f0ebfe853d3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Humble Bundle",
+  "developerId": "o-pldxyabsslnt6jth2z634mmr2pw8lu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

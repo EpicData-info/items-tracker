@@ -1,0 +1,35 @@
+{
+  "id": "0b07f46723a44a9ca8e04e5042dbf358",
+  "title": "AI_Release_DLC_4_TraumaGeneralAudience",
+  "description": "AI_Release_DLC_4_TraumaGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "df37f065c3f14eadbf011177396e2966",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-26T17:25:41.707Z",
+  "lastModifiedDate": "2020-10-28T01:32:17.154Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "0b07f46723a44a9ca8e04e5042dbf358",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

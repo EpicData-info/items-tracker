@@ -1,0 +1,72 @@
+{
+  "id": "2ebde64920b7473d98bdb35cfb7a96ee",
+  "title": "AI_FI_QA_Branch_A",
+  "description": "AI_FI_QA_Branch_A",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "df37f065c3f14eadbf011177396e2966",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-26T21:24:23.590Z",
+  "lastModifiedDate": "2020-10-28T01:32:17.155Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "df37f065c3f14eadbf011177396e2966"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AI_FI_QA_Branch_A"
+    }
+  },
+  "entitlementName": "2ebde64920b7473d98bdb35cfb7a96ee",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "93b079aa344c4f93a12b4dd5654760a6",
+      "appId": "ca8564daedd246a6bec4e9b0207f3349",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-27T21:35:36.222Z"
+    }
+  ],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

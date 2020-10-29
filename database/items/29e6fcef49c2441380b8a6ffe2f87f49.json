@@ -1,0 +1,61 @@
+{
+  "id": "29e6fcef49c2441380b8a6ffe2f87f49",
+  "title": "StEliasStaging",
+  "description": "StEliasStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3bff88989b2b4eee8ec2356ea9667b52",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-31T21:21:28.281Z",
+  "lastModifiedDate": "2020-10-27T16:58:33.726Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/SunheadGames/Carto/Saves/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/SunheadGames/Carto/Saves/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "StEliasStaging"
+    }
+  },
+  "entitlementName": "29e6fcef49c2441380b8a6ffe2f87f49",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "be99b08aeec7473ba3a8480a1966b378",
+      "appId": "a9758337ca13447ba4c06f67f017468a",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-09-03T00:00:00.000Z"
+    }
+  ],
+  "developer": "Humble Bundle",
+  "developerId": "o-pldxyabsslnt6jth2z634mmr2pw8lu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

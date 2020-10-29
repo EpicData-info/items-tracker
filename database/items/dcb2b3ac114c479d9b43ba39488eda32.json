@@ -1,0 +1,101 @@
+{
+  "id": "dcb2b3ac114c479d9b43ba39488eda32",
+  "title": "Carto",
+  "description": "Carto",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/3bff88989b2b4eee8ec2356ea9667b52/item/EGS_Cartoisacharmingadventurepuzzlegame_SunheadGames_S1-2560x1440-73354707ac2767e7b520ccee99bba7f3.jpg",
+      "md5": "73354707ac2767e7b520ccee99bba7f3",
+      "width": 2560,
+      "height": 1440,
+      "size": 957769,
+      "uploadedDate": "2020-10-20T00:48:04.185Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/3bff88989b2b4eee8ec2356ea9667b52/item/EGS_Cartoisacharmingadventurepuzzlegame_SunheadGames_S2-1200x1600-d5edfced1a3e506d18bf8cac0876b8bf.jpg",
+      "md5": "d5edfced1a3e506d18bf8cac0876b8bf",
+      "width": 1200,
+      "height": 1600,
+      "size": 935226,
+      "uploadedDate": "2020-10-20T00:48:20.616Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3bff88989b2b4eee8ec2356ea9667b52",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-31T21:21:28.219Z",
+  "lastModifiedDate": "2020-10-27T16:58:33.726Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "3bff88989b2b4eee8ec2356ea9667b52"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/SunheadGames/Carto/Saves/"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/SunheadGames/Carto/Saves/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Carto"
+    }
+  },
+  "entitlementName": "dcb2b3ac114c479d9b43ba39488eda32",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "de2b0523c7d249f7a2009f4953b01911",
+      "appId": "cb37006fed8c47db8bcb8a65a59d0f09",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-09-03T00:00:00.000Z"
+    }
+  ],
+  "developer": "Humble Bundle",
+  "developerId": "o-pldxyabsslnt6jth2z634mmr2pw8lu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

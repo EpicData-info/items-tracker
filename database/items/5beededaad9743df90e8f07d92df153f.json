@@ -17,7 +17,7 @@
   "namespace": "77f2b98e2cef40c8a7437518bf420e47",
   "status": "ACTIVE",
   "creationDate": "2019-06-07T19:03:29.226Z",
-  "lastModifiedDate": "2019-06-14T12:11:14.187Z",
+  "lastModifiedDate": "2020-10-27T15:51:45.891Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -45,7 +45,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Cyberpunk 2077"
+      "value": "Cyberpunk2077"
     }
   },
   "entitlementName": "5beededaad9743df90e8f07d92df153f",
@@ -63,5 +63,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

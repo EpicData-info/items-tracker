@@ -14,7 +14,7 @@
   "namespace": "0a84818055e740a7be21a2e5b6162703",
   "status": "ACTIVE",
   "creationDate": "2019-06-05T21:01:07.890Z",
-  "lastModifiedDate": "2019-06-14T21:04:35.526Z",
+  "lastModifiedDate": "2020-10-29T14:55:43.702Z",
   "entitlementName": "5da97d9d6bed46a8be8797f818aefea9",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
@@ -25,6 +25,5 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
   "unsearchable": false
 }

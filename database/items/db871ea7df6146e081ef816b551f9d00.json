@@ -1,0 +1,98 @@
+{
+  "id": "db871ea7df6146e081ef816b551f9d00",
+  "title": "Empires of the Undergrowth",
+  "description": "Empires of the Undergrowth",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/4c436646d6f0400da483546a70e3a6e0/item/egs-empiresoftheundergrowth-slugdisco-s1-2560x1440-2560x1440-fbc2a0e62782deb4987fce8eab8a0bdc.jpg",
+      "md5": "fbc2a0e62782deb4987fce8eab8a0bdc",
+      "width": 2560,
+      "height": 1440,
+      "size": 307983,
+      "uploadedDate": "2020-10-27T20:29:58.361Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/4c436646d6f0400da483546a70e3a6e0/item/egs-empiresoftheundergrowth-slugdisco-s2-1200x1600-1200x1600-65d732d6bfbf62e5d7636489f8f5b8e3.jpg",
+      "md5": "65d732d6bfbf62e5d7636489f8f5b8e3",
+      "width": 1200,
+      "height": 1600,
+      "size": 192014,
+      "uploadedDate": "2020-10-27T20:30:03.635Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4c436646d6f0400da483546a70e3a6e0",
+  "status": "ACTIVE",
+  "creationDate": "2020-07-31T21:03:05.989Z",
+  "lastModifiedDate": "2020-10-28T13:51:11.166Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "4c436646d6f0400da483546a70e3a6e0"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/EotU/Saved/SaveGames/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EmpiresOfTheUndergrowth"
+    }
+  },
+  "entitlementName": "db871ea7df6146e081ef816b551f9d00",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "311074c7c46341d789c901731b7f28f9",
+      "appId": "c9fa09b072b54443b79d821afd76e767",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-07-31T00:00:00.000Z"
+    }
+  ],
+  "developer": "Slug Disco Studios Limited",
+  "developerId": "o-m33vk6n2lbjha44wkpln7qeu8bxuhu",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567xXJvsrz6kZrtdNRPya7qcsft",
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

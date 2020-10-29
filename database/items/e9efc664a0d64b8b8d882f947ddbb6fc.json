@@ -36,7 +36,7 @@
   "namespace": "ca16315212fe486b96969e8fc6d6faf6",
   "status": "ACTIVE",
   "creationDate": "2020-09-22T13:36:24.178Z",
-  "lastModifiedDate": "2020-10-22T02:26:44.237Z",
+  "lastModifiedDate": "2020-10-27T11:14:50.828Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -75,7 +75,8 @@
       "id": "04e1c53307c64a979fed8f3d590a575f",
       "appId": "bb026ee643614690b3f65f4f341bae4c",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "dateAdded": "2020-09-22T00:00:00.000Z"
     }

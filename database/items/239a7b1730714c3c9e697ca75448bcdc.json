@@ -4,31 +4,22 @@
   "description": "Airborne Kingdom Demo",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_WanderingBand_AirborneKingdom_IC1_color-200x200-7371be8d9858a68d70fe5da214fc8ed6.png",
-      "md5": "7371be8d9858a68d70fe5da214fc8ed6",
-      "width": 200,
-      "height": 200,
-      "size": 6360,
-      "uploadedDate": "2019-08-28T19:57:11.674Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_WanderingBand_AirborneKingdom_Facebook_01-1920x1080-2712acb6db262f45254f72a7d6e35c1a.jpg",
-      "md5": "2712acb6db262f45254f72a7d6e35c1a",
-      "width": 1920,
-      "height": 1080,
-      "size": 239259,
-      "uploadedDate": "2019-08-28T19:58:35.373Z"
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_AirborneKingdom_TheWanderingBan_S1-2560x1440-bd189bc37ebcdf92527db3017d7a2f00.jpg",
+      "md5": "bd189bc37ebcdf92527db3017d7a2f00",
+      "width": 2560,
+      "height": 1440,
+      "size": 993877,
+      "uploadedDate": "2020-10-29T04:22:20.553Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/AirborneKingdom_Portrait_Promo-1280x1420-a0f0171a158d2b1906f93b9fdf95b73e.jpg",
-      "md5": "a0f0171a158d2b1906f93b9fdf95b73e",
-      "width": 1280,
-      "height": 1420,
-      "size": 671648,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_AirborneKingdom_TheWanderingBan_S2-1200x1600-ef7b5c8d74730358fcc7d1f4c8c87252.jpg",
+      "md5": "ef7b5c8d74730358fcc7d1f4c8c87252",
+      "width": 1200,
+      "height": 1600,
+      "size": 985178,
+      "uploadedDate": "2020-10-29T04:22:23.922Z"
     }
   ],
   "categories": [
@@ -45,7 +36,7 @@
   "namespace": "e1809e1742cb498080d8849b11a99c5a",
   "status": "ACTIVE",
   "creationDate": "2020-02-24T21:05:46.385Z",
-  "lastModifiedDate": "2020-10-22T19:12:10.425Z",
+  "lastModifiedDate": "2020-10-29T04:22:27.605Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -105,5 +96,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

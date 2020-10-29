@@ -1,0 +1,101 @@
+{
+  "id": "5799d56d7e06473eab487c180ae66cf1",
+  "title": "CARRION",
+  "description": "CARRION",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/7c6d889f36124ae4b6269f8e1698a547/item/EGS_CARRION_PhobiaGameStudio_S1-2560x1440-60f4aa9ec8eb3ad4e4d4f4dbb9a3cb7a.jpg",
+      "md5": "60f4aa9ec8eb3ad4e4d4f4dbb9a3cb7a",
+      "width": 2560,
+      "height": 1440,
+      "size": 1016349,
+      "uploadedDate": "2020-10-21T12:40:26.558Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/7c6d889f36124ae4b6269f8e1698a547/item/EGS_CARRION_PhobiaGameStudio_S2-1200x1600-b955011351d133b0b7fd9a728375d07f.jpg",
+      "md5": "b955011351d133b0b7fd9a728375d07f",
+      "width": 1200,
+      "height": 1600,
+      "size": 886713,
+      "uploadedDate": "2020-10-21T12:40:33.480Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "7c6d889f36124ae4b6269f8e1698a547",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-19T17:41:53.623Z",
+  "lastModifiedDate": "2020-10-29T12:39:47.993Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "7c6d889f36124ae4b6269f8e1698a547"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/Phobia/Carrion/saves/"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.crn"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CARRION"
+    }
+  },
+  "entitlementName": "5799d56d7e06473eab487c180ae66cf1",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "6fcf0a32a467481b85b5bff587c8f267",
+      "appId": "9faa3b0871e44b639d49a209f9405aab",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-10-19T00:00:00.000Z"
+    }
+  ],
+  "developer": "Devolver Digital, Inc.",
+  "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

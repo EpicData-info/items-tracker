@@ -18,7 +18,7 @@
   "namespace": "0a84818055e740a7be21a2e5b6162703",
   "status": "ACTIVE",
   "creationDate": "2019-06-05T20:13:00.243Z",
-  "lastModifiedDate": "2020-10-15T22:55:32.243Z",
+  "lastModifiedDate": "2020-10-27T23:30:06.952Z",
   "customAttributes": {
     "parentPartnerLinkId": {
       "type": "STRING",
@@ -26,7 +26,7 @@
     },
     "partnerLinkId": {
       "type": "STRING",
-      "value": "8b8f06972f83447e81935780e4d1d202"
+      "value": "171411a0d4ce4327bf49aa7aa7aa423e"
     },
     "partnerLinkType": {
       "type": "STRING",

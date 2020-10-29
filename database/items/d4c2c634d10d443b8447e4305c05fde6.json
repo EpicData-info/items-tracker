@@ -4,22 +4,22 @@
   "description": "Airborne Kingdom",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_AirborneKingdom_TheWanderingBan_S4-510x680--510x680-0c7e1ea031ccfca05216f1ec6f3a2988.jpg",
-      "md5": "0c7e1ea031ccfca05216f1ec6f3a2988",
-      "width": 510,
-      "height": 680,
-      "size": 42723,
-      "uploadedDate": "2020-06-13T18:56:05.556Z"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_AirborneKingdom_TheWanderingBan_S5-1920x1080-c9ddc17e16feb640dc4cc597aa73d1f8.jpg",
+      "md5": "c9ddc17e16feb640dc4cc597aa73d1f8",
+      "width": 1920,
+      "height": 1080,
+      "size": 997612,
+      "uploadedDate": "2020-10-29T04:21:18.302Z"
     },
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_AirborneKingdom_TheWanderingBan_S3-1360x766-1360x766-66c3e3bfc42f10d6f68ab49c9c19bf6a.jpg",
-      "md5": "66c3e3bfc42f10d6f68ab49c9c19bf6a",
-      "width": 1360,
-      "height": 766,
-      "size": 147216,
-      "uploadedDate": "2020-06-13T18:56:14.793Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/item/EGS_AirborneKingdom_TheWanderingBan_S2-1200x1600-ef7b5c8d74730358fcc7d1f4c8c87252.jpg",
+      "md5": "ef7b5c8d74730358fcc7d1f4c8c87252",
+      "width": 1200,
+      "height": 1600,
+      "size": 985178,
+      "uploadedDate": "2020-10-29T04:21:22.154Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "e1809e1742cb498080d8849b11a99c5a",
   "status": "ACTIVE",
   "creationDate": "2019-07-12T21:27:32.465Z",
-  "lastModifiedDate": "2020-10-22T19:12:10.425Z",
+  "lastModifiedDate": "2020-10-29T04:21:33.685Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

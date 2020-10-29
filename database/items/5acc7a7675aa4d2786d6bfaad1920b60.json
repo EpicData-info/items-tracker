@@ -5,39 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/item/thepathless_StorePrimaryPromo-1800x1012-6c37c31d560f010e2b4cee5c362d5b6d.jpg",
-      "md5": "6c37c31d560f010e2b4cee5c362d5b6d",
-      "width": 1800,
-      "height": 1012,
-      "size": 545305,
-      "uploadedDate": "2019-05-13T21:00:40.226Z"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/item/ThePathlessLogoWhite-5464x1384-17233834e8ab0e7d32da3c12465a80bd.png",
-      "md5": "17233834e8ab0e7d32da3c12465a80bd",
-      "width": 5464,
-      "height": 1384,
-      "size": 757008,
-      "uploadedDate": "2019-05-13T21:00:51.546Z"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/item/thepathless_StorePortraitPromo-1623x1800-93859815e4b2bc614511ae7a97bee8b9-1623x1800-93859815e4b2bc614511ae7a97bee8b9.jpg",
-      "md5": "93859815e4b2bc614511ae7a97bee8b9",
-      "width": 1623,
-      "height": 1800,
-      "size": 544082,
-      "uploadedDate": "2019-11-20T17:10:18.829Z"
+      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/item/EGS_ThePathless_GiantSquid_S1-2560x1440-6c316f9b9ab9a6f98d54ae7a59868e1f.jpg",
+      "md5": "6c316f9b9ab9a6f98d54ae7a59868e1f",
+      "width": 2560,
+      "height": 1440,
+      "size": 744300,
+      "uploadedDate": "2020-10-29T05:24:26.405Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/item/Diesel_product_geum_home_thepathless_StorePortraitPromo-1623x1800-8bb385ae94d88abcc67f8432405f442cfc10902a-1623x1800-ab2b18cc57a12a5c705d2778bbf44f4f.jpg",
-      "md5": "ab2b18cc57a12a5c705d2778bbf44f4f",
-      "width": 1623,
-      "height": 1800,
-      "size": 505361,
-      "uploadedDate": "2020-10-23T00:28:16.447Z"
+      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/item/EGS_ThePathless_GiantSquid_S2-1200x1600-e1f5f32474fcd2c16210b5e36dd8664b.jpg",
+      "md5": "e1f5f32474fcd2c16210b5e36dd8664b",
+      "width": 1200,
+      "height": 1600,
+      "size": 468910,
+      "uploadedDate": "2020-10-29T05:24:29.621Z"
     }
   ],
   "categories": [
@@ -54,7 +36,7 @@
   "namespace": "a9dad8af015a422eb89a5f88e6def923",
   "status": "ACTIVE",
   "creationDate": "2019-05-02T19:22:07.847Z",
-  "lastModifiedDate": "2020-10-23T00:28:39.959Z",
+  "lastModifiedDate": "2020-10-29T05:24:33.040Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

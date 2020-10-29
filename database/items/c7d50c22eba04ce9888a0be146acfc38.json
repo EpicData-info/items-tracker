@@ -16,7 +16,7 @@
   "namespace": "ca16315212fe486b96969e8fc6d6faf6",
   "status": "ACTIVE",
   "creationDate": "2020-09-22T13:36:24.290Z",
-  "lastModifiedDate": "2020-10-22T02:26:44.236Z",
+  "lastModifiedDate": "2020-10-27T11:15:43.501Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -35,9 +35,10 @@
       "id": "4b32d189232c4ff69500d74e82c263f4",
       "appId": "482065a9d5dd443f8d92329d4cf0addb",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
-      "dateAdded": "2020-09-22T13:39:14.808Z"
+      "dateAdded": "2020-09-22T00:00:00.000Z"
     }
   ],
   "developer": "Devolver Digital, Inc.",

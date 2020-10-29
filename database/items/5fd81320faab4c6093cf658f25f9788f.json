@@ -42,7 +42,7 @@
   "namespace": "columbine",
   "status": "ACTIVE",
   "creationDate": "2019-03-14T14:42:19.085Z",
-  "lastModifiedDate": "2019-12-12T12:59:57.263Z",
+  "lastModifiedDate": "2020-10-28T18:50:26.463Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,24 +72,13 @@
   "entitlementName": "5fd81320faab4c6093cf658f25f9788f",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
-  "releaseInfo": [
-    {
-      "id": "804f2ce4773d46c4a0c9d83e61b85305",
-      "appId": "Columbine",
-      "compatibleApps": [],
-      "platform": [
-        "Windows"
-      ],
-      "dateAdded": "2019-03-14T00:00:00.000Z",
-      "releaseNote": "",
-      "versionTitle": ""
-    }
-  ],
+  "releaseInfo": [],
   "developer": "Quantic Dream",
   "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }
