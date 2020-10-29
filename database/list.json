@@ -604,7 +604,7 @@
     ],
     "Ubisoft Entertainment",
     1559574261,
-    1603989594
+    1603993599
   ],
   [
     "02b5ede2eba24fc3813c425c144cdabd",
@@ -2488,6 +2488,18 @@
     "Epic Games",
     1500493024,
     1500493625
+  ],
+  [
+    "0b65996e8f9345aa8e9dc97c07ac21df",
+    "9ab8303fb6da46159942d0e320822153",
+    "Hydra DLC Audience",
+    [
+      "games",
+      "applications"
+    ],
+    "Warner Bros.",
+    1599756968,
+    1599756986
   ],
   [
     "0b7991b5075e491abadd836b3155fb18",
@@ -14722,6 +14734,18 @@
     "Analgesic Productions",
     1581923533,
     1584023995
+  ],
+  [
+    "456236eb7fe840afb034e40bea32f8f6",
+    "9ab8303fb6da46159942d0e320822153",
+    "Hydra DLC",
+    [
+      "games",
+      "applications"
+    ],
+    "Warner Bros.",
+    1599756879,
+    1599757988
   ],
   [
     "45856d2c89b7423288f01c9f6a3b05f5",
@@ -40510,6 +40534,18 @@
     1596641805
   ],
   [
+    "bd2fd337eb354ab7acf39579d976ccc9",
+    "9ab8303fb6da46159942d0e320822153",
+    "Hydra Game Audience",
+    [
+      "games",
+      "applications"
+    ],
+    "Warner Bros.",
+    1599756962,
+    1599756962
+  ],
+  [
     "bd32fde8174d4781bdb26dcc0527a329",
     "6c77bc1b5faa4ac98441ec75cca0d320",
     "ColeyDevAudience",
@@ -42716,6 +42752,18 @@
     "Skybound Interactive",
     1547503795,
     1557756346
+  ],
+  [
+    "c764be452fc04cd58e1b0d38ab667d56",
+    "9ab8303fb6da46159942d0e320822153",
+    "Hydra Game",
+    [
+      "games",
+      "applications"
+    ],
+    "Warner Bros.",
+    1599756842,
+    1599757422
   ],
   [
     "c77bbf6a991a4a9da878917f6fe8724c",

@@ -45,7 +45,7 @@
   "namespace": "0a84818055e740a7be21a2e5b6162703",
   "status": "ACTIVE",
   "creationDate": "2019-06-03T15:04:21.387Z",
-  "lastModifiedDate": "2020-10-29T16:39:54.568Z",
+  "lastModifiedDate": "2020-10-29T17:46:39.644Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -54,10 +54,6 @@
     "PresenceId": {
       "type": "STRING",
       "value": "0a84818055e740a7be21a2e5b6162703"
-    },
-    "NeverUpdate": {
-      "type": "STRING",
-      "value": "true"
     },
     "MonitorPresence": {
       "type": "STRING",

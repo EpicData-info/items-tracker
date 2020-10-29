@@ -1,0 +1,30 @@
+{
+  "id": "0b65996e8f9345aa8e9dc97c07ac21df",
+  "title": "Hydra DLC Audience",
+  "description": "Hydra DLC Audience",
+  "longDescription": "Hydra DLC Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9ab8303fb6da46159942d0e320822153",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-10T16:56:08.759Z",
+  "lastModifiedDate": "2020-09-10T16:56:26.922Z",
+  "entitlementName": "0b65996e8f9345aa8e9dc97c07ac21df",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": "456236eb7fe840afb034e40bea32f8f6",
+  "title": "Hydra DLC",
+  "description": "Hydra DLC",
+  "longDescription": "Hydra DLC",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9ab8303fb6da46159942d0e320822153",
+  "status": "ACTIVE",
+  "creationDate": "2020-09-10T16:54:39.777Z",
+  "lastModifiedDate": "2020-09-10T17:13:08.921Z",
+  "customAttributes": {
+    "FolderName": {
+      "type": "STRING",
+      "value": "Hydra"
+    }
+  },
+  "entitlementName": "456236eb7fe840afb034e40bea32f8f6",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "88fdf990e489451599530b5887317eed",
+      "appId": "cdfa264a403c44679ee02818c433bae7",
+      "compatibleApps": [],
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-10T00:00:00.000Z",
+      "releaseNote": "",
+      "versionTitle": ""
+    }
+  ],
+  "developer": "Warner Bros.",
+  "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+  "eulaIds": [],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
