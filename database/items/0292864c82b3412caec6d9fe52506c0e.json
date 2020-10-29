@@ -45,11 +45,23 @@
   "namespace": "0a84818055e740a7be21a2e5b6162703",
   "status": "ACTIVE",
   "creationDate": "2019-06-03T15:04:21.387Z",
-  "lastModifiedDate": "2020-10-15T22:54:40.800Z",
+  "lastModifiedDate": "2020-10-29T16:21:44.468Z",
   "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "0a84818055e740a7be21a2e5b6162703"
+    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -67,37 +79,17 @@
       "type": "STRING",
       "value": "true"
     },
-    "MainWindowProcessName": {
-      "type": "STRING",
-      "value": "[]"
-    },
     "partnerLinkId": {
       "type": "STRING",
       "value": "2291bc83637d4f38bb75cdb34d8480a9"
     },
-    "FolderName": {
-      "type": "STRING",
-      "value": "WatchDogsLegion"
-    },
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "0a84818055e740a7be21a2e5b6162703"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
-    },
-    "ProcessNames": {
-      "type": "STRING",
-      "value": "[]"
-    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "WatchDogsLegion"
     }
   },
   "entitlementName": "0292864c82b3412caec6d9fe52506c0e",
