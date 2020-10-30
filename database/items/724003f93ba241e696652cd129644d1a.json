@@ -1,7 +1,7 @@
 {
-  "id": "5e7f457a3f1041f79ad82499a1cb69bd",
-  "title": "Dead Cells",
-  "description": "Dead Cells",
+  "id": "724003f93ba241e696652cd129644d1a",
+  "title": "Dead Cells: Demake Soundtrack",
+  "description": "Dead Cells: Demake Soundtrack",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,8 +35,8 @@
   ],
   "namespace": "1368a7f14c3344bbaededbae528fafed",
   "status": "ACTIVE",
-  "creationDate": "2020-07-27T13:09:17.434Z",
-  "lastModifiedDate": "2020-10-30T12:24:07.346Z",
+  "creationDate": "2020-10-30T12:14:06.365Z",
+  "lastModifiedDate": "2020-10-30T12:24:07.347Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,10 +49,6 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
-    },
-    "CloudSaveFolder": {
-      "type": "STRING",
-      "value": "{InstallDir}/save/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -68,16 +64,16 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "DeadCells"
+      "value": "DeadCellsDemakeOST"
     }
   },
-  "entitlementName": "5e7f457a3f1041f79ad82499a1cb69bd",
+  "entitlementName": "724003f93ba241e696652cd129644d1a",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
       "id": "1be897e126344882a58f9b2ec9d0ce37",
-      "appId": "ca0e1d19d3b640b39d8d20e966067872",
+      "appId": "d0a6b8989805497195891b0b4d1e8533",
       "platform": [
         "Windows"
       ],

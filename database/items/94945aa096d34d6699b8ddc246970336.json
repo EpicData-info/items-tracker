@@ -1,7 +1,7 @@
 {
-  "id": "5e7f457a3f1041f79ad82499a1cb69bd",
-  "title": "Dead Cells",
-  "description": "Dead Cells",
+  "id": "94945aa096d34d6699b8ddc246970336",
+  "title": "Dead Cells: Soundtrack",
+  "description": "Dead Cells: Soundtrack",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -35,8 +35,8 @@
   ],
   "namespace": "1368a7f14c3344bbaededbae528fafed",
   "status": "ACTIVE",
-  "creationDate": "2020-07-27T13:09:17.434Z",
-  "lastModifiedDate": "2020-10-30T12:24:07.346Z",
+  "creationDate": "2020-10-30T12:14:01.053Z",
+  "lastModifiedDate": "2020-10-30T12:24:07.347Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,10 +49,6 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
-    },
-    "CloudSaveFolder": {
-      "type": "STRING",
-      "value": "{InstallDir}/save/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -68,16 +64,16 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "DeadCells"
+      "value": "DeadCellsOST"
     }
   },
-  "entitlementName": "5e7f457a3f1041f79ad82499a1cb69bd",
+  "entitlementName": "94945aa096d34d6699b8ddc246970336",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
       "id": "1be897e126344882a58f9b2ec9d0ce37",
-      "appId": "ca0e1d19d3b640b39d8d20e966067872",
+      "appId": "3d4f8c4b6ddf40f3b33c4d11bba199fb",
       "platform": [
         "Windows"
       ],
