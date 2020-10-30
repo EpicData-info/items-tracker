@@ -4,31 +4,22 @@
   "description": "Watch Dogs: Legion",
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/item/WDL_Logo_Color_1000x375-1000x375-d3c8cb7bd3bf9de59d241c0aa401a966.png",
-      "md5": "d3c8cb7bd3bf9de59d241c0aa401a966",
-      "width": 1000,
-      "height": 375,
-      "size": 47585,
-      "uploadedDate": "2019-06-09T22:57:21.912Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/item/WDL_Primary_Promo_2580x1450-2580x1450-c654679532891893b8f19edbe1b0ce71.jpg",
-      "md5": "c654679532891893b8f19edbe1b0ce71",
-      "width": 2580,
-      "height": 1450,
-      "size": 406037,
-      "uploadedDate": "2019-06-09T22:57:13.837Z"
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/item/WatchDogs_Legion_Store_Landscape_2560x1440-2560x1440-6564aab7daeb17650e7fc190714bba76.jpg",
+      "md5": "6564aab7daeb17650e7fc190714bba76",
+      "width": 2560,
+      "height": 1440,
+      "size": 951200,
+      "uploadedDate": "2020-10-30T14:28:56.350Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/item/Store_Portrait_Promo_1280x1420-1280x1420-821e3088c8b7e482562010c415df7d4b.jpg",
-      "md5": "821e3088c8b7e482562010c415df7d4b",
-      "width": 1280,
-      "height": 1420,
-      "size": 233068,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/item/WatchDogs_Legion_Store_Portrait_1200x1600-1200x1600-a6b2d4cce489aeeb87bad4a6db168bed.jpg",
+      "md5": "a6b2d4cce489aeeb87bad4a6db168bed",
+      "width": 1200,
+      "height": 1600,
+      "size": 854184,
+      "uploadedDate": "2020-10-30T14:28:59.853Z"
     }
   ],
   "categories": [
@@ -45,7 +36,7 @@
   "namespace": "0a84818055e740a7be21a2e5b6162703",
   "status": "ACTIVE",
   "creationDate": "2019-06-03T15:04:21.387Z",
-  "lastModifiedDate": "2020-10-30T02:30:03.240Z",
+  "lastModifiedDate": "2020-10-30T14:29:05.638Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
