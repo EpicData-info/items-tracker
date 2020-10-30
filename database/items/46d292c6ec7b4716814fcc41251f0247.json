@@ -1,8 +1,8 @@
 {
-  "id": "a6c2cac69064455580c55f9848a56e7f",
-  "title": "Sparrow Season Pass 2 Audience",
-  "description": "Sparrow Season Pass 2 Audience",
-  "longDescription": "Sparrow Season Pass 2 Audience",
+  "id": "46d292c6ec7b4716814fcc41251f0247",
+  "title": "DLC00057 Audience",
+  "description": "DLC00057 Audience",
+  "longDescription": "DLC00057 Audience",
   "keyImages": [
     {
       "type": "ESRB",
@@ -24,7 +24,7 @@
   ],
   "namespace": "dfd2530e80e4425d801913b0879be444",
   "status": "ACTIVE",
-  "creationDate": "2020-09-04T12:04:41.011Z",
+  "creationDate": "2020-10-30T13:51:51.900Z",
   "lastModifiedDate": "2020-10-30T13:59:48.386Z",
   "customAttributes": {
     "SupportedPlatforms": {
@@ -32,7 +32,7 @@
       "value": "Windows,Mac"
     }
   },
-  "entitlementName": "a6c2cac69064455580c55f9848a56e7f",
+  "entitlementName": "46d292c6ec7b4716814fcc41251f0247",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "developer": "Rebellion",
