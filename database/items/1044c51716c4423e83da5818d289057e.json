@@ -36,7 +36,7 @@
   "namespace": "95d0b9561be1464cb43bd029e94cf526",
   "status": "ACTIVE",
   "creationDate": "2020-09-10T17:42:51.584Z",
-  "lastModifiedDate": "2020-10-29T20:09:38.028Z",
+  "lastModifiedDate": "2020-10-30T16:20:57.265Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -52,7 +52,7 @@
     },
     "extraLaunchOption_001_Args": {
       "type": "STRING",
-      "value": "-ExeId 1"
+      "value": "-dx12"
     },
     "UseAccessControl": {
       "type": "STRING",
