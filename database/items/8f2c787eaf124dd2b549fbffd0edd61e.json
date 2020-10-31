@@ -1,0 +1,71 @@
+{
+  "id": "8f2c787eaf124dd2b549fbffd0edd61e",
+  "title": "Emerald",
+  "description": "Emerald",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a69c5a82682c43148e4e2542fe2fcd0f",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-29T15:18:57.387Z",
+  "lastModifiedDate": "2020-06-29T15:24:21.072Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "a69c5a82682c43148e4e2542fe2fcd0f"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Emerald"
+    }
+  },
+  "entitlementName": "8f2c787eaf124dd2b549fbffd0edd61e",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "a2472c6ee4334c75b42b69f3252e44fc",
+      "appId": "7f048ed7208d49588b1867edc0ab368a",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-29T15:19:45.488Z"
+    }
+  ],
+  "developer": "Riot Games",
+  "developerId": "o-ch65axjcvgpsutlhlcyvqkx3fkmk44",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

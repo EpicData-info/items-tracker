@@ -815,6 +815,18 @@
     1557757950
   ],
   [
+    "03c20766768a4e879101a1db78f479f4",
+    "a69c5a82682c43148e4e2542fe2fcd0f",
+    "DevEmeraldAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Riot Games",
+    1593443937,
+    1593444414
+  ],
+  [
     "03e47871c5984fed804ecf7956a19a3d",
     "4756b80eb0f74d45b77922e54052cfed",
     "FalconDLC1Staging",
@@ -10023,6 +10035,18 @@
     "Team17 Digital Ltd",
     1596722154,
     1601395141
+  ],
+  [
+    "2e929632c20945a1b83232b0c1b7636f",
+    "a69c5a82682c43148e4e2542fe2fcd0f",
+    "EmeraldGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Riot Forge",
+    1593443937,
+    1604147923
   ],
   [
     "2ea6c26b06b9494fadf8313ccda583ab",
@@ -30860,6 +30884,19 @@
     1578408126
   ],
   [
+    "8f2c787eaf124dd2b549fbffd0edd61e",
+    "a69c5a82682c43148e4e2542fe2fcd0f",
+    "Emerald",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Riot Games",
+    1593443937,
+    1593444261
+  ],
+  [
     "8f328dced20e41d29b6f1fceed8f2164",
     "ca4058f18b0a4a9e9e2ccc28f7f33000",
     "Kingdom Come Deliverance",
@@ -48307,6 +48344,19 @@
     "Focus Home",
     1579711502,
     1602773966
+  ],
+  [
+    "de905b8a2e7a4093a6382b59ea94b955",
+    "a69c5a82682c43148e4e2542fe2fcd0f",
+    "EmeraldStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Riot Games",
+    1593443937,
+    1593444261
   ],
   [
     "de9f62d2cea140188ebcae0468b11edf",

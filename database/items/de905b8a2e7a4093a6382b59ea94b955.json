@@ -1,0 +1,51 @@
+{
+  "id": "de905b8a2e7a4093a6382b59ea94b955",
+  "title": "EmeraldStaging",
+  "description": "EmeraldStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a69c5a82682c43148e4e2542fe2fcd0f",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-29T15:18:57.441Z",
+  "lastModifiedDate": "2020-06-29T15:24:21.074Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "EmeraldStaging"
+    }
+  },
+  "entitlementName": "de905b8a2e7a4093a6382b59ea94b955",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "530f4a78eeed4a25ace50e3d9756bb0b",
+      "appId": "b517dca9f2cd43a19c04b6ff50bddfc1",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-29T15:20:06.020Z"
+    }
+  ],
+  "developer": "Riot Games",
+  "developerId": "o-ch65axjcvgpsutlhlcyvqkx3fkmk44",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
