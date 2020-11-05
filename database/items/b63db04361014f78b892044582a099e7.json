@@ -1,0 +1,34 @@
+{
+  "id": "b63db04361014f78b892044582a099e7",
+  "title": "DLC3GeneralAudience",
+  "description": "DLC3GeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-04T19:52:27.401Z",
+  "lastModifiedDate": "2020-11-04T20:49:04.686Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b63db04361014f78b892044582a099e7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bethesda Softworks",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

@@ -1,0 +1,38 @@
+{
+  "id": "aacd0273b042415d8993ced0729a7409",
+  "title": "Twinmotion Seat Audience",
+  "description": "Twinmotion Seat Audience",
+  "longDescription": "Master entitlement for all Twinmotion audience entitlements; used for seat management",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "poodle",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-20T20:04:25.488Z",
+  "lastModifiedDate": "2020-11-05T14:33:14.791Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Mac"
+    }
+  },
+  "entitlementName": "TwinmotionSeat",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "eulaIds": [
+    "twin"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

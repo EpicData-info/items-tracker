@@ -1,0 +1,34 @@
+{
+  "id": "e6c95686cf2846d6980ca5b913391071",
+  "title": "DevHiddeniteAudience",
+  "description": "DevHiddeniteAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-04T19:34:42.310Z",
+  "lastModifiedDate": "2020-11-04T20:49:04.687Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e6c95686cf2846d6980ca5b913391071",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bethesda Softworks",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

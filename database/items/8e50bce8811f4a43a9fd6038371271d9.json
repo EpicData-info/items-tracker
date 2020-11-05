@@ -1,0 +1,35 @@
+{
+  "id": "8e50bce8811f4a43a9fd6038371271d9",
+  "title": "HiddeniteDeluxeEditionGeneralAudience",
+  "description": "HiddeniteDeluxeEditionGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-04T19:39:03.082Z",
+  "lastModifiedDate": "2020-11-04T20:49:04.686Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "8e50bce8811f4a43a9fd6038371271d9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

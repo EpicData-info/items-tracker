@@ -88,21 +88,21 @@
     },
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/fn/item/EGS_Fortnitemares_S1-2560x1440-653047c96405c5dfe7efe6b8330f1b35.jpg",
-      "md5": "653047c96405c5dfe7efe6b8330f1b35",
+      "url": "https://cdn1.epicgames.com/fn/item/FN_Wide-2560x1440-051f34e4a0536fdd01ba728521b6afae.jpg",
+      "md5": "051f34e4a0536fdd01ba728521b6afae",
       "width": 2560,
       "height": 1440,
-      "size": 2605495,
-      "uploadedDate": "2020-10-23T19:43:31.829Z"
+      "size": 2320983,
+      "uploadedDate": "2020-11-03T14:07:08.104Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/fn/item/EGS_Fortnitemares_S2-1200x1600-c7a1e774a4fb1cd6fec1ac124882027d.jpg",
-      "md5": "c7a1e774a4fb1cd6fec1ac124882027d",
+      "url": "https://cdn1.epicgames.com/fn/item/FN_Tall-1200x1600-d31d390c22d23717659df2b807342d25.jpg",
+      "md5": "d31d390c22d23717659df2b807342d25",
       "width": 1200,
       "height": 1600,
-      "size": 1399266,
-      "uploadedDate": "2020-10-23T19:43:42.563Z"
+      "size": 1195283,
+      "uploadedDate": "2020-11-03T14:07:26.580Z"
     }
   ],
   "categories": [
@@ -116,7 +116,7 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2014-09-12T15:20:06.103Z",
-  "lastModifiedDate": "2020-10-23T19:46:09.248Z",
+  "lastModifiedDate": "2020-11-03T14:10:15.921Z",
   "customAttributes": {
     "com.epicgames.portal.product.privacyPolicyUrl": {
       "type": "STRING",

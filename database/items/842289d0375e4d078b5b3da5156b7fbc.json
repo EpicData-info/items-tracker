@@ -1,0 +1,35 @@
+{
+  "id": "842289d0375e4d078b5b3da5156b7fbc",
+  "title": "NightlyOceanGeneralAudience",
+  "description": "NightlyOceanGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "3fafb94f3f804d6bbe85da723c90e689",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-02T18:52:19.982Z",
+  "lastModifiedDate": "2020-11-04T18:08:27.658Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows, Mac"
+    }
+  },
+  "entitlementName": "842289d0375e4d078b5b3da5156b7fbc",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

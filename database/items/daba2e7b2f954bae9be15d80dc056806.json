@@ -45,7 +45,7 @@
   "namespace": "6cec00f8934146508b884b0f139d55d0",
   "status": "ACTIVE",
   "creationDate": "2019-08-15T16:16:20.450Z",
-  "lastModifiedDate": "2019-11-12T14:55:05.061Z",
+  "lastModifiedDate": "2020-11-04T14:58:15.145Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -68,7 +68,8 @@
       "id": "3a01e3f8f5ff465096868ff54b755a9a",
       "appId": "WigeonStaging",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "dateAdded": "2019-08-26T00:00:00.000Z"
     }
@@ -79,5 +80,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

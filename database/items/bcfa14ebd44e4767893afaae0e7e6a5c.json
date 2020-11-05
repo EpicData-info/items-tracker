@@ -24,11 +24,11 @@
   "namespace": "6cec00f8934146508b884b0f139d55d0",
   "status": "ACTIVE",
   "creationDate": "2019-11-06T22:42:52.276Z",
-  "lastModifiedDate": "2019-11-12T14:57:07.212Z",
+  "lastModifiedDate": "2020-11-04T14:58:55.543Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
-      "value": "Windows"
+      "value": "Windows,Mac"
     }
   },
   "entitlementName": "bcfa14ebd44e4767893afaae0e7e6a5c",
@@ -41,6 +41,7 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "RATING_PENDING",
+  "ageGatings": {},
   "selfRefundable": true,
   "unsearchable": false
 }

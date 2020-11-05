@@ -16,7 +16,7 @@
   "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
   "status": "ACTIVE",
   "creationDate": "2020-04-15T17:08:42.606Z",
-  "lastModifiedDate": "2020-10-28T11:31:59.285Z",
+  "lastModifiedDate": "2020-11-03T15:07:44.791Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -29,6 +29,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/DefenseGrid/"
     },
     "UseAccessControl": {
       "type": "STRING",

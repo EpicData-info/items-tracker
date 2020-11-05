@@ -1,0 +1,77 @@
+{
+  "id": "846f3b75f57d4a28bc95985e5c39e56b",
+  "title": "NightlyPampas",
+  "description": "NightlyPampas",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c2594740866d4be69d38fcf08ef0176d",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-02T18:50:49.030Z",
+  "lastModifiedDate": "2020-11-04T17:15:18.820Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "c2594740866d4be69d38fcf08ef0176d"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NightlyPampas"
+    }
+  },
+  "entitlementName": "846f3b75f57d4a28bc95985e5c39e56b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "b9508372aeee45fba41d9ea359fb0721",
+      "appId": "2d9e1c7f5fdc4ccba96a1f24eaea6e60",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-11-02T00:00:00.000Z"
+    }
+  ],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

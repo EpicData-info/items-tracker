@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/item/EGS_AutoChess_DragonestGame_S4-1200x1600-f6e8c2de4734e897c7ec850463720329.jpg",
-      "md5": "f6e8c2de4734e897c7ec850463720329",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/item/image-1200x1600-f8f408a17072b8677b0e204dfcc891f9.png",
+      "md5": "f8f408a17072b8677b0e204dfcc891f9",
       "width": 1200,
       "height": 1600,
-      "size": 985791,
-      "uploadedDate": "2020-10-21T19:11:19.594Z"
+      "size": 4006522,
+      "uploadedDate": "2020-11-04T15:21:04.106Z"
     },
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/item/EGS_AutoChess_DragonestGame_S3-2560x1440-377a157b30d6ab830ae5ee9390e9670a.jpg",
-      "md5": "377a157b30d6ab830ae5ee9390e9670a",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/item/image (1)-2560x1440-dcc9db09a08be3fcfcbb1a1e4bb67249.png",
+      "md5": "dcc9db09a08be3fcfcbb1a1e4bb67249",
       "width": 2560,
       "height": 1440,
-      "size": 821688,
-      "uploadedDate": "2020-10-21T19:11:39.430Z"
+      "size": 8314772,
+      "uploadedDate": "2020-11-04T15:21:21.216Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "37baf50c268d47779020d73143bb02b0",
   "status": "ACTIVE",
   "creationDate": "2019-06-06T19:54:40.735Z",
-  "lastModifiedDate": "2020-10-21T19:11:43.867Z",
+  "lastModifiedDate": "2020-11-04T15:21:30.258Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

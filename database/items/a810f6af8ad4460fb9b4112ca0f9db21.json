@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/protea/item/IoT_TT5_EGS_Headline image-1920x1080-6e7893c0e185a105de8db97df32f3d04.png",
-      "md5": "6e7893c0e185a105de8db97df32f3d04",
+      "url": "https://cdn1.epicgames.com/protea/item/IoT_TT4_EGS_Headline Share image-1920x1080-4a24b3568455cb8d4394b9f3a8908919.jpg",
+      "md5": "4a24b3568455cb8d4394b9f3a8908919",
       "width": 1920,
       "height": 1080,
-      "size": 2049281,
-      "uploadedDate": "2020-10-06T20:02:33.843Z"
+      "size": 1433274,
+      "uploadedDate": "2020-10-29T13:54:21.048Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/protea/item/IoT_TT5_EGS_Library Tile Portrait_00000-1200x1600-cb919801007a973a78b9fffb02dfae99.png",
-      "md5": "cb919801007a973a78b9fffb02dfae99",
+      "url": "https://cdn1.epicgames.com/protea/item/IoT_TT6_EGS_Library Tile Portrait-1200x1600-bd4a4e908ffda57f26e34d7049ce8804.jpg",
+      "md5": "bd4a4e908ffda57f26e34d7049ce8804",
       "width": 1200,
       "height": 1600,
-      "size": 1871209,
-      "uploadedDate": "2020-10-06T20:02:43.766Z"
+      "size": 1266724,
+      "uploadedDate": "2020-10-29T13:54:30.835Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "protea",
   "status": "ACTIVE",
   "creationDate": "2019-03-18T05:15:08.763Z",
-  "lastModifiedDate": "2020-10-06T20:03:52.766Z",
+  "lastModifiedDate": "2020-11-03T18:55:33.529Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

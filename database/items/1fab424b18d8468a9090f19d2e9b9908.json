@@ -1,0 +1,52 @@
+{
+  "id": "1fab424b18d8468a9090f19d2e9b9908",
+  "title": "HiddeniteStaging",
+  "description": "HiddeniteStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-04T19:34:42.475Z",
+  "lastModifiedDate": "2020-11-04T20:49:04.686Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HiddeniteStaging"
+    }
+  },
+  "entitlementName": "1fab424b18d8468a9090f19d2e9b9908",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3e18fa206bb34968953cdcab794c84a8",
+      "appId": "971a09111a9044649ae817fe6ae55c1c",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-04T20:24:11.145Z"
+    }
+  ],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

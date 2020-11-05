@@ -1,0 +1,77 @@
+{
+  "id": "162dd35104db4f819d1be0b1dbce2bbb",
+  "title": "NightlyOcean",
+  "description": "NightlyOcean",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "3fafb94f3f804d6bbe85da723c90e689",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-02T18:52:20.180Z",
+  "lastModifiedDate": "2020-11-04T18:08:14.120Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "3fafb94f3f804d6bbe85da723c90e689"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "NightlyOcean"
+    }
+  },
+  "entitlementName": "162dd35104db4f819d1be0b1dbce2bbb",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "dc6fd78706044a2a824cc857693a7871",
+      "appId": "bf28b86fb1af4784a8dd51bfc1d4c44b",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-11-02T00:00:00.000Z"
+    }
+  ],
+  "developer": "SEGA of Europe",
+  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

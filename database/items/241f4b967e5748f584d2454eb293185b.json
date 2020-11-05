@@ -1,0 +1,68 @@
+{
+  "id": "241f4b967e5748f584d2454eb293185b",
+  "title": "Multitude of Maps",
+  "description": "Multitude of Maps",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_AMultitudeofMaps_RealmforgeStudios_DLC_S1-2560x1440-89ec466bfd704ccc48df447fdaf70ebd.jpg",
+      "md5": "89ec466bfd704ccc48df447fdaf70ebd",
+      "width": 2560,
+      "height": 1440,
+      "size": 822797,
+      "uploadedDate": "2020-10-01T17:53:54.680Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_AMultitudeofMaps_RealmforgeStudios_DLC_S2-1200x1600-d468b55a81acd41f9d80265fb5cf53e2.jpg",
+      "md5": "d468b55a81acd41f9d80265fb5cf53e2",
+      "width": 1200,
+      "height": 1600,
+      "size": 629349,
+      "uploadedDate": "2020-10-01T17:54:01.403Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    }
+  ],
+  "namespace": "213259527d2f41baa90cbe0ae5555271",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T15:34:48.597Z",
+  "lastModifiedDate": "2020-11-04T21:19:35.116Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MultitudeofMaps"
+    }
+  },
+  "entitlementName": "241f4b967e5748f584d2454eb293185b",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f64e616ce4e74592a9cbcd497a78375a",
+      "appId": "da51bc7bf9424a3898f509b882babe0a",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

@@ -16,7 +16,7 @@
   "namespace": "95d0b9561be1464cb43bd029e94cf526",
   "status": "ACTIVE",
   "creationDate": "2020-09-10T17:42:51.645Z",
-  "lastModifiedDate": "2020-10-30T16:20:15.699Z",
+  "lastModifiedDate": "2020-11-02T21:22:57.698Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,7 +24,7 @@
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{UserDir}/MyGames/Ghostrunner/Saved/SaveGames/"
+      "value": "{AppData}/Ghostrunner/Saved/SaveGames/"
     },
     "extraLaunchOption_001_Args": {
       "type": "STRING",

@@ -1,0 +1,72 @@
+{
+  "id": "da3d0706de4b4d39b943abcf96389ce3",
+  "title": "Hiddenite",
+  "description": "Hiddenite",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-04T19:34:42.388Z",
+  "lastModifiedDate": "2020-11-04T20:49:04.686Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "2736ab9fec9c4a93a7a2872ed5154d4b"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Hiddenite"
+    }
+  },
+  "entitlementName": "da3d0706de4b4d39b943abcf96389ce3",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "e8b992220d464372a006ef4aec9cdeb0",
+      "appId": "ad3d0f08dd0841d8a1ba77d94ded4773",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-04T20:23:35.097Z"
+    }
+  ],
+  "developer": "Bethesda Softworks LLC",
+  "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

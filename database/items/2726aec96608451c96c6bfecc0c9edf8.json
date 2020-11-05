@@ -4,40 +4,22 @@
   "description": "Superliminal",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/item/SUPERLIMINAL_PORTRAIT-1280x1440-2b9075e3ced4c21fe439579af5b37332.jpg",
-      "md5": "2b9075e3ced4c21fe439579af5b37332",
-      "width": 1280,
-      "height": 1440,
-      "size": 591634,
-      "uploadedDate": "2019-10-22T09:41:44.790Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/item/EGS_PILLOW_CASTLE_SUPERLIMINAL_CAROUSEL_1-1920x1080-3b51f09ddcae3075f1641ec787bcf6ce.png",
-      "md5": "3b51f09ddcae3075f1641ec787bcf6ce",
-      "width": 1920,
-      "height": 1080,
-      "size": 2258676,
-      "uploadedDate": "2019-11-07T18:30:58.172Z"
+      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/item/Game_Landscape_Asset-2560x1440-25a41f1f880c0a7c14150ed8dc61e4c8.jpg",
+      "md5": "25a41f1f880c0a7c14150ed8dc61e4c8",
+      "width": 2560,
+      "height": 1440,
+      "size": 208102,
+      "uploadedDate": "2020-11-05T17:58:24.547Z"
     },
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/item/Superliminal_Logo_White-Transparent-4094x883-d81577c2fa43baafe852501f319bd400.png",
-      "md5": "d81577c2fa43baafe852501f319bd400",
-      "width": 4094,
-      "height": 883,
-      "size": 60663,
-      "uploadedDate": "2019-11-07T18:32:13.036Z"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/item/Superliminal_BannerThing_PNG-1280x1420-af698741bb5bc3c41fc7eea112a53da2-1280x1420-af698741bb5bc3c41fc7eea112a53da2.jpg",
-      "md5": "af698741bb5bc3c41fc7eea112a53da2",
-      "width": 1280,
-      "height": 1420,
-      "size": 110941,
-      "uploadedDate": "2019-11-20T17:06:51.351Z"
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/item/Game_Portrait_Asset-1200x1600-e4cf072c7cc46d6b554efb1c5bdd14f4.jpg",
+      "md5": "e4cf072c7cc46d6b554efb1c5bdd14f4",
+      "width": 1200,
+      "height": 1600,
+      "size": 118824,
+      "uploadedDate": "2020-11-05T17:58:27.475Z"
     }
   ],
   "categories": [
@@ -54,7 +36,7 @@
   "namespace": "6cec00f8934146508b884b0f139d55d0",
   "status": "ACTIVE",
   "creationDate": "2019-08-15T16:16:20.378Z",
-  "lastModifiedDate": "2019-11-20T17:06:57.003Z",
+  "lastModifiedDate": "2020-11-05T18:22:00.061Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -93,7 +75,8 @@
       "id": "f1dbb05c2a8c4529b480eb73491c0d4d",
       "appId": "Wigeon",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "dateAdded": "2019-08-26T00:00:00.000Z"
     }
@@ -104,6 +87,6 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": true,
+  "ageGatings": {},
   "unsearchable": false
 }

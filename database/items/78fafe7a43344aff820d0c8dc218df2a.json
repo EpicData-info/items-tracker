@@ -1,7 +1,27 @@
 {
   "id": "78fafe7a43344aff820d0c8dc218df2a",
-  "title": "Ragdoll",
-  "description": "Ragdoll",
+  "title": "Dungeons 3",
+  "description": "Dungeons 3",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_Dungeons3_RealmforgeStudios_S3-2560x1440-21b5fe0f44bc1f4c23a68bf6e159be40.jpg",
+      "md5": "21b5fe0f44bc1f4c23a68bf6e159be40",
+      "width": 2560,
+      "height": 1440,
+      "size": 769264,
+      "uploadedDate": "2020-10-01T17:47:00.057Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_Dungeons3_RealmforgeStudios_S4-1200x1600-1bd28634e22cae5706b41f0e3ef9cc0c.jpg",
+      "md5": "1bd28634e22cae5706b41f0e3ef9cc0c",
+      "width": 1200,
+      "height": 1600,
+      "size": 645843,
+      "uploadedDate": "2020-10-01T17:47:08.761Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,7 +36,7 @@
   "namespace": "213259527d2f41baa90cbe0ae5555271",
   "status": "ACTIVE",
   "creationDate": "2020-04-15T18:51:09.131Z",
-  "lastModifiedDate": "2020-10-05T15:14:20.921Z",
+  "lastModifiedDate": "2020-11-04T21:17:58.124Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -52,7 +72,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Ragdoll"
+      "value": "Dungeons3"
     }
   },
   "entitlementName": "78fafe7a43344aff820d0c8dc218df2a",

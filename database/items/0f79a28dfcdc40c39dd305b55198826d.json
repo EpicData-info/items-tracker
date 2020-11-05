@@ -1,0 +1,68 @@
+{
+  "id": "0f79a28dfcdc40c39dd305b55198826d",
+  "title": "An Unexpected DLC",
+  "description": "An Unexpected DLC",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_AnUnexpectedDLC_RealmforgeStudios_DLC_S1-2560x1440-e6bb8df32a67c46cde46acb5c9dea420.jpg",
+      "md5": "e6bb8df32a67c46cde46acb5c9dea420",
+      "width": 2560,
+      "height": 1440,
+      "size": 920199,
+      "uploadedDate": "2020-10-01T17:52:52.205Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/item/EGS_AnUnexpectedDLC_RealmforgeStudios_DLC_S2-1200x1600-980ae761aefd12d6945145d957e6f5c4.jpg",
+      "md5": "980ae761aefd12d6945145d957e6f5c4",
+      "width": 1200,
+      "height": 1600,
+      "size": 653387,
+      "uploadedDate": "2020-10-01T17:53:00.946Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    }
+  ],
+  "namespace": "213259527d2f41baa90cbe0ae5555271",
+  "status": "ACTIVE",
+  "creationDate": "2020-05-08T15:34:43.399Z",
+  "lastModifiedDate": "2020-11-04T21:19:23.548Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "UnexpectedDLC"
+    }
+  },
+  "entitlementName": "0f79a28dfcdc40c39dd305b55198826d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f64e616ce4e74592a9cbcd497a78375a",
+      "appId": "d9e60fb862e3405a963d46e787faea27",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
