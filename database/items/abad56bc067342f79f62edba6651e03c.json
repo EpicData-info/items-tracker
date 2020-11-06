@@ -20,15 +20,15 @@
   "namespace": "400347196e674de89c23cc2a7f2121db",
   "status": "ACTIVE",
   "creationDate": "2020-04-29T22:07:36.432Z",
-  "lastModifiedDate": "2020-04-30T15:01:42.184Z",
+  "lastModifiedDate": "2020-11-06T06:41:24.329Z",
   "customAttributes": {
     "parentPartnerLinkId": {
       "type": "STRING",
-      "value": "[]"
+      "value": "4663cbe7c0a0456b856dc34a120bb357"
     },
     "partnerLinkId": {
       "type": "STRING",
-      "value": "[]"
+      "value": "c24ecfe31c4346ee956b3d8ead8295af"
     },
     "partnerLinkType": {
       "type": "STRING",
