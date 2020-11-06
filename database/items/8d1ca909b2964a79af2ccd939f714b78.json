@@ -36,7 +36,7 @@
   "namespace": "400347196e674de89c23cc2a7f2121db",
   "status": "ACTIVE",
   "creationDate": "2020-04-28T17:48:55.687Z",
-  "lastModifiedDate": "2020-11-05T18:17:21.656Z",
+  "lastModifiedDate": "2020-11-06T14:12:29.346Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -52,7 +52,7 @@
     },
     "UseAccessControl": {
       "type": "STRING",
-      "value": "false"
+      "value": "true"
     },
     "RequirementsJson": {
       "type": "STRING",
