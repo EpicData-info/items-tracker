@@ -1,0 +1,35 @@
+{
+  "id": "22c7a15501c14e6dba04daaf3e0838bb",
+  "title": "Siberian OST Audience",
+  "description": "Siberian OST Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-06T14:27:17.674Z",
+  "lastModifiedDate": "2020-11-06T14:37:23.560Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "22c7a15501c14e6dba04daaf3e0838bb",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

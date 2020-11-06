@@ -1,0 +1,52 @@
+{
+  "id": "dd291b8958594b5aa5813f06a76b9721",
+  "title": "Siberian OST",
+  "description": "Siberian OST",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-06T14:27:21.565Z",
+  "lastModifiedDate": "2020-11-06T14:37:23.579Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "SiberianOST"
+    }
+  },
+  "entitlementName": "dd291b8958594b5aa5813f06a76b9721",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d754ca305143443b937807ed31ca99bd",
+      "appId": "69c2a060149e4cb28ecc0290fc2ae848",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-05-08T00:00:00.000Z"
+    }
+  ],
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
