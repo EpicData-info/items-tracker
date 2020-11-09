@@ -1,0 +1,33 @@
+{
+  "id": "e4904e0dab674d96ab2fb9a6fdcdf604",
+  "title": "DevReykjavikAudience",
+  "description": "DevReykjavikAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "45baf6c4e5df46f0b21593d5b2268769",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-15T19:26:44.147Z",
+  "lastModifiedDate": "2020-08-21T12:46:16.288Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e4904e0dab674d96ab2fb9a6fdcdf604",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Gaijin Distribution KFT",
+  "developerId": "o-ryelu2twnhbef3b9dncwtqh38emq5n",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

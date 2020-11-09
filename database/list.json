@@ -1149,6 +1149,18 @@
     1573179514
   ],
   [
+    "0519316393c34314bc6e322bedacb01e",
+    "45baf6c4e5df46f0b21593d5b2268769",
+    "5000 Audience",
+    [
+      "audience",
+      "public"
+    ],
+    "Gaijin Distribution KFT",
+    1604327379,
+    1604328260
+  ],
+  [
     "051c05628c4c4385a3a74e75fd30d63d",
     "b9def67e597b4be7a16146146a044d02",
     "Community 1 Audience",
@@ -10342,6 +10354,19 @@
     1414448271
   ],
   [
+    "2ff3125bf4094f28ae768924346ca2c5",
+    "45baf6c4e5df46f0b21593d5b2268769",
+    "Reykjavik",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Gaijin Distribution KFT",
+    1592249204,
+    1598013972
+  ],
+  [
     "30215e0ac9d64df09fe2a8a2cec36ef4",
     "sunflower",
     "Helium Rain Mod Kit",
@@ -12410,6 +12435,18 @@
     1573794071
   ],
   [
+    "39a96bc9da5f4af2b9b6306f38fedef7",
+    "45baf6c4e5df46f0b21593d5b2268769",
+    "ReykjavikGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Gaijin Distribution KFT",
+    1592249204,
+    1598013976
+  ],
+  [
     "39b098c4407e4c7f9d28b1a2abcf5b2a",
     "ca4058f18b0a4a9e9e2ccc28f7f33000",
     "DEV A Woman's Lot Audience",
@@ -14014,6 +14051,19 @@
     "Ubisoft Entertainment",
     1580856459,
     1595271979
+  ],
+  [
+    "41f96bb28d36411b843684a42f9fa20e",
+    "45baf6c4e5df46f0b21593d5b2268769",
+    "ReykjavikStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Gaijin Distribution KFT",
+    1592249204,
+    1598013972
   ],
   [
     "41fd6b83b830407090b71faba7fc3f2a",
@@ -18368,6 +18418,18 @@
     "Bigben Interactive",
     1566623061,
     1573729142
+  ],
+  [
+    "53a02fdee73442889fa242328e9e28f8",
+    "45baf6c4e5df46f0b21593d5b2268769",
+    "25000 Audience",
+    [
+      "audience",
+      "public"
+    ],
+    "Gaijin Distribution KFT",
+    1604327385,
+    1604328260
   ],
   [
     "53b32623629f4bc9ae82e05edf17df69",
@@ -23434,6 +23496,18 @@
     "Epic Games",
     1569002729,
     1569073097
+  ],
+  [
+    "6b22619c9a12495d87bb4c1a1ed1b417",
+    "45baf6c4e5df46f0b21593d5b2268769",
+    "1000 Audience",
+    [
+      "audience",
+      "public"
+    ],
+    "Gaijin Distribution KFT",
+    1604327374,
+    1604328260
   ],
   [
     "6b311b41390c4734ba68fa031a2e1624",
@@ -38887,6 +38961,18 @@
     1577892152
   ],
   [
+    "b274940f535b42b490c6550d66150f66",
+    "45baf6c4e5df46f0b21593d5b2268769",
+    "2500 Audience",
+    [
+      "audience",
+      "public"
+    ],
+    "Gaijin Distribution KFT",
+    1604327377,
+    1604328260
+  ],
+  [
     "b299405d5f91413d89b56d26263ae8ac",
     "fn",
     "500 V-Bucks (Comp)",
@@ -46674,6 +46760,18 @@
     1583852778
   ],
   [
+    "d6a86a20fb7349639dc230d3ad6bbc81",
+    "45baf6c4e5df46f0b21593d5b2268769",
+    "10000 Audience",
+    [
+      "audience",
+      "public"
+    ],
+    "Gaijin Distribution KFT",
+    1604327382,
+    1604328260
+  ],
+  [
     "d6b2fd4dcdd449a993b473e7cf5eba1e",
     "dfd2530e80e4425d801913b0879be444",
     "SparrowPrePurchaseAudience",
@@ -48387,6 +48485,18 @@
     1570214050
   ],
   [
+    "dd75ab2d34cf413ab65565e4ef01123a",
+    "45baf6c4e5df46f0b21593d5b2268769",
+    "150 Audience",
+    [
+      "audience",
+      "public"
+    ],
+    "Gaijin Distribution KFT",
+    1604327370,
+    1604328260
+  ],
+  [
     "dd8087ab25c1460299d21170c1baf5e9",
     "azalea",
     "AzaleaPTSDev",
@@ -49861,6 +49971,18 @@
     "Big Blue Bubble, Inc.",
     1591732957,
     1600790551
+  ],
+  [
+    "e4904e0dab674d96ab2fb9a6fdcdf604",
+    "45baf6c4e5df46f0b21593d5b2268769",
+    "DevReykjavikAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Gaijin Distribution KFT",
+    1592249204,
+    1598013976
   ],
   [
     "e49314dc28a64343bb344a9649ae348b",

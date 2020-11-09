@@ -1,0 +1,36 @@
+{
+  "id": "b274940f535b42b490c6550d66150f66",
+  "title": "2500 Audience",
+  "description": "2500 Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "45baf6c4e5df46f0b21593d5b2268769",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-02T14:29:37.021Z",
+  "lastModifiedDate": "2020-11-02T14:44:20.570Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "b274940f535b42b490c6550d66150f66",
+  "entitlementType": "AUDIENCE",
+  "itemType": "CONSUMABLE",
+  "developer": "Gaijin Distribution KFT",
+  "developerId": "o-ryelu2twnhbef3b9dncwtqh38emq5n",
+  "useCount": 1,
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
