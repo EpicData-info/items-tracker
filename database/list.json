@@ -8199,6 +8199,18 @@
     1573598001
   ],
   [
+    "2576dee96bfe49a9aeb9a80c34cb4bff",
+    "b9def67e597b4be7a16146146a044d02",
+    "Early Access Editor Audience",
+    [
+      "audience",
+      "public"
+    ],
+    "Piranha Games",
+    1604933517,
+    1604933663
+  ],
+  [
     "2590548ecc3d46b0b1a78d4732d83d18",
     "933ada2ec45e4184ae840d64c99e0ba9",
     "Rogue Company Public Test",
@@ -8545,6 +8557,20 @@
     "Subset Games",
     1575395239,
     1576771016
+  ],
+  [
+    "26fe7f9ef8ab4653a565a38816f3159f",
+    "b9def67e597b4be7a16146146a044d02",
+    "MechWarrior 5 Early Access Editor",
+    [
+      "public",
+      "engines",
+      "editors",
+      "applications"
+    ],
+    "Piranha Games",
+    1604933501,
+    1604933663
   ],
   [
     "2708b1c2f2f84717926538228f3c3660",
