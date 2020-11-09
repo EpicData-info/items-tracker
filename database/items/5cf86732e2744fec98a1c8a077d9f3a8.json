@@ -42,7 +42,7 @@
   "namespace": "catnip",
   "status": "ACTIVE",
   "creationDate": "2019-02-13T20:15:03.704Z",
-  "lastModifiedDate": "2020-06-15T20:52:55.764Z",
+  "lastModifiedDate": "2020-11-09T17:44:51.511Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -66,7 +66,7 @@
     },
     "UseAccessControl": {
       "type": "STRING",
-      "value": "true"
+      "value": "false"
     },
     "RequirementsJson": {
       "type": "STRING",
@@ -112,5 +112,6 @@
     "(egstore && amaranth)"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }
