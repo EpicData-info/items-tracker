@@ -2,7 +2,17 @@
   "id": "11daef13d2654800b04f066ee5e030fb",
   "title": "AssassinsCreedValhallaStandardAudience",
   "description": "AssassinsCreedValhallaStandardAudience",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/item/acv-esrb-842x485-842x485-8c3b6c1880933b327cedcc4e5290c02d.png",
+      "md5": "8c3b6c1880933b327cedcc4e5290c02d",
+      "width": 842,
+      "height": 485,
+      "size": 26633,
+      "uploadedDate": "2020-11-10T16:38:18.240Z"
+    }
+  ],
   "categories": [
     {
       "path": "audience"
@@ -14,7 +24,7 @@
   "namespace": "400347196e674de89c23cc2a7f2121db",
   "status": "ACTIVE",
   "creationDate": "2020-04-28T17:48:55.584Z",
-  "lastModifiedDate": "2020-11-10T16:05:51.228Z",
+  "lastModifiedDate": "2020-11-10T16:38:24.785Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",

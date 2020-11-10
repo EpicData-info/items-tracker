@@ -36,7 +36,7 @@
   "namespace": "71e66acf6bb34733bd98514ebf9fcaf8",
   "status": "ACTIVE",
   "creationDate": "2020-08-31T23:39:19.669Z",
-  "lastModifiedDate": "2020-11-09T15:39:35.223Z",
+  "lastModifiedDate": "2020-11-10T16:55:23.876Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -64,7 +64,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Aquarius"
+      "value": "ObserverSystemRedux"
     }
   },
   "entitlementName": "23b1ee48b7664249aaf564eac11740bc",
