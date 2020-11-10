@@ -45,11 +45,15 @@
   "namespace": "a9dad8af015a422eb89a5f88e6def923",
   "status": "ACTIVE",
   "creationDate": "2019-05-02T19:22:07.903Z",
-  "lastModifiedDate": "2020-10-28T15:01:16.501Z",
+  "lastModifiedDate": "2020-11-10T01:06:17.032Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Pathless/Saved/SaveGames/"
     },
     "FolderName": {
       "type": "STRING",
