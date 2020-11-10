@@ -1,7 +1,7 @@
 {
   "id": "6f8da58694dc4624876024ccc91b1c54",
-  "title": "Moscow",
-  "description": "Moscow",
+  "title": "Fuser",
+  "description": "Fuser",
   "keyImages": [
     {
       "type": "DieselGameBox",
@@ -36,7 +36,7 @@
   "namespace": "6af58339c2424644988e0fb83dfd9bd5",
   "status": "ACTIVE",
   "creationDate": "2020-06-16T17:49:58.945Z",
-  "lastModifiedDate": "2020-11-04T22:49:01.882Z",
+  "lastModifiedDate": "2020-11-10T04:59:48.750Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -68,7 +68,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "Moscow"
+      "value": "Fuser"
     }
   },
   "entitlementName": "6f8da58694dc4624876024ccc91b1c54",

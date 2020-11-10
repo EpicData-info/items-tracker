@@ -1,8 +1,8 @@
 {
   "id": "69fbb0cef5724cf9a5ac9df9ca964ae9",
-  "title": "Looks pack 3 Audience",
-  "description": "Looks pack 3 Audience",
-  "longDescription": "Looks pack 3 Audience",
+  "title": "Look Pack 80s Audience",
+  "description": "Look Pack 80s Audience",
+  "longDescription": "",
   "keyImages": [],
   "categories": [
     {
@@ -15,7 +15,7 @@
   "namespace": "6af58339c2424644988e0fb83dfd9bd5",
   "status": "ACTIVE",
   "creationDate": "2020-09-25T23:55:07.844Z",
-  "lastModifiedDate": "2020-11-04T15:16:38.449Z",
+  "lastModifiedDate": "2020-11-10T04:59:48.750Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
