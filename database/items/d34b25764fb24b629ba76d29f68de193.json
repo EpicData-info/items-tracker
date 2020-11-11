@@ -16,7 +16,7 @@
   "namespace": "77f2b98e2cef40c8a7437518bf420e47",
   "status": "ACTIVE",
   "creationDate": "2019-06-07T19:03:29.303Z",
-  "lastModifiedDate": "2020-10-29T00:54:06.796Z",
+  "lastModifiedDate": "2020-11-11T21:13:01.563Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -37,11 +37,11 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-10-29T00:53:42.996Z"
+      "dateAdded": "2020-10-29T00:00:00.000Z"
     }
   ],
-  "developer": "Epic Dev Test Account",
-  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "developer": "CD PROJEKT RED",
+  "developerId": "o-x2vdjaf7cfakvlsgz8qf2gx8bkplcc",
   "eulaIds": [
     "egstore"
   ],

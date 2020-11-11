@@ -24,7 +24,7 @@
   "namespace": "77f2b98e2cef40c8a7437518bf420e47",
   "status": "ACTIVE",
   "creationDate": "2019-06-07T19:03:29.123Z",
-  "lastModifiedDate": "2019-11-04T18:37:25.168Z",
+  "lastModifiedDate": "2020-11-11T21:18:46.358Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -34,12 +34,14 @@
   "entitlementName": "3f0e402b13894701a037972dfe533506",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Epic Dev Test Account",
-  "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+  "developer": "CD PROJEKT RED",
+  "developerId": "o-x2vdjaf7cfakvlsgz8qf2gx8bkplcc",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "fghi4567IPhGxMKkLZjwrBzdjtpJgMbv",
   "unsearchable": false
 }
