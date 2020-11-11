@@ -17,7 +17,7 @@
   "namespace": "oregano",
   "status": "ACTIVE",
   "creationDate": "2020-03-07T05:18:54.271Z",
-  "lastModifiedDate": "2020-11-11T17:36:26.880Z",
+  "lastModifiedDate": "2020-11-11T21:31:12.466Z",
   "customAttributes": {
     "parentPartnerLinkId": {
       "type": "STRING",
@@ -25,7 +25,7 @@
     },
     "partnerLinkId": {
       "type": "STRING",
-      "value": "[]"
+      "value": "f035efa2d6f9480aa7746a41884e6f5c"
     },
     "partnerLinkType": {
       "type": "STRING",
