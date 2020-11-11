@@ -1,7 +1,7 @@
 {
   "id": "4c0e8062d53f47bba98547aef1d1b089",
-  "title": "Bad Seed DLC Audience",
-  "description": "Bad Seed DLC Audience",
+  "title": "DLC1 Audience",
+  "description": "DLC1 Audience",
   "keyImages": [],
   "categories": [
     {
@@ -14,7 +14,7 @@
   "namespace": "1368a7f14c3344bbaededbae528fafed",
   "status": "ACTIVE",
   "creationDate": "2020-08-28T15:43:33.675Z",
-  "lastModifiedDate": "2020-10-30T12:24:38.389Z",
+  "lastModifiedDate": "2020-11-11T12:12:56.967Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",

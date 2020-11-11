@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/item/EGS_DeadCells_MotionTwin_S1-2560x1440-87045359c3856ef941959aeeb00dbc7f.jpg",
-      "md5": "87045359c3856ef941959aeeb00dbc7f",
+      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/item/3944a1e9-aeba-4174-8b67-1ade6e21fb59-2560x1440-3917a9856d83dfde987fe9a732558096.jpg",
+      "md5": "3917a9856d83dfde987fe9a732558096",
       "width": 2560,
       "height": 1440,
-      "size": 1024033,
-      "uploadedDate": "2020-10-19T20:56:08.359Z"
+      "size": 983908,
+      "uploadedDate": "2020-11-05T13:11:38.192Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/item/EGS_DeadCells_MotionTwin_S2-1200x1600-34d9d5ebca89e17e0a26ddb2cb158b75.jpg",
-      "md5": "34d9d5ebca89e17e0a26ddb2cb158b75",
+      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/item/a7c75312-4c77-485b-8319-29869f952324-1200x1600-bd8ef79d4f15c34e4707c178e025f854.jpg",
+      "md5": "bd8ef79d4f15c34e4707c178e025f854",
       "width": 1200,
       "height": 1600,
-      "size": 960985,
-      "uploadedDate": "2020-10-19T20:56:16.094Z"
+      "size": 537669,
+      "uploadedDate": "2020-11-05T13:11:47.004Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "1368a7f14c3344bbaededbae528fafed",
   "status": "ACTIVE",
   "creationDate": "2020-10-30T12:14:06.365Z",
-  "lastModifiedDate": "2020-10-30T12:24:07.347Z",
+  "lastModifiedDate": "2020-11-11T12:12:56.979Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
