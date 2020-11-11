@@ -1,0 +1,72 @@
+{
+  "id": "a8944689548b454f8656c12ea4839058",
+  "title": "ToygerCoreTest",
+  "description": "ToygerCoreTest",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "047392e91d5e4cfdb19e2767440ab206",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-11T18:02:30.958Z",
+  "lastModifiedDate": "2020-11-11T18:12:50.150Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "047392e91d5e4cfdb19e2767440ab206"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ToygerCoreTest"
+    }
+  },
+  "entitlementName": "a8944689548b454f8656c12ea4839058",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "aa4b756cb3004d69a9954d3698e4bc15",
+      "appId": "20fb7e1ea9504811ac23a62375da3013",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-11T18:04:33.649Z"
+    }
+  ],
+  "developer": "Frontier Developments",
+  "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

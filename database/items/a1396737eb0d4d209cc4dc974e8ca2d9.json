@@ -1,0 +1,35 @@
+{
+  "id": "a1396737eb0d4d209cc4dc974e8ca2d9",
+  "title": "ToygerCoreTestGeneralAudience",
+  "description": "ToygerCoreTestGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "047392e91d5e4cfdb19e2767440ab206",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-11T18:02:30.593Z",
+  "lastModifiedDate": "2020-11-11T18:12:50.139Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a1396737eb0d4d209cc4dc974e8ca2d9",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Frontier Developments",
+  "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
