@@ -1,7 +1,7 @@
 {
   "id": "89674d09e56a45979aa1e0530130f2cc",
-  "title": "LoL_DLCAudience_redeemable",
-  "description": "LoL_DLCAudience_redeemable",
+  "title": "DLC07Audience_redeemable",
+  "description": "DLC07Audience_redeemable",
   "technicalDetails": "Granted if you must call Partner Integration to redeem season pass separately from the game. Not necessary if the edition you buy already includes it",
   "keyImages": [],
   "categories": [
@@ -15,7 +15,7 @@
   "namespace": "oregano",
   "status": "ACTIVE",
   "creationDate": "2020-03-07T05:17:35.256Z",
-  "lastModifiedDate": "2020-05-27T21:47:43.336Z",
+  "lastModifiedDate": "2020-11-11T17:36:26.879Z",
   "entitlementName": "89674d09e56a45979aa1e0530130f2cc",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
@@ -26,5 +26,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

@@ -1,7 +1,7 @@
 {
   "id": "9a9a58d09fb449639e161e781e92a905",
-  "title": "LoL_DLCAudience_Marker",
-  "description": "LoL_DLCAudience_Marker",
+  "title": "DLC_07_Audience_Marker",
+  "description": "DLC_07_Audience_Marker",
   "keyImages": [],
   "categories": [
     {
@@ -14,7 +14,7 @@
   "namespace": "oregano",
   "status": "ACTIVE",
   "creationDate": "2020-03-07T05:18:19.882Z",
-  "lastModifiedDate": "2020-05-27T21:47:43.336Z",
+  "lastModifiedDate": "2020-11-11T17:36:26.880Z",
   "entitlementName": "9a9a58d09fb449639e161e781e92a905",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
@@ -25,5 +25,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

@@ -1,7 +1,7 @@
 {
   "id": "e311871f74b84ce79b304d6ae1c28ce8",
-  "title": "LoL - DLC",
-  "description": "LoL - DLC",
+  "title": "DLC 7",
+  "description": "DLC 7",
   "keyImages": [],
   "categories": [
     {
@@ -17,7 +17,7 @@
   "namespace": "oregano",
   "status": "ACTIVE",
   "creationDate": "2020-03-07T05:18:54.271Z",
-  "lastModifiedDate": "2020-05-27T21:47:43.337Z",
+  "lastModifiedDate": "2020-11-11T17:36:26.880Z",
   "customAttributes": {
     "parentPartnerLinkId": {
       "type": "STRING",
@@ -38,7 +38,7 @@
   "releaseInfo": [
     {
       "id": "de2ea0d79d254aaaa9f5ebe2640b46f1",
-      "appId": "LoL",
+      "appId": "OreganoDLC07",
       "compatibleApps": [],
       "platform": [
         "Windows"
@@ -54,5 +54,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }
