@@ -1,0 +1,35 @@
+{
+  "id": "a44c3817c9c3466d86b472476c93893c",
+  "title": "MtAlverstoneDLCGeneralAudience",
+  "description": "MtAlverstoneDLCGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "28d06644e2f84b398c1b7fb96a2b6bd5",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-11T20:10:51.638Z",
+  "lastModifiedDate": "2020-11-12T19:35:06.106Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "a44c3817c9c3466d86b472476c93893c",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

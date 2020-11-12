@@ -1,0 +1,71 @@
+{
+  "id": "c6bad2aea2c24a4e97859d67a89f6d97",
+  "title": "MtAlverstonePP",
+  "description": "MtAlverstonePP",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "28d06644e2f84b398c1b7fb96a2b6bd5",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-11T20:09:56.446Z",
+  "lastModifiedDate": "2020-11-12T19:35:06.106Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "28d06644e2f84b398c1b7fb96a2b6bd5"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MtAlverstonePP"
+    }
+  },
+  "entitlementName": "c6bad2aea2c24a4e97859d67a89f6d97",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "aff4e511c42840bbb0d29cffe30457f4",
+      "appId": "MtAlverstonePP",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

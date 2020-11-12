@@ -1,0 +1,35 @@
+{
+  "id": "3e2e6e421dfa4311a390a7aa1cb3de85",
+  "title": "MtAlverstonePPGeneralAudience",
+  "description": "MtAlverstonePPGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "28d06644e2f84b398c1b7fb96a2b6bd5",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-11T20:09:56.097Z",
+  "lastModifiedDate": "2020-11-12T19:35:06.106Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "3e2e6e421dfa4311a390a7aa1cb3de85",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Koch Media",
+  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
