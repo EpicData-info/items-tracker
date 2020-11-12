@@ -36,7 +36,7 @@
   "namespace": "13bb5776b9e1424d84ce42d9ba61c0ca",
   "status": "ACTIVE",
   "creationDate": "2019-06-14T16:20:24.733Z",
-  "lastModifiedDate": "2020-09-25T11:01:49.644Z",
+  "lastModifiedDate": "2020-11-12T13:56:53.143Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -91,7 +91,8 @@
       "id": "66524b004f4c4776863187681aaee340",
       "appId": "Marigold",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "dateAdded": "2019-07-23T00:00:00.000Z"
     }
