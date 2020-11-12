@@ -36,7 +36,7 @@
   "namespace": "a9dad8af015a422eb89a5f88e6def923",
   "status": "ACTIVE",
   "creationDate": "2019-05-02T19:22:07.847Z",
-  "lastModifiedDate": "2020-11-10T22:51:14.538Z",
+  "lastModifiedDate": "2020-11-12T16:59:32.372Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -72,7 +72,7 @@
     },
     "SupportedPlatforms": {
       "type": "STRING",
-      "value": "Windows,Mac"
+      "value": "Windows"
     }
   },
   "entitlementName": "5acc7a7675aa4d2786d6bfaad1920b60",
@@ -83,8 +83,7 @@
       "id": "1c420b9d9b394817bba92de118ddae9f",
       "appId": "geum",
       "platform": [
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "dateAdded": "2019-05-13T00:00:00.000Z"
     }
@@ -96,5 +95,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "fghi4567u3a2wPM9Um15wOUf0pwdOg0X",
   "unsearchable": false
 }

@@ -5,12 +5,12 @@
   "keyImages": [
     {
       "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/item/RP_FOR_E-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
-      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/item/ESRB_ThePathless-842x404-4753c12f968ba7db3db91d3c1fb217cb.png",
+      "md5": "4753c12f968ba7db3db91d3c1fb217cb",
       "width": 842,
       "height": 404,
-      "size": 51194,
-      "uploadedDate": "2019-05-13T20:59:25.973Z"
+      "size": 56323,
+      "uploadedDate": "2020-11-11T21:36:18.116Z"
     }
   ],
   "categories": [
@@ -24,11 +24,11 @@
   "namespace": "a9dad8af015a422eb89a5f88e6def923",
   "status": "ACTIVE",
   "creationDate": "2019-05-02T19:22:07.741Z",
-  "lastModifiedDate": "2020-10-28T15:01:16.501Z",
+  "lastModifiedDate": "2020-11-12T17:00:38.671Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
-      "value": "Windows,Mac"
+      "value": "Windows"
     }
   },
   "entitlementName": "3a8c57519e1845aa97f6b874bbee6be1",
@@ -40,7 +40,7 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "esrbGameRatingValue": "RATING_PENDING",
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
   "ageGatings": {},
   "unsearchable": false
 }
