@@ -1,7 +1,7 @@
 {
   "id": "e311871f74b84ce79b304d6ae1c28ce8",
-  "title": "DLC 7",
-  "description": "DLC 7",
+  "title": "City Lights - DLC",
+  "description": "City Lights - DLC",
   "keyImages": [],
   "categories": [
     {
@@ -17,7 +17,7 @@
   "namespace": "oregano",
   "status": "ACTIVE",
   "creationDate": "2020-03-07T05:18:54.271Z",
-  "lastModifiedDate": "2020-11-11T21:31:12.466Z",
+  "lastModifiedDate": "2020-11-12T15:55:27.080Z",
   "customAttributes": {
     "parentPartnerLinkId": {
       "type": "STRING",
