@@ -1,0 +1,33 @@
+{
+  "id": "2090f4be4233473ea8fdba39e9a4237f",
+  "title": "TorshavnGeneralAudience",
+  "description": "TorshavnGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "b258cb25f6cc4031914256c2d42b2188",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-11T18:54:09.462Z",
+  "lastModifiedDate": "2020-11-12T15:11:43.711Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "2090f4be4233473ea8fdba39e9a4237f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Justechel",
+  "developerId": "o-8n8dlrevvlc42rrnbrlzewuwax8yev",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

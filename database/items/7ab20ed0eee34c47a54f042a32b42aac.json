@@ -1,0 +1,52 @@
+{
+  "id": "7ab20ed0eee34c47a54f042a32b42aac",
+  "title": "TorshavnStaging",
+  "description": "TorshavnStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b258cb25f6cc4031914256c2d42b2188",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-11T18:54:09.988Z",
+  "lastModifiedDate": "2020-11-12T15:11:43.711Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "TorshavnStaging"
+    }
+  },
+  "entitlementName": "7ab20ed0eee34c47a54f042a32b42aac",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ff1e92552cd944e0ab79881411f1d90a",
+      "appId": "eb4b4a52ee6d45c3bb676c3384290720",
+      "platform": [
+        "Windows",
+        "Mac"
+      ],
+      "dateAdded": "2020-08-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Justechel",
+  "developerId": "o-8n8dlrevvlc42rrnbrlzewuwax8yev",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

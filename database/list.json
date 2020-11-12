@@ -7131,6 +7131,18 @@
     1565881168
   ],
   [
+    "2090f4be4233473ea8fdba39e9a4237f",
+    "b258cb25f6cc4031914256c2d42b2188",
+    "TorshavnGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Justechel",
+    1591901649,
+    1605193903
+  ],
+  [
     "20aac6e1ce9e4a388043c874cc4074d1",
     "catnip",
     "CatnipExternalStable6DLC2",
@@ -26941,6 +26953,19 @@
     1573615963
   ],
   [
+    "7ab20ed0eee34c47a54f042a32b42aac",
+    "b258cb25f6cc4031914256c2d42b2188",
+    "TorshavnStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Justechel",
+    1591901649,
+    1605193903
+  ],
+  [
     "7abdd587e5644eddba13c5d550615a0c",
     "ocn",
     "Ocean Apple Cert App Bundle",
@@ -30016,14 +30041,14 @@
   [
     "89674d09e56a45979aa1e0530130f2cc",
     "oregano",
-    "DLC07Audience_redeemable",
+    "DLC07_CityLights_DLCAudience_redeemable",
     [
       "audience",
       "public"
     ],
     "Ubisoft Entertainment",
     1583558255,
-    1605116186
+    1605195723
   ],
   [
     "8967ef4fa6c546dda4000824dfcefc8b",
@@ -33635,14 +33660,14 @@
   [
     "9a9a58d09fb449639e161e781e92a905",
     "oregano",
-    "DLC_07_Audience_Marker",
+    "DLC07_CityLights_DLCAudience_Marker",
     [
       "audience",
       "public"
     ],
     "Ubisoft Entertainment",
     1583558299,
-    1605116186
+    1605195723
   ],
   [
     "9aa1f21b575344679406f0f03916ec6f",
@@ -49414,6 +49439,18 @@
     "Epic Games",
     1574794115,
     1574794115
+  ],
+  [
+    "e0fdd98ed3994b67ab152135a6d054c3",
+    "b258cb25f6cc4031914256c2d42b2188",
+    "DevTorshavnAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Justechel",
+    1591901649,
+    1605193903
   ],
   [
     "e10422fc763b4df3a02c286e40f4fcae",
