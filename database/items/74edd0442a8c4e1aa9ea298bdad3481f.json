@@ -1,0 +1,34 @@
+{
+  "id": "74edd0442a8c4e1aa9ea298bdad3481f",
+  "title": "MtKeithGeneralAudience",
+  "description": "MtKeithGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "c22a84689e1a4ad083b2b4ba0ee396f4",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-12T21:13:42.267Z",
+  "lastModifiedDate": "2020-11-12T21:23:27.385Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "74edd0442a8c4e1aa9ea298bdad3481f",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Beamdog",
+  "developerId": "o-wc3gy6s683brl6424p7kqlrldhy7vd",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

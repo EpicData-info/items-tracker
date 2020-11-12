@@ -1,0 +1,72 @@
+{
+  "id": "be39b4c835ba46bbab3b60383b8757b5",
+  "title": "MtKeith",
+  "description": "MtKeith",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c22a84689e1a4ad083b2b4ba0ee396f4",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-12T21:13:42.617Z",
+  "lastModifiedDate": "2020-11-12T21:22:29.140Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "c22a84689e1a4ad083b2b4ba0ee396f4"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MtKeith"
+    }
+  },
+  "entitlementName": "be39b4c835ba46bbab3b60383b8757b5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f21735b21c4840ec8a80d0e982575217",
+      "appId": "7d2ed6b13ab94a0b83a8f39199fe5b9d",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-12T21:19:54.620Z"
+    }
+  ],
+  "developer": "Beamdog",
+  "developerId": "o-wc3gy6s683brl6424p7kqlrldhy7vd",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

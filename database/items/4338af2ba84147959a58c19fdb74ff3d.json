@@ -1,0 +1,52 @@
+{
+  "id": "4338af2ba84147959a58c19fdb74ff3d",
+  "title": "MtKeithStaging",
+  "description": "MtKeithStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "c22a84689e1a4ad083b2b4ba0ee396f4",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-12T21:13:42.910Z",
+  "lastModifiedDate": "2020-11-12T21:22:29.140Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MtKeithStaging"
+    }
+  },
+  "entitlementName": "4338af2ba84147959a58c19fdb74ff3d",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4e7ddc75138e4048b43257cc71609162",
+      "appId": "fb4246480a15423686f3a9696c55ec32",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-12T21:20:22.833Z"
+    }
+  ],
+  "developer": "Beamdog",
+  "developerId": "o-wc3gy6s683brl6424p7kqlrldhy7vd",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

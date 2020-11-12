@@ -14549,6 +14549,19 @@
     1584985546
   ],
   [
+    "4338af2ba84147959a58c19fdb74ff3d",
+    "c22a84689e1a4ad083b2b4ba0ee396f4",
+    "MtKeithStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Beamdog",
+    1605215622,
+    1605216149
+  ],
+  [
     "433c308da17d4fc6a2e669302b9e5f4b",
     "conanexiles",
     "CreateCallToAction02",
@@ -25768,6 +25781,18 @@
     "Ubisoft Entertainment",
     1549816372,
     1580227139
+  ],
+  [
+    "74edd0442a8c4e1aa9ea298bdad3481f",
+    "c22a84689e1a4ad083b2b4ba0ee396f4",
+    "MtKeithGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Beamdog",
+    1605215622,
+    1605216207
   ],
   [
     "750ae95b3b904674be5e25d234593f74",
@@ -41590,6 +41615,19 @@
     1605189721
   ],
   [
+    "be39b4c835ba46bbab3b60383b8757b5",
+    "c22a84689e1a4ad083b2b4ba0ee396f4",
+    "MtKeith",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Beamdog",
+    1605215622,
+    1605216149
+  ],
+  [
     "be54b2d375114c42927ecb8d79ece5a2",
     "morpho",
     "MorphoDevAudience",
@@ -52732,6 +52770,18 @@
     "Galactic Cafe",
     1582119503,
     1584625419
+  ],
+  [
+    "f18fdfe272134590b17a35ec207a9bdb",
+    "c22a84689e1a4ad083b2b4ba0ee396f4",
+    "DevMtKeithAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Beamdog",
+    1605215622,
+    1605216207
   ],
   [
     "f195b66ce4f04f86abf31a2b2b1312eb",
