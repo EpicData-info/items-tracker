@@ -1,25 +1,25 @@
 {
   "id": "00bfea4599f549c9829ea050fe221640",
-  "title": "RUNE II",
-  "description": "RUNE II",
+  "title": "RUNE II: Decapitation Edition",
+  "description": "RUNE II: Decapitation Edition",
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/cosmos/item/RUNE II Quick Launch-1920x1080-efbce6fe1b7d993066432082575f815f.jpg",
-      "md5": "efbce6fe1b7d993066432082575f815f",
-      "width": 1920,
-      "height": 1080,
-      "size": 842441,
-      "uploadedDate": "2020-04-30T19:08:34.598Z"
+      "url": "https://cdn1.epicgames.com/cosmos/item/EGS_RUNEIIDecapitationEdition_Studio369_S3-2560x1440-36ff8d8a9ca5679705db90c06039f359.jpg",
+      "md5": "36ff8d8a9ca5679705db90c06039f359",
+      "width": 2560,
+      "height": 1440,
+      "size": 911845,
+      "uploadedDate": "2020-11-13T15:49:24.656Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/cosmos/item/b4cd3b68-33c4-41d3-81bb-b0002cd6ad9b-1200x1600-8345fd405a0bd114b71ba571a36dccd2.jpg",
-      "md5": "8345fd405a0bd114b71ba571a36dccd2",
+      "url": "https://cdn1.epicgames.com/cosmos/item/EGS_RUNEIIDecapitationEdition_Studio369_S4-1200x1600-e8b6e6b24b07cabec4ea4b78feb6fb2c.jpg",
+      "md5": "e8b6e6b24b07cabec4ea4b78feb6fb2c",
       "width": 1200,
       "height": 1600,
-      "size": 667240,
-      "uploadedDate": "2020-09-04T13:04:21.211Z"
+      "size": 632263,
+      "uploadedDate": "2020-11-13T15:49:38.424Z"
     }
   ],
   "categories": [
@@ -33,7 +33,7 @@
   "namespace": "cosmos",
   "status": "ACTIVE",
   "creationDate": "2019-03-04T20:09:37.098Z",
-  "lastModifiedDate": "2020-09-09T21:57:55.634Z",
+  "lastModifiedDate": "2020-11-13T17:59:53.960Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
