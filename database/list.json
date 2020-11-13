@@ -4976,6 +4976,18 @@
     1576513996
   ],
   [
+    "167097c61852448d9ef4a305db5d5210",
+    "bb9f87bb3d0042258bb1c97397bc60f2",
+    "PikesPeak Premium Audience",
+    [
+      "audience",
+      "public"
+    ],
+    "Unit 2 Games",
+    1605271135,
+    1605272519
+  ],
+  [
     "167fe4a0caee4da689193e3e12af241e",
     "933ada2ec45e4184ae840d64c99e0ba9",
     "PeweeGeneralAudience",
@@ -8966,6 +8978,18 @@
     "YAGER",
     1567114447,
     1597838126
+  ],
+  [
+    "28a6af15b9c84582bf04efd5771df2e0",
+    "bb9f87bb3d0042258bb1c97397bc60f2",
+    "15000 Credits Audience",
+    [
+      "audience",
+      "public"
+    ],
+    "Unit 2 Games",
+    1605271133,
+    1605272519
   ],
   [
     "28b94f4e705741de9b0aa5b266c4c0fc",
@@ -17215,6 +17239,18 @@
     1582211286
   ],
   [
+    "4dcb62a1890d4d329e45f83eeacc04fb",
+    "bb9f87bb3d0042258bb1c97397bc60f2",
+    "5000 Credits Audience",
+    [
+      "audience",
+      "public"
+    ],
+    "Unit 2 Games",
+    1605271130,
+    1605272519
+  ],
+  [
     "4de8a78e509e4dfa95d0895d694fa2ca",
     "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
     "Carp-DevAlpha",
@@ -21579,6 +21615,20 @@
     1597347099
   ],
   [
+    "61400dffaecb4ea29b52db2f8ffeed32",
+    "bb9f87bb3d0042258bb1c97397bc60f2",
+    "1000 Credits Audience",
+    [
+      "audience",
+      "public",
+      "addons",
+      "addons/consumable"
+    ],
+    "Unit 2 Games",
+    1605271124,
+    1605272519
+  ],
+  [
     "6154f8d94c6b462eb0775d022cda9ab7",
     "c9be94273fe244c08032ca493ad87434",
     "AlbacoreSPAudience_Redeemable",
@@ -25746,6 +25796,18 @@
     "Tripwire Interactive",
     1574817273,
     1594306679
+  ],
+  [
+    "74a36f70ff594504b549feb4c72009a0",
+    "bb9f87bb3d0042258bb1c97397bc60f2",
+    "PikesPeak Deluxe Audience",
+    [
+      "audience",
+      "public"
+    ],
+    "Unit 2 Games",
+    1605271139,
+    1605272519
   ],
   [
     "74d548d8846548b9a3038aeba37d120d",
@@ -34325,6 +34387,20 @@
     "Unit 2 Games",
     1603988269,
     1604003818
+  ],
+  [
+    "9d57d292681946949c35f86d93ed8d05",
+    "bb9f87bb3d0042258bb1c97397bc60f2",
+    "500 Credits Audience",
+    [
+      "audience",
+      "public",
+      "addons",
+      "addons/consumable"
+    ],
+    "Unit 2 Games",
+    1605271109,
+    1605272519
   ],
   [
     "9d60f0d4300a407e817ce5548f12f12d",
@@ -54041,6 +54117,18 @@
     "Snapshot Games",
     1572877015,
     1603134973
+  ],
+  [
+    "f75b83bae6bf43f1abb3ad6a27458681",
+    "bb9f87bb3d0042258bb1c97397bc60f2",
+    "2500 Credits Audience",
+    [
+      "audience",
+      "public"
+    ],
+    "Unit 2 Games",
+    1605271128,
+    1605272519
   ],
   [
     "f77618efb2c244318b2376b4c74b9279",
