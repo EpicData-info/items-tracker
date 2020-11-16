@@ -17,7 +17,7 @@
   "namespace": "39697c68e46b48d2b75e17bdc417d859",
   "status": "ACTIVE",
   "creationDate": "2020-09-30T17:24:28.310Z",
-  "lastModifiedDate": "2020-11-13T17:03:45.405Z",
+  "lastModifiedDate": "2020-11-16T15:32:29.242Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -27,9 +27,17 @@
       "type": "STRING",
       "value": "39697c68e46b48d2b75e17bdc417d859"
     },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/ClockStone Software GmbH/BC TWD/"
+    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../LocalLow/ClockStone Software GmbH/BC TWD/"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -38,6 +46,10 @@
     "RequirementsJson": {
       "type": "STRING",
       "value": "[]"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "Profile.dat"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
