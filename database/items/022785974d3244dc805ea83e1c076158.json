@@ -36,7 +36,7 @@
   "namespace": "2744acda6a2e493e9894b389b6564df7",
   "status": "ACTIVE",
   "creationDate": "2019-06-13T17:18:24.273Z",
-  "lastModifiedDate": "2020-05-15T02:44:12.217Z",
+  "lastModifiedDate": "2020-11-16T13:59:35.762Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -95,6 +95,5 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "selfRefundable": true,
   "unsearchable": false
 }
