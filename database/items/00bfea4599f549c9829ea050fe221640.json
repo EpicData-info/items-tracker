@@ -33,7 +33,7 @@
   "namespace": "cosmos",
   "status": "ACTIVE",
   "creationDate": "2019-03-04T20:09:37.098Z",
-  "lastModifiedDate": "2020-11-13T17:59:53.960Z",
+  "lastModifiedDate": "2020-11-14T13:10:53.467Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
