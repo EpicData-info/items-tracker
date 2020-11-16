@@ -16,7 +16,7 @@
   "namespace": "df37f065c3f14eadbf011177396e2966",
   "status": "ACTIVE",
   "creationDate": "2020-10-26T16:28:13.460Z",
-  "lastModifiedDate": "2020-10-28T01:32:17.155Z",
+  "lastModifiedDate": "2020-11-16T20:04:58.143Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -53,10 +53,11 @@
   "releaseInfo": [
     {
       "id": "2f502e2e64724273be9abe81deec130f",
-      "appId": "Lethe",
+      "appId": "8935bb3e1420443a9789fe01758039a5",
       "platform": [
         "Windows"
-      ]
+      ],
+      "dateAdded": "2020-11-16T20:04:50.622Z"
     }
   ],
   "developer": "SEGA of Europe",
@@ -65,6 +66,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567WncMSw97kolM0Ff1UBPqwsE7",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

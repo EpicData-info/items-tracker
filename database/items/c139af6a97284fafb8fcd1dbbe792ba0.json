@@ -16,7 +16,7 @@
   "namespace": "df37f065c3f14eadbf011177396e2966",
   "status": "ACTIVE",
   "creationDate": "2020-10-26T16:28:13.685Z",
-  "lastModifiedDate": "2020-10-28T01:32:17.155Z",
+  "lastModifiedDate": "2020-11-16T20:03:52.768Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -33,10 +33,11 @@
   "releaseInfo": [
     {
       "id": "5049253ba0064102a26299c52583a4b4",
-      "appId": "LetheStaging",
+      "appId": "7e2d3846905b4613a9741075f19d97d4",
       "platform": [
         "Windows"
-      ]
+      ],
+      "dateAdded": "2020-11-16T20:03:50.532Z"
     }
   ],
   "developer": "SEGA of Europe",
@@ -45,6 +46,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
+  "applicationId": "fghi4567WncMSw97kolM0Ff1UBPqwsE7",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
