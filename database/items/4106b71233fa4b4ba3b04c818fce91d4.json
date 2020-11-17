@@ -16,7 +16,7 @@
   "namespace": "df37f065c3f14eadbf011177396e2966",
   "status": "ACTIVE",
   "creationDate": "2020-10-26T16:28:13.460Z",
-  "lastModifiedDate": "2020-11-16T20:04:58.143Z",
+  "lastModifiedDate": "2020-11-17T20:03:01.051Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -57,7 +57,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-11-16T20:04:50.622Z"
+      "dateAdded": "2020-11-16T00:00:00.000Z"
     }
   ],
   "developer": "SEGA of Europe",

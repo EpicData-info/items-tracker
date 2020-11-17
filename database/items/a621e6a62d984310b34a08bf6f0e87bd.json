@@ -16,7 +16,7 @@
   "namespace": "df37f065c3f14eadbf011177396e2966",
   "status": "ACTIVE",
   "creationDate": "2020-10-26T21:23:58.988Z",
-  "lastModifiedDate": "2020-10-28T01:32:17.155Z",
+  "lastModifiedDate": "2020-11-17T20:01:09.674Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -57,7 +57,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-10-27T20:23:42.719Z"
+      "dateAdded": "2020-10-27T00:00:00.000Z"
     }
   ],
   "developer": "SEGA of Europe",
@@ -67,6 +67,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "fghi4567WncMSw97kolM0Ff1UBPqwsE7",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
