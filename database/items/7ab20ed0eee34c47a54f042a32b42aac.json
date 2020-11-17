@@ -16,15 +16,19 @@
   "namespace": "b258cb25f6cc4031914256c2d42b2188",
   "status": "ACTIVE",
   "creationDate": "2020-06-11T18:54:09.988Z",
-  "lastModifiedDate": "2020-11-16T22:51:29.360Z",
+  "lastModifiedDate": "2020-11-17T23:29:24.746Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
     },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/com.roseCityGames.theworldnextdoor/"
+    },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{InstallDir}/"
+      "value": "{AppData}/../LocalLow/RoseCityGames/TheWorldNextDoor/"
     },
     "CloudIncludeList": {
       "type": "STRING",
