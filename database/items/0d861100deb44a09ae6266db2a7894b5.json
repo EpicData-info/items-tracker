@@ -1,0 +1,51 @@
+{
+  "id": "0d861100deb44a09ae6266db2a7894b5",
+  "title": "AlexandriteStaging",
+  "description": "AlexandriteStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d118f9a27e514d98aa25534afd2f35c7",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T02:31:24.387Z",
+  "lastModifiedDate": "2020-11-17T22:20:29.633Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AlexandriteStaging"
+    }
+  },
+  "entitlementName": "0d861100deb44a09ae6266db2a7894b5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c44d282a32c94950907d2d163c3eeb37",
+      "appId": "7d45775f4d914a04adf78e491aa6f909",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-17T22:18:21.726Z"
+    }
+  ],
+  "developer": "Sega of America",
+  "developerId": "o-5gbgsfvsrt9wlx9gu868mrxmhq6dlv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

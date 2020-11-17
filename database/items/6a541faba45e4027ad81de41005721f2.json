@@ -1,0 +1,71 @@
+{
+  "id": "6a541faba45e4027ad81de41005721f2",
+  "title": "Alexandrite",
+  "description": "Alexandrite",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "d118f9a27e514d98aa25534afd2f35c7",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T02:31:24.322Z",
+  "lastModifiedDate": "2020-11-17T22:20:29.633Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "d118f9a27e514d98aa25534afd2f35c7"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Alexandrite"
+    }
+  },
+  "entitlementName": "6a541faba45e4027ad81de41005721f2",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "fd82932d743a49059b60a174027fc126",
+      "appId": "e5071e19d08c45a6bdda5d92fbd0a03e",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-17T22:19:34.676Z"
+    }
+  ],
+  "developer": "Sega of America",
+  "developerId": "o-5gbgsfvsrt9wlx9gu868mrxmhq6dlv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

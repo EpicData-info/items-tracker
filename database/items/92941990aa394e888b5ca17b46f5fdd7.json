@@ -1,0 +1,33 @@
+{
+  "id": "92941990aa394e888b5ca17b46f5fdd7",
+  "title": "AlexandriteGeneralAudience",
+  "description": "AlexandriteGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "d118f9a27e514d98aa25534afd2f35c7",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T02:31:24.203Z",
+  "lastModifiedDate": "2020-11-17T22:20:29.633Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "92941990aa394e888b5ca17b46f5fdd7",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Sega of America",
+  "developerId": "o-5gbgsfvsrt9wlx9gu868mrxmhq6dlv",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}
