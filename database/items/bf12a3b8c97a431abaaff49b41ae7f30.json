@@ -14,7 +14,7 @@
   "namespace": "SeaQA",
   "status": "ACTIVE",
   "creationDate": "2015-09-17T22:39:25.843Z",
-  "lastModifiedDate": "2015-09-17T22:39:25.843Z",
+  "lastModifiedDate": "2020-11-18T07:37:18.450Z",
   "entitlementName": "test-item-ent-Anita",
   "entitlementType": "EXECUTABLE",
   "entitlementStartDate": "2015-09-16T00:00:00.000Z",
@@ -29,10 +29,23 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2015-09-17T22:33:50.644Z"
+      "dateAdded": "2015-09-17T00:00:00.000Z"
     }
   ],
-  "developer": "Anita",
+  "developer": "Epic Games",
+  "developerId": "o-63xw9bf4aa9wjw84hnm5du9n5yj56j",
+  "useCount": 10,
+  "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {
+    "GRAC_GRB": {
+      "ratingSystem": "GRAC_GRB",
+      "ageControl": 18,
+      "gameRating": "EVERYONE",
+      "title": "EVERYONE",
+      "descriptor": "test",
+      "certificateFileURL": "https://cdn1.epicgames.com/undefined/namespace/fortumo-purchase-flow-2019-02-26 (1).pdf"
+    }
+  },
   "unsearchable": false
 }
