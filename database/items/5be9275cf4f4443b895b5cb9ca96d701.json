@@ -1,0 +1,34 @@
+{
+  "id": "5be9275cf4f4443b895b5cb9ca96d701",
+  "title": "MeitneriumGeneralAudience",
+  "description": "MeitneriumGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "ef361cdf19514595a8cb0945fb66962e",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-18T04:44:43.888Z",
+  "lastModifiedDate": "2020-11-18T05:04:01.182Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5be9275cf4f4443b895b5cb9ca96d701",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Maximum Games",
+  "developerId": "o-a6k23slslegbhbwtel4qx423kuzc3y",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
