@@ -1,0 +1,34 @@
+{
+  "id": "e78cab62d6e246e7a828fa7ceb64ad0e",
+  "title": "PegasusGeneralAudience",
+  "description": "PegasusGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "e0172a81e4f0430e88c3156bdadfd088",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-18T22:57:28.791Z",
+  "lastModifiedDate": "2020-11-18T23:06:36.888Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e78cab62d6e246e7a828fa7ceb64ad0e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Righteous Hammer Games",
+  "developerId": "o-w24gbdgdvm4k9jfaucanaqt8wmtbzl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

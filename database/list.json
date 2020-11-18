@@ -10562,6 +10562,19 @@
     1573581527
   ],
   [
+    "3120140757ca4ab7b78213f6be371d4a",
+    "e0172a81e4f0430e88c3156bdadfd088",
+    "PegasusStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Righteous Hammer Games",
+    1605740249,
+    1605740725
+  ],
+  [
     "3121c42b53524a3e8a068d531966e6ac",
     "carnation",
     "CarnationGoldAudience",
@@ -23167,6 +23180,19 @@
     "Epic Games",
     1570389475,
     1605550896
+  ],
+  [
+    "689cfaa0df5841ea8289059283d3fa02",
+    "e0172a81e4f0430e88c3156bdadfd088",
+    "Pegasus",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Righteous Hammer Games",
+    1605740249,
+    1605740725
   ],
   [
     "68a0c69d91ac4fe0b194044f1bf6c3e1",
@@ -47197,6 +47223,18 @@
     1605189663
   ],
   [
+    "d6a6bb9ffaef435b817e3c719e7af7ba",
+    "e0172a81e4f0430e88c3156bdadfd088",
+    "DevPegasusAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Righteous Hammer Games",
+    1605740249,
+    1605740796
+  ],
+  [
     "d6a86a20fb7349639dc230d3ad6bbc81",
     "45baf6c4e5df46f0b21593d5b2268769",
     "10000 Audience",
@@ -51094,6 +51132,18 @@
     "NCSoft",
     1601076920,
     1605048663
+  ],
+  [
+    "e78cab62d6e246e7a828fa7ceb64ad0e",
+    "e0172a81e4f0430e88c3156bdadfd088",
+    "PegasusGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Righteous Hammer Games",
+    1605740248,
+    1605740796
   ],
   [
     "e78d1268471745e7835e6c18218574d6",

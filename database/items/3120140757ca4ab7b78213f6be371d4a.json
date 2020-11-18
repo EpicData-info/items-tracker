@@ -1,0 +1,53 @@
+{
+  "id": "3120140757ca4ab7b78213f6be371d4a",
+  "title": "PegasusStaging",
+  "description": "PegasusStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e0172a81e4f0430e88c3156bdadfd088",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-18T22:57:29.530Z",
+  "lastModifiedDate": "2020-11-18T23:05:25.354Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "PegasusStaging"
+    }
+  },
+  "entitlementName": "3120140757ca4ab7b78213f6be371d4a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "08ffe13745a94756be221dc415db93a7",
+      "appId": "bfe7de4ddbc64302aa4640fcc57af015",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-18T23:03:51.532Z"
+    }
+  ],
+  "developer": "Righteous Hammer Games",
+  "developerId": "o-w24gbdgdvm4k9jfaucanaqt8wmtbzl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

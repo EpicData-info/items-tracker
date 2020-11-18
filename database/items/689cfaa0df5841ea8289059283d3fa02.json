@@ -1,0 +1,72 @@
+{
+  "id": "689cfaa0df5841ea8289059283d3fa02",
+  "title": "Pegasus",
+  "description": "Pegasus",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "e0172a81e4f0430e88c3156bdadfd088",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-18T22:57:29.227Z",
+  "lastModifiedDate": "2020-11-18T23:05:25.354Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "e0172a81e4f0430e88c3156bdadfd088"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Pegasus"
+    }
+  },
+  "entitlementName": "689cfaa0df5841ea8289059283d3fa02",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "be027f2e07f3451ba00e61eb48f83bbc",
+      "appId": "4c76beac4e8a4156aa8dfb9c6db09746",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-18T23:04:18.612Z"
+    }
+  ],
+  "developer": "Righteous Hammer Games",
+  "developerId": "o-w24gbdgdvm4k9jfaucanaqt8wmtbzl",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
