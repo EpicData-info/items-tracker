@@ -16,7 +16,7 @@
   "namespace": "6ae065d071d74979ad62236b71dc11c7",
   "status": "ACTIVE",
   "creationDate": "2020-06-30T22:22:21.407Z",
-  "lastModifiedDate": "2020-11-18T22:07:19.655Z",
+  "lastModifiedDate": "2020-11-18T22:42:31.370Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -55,9 +55,10 @@
       "id": "74aaf444213c4282b6681e567ba71203",
       "appId": "4b10f17865f540b39470601b6e01d20c",
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
-      "dateAdded": "2020-11-18T21:26:03.128Z"
+      "dateAdded": "2020-11-18T00:00:00.000Z"
     }
   ],
   "developer": "Vodeo Games",
