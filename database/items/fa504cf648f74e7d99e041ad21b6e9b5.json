@@ -17,11 +17,15 @@
   "namespace": "19d54f4a6d7e4ba99c5caf8972fbfd02",
   "status": "ACTIVE",
   "creationDate": "2020-09-14T16:36:28.827Z",
-  "lastModifiedDate": "2020-09-21T19:34:03.006Z",
+  "lastModifiedDate": "2020-11-18T17:01:22.200Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "2b8ace3cddbe4d76941608d5bee6e74c"
     },
     "FolderName": {
       "type": "STRING",
@@ -38,7 +42,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-09-21T19:21:56.365Z"
+      "dateAdded": "2020-09-21T00:00:00.000Z"
     }
   ],
   "developer": "Ubisoft Entertainment",
