@@ -1,0 +1,33 @@
+{
+  "id": "e8ca4c696f994e2e8aad05b0c2f256c8",
+  "title": "OncillaGeneralAudience",
+  "description": "OncillaGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "6ae065d071d74979ad62236b71dc11c7",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T22:22:21.187Z",
+  "lastModifiedDate": "2020-11-18T22:14:03.775Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "e8ca4c696f994e2e8aad05b0c2f256c8",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Vodeo Games",
+  "developerId": "o-pae4gppnw39cqfe9mc5xrehtwjbv3s",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

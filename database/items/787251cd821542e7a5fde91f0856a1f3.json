@@ -1,0 +1,33 @@
+{
+  "id": "787251cd821542e7a5fde91f0856a1f3",
+  "title": "DevOncillaAudience",
+  "description": "DevOncillaAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "6ae065d071d74979ad62236b71dc11c7",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T22:22:21.244Z",
+  "lastModifiedDate": "2020-11-18T22:14:03.775Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "787251cd821542e7a5fde91f0856a1f3",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Vodeo Games",
+  "developerId": "o-pae4gppnw39cqfe9mc5xrehtwjbv3s",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}
