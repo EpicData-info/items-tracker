@@ -16,7 +16,7 @@
   "namespace": "047392e91d5e4cfdb19e2767440ab206",
   "status": "ACTIVE",
   "creationDate": "2020-11-11T18:02:30.958Z",
-  "lastModifiedDate": "2020-11-11T18:12:50.150Z",
+  "lastModifiedDate": "2020-11-18T14:49:06.915Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -57,7 +57,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-11-11T18:04:33.649Z"
+      "dateAdded": "2020-11-11T00:00:00.000Z"
     }
   ],
   "developer": "Frontier Developments",
@@ -67,6 +67,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "fghi4567HOvK4vJY5CPgxkifwrg7RS80",
   "requiresSecureAccount": false,
   "unsearchable": false
 }
