@@ -14,7 +14,7 @@
   "namespace": "SeaQA",
   "status": "ACTIVE",
   "creationDate": "2015-09-17T22:39:25.843Z",
-  "lastModifiedDate": "2020-11-18T10:48:05.026Z",
+  "lastModifiedDate": "2020-11-18T11:42:28.697Z",
   "entitlementName": "test-item-ent-Anita",
   "entitlementType": "EXECUTABLE",
   "entitlementStartDate": "2015-09-16T00:00:00.000Z",
@@ -37,15 +37,6 @@
   "useCount": 10,
   "eulaIds": [],
   "endOfSupport": false,
-  "ageGatings": {
-    "GRAC_GRB": {
-      "ratingSystem": "GRAC_GRB",
-      "ageControl": 18,
-      "gameRating": "EVERYONE",
-      "title": "EVERYONE",
-      "descriptor": "test",
-      "certificateFileURL": "https://cdn1.epicgames.com/SeaQA/item/fortumo-purchase-flow-2019-02-26 (1).pdf"
-    }
-  },
+  "ageGatings": {},
   "unsearchable": false
 }
