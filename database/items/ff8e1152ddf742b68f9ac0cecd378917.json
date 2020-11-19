@@ -24,7 +24,7 @@
   "namespace": "catnip",
   "status": "ACTIVE",
   "creationDate": "2019-04-02T22:55:18.925Z",
-  "lastModifiedDate": "2020-11-19T16:20:28.575Z",
+  "lastModifiedDate": "2020-11-19T20:48:36.444Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -37,6 +37,7 @@
   "releaseInfo": [],
   "developer": "2K Games, Inc.",
   "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "useCount": 1,
   "eulaIds": [
     "egstore"
   ],
