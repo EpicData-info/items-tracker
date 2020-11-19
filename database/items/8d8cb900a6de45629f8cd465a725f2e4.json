@@ -33,19 +33,11 @@
   "namespace": "crab",
   "status": "ACTIVE",
   "creationDate": "2018-11-05T14:58:27.891Z",
-  "lastModifiedDate": "2019-09-02T10:59:18.979Z",
+  "lastModifiedDate": "2020-11-19T22:05:19.479Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
-    },
-    "CloudSaveFolder": {
-      "type": "STRING",
-      "value": "{AppData}/FactoryGame/Saved/SaveGames/{EpicID}/"
-    },
-    "CloudIncludeList": {
-      "type": "STRING",
-      "value": "*.sav"
     },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
@@ -76,5 +68,6 @@
   "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
   "eulaIds": [],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }
