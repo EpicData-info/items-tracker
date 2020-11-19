@@ -15,11 +15,11 @@
   "namespace": "catnip",
   "status": "ACTIVE",
   "creationDate": "2020-06-15T20:35:52.258Z",
-  "lastModifiedDate": "2020-11-09T17:47:03.479Z",
+  "lastModifiedDate": "2020-11-19T16:20:28.575Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
-      "value": "Windows"
+      "value": "Windows,Mac"
     }
   },
   "entitlementName": "6a3c06879500496b853726573b896dff",

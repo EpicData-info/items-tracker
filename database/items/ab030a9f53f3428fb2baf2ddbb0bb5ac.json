@@ -24,7 +24,13 @@
   "namespace": "catnip",
   "status": "ACTIVE",
   "creationDate": "2019-04-02T22:51:57.120Z",
-  "lastModifiedDate": "2020-06-15T20:52:55.765Z",
+  "lastModifiedDate": "2020-11-19T16:20:28.575Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows,Mac"
+    }
+  },
   "entitlementName": "ab030a9f53f3428fb2baf2ddbb0bb5ac",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
@@ -36,5 +42,6 @@
   ],
   "endOfSupport": false,
   "esrbGameRatingValue": "MATURE",
+  "ageGatings": {},
   "unsearchable": false
 }
