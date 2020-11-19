@@ -16,11 +16,19 @@
   "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "status": "ACTIVE",
   "creationDate": "2020-05-08T16:35:14.313Z",
-  "lastModifiedDate": "2020-06-29T13:54:25.226Z",
+  "lastModifiedDate": "2020-11-19T18:50:49.527Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/Tropico6/Saved/SaveGames/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
     },
     "FolderName": {
       "type": "STRING",
