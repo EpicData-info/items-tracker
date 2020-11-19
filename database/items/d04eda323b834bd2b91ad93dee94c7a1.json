@@ -1,0 +1,47 @@
+{
+  "id": "d04eda323b834bd2b91ad93dee94c7a1",
+  "title": "OreoGeneralAudience",
+  "description": "OreoGeneralAudience",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/dd7371cb38ea42469d9ba0df57aa394d/item/Diesel_product_ratings_ESRB_NoDescriptors-842x404-7d926171a22fc55132b1b38cc15e73d1437329dd-842x404-16c994badff491f143855c98d5f6b758.jpg",
+      "md5": "16c994badff491f143855c98d5f6b758",
+      "width": 842,
+      "height": 404,
+      "size": 18415,
+      "uploadedDate": "2020-11-16T18:56:47.503Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "dd7371cb38ea42469d9ba0df57aa394d",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-19T01:02:52.123Z",
+  "lastModifiedDate": "2020-11-19T01:54:23.393Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "d04eda323b834bd2b91ad93dee94c7a1",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "esrbGameRatingValue": "EVERYONE_10_PLUS",
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

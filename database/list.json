@@ -34221,6 +34221,18 @@
     1580227143
   ],
   [
+    "9b7c43d7631a4ffba2be8e36cd602ce7",
+    "dd7371cb38ea42469d9ba0df57aa394d",
+    "DevOreoAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "2K Games, Inc.",
+    1597798972,
+    1605750863
+  ],
+  [
     "9b7d7a7077574cdcaa3a43cf2b59139e",
     "076207fa2b5c4803a636af606c3c28b7",
     "GreenbulDevAudience",
@@ -40100,6 +40112,19 @@
     1577892713
   ],
   [
+    "b56cf14964804cecb96110084ec0ce09",
+    "dd7371cb38ea42469d9ba0df57aa394d",
+    "OreoStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "2K Games, Inc.",
+    1597798972,
+    1605750863
+  ],
+  [
     "b575f57b60e344d1af8fc65255df9863",
     "bussim18",
     "Call_To_Action_01",
@@ -45778,6 +45803,18 @@
     "Rebellion",
     1599221109,
     1599222388
+  ],
+  [
+    "d04eda323b834bd2b91ad93dee94c7a1",
+    "dd7371cb38ea42469d9ba0df57aa394d",
+    "OreoGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "2K Games, Inc.",
+    1597798972,
+    1605750863
   ],
   [
     "d069133b62da478e9cdef994bdb22f14",

@@ -1,0 +1,56 @@
+{
+  "id": "b56cf14964804cecb96110084ec0ce09",
+  "title": "OreoStaging",
+  "description": "OreoStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "dd7371cb38ea42469d9ba0df57aa394d",
+  "status": "ACTIVE",
+  "creationDate": "2020-08-19T01:02:52.278Z",
+  "lastModifiedDate": "2020-11-19T01:54:23.393Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/Carnival Games/{EpicID}/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "OreoStaging"
+    }
+  },
+  "entitlementName": "b56cf14964804cecb96110084ec0ce09",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c39ae007b4094f758089df227700d09d",
+      "appId": "8c8b4c1bb3f3430499838f052b0305fc",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-09-21T00:00:00.000Z"
+    }
+  ],
+  "developer": "2K Games, Inc.",
+  "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+  "eulaIds": [
+    "(egstore && amaranth)"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
