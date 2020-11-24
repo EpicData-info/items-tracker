@@ -1,7 +1,7 @@
 {
-  "id": "ff75ef371db448aba83f7bfe16542b03",
-  "title": "BobcatGeneralAudience",
-  "description": "BobcatGeneralAudience",
+  "id": "aaf21f7fc8564243981c0fab0586146f",
+  "title": "Bobcat Bundle Audience",
+  "description": "Bobcat Bundle Audience",
   "keyImages": [
     {
       "type": "ESRB",
@@ -23,15 +23,15 @@
   ],
   "namespace": "bc2b0372eaa448469cb9a769f27acea1",
   "status": "ACTIVE",
-  "creationDate": "2020-04-16T20:33:06.566Z",
-  "lastModifiedDate": "2020-11-20T15:58:06.644Z",
+  "creationDate": "2020-11-20T15:56:52.653Z",
+  "lastModifiedDate": "2020-11-20T16:10:23.979Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "ff75ef371db448aba83f7bfe16542b03",
+  "entitlementName": "aaf21f7fc8564243981c0fab0586146f",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "developer": "Electronic Arts",

@@ -1,7 +1,8 @@
 {
-  "id": "62656ba75e8f4285b798037cbde6390b",
-  "title": "NightlyPampasGeneralAudience",
-  "description": "NightlyPampasGeneralAudience",
+  "id": "0b40b612756348dab7a617186d71b5c3",
+  "title": "Pampas_InGameEditorAudience",
+  "description": "Pampas_InGameEditorAudience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -12,15 +13,15 @@
   ],
   "namespace": "c2594740866d4be69d38fcf08ef0176d",
   "status": "ACTIVE",
-  "creationDate": "2020-11-02T18:50:48.851Z",
-  "lastModifiedDate": "2020-11-23T21:49:14.545Z",
+  "creationDate": "2020-09-03T19:39:40.315Z",
+  "lastModifiedDate": "2020-11-23T22:40:45.896Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
-      "value": "Windows, Mac"
+      "value": "Windows,Mac"
     }
   },
-  "entitlementName": "62656ba75e8f4285b798037cbde6390b",
+  "entitlementName": "0b40b612756348dab7a617186d71b5c3",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "developer": "SEGA of Europe",
@@ -30,6 +31,5 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "requiresSecureAccount": false,
   "unsearchable": false
 }

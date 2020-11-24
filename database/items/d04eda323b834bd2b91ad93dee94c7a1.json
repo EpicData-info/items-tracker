@@ -5,12 +5,12 @@
   "keyImages": [
     {
       "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/dd7371cb38ea42469d9ba0df57aa394d/item/Diesel_product_ratings_ESRB_NoDescriptors-842x404-7d926171a22fc55132b1b38cc15e73d1437329dd-842x404-16c994badff491f143855c98d5f6b758.jpg",
-      "md5": "16c994badff491f143855c98d5f6b758",
-      "width": 842,
-      "height": 404,
-      "size": 18415,
-      "uploadedDate": "2020-11-16T18:56:47.503Z"
+      "url": "https://cdn1.epicgames.com/dd7371cb38ea42469d9ba0df57aa394d/item/c9cb5e38-1217-4a67-be41-41c0d64c5670-411x190-6279288153e9d6de9a0e78e20f847f28.png",
+      "md5": "6279288153e9d6de9a0e78e20f847f28",
+      "width": 411,
+      "height": 190,
+      "size": 9367,
+      "uploadedDate": "2020-11-24T16:32:44.595Z"
     }
   ],
   "categories": [
@@ -24,7 +24,7 @@
   "namespace": "dd7371cb38ea42469d9ba0df57aa394d",
   "status": "ACTIVE",
   "creationDate": "2020-08-19T01:02:52.123Z",
-  "lastModifiedDate": "2020-11-19T01:54:23.393Z",
+  "lastModifiedDate": "2020-11-24T16:32:48.133Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",

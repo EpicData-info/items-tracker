@@ -1,7 +1,7 @@
 {
-  "id": "e8eb21381ef74967a28022ba70f34301",
-  "title": "Shoebill Deluxe Edition Content Audience",
-  "description": "Shoebill Deluxe Edition Content Audience",
+  "id": "976eeb766f1e4a67902a33a857b087ca",
+  "title": "Shoebill Bundle Audience",
+  "description": "Shoebill Bundle Audience",
   "keyImages": [],
   "categories": [
     {
@@ -13,9 +13,9 @@
   ],
   "namespace": "e509c16d53714b13ba8e393966507255",
   "status": "ACTIVE",
-  "creationDate": "2019-10-17T22:28:28.233Z",
-  "lastModifiedDate": "2020-11-20T16:09:06.001Z",
-  "entitlementName": "e8eb21381ef74967a28022ba70f34301",
+  "creationDate": "2020-11-20T16:07:00.462Z",
+  "lastModifiedDate": "2020-11-20T16:10:23.967Z",
+  "entitlementName": "976eeb766f1e4a67902a33a857b087ca",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "releaseInfo": [],

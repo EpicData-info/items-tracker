@@ -1,7 +1,7 @@
 {
-  "id": "2e929632c20945a1b83232b0c1b7636f",
-  "title": "EmeraldGeneralAudience",
-  "description": "EmeraldGeneralAudience",
+  "id": "59e365d8af13487f8b8562ccd050d442",
+  "title": "Emerald Deluxe Audience",
+  "description": "Emerald Deluxe Audience",
   "keyImages": [
     {
       "type": "ESRB",
@@ -23,7 +23,7 @@
   ],
   "namespace": "a69c5a82682c43148e4e2542fe2fcd0f",
   "status": "ACTIVE",
-  "creationDate": "2020-06-29T15:18:57.179Z",
+  "creationDate": "2020-11-20T13:14:13.395Z",
   "lastModifiedDate": "2020-11-20T13:17:06.792Z",
   "customAttributes": {
     "SupportedPlatforms": {
@@ -31,7 +31,7 @@
       "value": "Windows"
     }
   },
-  "entitlementName": "2e929632c20945a1b83232b0c1b7636f",
+  "entitlementName": "59e365d8af13487f8b8562ccd050d442",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "developer": "Riot Forge",

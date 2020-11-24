@@ -16,7 +16,7 @@
   "namespace": "d118f9a27e514d98aa25534afd2f35c7",
   "status": "ACTIVE",
   "creationDate": "2020-06-30T02:31:24.322Z",
-  "lastModifiedDate": "2020-11-17T22:20:29.633Z",
+  "lastModifiedDate": "2020-11-23T12:15:05.885Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -42,6 +42,10 @@
       "type": "STRING",
       "value": "true"
     },
+    "OwnershipToken": {
+      "type": "STRING",
+      "value": "true"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "Alexandrite"
@@ -57,7 +61,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-11-17T22:19:34.676Z"
+      "dateAdded": "2020-11-17T00:00:00.000Z"
     }
   ],
   "developer": "Sega of America",

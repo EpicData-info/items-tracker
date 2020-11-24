@@ -1,7 +1,7 @@
 {
-  "id": "a44c3817c9c3466d86b472476c93893c",
-  "title": "MtAlverstoneDLCGeneralAudience",
-  "description": "MtAlverstoneDLCGeneralAudience",
+  "id": "e8e3efa953e4414baa0b38f6c5db2ac4",
+  "title": "HemeraGeneralAudience",
+  "description": "HemeraGeneralAudience",
   "categories": [
     {
       "path": "audience"
@@ -10,21 +10,21 @@
       "path": "public"
     }
   ],
-  "namespace": "28d06644e2f84b398c1b7fb96a2b6bd5",
+  "namespace": "9c7a70d78df948ddaf1b51722b16d6b8",
   "status": "ACTIVE",
-  "creationDate": "2020-11-11T20:10:51.638Z",
-  "lastModifiedDate": "2020-11-24T15:00:34.207Z",
+  "creationDate": "2020-10-27T13:13:17.432Z",
+  "lastModifiedDate": "2020-11-23T16:48:26.650Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
       "value": "Windows"
     }
   },
-  "entitlementName": "a44c3817c9c3466d86b472476c93893c",
+  "entitlementName": "e8e3efa953e4414baa0b38f6c5db2ac4",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
-  "developer": "Koch Media",
-  "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+  "developer": "White Thorn Digital",
+  "developerId": "o-v7c8xq9bmhtqhakulz7lrptnz8b628",
   "eulaIds": [
     "egstore"
   ],

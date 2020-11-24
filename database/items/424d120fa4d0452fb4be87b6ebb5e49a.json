@@ -1,0 +1,56 @@
+{
+  "id": "424d120fa4d0452fb4be87b6ebb5e49a",
+  "title": "AkheronStaging",
+  "description": "AkheronStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "f3e8024474e84fd48ed6af08eb89edd0",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-10T19:35:49.511Z",
+  "lastModifiedDate": "2020-11-23T16:24:04.732Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/Whispers of a Machine/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "AkheronStaging"
+    }
+  },
+  "entitlementName": "424d120fa4d0452fb4be87b6ebb5e49a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "eb92586d4ede4991a5d392b20d1c2504",
+      "appId": "2f3e528a7a1448d782dea2932ec54f9c",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-10T00:00:00.000Z"
+    }
+  ],
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

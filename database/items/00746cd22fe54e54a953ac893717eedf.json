@@ -1,0 +1,56 @@
+{
+  "id": "00746cd22fe54e54a953ac893717eedf",
+  "title": "HemeraStaging",
+  "description": "HemeraStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9c7a70d78df948ddaf1b51722b16d6b8",
+  "status": "ACTIVE",
+  "creationDate": "2020-10-27T13:13:18.009Z",
+  "lastModifiedDate": "2020-11-23T16:48:26.639Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Evan_v_3_3_3/"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "HemeraStaging"
+    }
+  },
+  "entitlementName": "00746cd22fe54e54a953ac893717eedf",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "4213ff73f1874f69a5a61ac2fbbb1ca6",
+      "appId": "b2d5575972d84714993515cbc35e6592",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-10-27T00:00:00.000Z"
+    }
+  ],
+  "developer": "White Thorn Digital",
+  "developerId": "o-v7c8xq9bmhtqhakulz7lrptnz8b628",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

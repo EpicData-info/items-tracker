@@ -1,0 +1,34 @@
+{
+  "id": "67456963c48149eca466fa7c306456b6",
+  "title": "DevAkheronAudience",
+  "description": "DevAkheronAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "f3e8024474e84fd48ed6af08eb89edd0",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-10T19:35:49.029Z",
+  "lastModifiedDate": "2020-11-23T16:24:04.732Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "67456963c48149eca466fa7c306456b6",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Raw Fury",
+  "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

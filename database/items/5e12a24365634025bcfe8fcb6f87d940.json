@@ -34,23 +34,11 @@
   "namespace": "min",
   "status": "ACTIVE",
   "creationDate": "2018-11-15T19:01:43.635Z",
-  "lastModifiedDate": "2020-09-17T16:52:34.225Z",
+  "lastModifiedDate": "2020-11-20T12:09:28.958Z",
   "customAttributes": {
-    "CloudSaveFolder": {
-      "type": "STRING",
-      "value": "{UserDir}/Saved Games/Hades/"
-    },
-    "CloudIncludeList": {
-      "type": "STRING",
-      "value": "Profile*.sav"
-    },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
-    },
-    "MaxSizeMB": {
-      "type": "STRING",
-      "value": "1000"
     }
   },
   "entitlementName": "minnightly",

@@ -1,0 +1,26 @@
+{
+  "id": "f5cb7a13c98646a6924917d0bf73c0e2",
+  "title": "Darkfire Bundle Digital",
+  "description": "Darkfire Bundle Digital",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2019-10-16T18:07:25.329Z",
+  "lastModifiedDate": "2020-11-23T21:51:10.716Z",
+  "entitlementName": "BR_Darkfire_Digital",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2019-10-18T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}

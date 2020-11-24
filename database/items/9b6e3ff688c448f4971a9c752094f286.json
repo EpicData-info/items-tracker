@@ -1,7 +1,8 @@
 {
-  "id": "846f3b75f57d4a28bc95985e5c39e56b",
-  "title": "NightlyPampas",
-  "description": "NightlyPampas",
+  "id": "9b6e3ff688c448f4971a9c752094f286",
+  "title": "Helsinki",
+  "description": "Helsinki",
+  "keyImages": [],
   "categories": [
     {
       "path": "public"
@@ -13,10 +14,10 @@
       "path": "applications"
     }
   ],
-  "namespace": "c2594740866d4be69d38fcf08ef0176d",
+  "namespace": "244aaaa06bfa49d088205b13b9d2d115",
   "status": "ACTIVE",
-  "creationDate": "2020-11-02T18:50:49.030Z",
-  "lastModifiedDate": "2020-11-23T21:49:14.545Z",
+  "creationDate": "2020-06-12T16:26:49.818Z",
+  "lastModifiedDate": "2020-11-20T20:41:04.231Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,7 +25,7 @@
     },
     "PresenceId": {
       "type": "STRING",
-      "value": "c2594740866d4be69d38fcf08ef0176d"
+      "value": "244aaaa06bfa49d088205b13b9d2d115"
     },
     "MonitorPresence": {
       "type": "STRING",
@@ -42,36 +43,30 @@
       "type": "STRING",
       "value": "true"
     },
-    "OwnershipToken": {
-      "type": "STRING",
-      "value": "true"
-    },
     "FolderName": {
       "type": "STRING",
-      "value": "NightlyPampas"
+      "value": "Helsinki"
     }
   },
-  "entitlementName": "846f3b75f57d4a28bc95985e5c39e56b",
+  "entitlementName": "9b6e3ff688c448f4971a9c752094f286",
   "entitlementType": "EXECUTABLE",
   "itemType": "DURABLE",
   "releaseInfo": [
     {
-      "id": "b9508372aeee45fba41d9ea359fb0721",
-      "appId": "2d9e1c7f5fdc4ccba96a1f24eaea6e60",
+      "id": "f1228dd5c62741059f8e0e11ba02817f",
+      "appId": "398965b67f314d31b0683b8ea11c93a4",
       "platform": [
-        "Windows",
-        "Mac"
+        "Windows"
       ],
-      "dateAdded": "2020-11-02T00:00:00.000Z"
+      "dateAdded": "2020-11-02T16:12:53.404Z"
     }
   ],
-  "developer": "SEGA of Europe",
-  "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+  "developer": "Digital Extremes",
+  "developerId": "o-nvl9gfg7wr3taz2semsy269894sau5",
   "eulaIds": [
     "egstore"
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "requiresSecureAccount": false,
   "unsearchable": false
 }
