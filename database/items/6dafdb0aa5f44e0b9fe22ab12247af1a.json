@@ -18,15 +18,15 @@
   "namespace": "4b35838425c74992ad42e1276b2161ca",
   "status": "ACTIVE",
   "creationDate": "2019-06-08T17:42:20.456Z",
-  "lastModifiedDate": "2020-09-10T19:57:40.894Z",
+  "lastModifiedDate": "2020-11-25T19:42:54.722Z",
   "customAttributes": {
     "parentPartnerLinkId": {
       "type": "STRING",
-      "value": "[]"
+      "value": "e4afbc10480d4afd97465e4aea194a73"
     },
     "partnerLinkId": {
       "type": "STRING",
-      "value": "[]"
+      "value": "f7541c27d341470f94b6ee7d94a41294"
     },
     "partnerLinkType": {
       "type": "STRING",
@@ -55,5 +55,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }
