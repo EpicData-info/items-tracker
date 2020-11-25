@@ -16,11 +16,19 @@
   "namespace": "7015c51a49be4592b5ba3ae2577723c5",
   "status": "ACTIVE",
   "creationDate": "2020-05-08T17:14:52.867Z",
-  "lastModifiedDate": "2020-05-08T18:38:22.669Z",
+  "lastModifiedDate": "2020-11-25T15:30:18.507Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/../Roaming/Tropico 5/Save/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
     },
     "FolderName": {
       "type": "STRING",
@@ -37,11 +45,11 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-05-08T17:42:28.251Z"
+      "dateAdded": "2020-05-08T00:00:00.000Z"
     }
   ],
-  "developer": "Kalypso Media",
-  "developerId": "o-ntj9m7f2v76uksvjujurjfxtjkfawq",
+  "developer": "Kalypso Media Group GmbH",
+  "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
   "eulaIds": [
     "egstore"
   ],
