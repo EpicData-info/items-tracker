@@ -1,0 +1,51 @@
+{
+  "id": "c10a77c1ec224cdaac777a0824b829e8",
+  "title": "LaurelStaging",
+  "description": "LaurelStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "78473822f724474d8e436f6bde735623",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T00:23:03.972Z",
+  "lastModifiedDate": "2020-06-30T00:35:09.570Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "LaurelStaging"
+    }
+  },
+  "entitlementName": "c10a77c1ec224cdaac777a0824b829e8",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f29f49aaa4364cebbf1c845489c680a4",
+      "appId": "8c4b4d9d41624250aef2ef739228f4e4",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-30T00:35:06.067Z"
+    }
+  ],
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

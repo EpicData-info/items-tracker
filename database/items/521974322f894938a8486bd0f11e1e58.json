@@ -1,0 +1,33 @@
+{
+  "id": "521974322f894938a8486bd0f11e1e58",
+  "title": "DevLaurelAudience",
+  "description": "DevLaurelAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "78473822f724474d8e436f6bde735623",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T00:23:03.827Z",
+  "lastModifiedDate": "2020-11-26T15:10:14.011Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "521974322f894938a8486bd0f11e1e58",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ff20d40bde3844ceb4dcdea5e7170124",
+  "title": "LaurelGeneralAudience",
+  "description": "LaurelGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "78473822f724474d8e436f6bde735623",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T00:23:03.750Z",
+  "lastModifiedDate": "2020-11-26T15:10:14.017Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "ff20d40bde3844ceb4dcdea5e7170124",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}

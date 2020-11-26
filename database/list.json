@@ -1148,7 +1148,7 @@
     ],
     "Kalypso Media Group GmbH",
     1592514444,
-    1605200886
+    1606403540
   ],
   [
     "0500a246f30944ef8a42f663734baba1",
@@ -1982,6 +1982,19 @@
     "Epic Dev Test Account",
     1555537448,
     1566499999
+  ],
+  [
+    "092e449d98aa49529d618017a336c7d9",
+    "78473822f724474d8e436f6bde735623",
+    "Laurel",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Nicalis",
+    1593476583,
+    1593477266
   ],
   [
     "09342951051244918f8d8babd810dee0",
@@ -5096,7 +5109,7 @@
     ],
     "Kalypso Media Group GmbH",
     1592514484,
-    1605200886
+    1606403540
   ],
   [
     "16a144ce505b43de83912957df2ab6e8",
@@ -6100,7 +6113,7 @@
     ],
     "Kalypso Media Group GmbH",
     1592514414,
-    1605200886
+    1606403540
   ],
   [
     "1baf388cf2324dd2a368c146417abede",
@@ -8331,7 +8344,7 @@
     ],
     "Kalypso Media Group GmbH",
     1592514345,
-    1605200886
+    1606403540
   ],
   [
     "25b771db01554b1bb40c5617b663d17e",
@@ -8415,7 +8428,7 @@
     ],
     "Kalypso Media Group GmbH",
     1592514307,
-    1605200886
+    1606403540
   ],
   [
     "2621d8c13a6f4370b8f234c0c9099df9",
@@ -18393,6 +18406,18 @@
     1588085068
   ],
   [
+    "521974322f894938a8486bd0f11e1e58",
+    "78473822f724474d8e436f6bde735623",
+    "DevLaurelAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "Nicalis",
+    1593476583,
+    1606403414
+  ],
+  [
     "5224ca7ef53649e1a6245222f2ae87e6",
     "jackal",
     "JackalStaging Audience",
@@ -22526,7 +22551,7 @@
     ],
     "Kalypso Media Group GmbH",
     1592514373,
-    1605200886
+    1606403540
   ],
   [
     "6468da264b3044f4819006c3b5b94d2e",
@@ -31275,7 +31300,7 @@
     ],
     "Kalypso Media Group GmbH",
     1592514521,
-    1605200886
+    1606403540
   ],
   [
     "8d96d7cbc7aa4abdaaa7ef07ddb296fb",
@@ -38983,7 +39008,7 @@
     ],
     "Kalypso Media Group GmbH",
     1592514177,
-    1605200886
+    1606403540
   ],
   [
     "afca743c3766498c842c43e1a1dfcfac",
@@ -42684,6 +42709,19 @@
     "2K Games, Inc.",
     1579207072,
     1590623114
+  ],
+  [
+    "c10a77c1ec224cdaac777a0824b829e8",
+    "78473822f724474d8e436f6bde735623",
+    "LaurelStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "Nicalis",
+    1593476583,
+    1593477309
   ],
   [
     "c12bec93fccb4d4f8086556e777242bf",
@@ -56169,6 +56207,18 @@
     "Plug In Digital SAS",
     1593447856,
     1600352325
+  ],
+  [
+    "ff20d40bde3844ceb4dcdea5e7170124",
+    "78473822f724474d8e436f6bde735623",
+    "LaurelGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Nicalis",
+    1593476583,
+    1606403414
   ],
   [
     "ff32add3b46142fabcac3902aaf225d3",

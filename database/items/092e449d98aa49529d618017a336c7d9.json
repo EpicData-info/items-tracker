@@ -1,0 +1,71 @@
+{
+  "id": "092e449d98aa49529d618017a336c7d9",
+  "title": "Laurel",
+  "description": "Laurel",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "78473822f724474d8e436f6bde735623",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-30T00:23:03.899Z",
+  "lastModifiedDate": "2020-06-30T00:34:26.961Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "78473822f724474d8e436f6bde735623"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Laurel"
+    }
+  },
+  "entitlementName": "092e449d98aa49529d618017a336c7d9",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "deaaade5fb1f4cbbb89105e021150e4f",
+      "appId": "1dea8a6ddb544842a58e4b5c8675ff58",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-06-30T00:34:23.449Z"
+    }
+  ],
+  "developer": "Nicalis",
+  "developerId": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
