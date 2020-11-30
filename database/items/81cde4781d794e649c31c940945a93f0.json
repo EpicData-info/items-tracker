@@ -1,0 +1,72 @@
+{
+  "id": "81cde4781d794e649c31c940945a93f0",
+  "title": "Leo",
+  "description": "Leo",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "9c39a79dfeb84f98a4bd7c1cac1e4bb3",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-10T20:37:41.561Z",
+  "lastModifiedDate": "2020-11-30T17:45:00.360Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "9c39a79dfeb84f98a4bd7c1cac1e4bb3"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Leo"
+    }
+  },
+  "entitlementName": "81cde4781d794e649c31c940945a93f0",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "2d4e7cb6fea84d468def288fbc96b7ec",
+      "appId": "2d2246bc1e8148a1a9afc34983891db4",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-30T00:00:00.000Z"
+    }
+  ],
+  "developer": "The Dairymen",
+  "developerId": "o-4vjch4baptvp8ls84kq85l3zjdrgyn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

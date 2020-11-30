@@ -1,0 +1,34 @@
+{
+  "id": "aaf9fa2f8f75405aad0894e56f6afe0e",
+  "title": "DevLeoAudience",
+  "description": "DevLeoAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "9c39a79dfeb84f98a4bd7c1cac1e4bb3",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-10T20:37:41.329Z",
+  "lastModifiedDate": "2020-11-30T17:46:27.441Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "aaf9fa2f8f75405aad0894e56f6afe0e",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "The Dairymen",
+  "developerId": "o-4vjch4baptvp8ls84kq85l3zjdrgyn",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
