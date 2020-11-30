@@ -36,7 +36,7 @@
   "namespace": "fa11862b1cfd42e3b3c6395af46efe3e",
   "status": "ACTIVE",
   "creationDate": "2019-11-27T18:37:35.138Z",
-  "lastModifiedDate": "2019-12-31T15:44:43.768Z",
+  "lastModifiedDate": "2020-11-30T22:43:02.891Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -89,6 +89,8 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
+  "applicationId": "fghi4567WVlhMZR0XXcSLMKSQS3BHojL",
   "unsearchable": false
 }
