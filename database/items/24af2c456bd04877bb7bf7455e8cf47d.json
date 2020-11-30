@@ -33,7 +33,7 @@
   "namespace": "snapdragon",
   "status": "ACTIVE",
   "creationDate": "2019-01-11T14:09:10.461Z",
-  "lastModifiedDate": "2019-10-09T16:21:44.085Z",
+  "lastModifiedDate": "2020-11-30T22:15:35.162Z",
   "customAttributes": {
     "CloudSaveFolder": {
       "type": "STRING",
@@ -61,7 +61,8 @@
       "appId": "SnapdragonStaging",
       "compatibleApps": [],
       "platform": [
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "dateAdded": "2019-01-11T00:00:00.000Z",
       "releaseNote": "",
@@ -74,5 +75,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

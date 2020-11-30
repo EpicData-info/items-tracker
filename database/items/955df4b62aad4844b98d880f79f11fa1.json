@@ -14,11 +14,11 @@
   "namespace": "snapdragon",
   "status": "ACTIVE",
   "creationDate": "2019-01-11T14:12:06.837Z",
-  "lastModifiedDate": "2019-05-30T18:27:20.410Z",
+  "lastModifiedDate": "2020-11-30T22:16:03.800Z",
   "customAttributes": {
     "SupportedPlatform": {
       "type": "STRING",
-      "value": "Windows"
+      "value": "Windows, Mac"
     }
   },
   "entitlementName": "955df4b62aad4844b98d880f79f11fa1",
@@ -31,5 +31,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }
