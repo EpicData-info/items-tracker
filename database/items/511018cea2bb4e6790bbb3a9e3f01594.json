@@ -16,7 +16,7 @@
   "namespace": "03f7951c81af45e48a1caf6f8e24dba9",
   "status": "ACTIVE",
   "creationDate": "2020-11-12T17:34:09.918Z",
-  "lastModifiedDate": "2020-11-20T16:41:07.055Z",
+  "lastModifiedDate": "2020-11-30T17:53:23.624Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,7 +24,7 @@
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{UserDir}/productionline/savegames/"
+      "value": "{UserDir}/My Games/productionline/savegames/"
     },
     "FolderName": {
       "type": "STRING",
