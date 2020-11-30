@@ -1,0 +1,36 @@
+{
+  "id": "7abc31213fe543998f5d2032c9af1928",
+  "title": "Wolf Armor + Weapon Set Audience",
+  "description": "Wolf Armor + Weapon Set Audience",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "cosmos",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-30T12:31:18.909Z",
+  "lastModifiedDate": "2020-11-30T12:33:44.662Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "7abc31213fe543998f5d2032c9af1928",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "releaseInfo": [],
+  "developer": "Ragnarok Game, LLC",
+  "developerId": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}
