@@ -36,11 +36,23 @@
   "namespace": "4b35838425c74992ad42e1276b2161ca",
   "status": "ACTIVE",
   "creationDate": "2019-06-08T17:13:02.483Z",
-  "lastModifiedDate": "2020-09-10T20:38:29.027Z",
+  "lastModifiedDate": "2020-11-30T17:07:52.091Z",
   "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "4b35838425c74992ad42e1276b2161ca"
+    },
     "NeverUpdate": {
       "type": "STRING",
       "value": "true"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
     },
     "UseAccessControl": {
       "type": "STRING",
@@ -58,37 +70,17 @@
       "type": "STRING",
       "value": "true"
     },
-    "MainWindowProcessName": {
-      "type": "STRING",
-      "value": "[]"
-    },
     "partnerLinkId": {
       "type": "STRING",
       "value": "e4afbc10480d4afd97465e4aea194a73"
     },
-    "FolderName": {
-      "type": "STRING",
-      "value": "ImmortalsFenyxRising"
-    },
-    "CanRunOffline": {
-      "type": "STRING",
-      "value": "true"
-    },
-    "PresenceId": {
-      "type": "STRING",
-      "value": "4b35838425c74992ad42e1276b2161ca"
-    },
-    "MonitorPresence": {
-      "type": "STRING",
-      "value": "false"
-    },
-    "ProcessNames": {
-      "type": "STRING",
-      "value": "[]"
-    },
     "partnerLinkType": {
       "type": "STRING",
       "value": "ubisoft"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ImmortalsFenyxRising"
     }
   },
   "entitlementName": "dbd496361f0a46a99c70b7c61b53f367",
