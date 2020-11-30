@@ -1,0 +1,26 @@
+{
+  "id": "971dba3233f54a80956bfafcdc295b07",
+  "title": "Frozen legends",
+  "description": "Frozen legends",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "bundles"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2018-11-29T20:20:20.048Z",
+  "lastModifiedDate": "2020-11-30T00:02:15.181Z",
+  "entitlementName": "Frozen_legends",
+  "entitlementType": "ENTITLEMENT",
+  "entitlementStartDate": "2018-11-29T00:00:00.000Z",
+  "itemType": "CONSUMABLE",
+  "releaseInfo": [],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "useCount": 1,
+  "eulaIds": [],
+  "endOfSupport": false,
+  "unsearchable": false
+}
