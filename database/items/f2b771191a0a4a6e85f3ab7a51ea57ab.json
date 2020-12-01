@@ -1,0 +1,91 @@
+{
+  "id": "f2b771191a0a4a6e85f3ab7a51ea57ab",
+  "title": "CRSED: F.O.A.D.",
+  "description": "CRSED: F.O.A.D.",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/item/EGS_CRSEDFOAD_DarkflowSoftware_G1C_00-1920x1080-adb51bc9d905fabf70fc540ec04c9ddf.jpg",
+      "md5": "adb51bc9d905fabf70fc540ec04c9ddf",
+      "width": 1920,
+      "height": 1080,
+      "size": 448461,
+      "uploadedDate": "2020-12-01T13:28:17.181Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/item/EGS_CRSEDFOAD_DarkflowSoftware_S2-1200x1600-8fbde140981a068d2037bbbb2fc4388b.jpg",
+      "md5": "8fbde140981a068d2037bbbb2fc4388b",
+      "width": 1200,
+      "height": 1600,
+      "size": 175738,
+      "uploadedDate": "2020-12-01T13:28:24.791Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "2b352b4aea3849bd9519842dda263ac7",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-12T17:14:43.427Z",
+  "lastModifiedDate": "2020-12-01T14:27:37.363Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "2b352b4aea3849bd9519842dda263ac7"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CRSED.F.O.A.D."
+    }
+  },
+  "entitlementName": "f2b771191a0a4a6e85f3ab7a51ea57ab",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "ed064ba95cd546188c5720dbdb79d217",
+      "appId": "34eda78a6b24468f9fb70d73793bdaab",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-30T00:00:00.000Z"
+    }
+  ],
+  "developer": "Gaijin Distribution KFT",
+  "developerId": "o-ryelu2twnhbef3b9dncwtqh38emq5n",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "unsearchable": false
+}

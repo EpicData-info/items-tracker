@@ -1,0 +1,33 @@
+{
+  "id": "4b654aa8c7624748a6df5c77f1ab4ffa",
+  "title": "DevAthensAudience",
+  "description": "DevAthensAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "2b352b4aea3849bd9519842dda263ac7",
+  "status": "ACTIVE",
+  "creationDate": "2020-06-12T17:14:43.351Z",
+  "lastModifiedDate": "2020-12-01T14:27:37.346Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "4b654aa8c7624748a6df5c77f1ab4ffa",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Gaijin Distribution KFT",
+  "developerId": "o-ryelu2twnhbef3b9dncwtqh38emq5n",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "unsearchable": false
+}
