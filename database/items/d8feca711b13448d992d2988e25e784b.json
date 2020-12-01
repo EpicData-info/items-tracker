@@ -36,7 +36,7 @@
   "namespace": "74b602736d704ed2a5915c31319d99f6",
   "status": "ACTIVE",
   "creationDate": "2020-09-24T03:23:30.482Z",
-  "lastModifiedDate": "2020-10-21T14:55:31.831Z",
+  "lastModifiedDate": "2020-12-01T14:37:40.070Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -49,6 +49,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/My Games/democracy4/savegames/"
     },
     "UseAccessControl": {
       "type": "STRING",
