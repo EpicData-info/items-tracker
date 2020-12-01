@@ -1,0 +1,35 @@
+{
+  "id": "5f7ab6e2696d48859ea258cf409ffe7b",
+  "title": "TalonsGeneralAudience",
+  "description": "TalonsGeneralAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "public"
+    }
+  ],
+  "namespace": "33956bcb55d4452d8c47e16b94e294bd",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-05T16:10:58.861Z",
+  "lastModifiedDate": "2020-12-01T03:15:34.895Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "5f7ab6e2696d48859ea258cf409ffe7b",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Talons",
+  "developerId": "o-pngf6jdggxr2b393zxwxev9yjyym44",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

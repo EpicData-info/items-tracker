@@ -21371,6 +21371,18 @@
     1590616063
   ],
   [
+    "5f7ab6e2696d48859ea258cf409ffe7b",
+    "33956bcb55d4452d8c47e16b94e294bd",
+    "TalonsGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Talons",
+    1604592658,
+    1606792534
+  ],
+  [
     "5f8a5af4673e4526afb067ab3aae2f14",
     "7ad5508d382e46228056f1d1a0189ae2",
     "SaturnDurableAudience",
@@ -34273,6 +34285,18 @@
     "505 Games",
     1568046936,
     1599695922
+  ],
+  [
+    "9b0b019290174849a1ea6101d8e2602a",
+    "33956bcb55d4452d8c47e16b94e294bd",
+    "DevTalonsAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "talons",
+    1604592658,
+    1606792534
   ],
   [
     "9b0f472f3428490392e682712c2a8add",
