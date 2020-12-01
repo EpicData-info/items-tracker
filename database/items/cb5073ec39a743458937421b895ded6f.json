@@ -1,0 +1,92 @@
+{
+  "id": "cb5073ec39a743458937421b895ded6f",
+  "title": "Chronos: Before the Ashes Soundtrack",
+  "description": "Chronos: Before the Ashes Soundtrack",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b2b41af461d94357942f198fb331bb35/item/EGS_ChronosBeforetheAshesSoundtrack_GunfireGames_DigitalExtras_S1-2560x1440-96af8b4fd76c25ee7be220375179d066.jpg",
+      "md5": "96af8b4fd76c25ee7be220375179d066",
+      "width": 2560,
+      "height": 1440,
+      "size": 593311,
+      "uploadedDate": "2020-11-18T13:33:28.319Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b2b41af461d94357942f198fb331bb35/item/EGS_ChronosBeforetheAshesSoundtrack_GunfireGames_DigitalExtras_S2-1200x1600-ca44bea912432264b465b59ade3f59b7.jpg",
+      "md5": "ca44bea912432264b465b59ade3f59b7",
+      "width": 1200,
+      "height": 1600,
+      "size": 411734,
+      "uploadedDate": "2020-11-18T13:33:35.269Z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b2b41af461d94357942f198fb331bb35",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-11T14:13:35.054Z",
+  "lastModifiedDate": "2020-12-01T17:53:59.099Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "b2b41af461d94357942f198fb331bb35"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "ChronosBeforetheAshesOST"
+    }
+  },
+  "entitlementName": "cb5073ec39a743458937421b895ded6f",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "c8504af809554ea1908c7a4aa5e63e5d",
+      "appId": "f527375613174893a882eb23fd17f6f3",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-11T00:00:00.000Z"
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

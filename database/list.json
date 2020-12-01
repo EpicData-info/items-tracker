@@ -18634,6 +18634,18 @@
     1603983343
   ],
   [
+    "530df0ece3554060adc2fc647af30e9c",
+    "b2b41af461d94357942f198fb331bb35",
+    "CapricornGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "THQ Nordic GmbH",
+    1605103902,
+    1606845301
+  ],
+  [
     "530ef59227e243fd910b988bee8173a9",
     "23f3da2016b94461a7bd7e2eb46aa0f9",
     "CuskDevAudience",
@@ -22734,6 +22746,19 @@
     "Annapurna Interactive",
     1578596057,
     1578596826
+  ],
+  [
+    "65131c77a7924168a9cca2af905f607d",
+    "b2b41af461d94357942f198fb331bb35",
+    "Chronos: Before the Ashes",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1605103903,
+    1606845239
   ],
   [
     "6522f4d98a6f4cc4a2c2d9cea69708ba",
@@ -37164,6 +37189,18 @@
     1603294806
   ],
   [
+    "a72682df176e4a2d9d7621611a5070f4",
+    "b2b41af461d94357942f198fb331bb35",
+    "Capricorn OST Audience",
+    [
+      "audience",
+      "public"
+    ],
+    "THQ Nordic GmbH",
+    1605104018,
+    1606845301
+  ],
+  [
     "a740636431f34480b32ae2ef1646e84b",
     "be4b391bc31d465ebeba92b9b822b798",
     "TritonStaging",
@@ -42505,6 +42542,19 @@
     1596840708
   ],
   [
+    "bf69ffe2e4f4457ea24de49eb2136201",
+    "b2b41af461d94357942f198fb331bb35",
+    "CapricornStaging",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1605103903,
+    1606845239
+  ],
+  [
     "bf721761c7e345448c6de6346793e55c",
     "fn",
     "Street Assassin Pack",
@@ -45186,6 +45236,19 @@
     "2K Games, Inc.",
     1581344662,
     1592254375
+  ],
+  [
+    "cb5073ec39a743458937421b895ded6f",
+    "b2b41af461d94357942f198fb331bb35",
+    "Chronos: Before the Ashes Soundtrack",
+    [
+      "public",
+      "games",
+      "applications"
+    ],
+    "THQ Nordic GmbH",
+    1605104015,
+    1606845239
   ],
   [
     "cb5b4033b9fb4f8499f27d5371bb7521",
@@ -49037,7 +49100,7 @@
     ],
     "Ubisoft Entertainment",
     1560013982,
-    1606756072
+    1606846087
   ],
   [
     "dbdfda37b43b4960aa0ca3a480cf0be9",
@@ -49462,6 +49525,18 @@
     "Tripwire Interactive",
     1584048939,
     1594306679
+  ],
+  [
+    "dd9f9c9246d5420480e71b99a3ace469",
+    "b2b41af461d94357942f198fb331bb35",
+    "DevCapricornAudience",
+    [
+      "audience",
+      "developer"
+    ],
+    "THQ Nordic GmbH",
+    1605103903,
+    1606845301
   ],
   [
     "ddb5e1b17cfb4e1382992810a1f9d62f",

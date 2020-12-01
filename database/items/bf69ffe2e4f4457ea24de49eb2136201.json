@@ -1,0 +1,52 @@
+{
+  "id": "bf69ffe2e4f4457ea24de49eb2136201",
+  "title": "CapricornStaging",
+  "description": "CapricornStaging",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "b2b41af461d94357942f198fb331bb35",
+  "status": "ACTIVE",
+  "creationDate": "2020-11-11T14:11:43.592Z",
+  "lastModifiedDate": "2020-12-01T17:53:59.098Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "CapricornStaging"
+    }
+  },
+  "entitlementName": "bf69ffe2e4f4457ea24de49eb2136201",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "3c458597e9cf4d349ce45efc4831d187",
+      "appId": "5a3dd871d9dc423f9d3bdaf39bcc6a65",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-11-11T14:14:46.819Z"
+    }
+  ],
+  "developer": "THQ Nordic GmbH",
+  "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
