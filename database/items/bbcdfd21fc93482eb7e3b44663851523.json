@@ -1,0 +1,53 @@
+{
+  "id": "bbcdfd21fc93482eb7e3b44663851523",
+  "title": "MtLincolnStaging",
+  "description": "MtLincolnStaging",
+  "keyImages": [],
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a514bb4f67f045e0a80351e8ee64ffec",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-01T22:30:31.404Z",
+  "lastModifiedDate": "2020-12-01T23:11:58.343Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MtLincolnStaging"
+    }
+  },
+  "entitlementName": "bbcdfd21fc93482eb7e3b44663851523",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "d8c16e0540534d598dd1303428a54a46",
+      "appId": "0c23fac38136427cba0c1065ca879a74",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-12-01T23:10:56.613Z"
+    }
+  ],
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

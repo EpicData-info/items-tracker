@@ -1,0 +1,72 @@
+{
+  "id": "9d84101cd23a4ebe8490e575fd88c6a4",
+  "title": "MtLincoln",
+  "description": "MtLincoln",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "a514bb4f67f045e0a80351e8ee64ffec",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-01T22:30:31.043Z",
+  "lastModifiedDate": "2020-12-01T23:11:58.343Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "a514bb4f67f045e0a80351e8ee64ffec"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "MtLincoln"
+    }
+  },
+  "entitlementName": "9d84101cd23a4ebe8490e575fd88c6a4",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "52208b5209954366a0037cdd664ae9b0",
+      "appId": "f2450e9e1114480593dca49ba4a781f0",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2020-12-01T23:10:22.048Z"
+    }
+  ],
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}

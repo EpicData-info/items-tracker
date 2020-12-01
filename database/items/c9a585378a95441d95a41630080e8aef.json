@@ -1,0 +1,34 @@
+{
+  "id": "c9a585378a95441d95a41630080e8aef",
+  "title": "DevMtLincolnAudience",
+  "description": "DevMtLincolnAudience",
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "namespace": "a514bb4f67f045e0a80351e8ee64ffec",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-01T22:30:30.788Z",
+  "lastModifiedDate": "2020-12-01T23:13:22.463Z",
+  "customAttributes": {
+    "SupportedPlatforms": {
+      "type": "STRING",
+      "value": "Windows"
+    }
+  },
+  "entitlementName": "c9a585378a95441d95a41630080e8aef",
+  "entitlementType": "AUDIENCE",
+  "itemType": "DURABLE",
+  "developer": "Headup Gmbh",
+  "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
