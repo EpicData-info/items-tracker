@@ -14,21 +14,21 @@
     },
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/crab/item/1920x1080_blog_post_logo-1920x1080-76293790eea7cac48894e08d72ae6ee5.png",
-      "md5": "76293790eea7cac48894e08d72ae6ee5",
-      "width": 1920,
-      "height": 1080,
-      "size": 2878396,
-      "uploadedDate": "2020-03-12T13:42:39.496Z"
+      "url": "https://cdn1.epicgames.com/crab/item/SatisfactoryFicsmas_Epic_LandscapeAsset_2560x1440-2560x1440-8dd58aabd3d3cd3ccf9d5986398d0a3c.png",
+      "md5": "8dd58aabd3d3cd3ccf9d5986398d0a3c",
+      "width": 2560,
+      "height": 1440,
+      "size": 3201861,
+      "uploadedDate": "2020-12-01T18:53:16.286Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/crab/item/portrait_image_SF3-860x1148-2efdc29df66376ec40c7b5020bf3e3ce.jpg",
-      "md5": "2efdc29df66376ec40c7b5020bf3e3ce",
-      "width": 860,
-      "height": 1148,
-      "size": 390962,
-      "uploadedDate": "2020-03-12T13:43:22.400Z"
+      "url": "https://cdn1.epicgames.com/crab/item/SatisfactoryFicsmas_Epic_PortraitAsset_1200x1600-1200x1600-9bf56aab7826dfad9fdbd543329c1d01.png",
+      "md5": "9bf56aab7826dfad9fdbd543329c1d01",
+      "width": 1200,
+      "height": 1600,
+      "size": 1534769,
+      "uploadedDate": "2020-12-01T18:53:20.119Z"
     }
   ],
   "categories": [
@@ -42,7 +42,7 @@
   "namespace": "crab",
   "status": "ACTIVE",
   "creationDate": "2019-02-26T15:59:56.670Z",
-  "lastModifiedDate": "2020-07-31T17:14:50.903Z",
+  "lastModifiedDate": "2020-12-01T18:53:28.670Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
