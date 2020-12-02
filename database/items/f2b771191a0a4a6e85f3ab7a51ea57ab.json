@@ -36,7 +36,7 @@
   "namespace": "2b352b4aea3849bd9519842dda263ac7",
   "status": "ACTIVE",
   "creationDate": "2020-06-12T17:14:43.427Z",
-  "lastModifiedDate": "2020-12-01T19:36:48.533Z",
+  "lastModifiedDate": "2020-12-02T20:52:34.863Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -64,7 +64,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "CRSED.F.O.A.D."
+      "value": "CRSED"
     }
   },
   "entitlementName": "f2b771191a0a4a6e85f3ab7a51ea57ab",
