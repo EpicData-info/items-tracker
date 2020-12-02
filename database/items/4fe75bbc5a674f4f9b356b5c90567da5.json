@@ -2,17 +2,17 @@
   "id": "4fe75bbc5a674f4f9b356b5c90567da5",
   "title": "Fortnite",
   "description": "Battle. Build. Create. Fortnite is the free, always evolving, multiplayer game where you and your friends battle to be the last one standing or collaborate to create your dream Fortnite world. Play both Battle Royale and Fortnite Creative for FREE.",
-  "longDescription": "**What's New**\nThe War To Save Reality Starts Now! The lore, legends, heroes, and villains from Marvel have arrived in Fortnite. Awaken the hero within and team up with Thor, Iron Man, She-Hulk, Storm, and more in Fortnite: Nexus War!\n\nHaven't tried Fortnite before? Drop into Fortnite Chapter 2 - Season 4 and join the fight!\n\n**Description**\nOn mobile, Fortnite is the same 100-player PvP game you know from PlayStation 4, Xbox One, PC, and Mac. Same map, same gameplay, same weekly updates. Build your fort as you battle to be the last one standing. Jump in and squad up with friends around the world or in the same room!\n\nPowered by Unreal Engine 4.\n\nBUILD & DESTROY - Shape the battlefield by building your own cover. Opponent hiding behind a wall? Take out their cover to get the edge.\n\nGEAR UP - Board the battle bus and drop in on your favorite zone. Gather resources, collect gear, and battle your opponents! Last one standing wins.\n\nSQUAD UP WITH FRIENDS - Team up with your friends around the world or in the same room!\n\nEPIC UPDATES & EVENTS - Weekly updates constantly fuel the fun. New gameplay modes, serious and insane new looks for your avatar, new weapons and items….Fortnite is always expanding.\n\nCONSOLE GAMING ON THE GO - Play the full game anytime, anywhere. Complete quests on the go, progress your Battle Pass, and more.",
+  "longDescription": "**What's New**\nThe hunt is on in Fortnite Chapter 2 - Season 5: Zero Point. \nJoin Agent Jones as he enlists the greatest Hunters across Realities like The Mandalorian to stop others from escaping the loop. Battle for honor in an ancient arena, take on bounties from new characters, and try out new Exotic weapons that pack a punch. \nYour targets are waiting. Join the Hunt!\n\n**Description**\nOn mobile, Fortnite is the same 100-player PvP game you know from PlayStation 4, Xbox One, PC, and Mac. Same map, same gameplay, same weekly updates. Build your fort as you battle to be the last one standing. Jump in and squad up with friends around the world or in the same room!\n\nPowered by Unreal Engine 4.\n\nBUILD & DESTROY - Shape the battlefield by building your own cover. Opponent hiding behind a wall? Take out their cover to get the edge.\n\nGEAR UP - Board the battle bus and drop in on your favorite zone. Gather resources, collect gear, and battle your opponents! Last one standing wins.\n\nSQUAD UP WITH FRIENDS - Team up with your friends around the world or in the same room!\n\nEPIC UPDATES & EVENTS - Weekly updates constantly fuel the fun. New gameplay modes, serious and insane new looks for your avatar, new weapons and items….Fortnite is always expanding.\n\nCONSOLE GAMING ON THE GO - Play the full game anytime, anywhere. Complete quests on the go, progress your Battle Pass, and more.",
   "technicalDetails": "Fortnite requires an internet connection, Android 8.0 or higher, 64 bit, and 4GB of RAM. \n\nNot compatible with Fortnite? You can still download other great games like Battle Breakers on the Epic Games app.",
   "keyImages": [
     {
       "type": "Featured",
-      "url": "https://cdn1.epicgames.com/fn/item/S14_AndroidLauncher_Keyart-800x800-6b78dcb5753a955fe23be2a653f5353b.jpg",
-      "md5": "6b78dcb5753a955fe23be2a653f5353b",
+      "url": "https://cdn1.epicgames.com/fn/item/S15_AndroidLauncher_Keyart-800x800-d05b1e3b4e6134f10e0fa3b05d56ab12.jpg",
+      "md5": "d05b1e3b4e6134f10e0fa3b05d56ab12",
       "width": 800,
       "height": 800,
-      "size": 295672,
-      "uploadedDate": "2020-08-27T06:49:06.292Z"
+      "size": 281481,
+      "uploadedDate": "2020-12-02T02:58:39.917Z"
     },
     {
       "type": "AndroidIcon",
@@ -25,48 +25,21 @@
     },
     {
       "type": "Screenshot",
-      "url": "https://cdn1.epicgames.com/fn/item/EN_14BR_Screenshots_In-Game_MarvelHeroes-1242x2688-c95f462c347676c1e358a0775e85eab5.jpg",
-      "md5": "c95f462c347676c1e358a0775e85eab5",
+      "url": "https://cdn1.epicgames.com/fn/item/EN_15BR_Screenshots_In-Game_BattlePass-1242x2688-29828be5321f15e38b15d18bf58fbe02.jpg",
+      "md5": "29828be5321f15e38b15d18bf58fbe02",
       "width": 1242,
       "height": 2688,
-      "size": 1803207,
-      "uploadedDate": "2020-08-28T14:27:55.551Z"
+      "size": 1826234,
+      "uploadedDate": "2020-12-02T02:59:28.696Z"
     },
     {
       "type": "Screenshot",
-      "url": "https://cdn1.epicgames.com/fn/item/EN_14BR_Screenshots_In-Game_DiscoverAbilities-1242x2688-40a85cd8942c7644c4708da30062f177.jpg",
-      "md5": "40a85cd8942c7644c4708da30062f177",
+      "url": "https://cdn1.epicgames.com/fn/item/EN_15BR_Screenshots_In-Game_PerfectYourStrategy-1242x2688-30b0cefe139538aeeb1b1ec38a1bdbee.jpg",
+      "md5": "30b0cefe139538aeeb1b1ec38a1bdbee",
       "width": 1242,
       "height": 2688,
-      "size": 1800361,
-      "uploadedDate": "2020-08-28T14:28:09.003Z"
-    },
-    {
-      "type": "Screenshot",
-      "url": "https://cdn1.epicgames.com/fn/item/EN_14BR_Screenshots_In-Game_BattlePass-1242x2688-d1c61839d4a1716c13de6a059fb38c7b.jpg",
-      "md5": "d1c61839d4a1716c13de6a059fb38c7b",
-      "width": 1242,
-      "height": 2688,
-      "size": 1218523,
-      "uploadedDate": "2020-08-28T14:28:25.387Z"
-    },
-    {
-      "type": "Screenshot",
-      "url": "https://cdn1.epicgames.com/fn/item/EN_14BR_Screenshots_In-Game_AssembleAndDropIn-1242x2688-8c185c2557774e46b9a4b647c085da68.jpg",
-      "md5": "8c185c2557774e46b9a4b647c085da68",
-      "width": 1242,
-      "height": 2688,
-      "size": 1541813,
-      "uploadedDate": "2020-08-28T14:28:35.572Z"
-    },
-    {
-      "type": "Screenshot",
-      "url": "https://cdn1.epicgames.com/fn/item/EN_13BR_Android_Screenshots_Android_Perfect-1242x2688-36a3d52eff223ddd2289c68acfbe1aae.jpg",
-      "md5": "36a3d52eff223ddd2289c68acfbe1aae",
-      "width": 1242,
-      "height": 2688,
-      "size": 1156895,
-      "uploadedDate": "2020-08-28T14:30:04.635Z"
+      "size": 1698157,
+      "uploadedDate": "2020-12-02T02:59:50.235Z"
     },
     {
       "type": "Screenshot",
@@ -87,22 +60,22 @@
       "uploadedDate": "2020-08-28T14:30:18.166Z"
     },
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/fn/item/FN_Wide-2560x1440-051f34e4a0536fdd01ba728521b6afae.jpg",
-      "md5": "051f34e4a0536fdd01ba728521b6afae",
-      "width": 2560,
-      "height": 1440,
-      "size": 2320983,
-      "uploadedDate": "2020-11-03T14:07:08.104Z"
-    },
-    {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/fn/item/FN_Tall-1200x1600-d31d390c22d23717659df2b807342d25.jpg",
-      "md5": "d31d390c22d23717659df2b807342d25",
+      "url": "https://cdn1.epicgames.com/fn/item/15BR_BPLaunch_EGS_S2_1200x1600-1200x1600-3e1ae198f6277d3a99e797e726a83491.jpg",
+      "md5": "3e1ae198f6277d3a99e797e726a83491",
       "width": 1200,
       "height": 1600,
-      "size": 1195283,
-      "uploadedDate": "2020-11-03T14:07:26.580Z"
+      "size": 619448,
+      "uploadedDate": "2020-12-02T03:07:15.975Z"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/fn/item/15BR_BPLaunch_EGS_S1_2560x1440-2560x1440-0e0c8d14d7410423275fa714acfaf41e.jpg",
+      "md5": "0e0c8d14d7410423275fa714acfaf41e",
+      "width": 2560,
+      "height": 1440,
+      "size": 1030704,
+      "uploadedDate": "2020-12-02T03:07:33.118Z"
     }
   ],
   "categories": [
@@ -116,7 +89,7 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2014-09-12T15:20:06.103Z",
-  "lastModifiedDate": "2020-11-03T14:10:15.921Z",
+  "lastModifiedDate": "2020-12-02T05:38:15.048Z",
   "customAttributes": {
     "com.epicgames.portal.product.privacyPolicyUrl": {
       "type": "STRING",
