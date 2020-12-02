@@ -15,7 +15,7 @@
   "namespace": "iris",
   "status": "ACTIVE",
   "creationDate": "2019-11-01T21:09:01.940Z",
-  "lastModifiedDate": "2019-12-03T17:59:26.384Z",
+  "lastModifiedDate": "2020-12-02T16:37:40.189Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -32,6 +32,6 @@
     "egstore"
   ],
   "endOfSupport": false,
-  "selfRefundable": false,
+  "ageGatings": {},
   "unsearchable": false
 }

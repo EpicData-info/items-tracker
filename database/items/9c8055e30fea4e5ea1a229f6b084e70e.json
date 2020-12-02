@@ -43,7 +43,7 @@
   "namespace": "iris",
   "status": "ACTIVE",
   "creationDate": "2019-11-01T21:53:36.296Z",
-  "lastModifiedDate": "2019-12-03T17:59:14.038Z",
+  "lastModifiedDate": "2020-12-02T16:37:40.189Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -77,5 +77,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }
