@@ -51,7 +51,7 @@
   "namespace": "iris",
   "status": "ACTIVE",
   "creationDate": "2019-11-04T14:13:47.205Z",
-  "lastModifiedDate": "2020-12-02T16:37:40.189Z",
+  "lastModifiedDate": "2020-12-02T18:31:34.340Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
