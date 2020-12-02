@@ -16,7 +16,7 @@
   "namespace": "78473822f724474d8e436f6bde735623",
   "status": "ACTIVE",
   "creationDate": "2020-06-30T00:23:03.972Z",
-  "lastModifiedDate": "2020-12-01T23:33:26.531Z",
+  "lastModifiedDate": "2020-12-01T23:55:49.755Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -24,7 +24,7 @@
     },
     "CloudSaveFolder": {
       "type": "STRING",
-      "value": "{UserDir}/CaveStoryPlus/"
+      "value": "{InstallDir}/"
     },
     "CloudIncludeList": {
       "type": "STRING",
