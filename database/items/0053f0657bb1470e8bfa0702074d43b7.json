@@ -1,7 +1,7 @@
 {
   "id": "0053f0657bb1470e8bfa0702074d43b7",
-  "title": "PheasantUltimatePack",
-  "description": "PheasantUltimatePack",
+  "title": "Ultimate Hero's Pack",
+  "description": "Ultimate Hero's Pack",
   "technicalDetails": "Granted if you must call Partner Integration to redeem season pass separately from the game. Not necessary if the edition you buy already includes it",
   "keyImages": [],
   "categories": [
@@ -18,7 +18,7 @@
   "namespace": "4b35838425c74992ad42e1276b2161ca",
   "status": "ACTIVE",
   "creationDate": "2019-06-08T17:42:51.370Z",
-  "lastModifiedDate": "2020-11-25T19:44:19.905Z",
+  "lastModifiedDate": "2020-12-03T15:58:52.509Z",
   "customAttributes": {
     "parentPartnerLinkId": {
       "type": "STRING",
