@@ -13,7 +13,7 @@
   "namespace": "131e306949034972959ca401ca27837e",
   "status": "ACTIVE",
   "creationDate": "2020-10-06T21:22:48.456Z",
-  "lastModifiedDate": "2020-10-06T22:21:42.629Z",
+  "lastModifiedDate": "2020-12-04T00:13:49.386Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -29,6 +29,7 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "requiresSecureAccount": false,
   "unsearchable": false
 }
