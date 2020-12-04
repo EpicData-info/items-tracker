@@ -17,9 +17,13 @@
   "namespace": "94a50905f377470c84c8e4b7c38f9cdd",
   "status": "ACTIVE",
   "creationDate": "2020-09-08T14:31:24.220Z",
-  "lastModifiedDate": "2020-12-04T16:59:19.479Z",
+  "lastModifiedDate": "2020-12-04T18:44:59.473Z",
   "customAttributes": {
     "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "OwnershipToken": {
       "type": "STRING",
       "value": "true"
     },
