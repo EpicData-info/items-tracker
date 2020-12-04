@@ -16,7 +16,7 @@
   "namespace": "94a50905f377470c84c8e4b7c38f9cdd",
   "status": "ACTIVE",
   "creationDate": "2020-08-12T19:10:19.693Z",
-  "lastModifiedDate": "2020-11-23T16:30:54.703Z",
+  "lastModifiedDate": "2020-12-04T16:35:26.085Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -25,10 +25,6 @@
     "CloudSaveFolder": {
       "type": "STRING",
       "value": "{UserSavedGames}/DRAGON QUEST XI S/Epic Games Store/{EpicID}/Saved/SaveGames/"
-    },
-    "OwnershipToken": {
-      "type": "STRING",
-      "value": "true"
     },
     "FolderName": {
       "type": "STRING",

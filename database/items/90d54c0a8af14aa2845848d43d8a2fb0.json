@@ -13,7 +13,7 @@
   "namespace": "94a50905f377470c84c8e4b7c38f9cdd",
   "status": "ACTIVE",
   "creationDate": "2020-08-12T19:10:19.588Z",
-  "lastModifiedDate": "2020-11-23T16:30:33.523Z",
+  "lastModifiedDate": "2020-12-04T16:35:26.092Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -26,10 +26,9 @@
   "developer": "Square Enix Japan",
   "developerId": "o-xbmhhs32ajtuszar863dprgnwtvedk",
   "eulaIds": [
-    "(egstore && DragonQuest)"
+    "egstore"
   ],
   "endOfSupport": false,
-  "ageGatings": {},
   "requiresSecureAccount": false,
   "unsearchable": false
 }
