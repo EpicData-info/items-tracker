@@ -13,7 +13,7 @@
   "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
   "status": "ACTIVE",
   "creationDate": "2020-11-04T19:44:31.885Z",
-  "lastModifiedDate": "2020-11-04T21:59:51.931Z",
+  "lastModifiedDate": "2020-12-07T22:39:27.849Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -22,9 +22,10 @@
   },
   "entitlementName": "7038be59753244629bb6336cf937a8f0",
   "entitlementType": "AUDIENCE",
-  "itemType": "DURABLE",
+  "itemType": "CONSUMABLE",
   "developer": "Bethesda Softworks LLC",
   "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+  "useCount": 1,
   "eulaIds": [
     "egstore"
   ],
