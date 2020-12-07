@@ -51,7 +51,7 @@
   "namespace": "lotus",
   "status": "ACTIVE",
   "creationDate": "2019-02-01T00:38:07.001Z",
-  "lastModifiedDate": "2019-11-21T16:17:26.566Z",
+  "lastModifiedDate": "2020-12-07T23:00:19.739Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -61,13 +61,25 @@
       "type": "STRING",
       "value": "lotus"
     },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/unity.Klei.Oxygen Not Included/cloud_save_files/{EpicID}/"
+    },
     "MonitorPresence": {
       "type": "STRING",
       "value": "true"
     },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Klei/OxygenNotIncluded/cloud_save_files/{EpicID}/"
+    },
     "RequirementsJson": {
       "type": "STRING",
       "value": "{}"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "1000"
     },
     "FolderName": {
       "type": "STRING",
@@ -97,6 +109,7 @@
     "(egstore && lotus)"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "selfRefundable": true,
   "unsearchable": false
 }
