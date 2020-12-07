@@ -16,11 +16,19 @@
   "namespace": "77f2b98e2cef40c8a7437518bf420e47",
   "status": "ACTIVE",
   "creationDate": "2019-06-07T19:03:29.303Z",
-  "lastModifiedDate": "2020-12-02T00:43:10.520Z",
+  "lastModifiedDate": "2020-12-07T15:09:44.576Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserSavedGames}/CD Projekt Red/Cyberpunk 2077/"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "2000"
     },
     "FolderName": {
       "type": "STRING",
