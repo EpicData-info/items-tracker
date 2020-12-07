@@ -1,8 +1,36 @@
 {
   "id": "5beededaad9743df90e8f07d92df153f",
-  "title": "Cyberpunk 2077",
-  "description": "Cyberpunk 2077",
-  "keyImages": [],
+  "title": "Cyberpunk 2077 Pre-load",
+  "description": "Cyberpunk 2077 Pre-load",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/item/Diesel_product_ginger_home_EGS_CDPROJEKTRED_CYBERPUNK2077_S2_DESCRIPTION-2560x1440-8411578303f60188c29f79cdbabcbca938bea5a6-2560x1440-91b7c4749a6d55e56e24bc22166092cb-2560x1440-91b7c4749a6d55e56e24bc22166092cb.jpg",
+      "md5": "91b7c4749a6d55e56e24bc22166092cb",
+      "width": 2560,
+      "height": 1440,
+      "size": 214982,
+      "uploadedDate": "2020-12-07T15:56:49.198Z"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/item/Diesel_product_ginger_home_EGS_CDPROJEKTRED_CYBERPUNK2077_IC1_MAINLOGO-EN-1920x473-86738e995fb8493ddfc36a83d95d3db3-1920x473-86738e995fb8493ddfc36a83d95d3db3.png",
+      "md5": "86738e995fb8493ddfc36a83d95d3db3",
+      "width": 1920,
+      "height": 473,
+      "size": 248751,
+      "uploadedDate": "2020-12-07T15:57:03.367Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/item/EGS_CDPROJEKTRED_CYBERPUNK2077_S3_DESCRIPTION-1280x1440-58949bccc0886694cf24d8c0f153d250-1280x1440-58949bccc0886694cf24d8c0f153d250.jpg",
+      "md5": "58949bccc0886694cf24d8c0f153d250",
+      "width": 1280,
+      "height": 1440,
+      "size": 161300,
+      "uploadedDate": "2020-12-07T15:57:24.274Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -17,7 +45,7 @@
   "namespace": "77f2b98e2cef40c8a7437518bf420e47",
   "status": "ACTIVE",
   "creationDate": "2019-06-07T19:03:29.226Z",
-  "lastModifiedDate": "2020-12-07T15:43:45.869Z",
+  "lastModifiedDate": "2020-12-07T16:49:12.730Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -58,13 +86,13 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-12-07T15:43:43.102Z"
+      "dateAdded": "2020-12-07T00:00:00.000Z"
     }
   ],
   "developer": "CD PROJEKT RED",
   "developerId": "o-x2vdjaf7cfakvlsgz8qf2gx8bkplcc",
   "eulaIds": [
-    "egstore"
+    "(egstore && cp2077)"
   ],
   "endOfSupport": false,
   "ageGatings": {},
