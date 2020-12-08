@@ -4,22 +4,22 @@
   "description": "Zombie Army 4: Mission 5 – Alpine Blitz",
   "keyImages": [
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/Diesel_productv2_zombie-army-4-dead-war_home_EGS_REBELLION_ZOMBIEARMY4_EDITIONCAPSULE_STANDARDEDITION-900x450-d9c7708b9ce7262d605151d696ae85a1ca513d20-900x450-3228a9f6390e741fc297097869bf1cec.png",
-      "md5": "3228a9f6390e741fc297097869bf1cec",
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_Alpine_BLitz-900x450-724f4df30e491c61dd22b637f0807da9.png",
+      "md5": "724f4df30e491c61dd22b637f0807da9",
       "width": 900,
       "height": 450,
-      "size": 207086,
-      "uploadedDate": "2020-02-03T19:14:39.467Z"
+      "size": 721640,
+      "uploadedDate": "2020-12-08T18:40:56.183Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg",
-      "md5": "3102dff3377403c09f5bd5c9e43a3ad3",
-      "width": 330,
-      "height": 440,
-      "size": 85825,
-      "uploadedDate": "2020-02-03T19:15:03.788Z"
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/EGS_REBELLION_ZOMBIEARMY4_Alpine_BLitz_REDEMPTIONIMAGE-860x1180-bac11e80702bd088ac83d62c17f5133d.png",
+      "md5": "bac11e80702bd088ac83d62c17f5133d",
+      "width": 860,
+      "height": 1180,
+      "size": 1495629,
+      "uploadedDate": "2020-12-08T18:41:08.467Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "dfd2530e80e4425d801913b0879be444",
   "status": "ACTIVE",
   "creationDate": "2020-05-22T18:16:12.266Z",
-  "lastModifiedDate": "2020-12-08T17:44:48.112Z",
+  "lastModifiedDate": "2020-12-08T18:41:14.018Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
