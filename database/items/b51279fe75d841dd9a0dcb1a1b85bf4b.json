@@ -4,22 +4,22 @@
   "description": "Killing Floor 2",
   "keyImages": [
     {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/item/KF2_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
-      "md5": "3871a312bd2800d12a24e3498b1018c8",
-      "width": 860,
-      "height": 1148,
-      "size": 673242,
-      "uploadedDate": "2020-07-07T18:29:23.729Z"
-    },
-    {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/item/KF2_2560x1440-2560x1440-644173a0251b030bd2612e8f33b800d5.jpg",
-      "md5": "644173a0251b030bd2612e8f33b800d5",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/item/90b8f192-82e6-4834-a7d0-c74f5107e9a1-2560x1440-1aa15cc6f3effa67a72ff3c5146df13b.jpg",
+      "md5": "1aa15cc6f3effa67a72ff3c5146df13b",
       "width": 2560,
       "height": 1440,
-      "size": 2243509,
-      "uploadedDate": "2020-07-07T18:29:38.656Z"
+      "size": 905979,
+      "uploadedDate": "2020-12-08T18:16:27.571Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/item/3b37afec-d8ed-4e19-a798-df1f0c64ad93-1200x1600-5d43dd3194e3375605c6ab99ce3dacf7.jpg",
+      "md5": "5d43dd3194e3375605c6ab99ce3dacf7",
+      "width": 1200,
+      "height": 1600,
+      "size": 573794,
+      "uploadedDate": "2020-12-08T18:16:47.660Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "affc33b82405457595a032f00284abd2",
   "status": "ACTIVE",
   "creationDate": "2019-08-17T00:08:56.681Z",
-  "lastModifiedDate": "2020-09-16T21:34:31.608Z",
+  "lastModifiedDate": "2020-12-08T18:16:53.399Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
