@@ -16,11 +16,23 @@
   "namespace": "9c39a79dfeb84f98a4bd7c1cac1e4bb3",
   "status": "ACTIVE",
   "creationDate": "2020-11-10T20:37:41.846Z",
-  "lastModifiedDate": "2020-12-04T17:04:31.898Z",
+  "lastModifiedDate": "2020-12-09T20:47:22.365Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder_MAC": {
+      "type": "STRING",
+      "value": "{UserLibrary}/Application Support/Nerial/Animal Farm/"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Nerial/Animal Farm/"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.dat"
     },
     "FolderName": {
       "type": "STRING",
