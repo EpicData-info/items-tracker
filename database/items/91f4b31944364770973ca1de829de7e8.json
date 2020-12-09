@@ -16,7 +16,7 @@
   "namespace": "df37f065c3f14eadbf011177396e2966",
   "status": "ACTIVE",
   "creationDate": "2020-10-26T20:56:56.779Z",
-  "lastModifiedDate": "2020-11-17T20:02:03.959Z",
+  "lastModifiedDate": "2020-12-09T15:09:53.769Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -29,6 +29,10 @@
     "MonitorPresence": {
       "type": "STRING",
       "value": "false"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/The Creative Assembly/Alien Isolation/"
     },
     "UseAccessControl": {
       "type": "STRING",
