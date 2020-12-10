@@ -24,7 +24,7 @@
   "namespace": "77f2b98e2cef40c8a7437518bf420e47",
   "status": "ACTIVE",
   "creationDate": "2019-06-07T19:03:29.123Z",
-  "lastModifiedDate": "2020-12-09T23:55:33.305Z",
+  "lastModifiedDate": "2020-12-10T01:10:34.084Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -41,6 +41,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "applicationId": "fghi4567IPhGxMKkLZjwrBzdjtpJgMbv",
+  "applicationId": "",
   "unsearchable": false
 }
