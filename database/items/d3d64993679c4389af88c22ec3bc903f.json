@@ -45,7 +45,7 @@
   "namespace": "77f2b98e2cef40c8a7437518bf420e47",
   "status": "ACTIVE",
   "creationDate": "2019-06-13T20:32:43.443Z",
-  "lastModifiedDate": "2020-12-07T16:49:17.319Z",
+  "lastModifiedDate": "2020-12-09T23:54:35.488Z",
   "customAttributes": {
     "availableDate": {
       "type": "STRING",
@@ -72,7 +72,6 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "selfRefundable": true,
   "applicationId": "fghi4567ay5jIOq6Vy3yzQe8RNUYiURd",
   "unsearchable": false
 }

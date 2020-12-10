@@ -24,7 +24,7 @@
   "namespace": "77f2b98e2cef40c8a7437518bf420e47",
   "status": "ACTIVE",
   "creationDate": "2019-06-13T20:31:32.926Z",
-  "lastModifiedDate": "2020-11-11T21:13:06.532Z",
+  "lastModifiedDate": "2020-12-09T23:55:33.305Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",
@@ -41,6 +41,5 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
-  "selfRefundable": true,
   "unsearchable": false
 }
